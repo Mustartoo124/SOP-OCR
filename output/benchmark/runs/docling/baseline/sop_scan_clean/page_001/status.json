@@ -1,0 +1,12 @@
+{
+  "engine": "docling",
+  "pdf": "sop_scan_clean.pdf",
+  "pdf_sha256": "8949ba7d87671613df7e2cc072fad1026d66ca872da9c464e114b214501b839b",
+  "page_number": 1,
+  "fingerprint": "98a5e78d4cf2e331d3f47c6de9d84e666cf340f168e6abff73068571fb61501f",
+  "state": "success",
+  "seconds": 12.923502400051802,
+  "peak_rss_bytes": 2148294656,
+  "block_count": 18,
+  "table_count": 0
+}

@@ -1,0 +1,539 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "#/texts/0",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        41.333333333333336,
+        40.333303841145835,
+        81.33333333333334,
+        54.333303841145835
+      ],
+      "text": "NOVA",
+      "parent_ref": "#/pictures/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/1",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        103.33333333333333,
+        27.666637174479092,
+        265.66666666666663,
+        41.66663717447909
+      ],
+      "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        103.66666666666667,
+        43.0438711247956,
+        327.3333333333333,
+        72.99997050781246
+      ],
+      "text": "Hệ quản lý chất Iượng / Quality Management System OP-74-02 Phiên bản 03 Ngày hỉệu lực: 15/10/2026 thông '",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/3",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        36.0,
+        97.33330384114583,
+        276.66666666666663,
+        115.99997050781246
+      ],
+      "text": "QUY TRÌNH KIỂM SOÁT THIÉT BI",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/4",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        36.666666666666664,
+        142.6666371744791,
+        158.66666666666666,
+        159.33330384114583
+      ],
+      "text": "1. Mục đích / Purpose",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/5",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        37.0,
+        167.99997050781246,
+        548.6666666666666,
+        197.33330384114583
+      ],
+      "text": "Bảo đảm thiết bị được kiểm hiệu chuẩn và ghi nhận trước khi sử dụng. Áp dụng cho bộ phận Sản xuất và Đảm bảo chất Iượng (QA). tra,",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/6",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        37.0,
+        226.33330384114583,
+        120.33333333333333,
+        239.6666371744791
+      ],
+      "text": "2. Trách nhiệm",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/7",
+      "type": "text",
+      "label": "list_item",
+      "bbox": [
+        48.33333333333333,
+        252.99997050781246,
+        357.0,
+        267.33330384114583
+      ],
+      "text": "1 Nhân viên kiểm mã thiết bị QC-017 và tình trạng tem hiệu chuẩn. tra",
+      "parent_ref": "#/groups/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/8",
+      "type": "text",
+      "label": "list_item",
+      "bbox": [
+        46.33333333333333,
+        283.6666371744791,
+        334.0,
+        297.99997050781246
+      ],
+      "text": "Trưởng bộ phận xác nhận kết quả theo biểu mẫu QP-74-02-F6",
+      "parent_ref": "#/groups/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/9",
+      "type": "text",
+      "label": "list_item",
+      "bbox": [
+        47.66666666666667,
+        316.33330384114583,
+        54.33333333333333,
+        324.99997050781246
+      ],
+      "text": "3",
+      "parent_ref": "#/groups/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/10",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        37.0,
+        367.66663717447915,
+        158.66666666666666,
+        381.99997050781246
+      ],
+      "text": "3. Acceptance criteria",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/11",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        36.333333333333336,
+        392.66663717447915,
+        554.0,
+        420.99997050781246
+      ],
+      "text": "Temperature: 20-25 C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing the equipment:",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/12",
+      "type": "text",
+      "label": "caption",
+      "bbox": [
+        117.66666666666667,
+        677.9999705078125,
+        298.0,
+        690.9999705078125
+      ],
+      "text": "Hinh 1. Minh họa thiết bị và nhãn nhận dạng",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/13",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        149.66666666666666,
+        519.3333038411458,
+        214.33333333333334,
+        540.6666371744791
+      ],
+      "text": "24.8 €",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/14",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        299.33333333333337,
+        512.9999705078125,
+        397.3333333333333,
+        600.3333038411458
+      ],
+      "text": "QC-017 THIÉT BỊ MẪU 1/1",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/15",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        36.333333333333336,
+        728.3333038411458,
+        307.0,
+        741.9999705078125
+      ],
+      "text": "Lưu ý: Bản sao không có chữ ký phê duyệt chỉ dùng để tham khảo.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/16",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        36.666666666666664,
+        793.6666371744791,
+        213.33333333333334,
+        804.3333038411458
+      ],
+      "text": "TẢl LIEU GIẢ LAP Chỉ dung kiểm thử trích xuẩt",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/17",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        498.6666666666667,
+        793.9999705078125,
+        536.6666666666666,
+        804.9999705078125
+      ],
+      "text": "Trang 1/4",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/pictures/0",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        36.20647765480656,
+        25.46110956379073,
+        93.42032721300573,
+        68.62645510537334
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/0"
+      ]
+    },
+    {
+      "id": "#/pictures/1",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        94.9348034985075,
+        460.37052649787665,
+        501.1184527597722,
+        664.3849290081396
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/12",
+        "#/texts/13",
+        "#/texts/14"
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        41.333333333333336,
+        40.333303841145835,
+        81.33333333333334,
+        54.333303841145835
+      ],
+      "text": "NOVA",
+      "source_ref": "#/texts/0"
+    },
+    {
+      "bbox": [
+        103.33333333333333,
+        27.666637174479092,
+        265.66666666666663,
+        41.66663717447909
+      ],
+      "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+      "source_ref": "#/texts/1"
+    },
+    {
+      "bbox": [
+        103.66666666666667,
+        43.0438711247956,
+        327.3333333333333,
+        72.99997050781246
+      ],
+      "text": "Hệ quản lý chất Iượng / Quality Management System OP-74-02 Phiên bản 03 Ngày hỉệu lực: 15/10/2026 thông '",
+      "source_ref": "#/texts/2"
+    },
+    {
+      "bbox": [
+        36.0,
+        97.33330384114583,
+        276.66666666666663,
+        115.99997050781246
+      ],
+      "text": "QUY TRÌNH KIỂM SOÁT THIÉT BI",
+      "source_ref": "#/texts/3"
+    },
+    {
+      "bbox": [
+        36.666666666666664,
+        142.6666371744791,
+        158.66666666666666,
+        159.33330384114583
+      ],
+      "text": "1. Mục đích / Purpose",
+      "source_ref": "#/texts/4"
+    },
+    {
+      "bbox": [
+        37.0,
+        167.99997050781246,
+        548.6666666666666,
+        197.33330384114583
+      ],
+      "text": "Bảo đảm thiết bị được kiểm hiệu chuẩn và ghi nhận trước khi sử dụng. Áp dụng cho bộ phận Sản xuất và Đảm bảo chất Iượng (QA). tra,",
+      "source_ref": "#/texts/5"
+    },
+    {
+      "bbox": [
+        37.0,
+        226.33330384114583,
+        120.33333333333333,
+        239.6666371744791
+      ],
+      "text": "2. Trách nhiệm",
+      "source_ref": "#/texts/6"
+    },
+    {
+      "bbox": [
+        48.33333333333333,
+        252.99997050781246,
+        357.0,
+        267.33330384114583
+      ],
+      "text": "1 Nhân viên kiểm mã thiết bị QC-017 và tình trạng tem hiệu chuẩn. tra",
+      "source_ref": "#/texts/7"
+    },
+    {
+      "bbox": [
+        46.33333333333333,
+        283.6666371744791,
+        334.0,
+        297.99997050781246
+      ],
+      "text": "Trưởng bộ phận xác nhận kết quả theo biểu mẫu QP-74-02-F6",
+      "source_ref": "#/texts/8"
+    },
+    {
+      "bbox": [
+        47.66666666666667,
+        316.33330384114583,
+        54.33333333333333,
+        324.99997050781246
+      ],
+      "text": "3",
+      "source_ref": "#/texts/9"
+    },
+    {
+      "bbox": [
+        37.0,
+        367.66663717447915,
+        158.66666666666666,
+        381.99997050781246
+      ],
+      "text": "3. Acceptance criteria",
+      "source_ref": "#/texts/10"
+    },
+    {
+      "bbox": [
+        36.333333333333336,
+        392.66663717447915,
+        554.0,
+        420.99997050781246
+      ],
+      "text": "Temperature: 20-25 C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing the equipment:",
+      "source_ref": "#/texts/11"
+    },
+    {
+      "bbox": [
+        117.66666666666667,
+        677.9999705078125,
+        298.0,
+        690.9999705078125
+      ],
+      "text": "Hinh 1. Minh họa thiết bị và nhãn nhận dạng",
+      "source_ref": "#/texts/12"
+    },
+    {
+      "bbox": [
+        149.66666666666666,
+        519.3333038411458,
+        214.33333333333334,
+        540.6666371744791
+      ],
+      "text": "24.8 €",
+      "source_ref": "#/texts/13"
+    },
+    {
+      "bbox": [
+        299.33333333333337,
+        512.9999705078125,
+        397.3333333333333,
+        600.3333038411458
+      ],
+      "text": "QC-017 THIÉT BỊ MẪU 1/1",
+      "source_ref": "#/texts/14"
+    },
+    {
+      "bbox": [
+        36.333333333333336,
+        728.3333038411458,
+        307.0,
+        741.9999705078125
+      ],
+      "text": "Lưu ý: Bản sao không có chữ ký phê duyệt chỉ dùng để tham khảo.",
+      "source_ref": "#/texts/15"
+    },
+    {
+      "bbox": [
+        36.666666666666664,
+        793.6666371744791,
+        213.33333333333334,
+        804.3333038411458
+      ],
+      "text": "TẢl LIEU GIẢ LAP Chỉ dung kiểm thử trích xuẩt",
+      "source_ref": "#/texts/16"
+    },
+    {
+      "bbox": [
+        498.6666666666667,
+        793.9999705078125,
+        536.6666666666666,
+        804.9999705078125
+      ],
+      "text": "Trang 1/4",
+      "source_ref": "#/texts/17"
+    }
+  ],
+  "tables": [],
+  "containers": [
+    {
+      "id": "#/groups/0",
+      "type": "container",
+      "label": "key_value_area",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/groups/1",
+      "type": "container",
+      "label": "list",
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/7",
+        "#/texts/8",
+        "#/texts/9"
+      ]
+    }
+  ],
+  "status": "ConversionStatus.SUCCESS",
+  "errors": [],
+  "runtime_warnings": [
+    "`force_full_page_ocr` is deprecated; set `mode=OcrMode.FULL_PAGE` instead.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used."
+  ],
+  "engine": "docling",
+  "page_number": 1,
+  "pdf": "sop_scan_degraded.pdf",
+  "pdf_sha256": "76f623b06e718646e61e9699fb74d9b661c3706e684ff6278f8e15f40eba03b2",
+  "coordinate_system": "pdf_points_top_left_unrotated"
+}

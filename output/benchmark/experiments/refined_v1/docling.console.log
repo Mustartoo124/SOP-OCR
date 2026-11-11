@@ -1,0 +1,35 @@
+D:\github\SOP-OCR\.venv-docling\Lib\site-packages\torch\ao\nn\quantized\dynamic\modules\rnn.py:162: UserWarning: torch.quantize_per_tensor, torch.quantize_per_channel and other quantized tensor creation functions that produce tensors with dtype torch.quint8, torch.qint8, and torch.qint32 are deprecated and will be removed in a future PyTorch release. Please see https://github.com/pytorch/pytorch/issues/184982 for more information. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\aten\src\ATen\quantized\Quantizer.cpp:116.)
+  w_ih = torch.quantize_per_tensor(
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights:  26%|██▌       | 202/770 [00:00<00:00, 1655.60it/s]Loading weights:  48%|████▊     | 368/770 [00:00<00:00, 1435.10it/s]Loading weights:  72%|███████▏  | 555/770 [00:00<00:00, 1574.64it/s]Loading weights: 100%|██████████| 770/770 [00:00<00:00, 1860.31it/s]
+RUN docling sop_digital p1
+OK docling sop_digital p1: 14.8s, 18 blocks, 0 tables
+RUN docling sop_digital p2
+OK docling sop_digital p2: 36.6s, 10 blocks, 1 tables
+RUN docling sop_digital p3
+OK docling sop_digital p3: 32.0s, 11 blocks, 1 tables
+RUN docling sop_digital p4
+OK docling sop_digital p4: 15.3s, 15 blocks, 1 tables
+RUN docling sop_scan_clean p1
+OK docling sop_scan_clean p1: 15.8s, 16 blocks, 0 tables
+RUN docling sop_scan_clean p2
+OK docling sop_scan_clean p2: 23.4s, 9 blocks, 1 tables
+RUN docling sop_scan_clean p3
+OK docling sop_scan_clean p3: 19.6s, 10 blocks, 1 tables
+RUN docling sop_scan_clean p4
+OK docling sop_scan_clean p4: 18.4s, 14 blocks, 1 tables
+RUN docling sop_scan_degraded p1
+OK docling sop_scan_degraded p1: 16.1s, 17 blocks, 0 tables
+RUN docling sop_scan_degraded p2
+OK docling sop_scan_degraded p2: 22.9s, 10 blocks, 1 tables
+RUN docling sop_scan_degraded p3
+OK docling sop_scan_degraded p3: 20.1s, 10 blocks, 1 tables
+RUN docling sop_scan_degraded p4
+OK docling sop_scan_degraded p4: 18.5s, 14 blocks, 1 tables
+RUN docling sop_hybrid p1
+OK docling sop_hybrid p1: 6.9s, 18 blocks, 0 tables
+RUN docling sop_hybrid p2
+OK docling sop_hybrid p2: 22.6s, 9 blocks, 1 tables
+RUN docling sop_hybrid p3
+OK docling sop_hybrid p3: 15.5s, 11 blocks, 1 tables
+RUN docling sop_hybrid p4
+OK docling sop_hybrid p4: 14.3s, 15 blocks, 1 tables

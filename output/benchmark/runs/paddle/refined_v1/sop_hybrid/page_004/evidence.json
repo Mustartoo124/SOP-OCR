@@ -1,0 +1,4273 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "block_0",
+      "type": "text",
+      "label": "header",
+      "bbox": [
+        37.069760637387105,
+        24.83556826209451,
+        91.77465012168653,
+        67.66792511990968
+      ],
+      "text": "NOVA",
+      "parent_ref": null,
+      "child_refs": [],
+      "text_method": "native_geometry_recovery"
+    },
+    {
+      "id": "block_1",
+      "type": "text",
+      "label": "header",
+      "bbox": [
+        102.9315683717739,
+        27.71505443740982,
+        325.3501321960966,
+        69.82753975139616
+      ],
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA\nHệ thống quản lý chất lượng / Quality Management System\nQP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "parent_ref": null,
+      "child_refs": [],
+      "text_method": "native_geometry_recovery"
+    },
+    {
+      "id": "block_2",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        35.990058871249616,
+        97.9025299607204,
+        312.3937110024467,
+        112.65989660921134
+      ],
+      "text": "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+      "parent_ref": null,
+      "child_refs": [],
+      "text_method": "native_geometry_recovery"
+    },
+    {
+      "id": "block_3",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        35.630158282537124,
+        136.77559332747703,
+        378.9753199142585,
+        146.8537949410806
+      ],
+      "text": "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+      "parent_ref": null,
+      "child_refs": [],
+      "text_method": "native_geometry_recovery"
+    },
+    {
+      "id": "block_5",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        46.7870765326245,
+        545.302694450336,
+        270.64524271179715,
+        556.8206391515972
+      ],
+      "text": "4. Huó'ng dän an toän / Safety instructions ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_6",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        46.06727535519951,
+        578.0568496945476,
+        519.336549512132,
+        602.8924179566421
+      ],
+      "text": "Ngát ngun truó'c khi vé sinh. Khng sú dung khi day dán bi hö hoác vó máy nút. Thng báo ngay cho b phan Ky thuat néu phát hién bát thuö'ng.\n",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_7",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        46.06727535519951,
+        638.8859951480835,
+        528.6939648186569,
+        663.3616276382636
+      ],
+      "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release eguipment until QA has approved the corrective action.\n",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_8",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        46.7870765326245,
+        703.3144983207634,
+        253.7299150423098,
+        713.7526357062815
+      ],
+      "text": "Hotline nöi bö (giä lap): 028-0000-017  Revision 03",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_9",
+      "type": "text",
+      "label": "footer",
+      "bbox": [
+        36.709860048674614,
+        792.9385055274523,
+        210.54184439681026,
+        802.2968355972271
+      ],
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "parent_ref": null,
+      "child_refs": [],
+      "text_method": "native_geometry_recovery"
+    },
+    {
+      "id": "block_10",
+      "type": "text",
+      "label": "number",
+      "bbox": [
+        499.90191772165724,
+        794.0183128431955,
+        533.7325730606318,
+        802.6567713691416
+      ],
+      "text": "Trang 4/4",
+      "parent_ref": null,
+      "child_refs": [],
+      "text_method": "native_geometry_recovery"
+    },
+    {
+      "id": "geometry_table_0",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        37.7895618148121,
+        173.66900994870437,
+        556.5862604438754,
+        493.65191118061773
+      ],
+      "parent_ref": null,
+      "method": "raster_line_intersections"
+    },
+    {
+      "bbox": [
+        177.0,
+        266.9999694824219,
+        380.0,
+        368.9999694824219
+      ],
+      "label": "image",
+      "method": "native_image_placement",
+      "xref": 14,
+      "needs_review": false,
+      "id": "recovered_figure_0",
+      "type": "figure",
+      "parent_ref": "geometry_table_0_cell_3",
+      "child_refs": [],
+      "association": "contained_in_geometric_cell",
+      "metadata_text": "24.8 C QC-017\nTHIET B! MAU\n0/0 - 1/l"
+    },
+    {
+      "bbox": [
+        402.4871681886832,
+        260.7124069885802,
+        545.1310818913194,
+        395.45050521139507
+      ],
+      "label": "diagram",
+      "method": "closed_shapes_with_connectors",
+      "table_id": "geometry_table_0",
+      "node_count": 2,
+      "needs_review": true,
+      "id": "recovered_figure_1",
+      "type": "figure",
+      "parent_ref": "geometry_table_0_cell_3",
+      "child_refs": [],
+      "association": "contained_in_geometric_cell",
+      "metadata_text": "Kiểm tra nhãn\nKết nối nguồn"
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        43.0,
+        41.915191650390625,
+        80.55699920654297,
+        54.915191650390625
+      ],
+      "text": "NOVA",
+      "source_ref": "token_0",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        105.0,
+        30.35457992553711,
+        136.5,
+        40.85457992553711
+      ],
+      "text": "CÔNG",
+      "source_ref": "token_1",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        139.41900634765625,
+        30.35457992553711,
+        152.83799743652344,
+        40.85457992553711
+      ],
+      "text": "TY",
+      "source_ref": "token_2",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        155.7570037841797,
+        30.35457992553711,
+        184.9154815673828,
+        40.85457992553711
+      ],
+      "text": "TNHH",
+      "source_ref": "token_3",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        187.83448791503906,
+        30.35457992553711,
+        218.16897583007812,
+        40.85457992553711
+      ],
+      "text": "THIẾT",
+      "source_ref": "token_4",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        221.08798217773438,
+        30.35457992553711,
+        231.58798217773438,
+        40.85457992553711
+      ],
+      "text": "BỊ",
+      "source_ref": "token_5",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        234.50698852539062,
+        30.35457992553711,
+        264.84149169921875,
+        40.85457992553711
+      ],
+      "text": "NOVA",
+      "source_ref": "token_6",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        105.0,
+        46.88362503051758,
+        115.7352066040039,
+        55.283626556396484
+      ],
+      "text": "Hệ",
+      "source_ref": "token_7",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        118.07040405273438,
+        46.88362503051758,
+        139.08718872070312,
+        55.283626556396484
+      ],
+      "text": "thống",
+      "source_ref": "token_8",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        141.42239379882812,
+        46.88362503051758,
+        160.10397338867188,
+        55.283626556396484
+      ],
+      "text": "quản",
+      "source_ref": "token_9",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        162.43917846679688,
+        46.88362503051758,
+        168.5039825439453,
+        55.283626556396484
+      ],
+      "text": "lý",
+      "source_ref": "token_10",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        170.8391876220703,
+        46.88362503051758,
+        186.71517944335938,
+        55.283626556396484
+      ],
+      "text": "chất",
+      "source_ref": "token_11",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        189.05038452148438,
+        46.88362503051758,
+        211.385986328125,
+        55.283626556396484
+      ],
+      "text": "lượng",
+      "source_ref": "token_12",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        213.72119140625,
+        46.88362503051758,
+        216.056396484375,
+        55.283626556396484
+      ],
+      "text": "/",
+      "source_ref": "token_13",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        218.3916015625,
+        46.88362503051758,
+        244.53240966796875,
+        55.283626556396484
+      ],
+      "text": "Quality",
+      "source_ref": "token_14",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        246.86761474609375,
+        46.88362503051758,
+        295.89007568359375,
+        55.283626556396484
+      ],
+      "text": "Management",
+      "source_ref": "token_15",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        298.22528076171875,
+        46.88362503051758,
+        326.2309265136719,
+        55.283626556396484
+      ],
+      "text": "System",
+      "source_ref": "token_16",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        105.0,
+        62.86122512817383,
+        153.43052673339844,
+        71.16122436523438
+      ],
+      "text": "QP-74-02-F6",
+      "source_ref": "token_17",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        155.73793029785156,
+        62.86122512817383,
+        157.89593505859375,
+        71.16122436523438
+      ],
+      "text": "|",
+      "source_ref": "token_18",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        160.20333862304688,
+        62.86122512817383,
+        181.4264678955078,
+        71.16122436523438
+      ],
+      "text": "Phiên",
+      "source_ref": "token_19",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        183.73387145996094,
+        62.86122512817383,
+        197.5782928466797,
+        71.16122436523438
+      ],
+      "text": "bản",
+      "source_ref": "token_20",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        199.8856964111328,
+        62.86122512817383,
+        209.1153106689453,
+        71.16122436523438
+      ],
+      "text": "03",
+      "source_ref": "token_21",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        211.42271423339844,
+        62.86122512817383,
+        213.58071899414062,
+        71.16122436523438
+      ],
+      "text": "|",
+      "source_ref": "token_22",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        215.88812255859375,
+        62.86122512817383,
+        235.2603302001953,
+        71.16122436523438
+      ],
+      "text": "Ngày",
+      "source_ref": "token_23",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        237.56773376464844,
+        62.86122512817383,
+        253.2547607421875,
+        71.16122436523438
+      ],
+      "text": "hiệu",
+      "source_ref": "token_24",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        255.56216430664062,
+        62.86122512817383,
+        269.41485595703125,
+        71.16122436523438
+      ],
+      "text": "lực:",
+      "source_ref": "token_25",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        271.7222595214844,
+        62.86122512817383,
+        313.2555236816406,
+        71.16122436523438
+      ],
+      "text": "15/10/2026",
+      "source_ref": "token_26",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        38.0,
+        101.36368560791016,
+        73.83500671386719,
+        116.36368560791016
+      ],
+      "text": "BIỂU",
+      "source_ref": "token_27",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        78.0050048828125,
+        101.36368560791016,
+        112.1600112915039,
+        116.36368560791016
+      ],
+      "text": "MẪU",
+      "source_ref": "token_28",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        116.33000946044922,
+        101.36368560791016,
+        153.83001708984375,
+        116.36368560791016
+      ],
+      "text": "KIỂM",
+      "source_ref": "token_29",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        158.00001525878906,
+        101.36368560791016,
+        188.82501220703125,
+        116.36368560791016
+      ],
+      "text": "TRA",
+      "source_ref": "token_30",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        192.99501037597656,
+        101.36368560791016,
+        213.83001708984375,
+        116.36368560791016
+      ],
+      "text": "VÀ",
+      "source_ref": "token_31",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        218.00001525878906,
+        101.36368560791016,
+        276.57501220703125,
+        116.36368560791016
+      ],
+      "text": "HƯỚNG",
+      "source_ref": "token_32",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        280.7450256347656,
+        101.36368560791016,
+        313.2349853515625,
+        116.36368560791016
+      ],
+      "text": "DẪN",
+      "source_ref": "token_33",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        38.0,
+        795.7939453125,
+        50.447998046875,
+        803.7939453125
+      ],
+      "text": "TÀI",
+      "source_ref": "token_34",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        52.6719970703125,
+        795.7939453125,
+        70.45600128173828,
+        803.7939453125
+      ],
+      "text": "LIỆU",
+      "source_ref": "token_35",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        72.68000030517578,
+        795.7939453125,
+        86.46399688720703,
+        803.7939453125
+      ],
+      "text": "GIẢ",
+      "source_ref": "token_36",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        88.68799591064453,
+        795.7939453125,
+        103.80799102783203,
+        803.7939453125
+      ],
+      "text": "LẬP",
+      "source_ref": "token_37",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        106.03199005126953,
+        795.7939453125,
+        108.69599151611328,
+        803.7939453125
+      ],
+      "text": "-",
+      "source_ref": "token_38",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        110.91999053955078,
+        795.7939453125,
+        122.91999053955078,
+        803.7939453125
+      ],
+      "text": "Chỉ",
+      "source_ref": "token_39",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        125.14398956298828,
+        795.7939453125,
+        142.9359893798828,
+        803.7939453125
+      ],
+      "text": "dùng",
+      "source_ref": "token_40",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        145.1599884033203,
+        795.7939453125,
+        162.04798889160156,
+        803.7939453125
+      ],
+      "text": "kiểm",
+      "source_ref": "token_41",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        164.27198791503906,
+        795.7939453125,
+        176.29598999023438,
+        803.7939453125
+      ],
+      "text": "thử",
+      "source_ref": "token_42",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        178.51998901367188,
+        795.7939453125,
+        194.07998657226562,
+        803.7939453125
+      ],
+      "text": "trích",
+      "source_ref": "token_43",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        196.30398559570312,
+        795.7939453125,
+        211.42398071289062,
+        803.7939453125
+      ],
+      "text": "xuất",
+      "source_ref": "token_44",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        501.0,
+        795.7939453125,
+        521.89599609375,
+        803.7939453125
+      ],
+      "text": "Trang",
+      "source_ref": "token_45",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        524.1199951171875,
+        795.7939453125,
+        535.239990234375,
+        803.7939453125
+      ],
+      "text": "4/4",
+      "source_ref": "token_46",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        38.0,
+        139.01820373535156,
+        53.00300216674805,
+        148.01820373535156
+      ],
+      "text": "Một",
+      "source_ref": "token_47",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        55.505001068115234,
+        139.01820373535156,
+        60.509002685546875,
+        148.01820373535156
+      ],
+      "text": "ô",
+      "source_ref": "token_48",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        63.01100158691406,
+        139.01820373535156,
+        83.54000091552734,
+        148.01820373535156
+      ],
+      "text": "chứa",
+      "source_ref": "token_49",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        86.04199981689453,
+        139.01820373535156,
+        103.05199432373047,
+        148.01820373535156
+      ],
+      "text": "text,",
+      "source_ref": "token_50",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        105.55399322509766,
+        139.01820373535156,
+        120.56598663330078,
+        148.01820373535156
+      ],
+      "text": "ảnh",
+      "source_ref": "token_51",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        123.06798553466797,
+        139.01820373535156,
+        146.0719757080078,
+        148.01820373535156
+      ],
+      "text": "raster",
+      "source_ref": "token_52",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        148.573974609375,
+        139.01820373535156,
+        158.07797241210938,
+        148.01820373535156
+      ],
+      "text": "và",
+      "source_ref": "token_53",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        160.57997131347656,
+        139.01820373535156,
+        170.98397827148438,
+        148.01820373535156
+      ],
+      "text": "sơ",
+      "source_ref": "token_54",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        173.48597717285156,
+        139.01820373535156,
+        183.4939727783203,
+        148.01820373535156
+      ],
+      "text": "đồ",
+      "source_ref": "token_55",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        185.9959716796875,
+        139.01820373535156,
+        213.0049591064453,
+        148.01820373535156
+      ],
+      "text": "vector.",
+      "source_ref": "token_56",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        215.5069580078125,
+        139.01820373535156,
+        236.52195739746094,
+        148.01820373535156
+      ],
+      "text": "Phần",
+      "source_ref": "token_57",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        239.02395629882812,
+        139.01820373535156,
+        265.9609680175781,
+        148.01820373535156
+      ],
+      "text": "hướng",
+      "source_ref": "token_58",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        268.4629821777344,
+        139.01820373535156,
+        283.4749755859375,
+        148.01820373535156
+      ],
+      "text": "dẫn",
+      "source_ref": "token_59",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        285.97698974609375,
+        139.01820373535156,
+        303.4909973144531,
+        148.01820373535156
+      ],
+      "text": "phía",
+      "source_ref": "token_60",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        305.9930114746094,
+        139.01820373535156,
+        324.91998291015625,
+        148.01820373535156
+      ],
+      "text": "dưới",
+      "source_ref": "token_61",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        327.4219970703125,
+        139.01820373535156,
+        334.4239807128906,
+        148.01820373535156
+      ],
+      "text": "là",
+      "source_ref": "token_62",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        336.9259948730469,
+        139.01820373535156,
+        356.43798828125,
+        148.01820373535156
+      ],
+      "text": "vùng",
+      "source_ref": "token_63",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        358.94000244140625,
+        139.01820373535156,
+        380.45001220703125,
+        148.01820373535156
+      ],
+      "text": "scan.",
+      "source_ref": "token_64",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        44.0,
+        182.9060821533203,
+        65.25,
+        191.4060821533203
+      ],
+      "text": "Hạng",
+      "source_ref": "token_65",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        67.61299896240234,
+        182.9060821533203,
+        85.08899688720703,
+        191.4060821533203
+      ],
+      "text": "mục",
+      "source_ref": "token_66",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        172.0,
+        182.9060821533203,
+        197.9674835205078,
+        191.4060821533203
+      ],
+      "text": "Thông",
+      "source_ref": "token_67",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        200.3304901123047,
+        182.9060821533203,
+        210.71749877929688,
+        191.4060821533203
+      ],
+      "text": "tin",
+      "source_ref": "token_68",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        213.08050537109375,
+        182.9060821533203,
+        215.44351196289062,
+        191.4060821533203
+      ],
+      "text": "/",
+      "source_ref": "token_69",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        217.8065185546875,
+        182.9060821533203,
+        237.63702392578125,
+        191.4060821533203
+      ],
+      "text": "Minh",
+      "source_ref": "token_70",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        240.00003051757812,
+        182.9060821533203,
+        255.11302185058594,
+        191.4060821533203
+      ],
+      "text": "họa",
+      "source_ref": "token_71",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        44.0,
+        223.01820373535156,
+        64.00700378417969,
+        232.01820373535156
+      ],
+      "text": "Thiết",
+      "source_ref": "token_72",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        66.50900268554688,
+        223.01820373535156,
+        73.51100158691406,
+        232.01820373535156
+      ],
+      "text": "bị",
+      "source_ref": "token_73",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        76.01300048828125,
+        223.01820373535156,
+        85.51699829101562,
+        232.01820373535156
+      ],
+      "text": "và",
+      "source_ref": "token_74",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        88.01899719238281,
+        223.01820373535156,
+        105.53298950195312,
+        232.01820373535156
+      ],
+      "text": "thao",
+      "source_ref": "token_75",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        108.03498840332031,
+        223.01820373535156,
+        120.04098510742188,
+        232.01820373535156
+      ],
+      "text": "tác",
+      "source_ref": "token_76",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        44.0,
+        235.4381866455078,
+        87.0199966430664,
+        244.4381866455078
+      ],
+      "text": "Equipment",
+      "source_ref": "token_77",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        89.5219955444336,
+        235.4381866455078,
+        95.52499389648438,
+        244.4381866455078
+      ],
+      "text": "&",
+      "source_ref": "token_78",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        98.02699279785156,
+        235.4381866455078,
+        122.03898620605469,
+        244.4381866455078
+      ],
+      "text": "action",
+      "source_ref": "token_79",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        177.0,
+        228.01820373535156,
+        190.5,
+        237.01820373535156
+      ],
+      "text": "Đối",
+      "source_ref": "token_80",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        193.0019989013672,
+        228.01820373535156,
+        214.51199340820312,
+        237.01820373535156
+      ],
+      "text": "chiếu",
+      "source_ref": "token_81",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        217.0139923095703,
+        228.01820373535156,
+        237.0299835205078,
+        237.01820373535156
+      ],
+      "text": "nhãn",
+      "source_ref": "token_82",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        239.531982421875,
+        228.01820373535156,
+        271.0409851074219,
+        237.01820373535156
+      ],
+      "text": "QC-017",
+      "source_ref": "token_83",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        273.5429992675781,
+        228.01820373535156,
+        295.4670104980469,
+        237.01820373535156
+      ],
+      "text": "trước",
+      "source_ref": "token_84",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        297.9690246582031,
+        228.01820373535156,
+        309.47100830078125,
+        237.01820373535156
+      ],
+      "text": "khi",
+      "source_ref": "token_85",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        311.9730224609375,
+        228.01820373535156,
+        323.9790344238281,
+        237.01820373535156
+      ],
+      "text": "kết",
+      "source_ref": "token_86",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        326.4810485839844,
+        228.01820373535156,
+        338.4870300292969,
+        237.01820373535156
+      ],
+      "text": "nối",
+      "source_ref": "token_87",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        340.9890441894531,
+        228.01820373535156,
+        368.51104736328125,
+        237.01820373535156
+      ],
+      "text": "nguồn.",
+      "source_ref": "token_88",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        177.0,
+        408.90606689453125,
+        192.12149047851562,
+        417.40606689453125
+      ],
+      "text": "Ảnh",
+      "source_ref": "token_95",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        194.4844970703125,
+        408.90606689453125,
+        203.4604949951172,
+        417.40606689453125
+      ],
+      "text": "và",
+      "source_ref": "token_96",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        205.82350158691406,
+        408.90606689453125,
+        215.64950561523438,
+        417.40606689453125
+      ],
+      "text": "sơ",
+      "source_ref": "token_97",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        218.01251220703125,
+        408.90606689453125,
+        227.46450805664062,
+        417.40606689453125
+      ],
+      "text": "đồ",
+      "source_ref": "token_98",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        229.8275146484375,
+        408.90606689453125,
+        236.4405059814453,
+        417.40606689453125
+      ],
+      "text": "là",
+      "source_ref": "token_99",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        238.8035125732422,
+        408.90606689453125,
+        250.1425018310547,
+        417.40606689453125
+      ],
+      "text": "hai",
+      "source_ref": "token_100",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        252.50550842285156,
+        408.90606689453125,
+        273.7725524902344,
+        417.40606689453125
+      ],
+      "text": "thành",
+      "source_ref": "token_101",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        276.13555908203125,
+        408.90606689453125,
+        295.03961181640625,
+        417.40606689453125
+      ],
+      "text": "phần",
+      "source_ref": "token_102",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        297.4026184082031,
+        408.90606689453125,
+        311.1046447753906,
+        417.40606689453125
+      ],
+      "text": "độc",
+      "source_ref": "token_103",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        313.4676513671875,
+        408.90606689453125,
+        324.8066711425781,
+        417.40606689453125
+      ],
+      "text": "lập",
+      "source_ref": "token_104",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        327.169677734375,
+        408.90606689453125,
+        346.5412292480469,
+        417.40606689453125
+      ],
+      "text": "trong",
+      "source_ref": "token_105",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        348.90423583984375,
+        408.90606689453125,
+        367.332275390625,
+        417.40606689453125
+      ],
+      "text": "cùng",
+      "source_ref": "token_106",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        369.6952819824219,
+        408.90606689453125,
+        376.7843017578125,
+        417.40606689453125
+      ],
+      "text": "ô.",
+      "source_ref": "token_107",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        44.0,
+        443.0181884765625,
+        57.50899887084961,
+        452.0181884765625
+      ],
+      "text": "Kết",
+      "source_ref": "token_108",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        60.0109977722168,
+        443.0181884765625,
+        75.02299499511719,
+        452.0181884765625
+      ],
+      "text": "quả",
+      "source_ref": "token_109",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        172.0,
+        443.0181884765625,
+        186.00399780273438,
+        452.0181884765625
+      ],
+      "text": "Đạt",
+      "source_ref": "token_110",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        188.50599670410156,
+        443.0181884765625,
+        191.00799560546875,
+        452.0181884765625
+      ],
+      "text": "/",
+      "source_ref": "token_111",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        193.50999450683594,
+        443.0181884765625,
+        219.52899169921875,
+        452.0181884765625
+      ],
+      "text": "Không",
+      "source_ref": "token_112",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        222.03099060058594,
+        443.0181884765625,
+        237.04298400878906,
+        452.0181884765625
+      ],
+      "text": "đạt:",
+      "source_ref": "token_113",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        239.54498291015625,
+        443.0181884765625,
+        289.5849609375,
+        452.0181884765625
+      ],
+      "text": "__________",
+      "source_ref": "token_114",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        172.0,
+        455.4382019042969,
+        197.4250030517578,
+        464.4382019042969
+      ],
+      "text": "Người",
+      "source_ref": "token_115",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        199.927001953125,
+        455.4382019042969,
+        218.92599487304688,
+        464.4382019042969
+      ],
+      "text": "kiểm",
+      "source_ref": "token_116",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        221.42799377441406,
+        455.4382019042969,
+        234.4329833984375,
+        464.4382019042969
+      ],
+      "text": "tra:",
+      "source_ref": "token_117",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        236.9349822998047,
+        455.4382019042969,
+        267.948974609375,
+        464.4382019042969
+      ],
+      "text": "Nguyễn",
+      "source_ref": "token_118",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        270.45098876953125,
+        455.4382019042969,
+        282.95196533203125,
+        464.4382019042969
+      ],
+      "text": "Thị",
+      "source_ref": "token_119",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        285.4539794921875,
+        455.4382019042969,
+        297.45098876953125,
+        464.4382019042969
+      ],
+      "text": "Mỹ",
+      "source_ref": "token_120",
+      "source": "native_pdf_word"
+    },
+    {
+      "bbox": [
+        49.66628124232447,
+        547.4623090818225,
+        270.28534212308466,
+        557.1805749235117
+      ],
+      "text": "4. Huó'ng dän an toän / Safety instructions",
+      "source_ref": "token_125",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        49.66628124232447,
+        579.1366570102908,
+        518.616748334707,
+        589.9347301677233
+      ],
+      "text": "Ngát ngun truó'c khi vé sinh. Khng sú dung khi day dán bi hö hoác vó máy nút. Thng báo ngay cho b",
+      "source_ref": "token_126",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        48.94648006489948,
+        592.8142163430385,
+        228.53687383243508,
+        603.9722252723853
+      ],
+      "text": "phan Ky thuat néu phát hién bát thuö'ng.",
+      "source_ref": "token_127",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        49.66628124232447,
+        641.04560977957,
+        528.6939648186569,
+        649.6840683055159
+      ],
+      "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release eguipment until QA has",
+      "source_ref": "token_128",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        49.30638065361198,
+        655.0831048842321,
+        184.62900200951054,
+        664.0814991820924
+      ],
+      "text": "approved the corrective action.",
+      "source_ref": "token_129",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        49.30638065361198,
+        705.8340487241643,
+        253.37001445359732,
+        714.1125714781958
+      ],
+      "text": "Hotline nöi bö (giä lap): 028-0000-017  Revision 03",
+      "source_ref": "token_130",
+      "source": "pipeline_ocr"
+    }
+  ],
+  "tables": [
+    {
+      "rows": 3,
+      "cols": 2,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            173.669,
+            165.734,
+            213.622
+          ],
+          "text": "Hạng mục",
+          "id": "geometry_table_0_cell_0",
+          "token_ids": [
+            "token_65",
+            "token_66"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            165.734,
+            173.669,
+            556.586,
+            213.622
+          ],
+          "text": "Thông tin / Minh họa",
+          "id": "geometry_table_0_cell_1",
+          "token_ids": [
+            "token_67",
+            "token_68",
+            "token_69",
+            "token_70",
+            "token_71"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            213.622,
+            165.734,
+            433.723
+          ],
+          "text": "Thiết bị và thao tác\nEquipment & action",
+          "id": "geometry_table_0_cell_2",
+          "token_ids": [
+            "token_72",
+            "token_73",
+            "token_74",
+            "token_75",
+            "token_76",
+            "token_77",
+            "token_78",
+            "token_79"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            165.734,
+            213.622,
+            556.586,
+            433.723
+          ],
+          "text": "Đối chiếu nhãn QC-017 trước khi kết nối nguồn.\nẢnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+          "id": "geometry_table_0_cell_3",
+          "token_ids": [
+            "token_80",
+            "token_81",
+            "token_82",
+            "token_83",
+            "token_84",
+            "token_85",
+            "token_86",
+            "token_87",
+            "token_88",
+            "token_95",
+            "token_96",
+            "token_97",
+            "token_98",
+            "token_99",
+            "token_100",
+            "token_101",
+            "token_102",
+            "token_103",
+            "token_104",
+            "token_105",
+            "token_106",
+            "token_107"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            433.723,
+            165.734,
+            493.652
+          ],
+          "text": "Kết quả",
+          "id": "geometry_table_0_cell_4",
+          "token_ids": [
+            "token_108",
+            "token_109"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            165.734,
+            433.723,
+            556.586,
+            493.652
+          ],
+          "text": "Đạt / Không đạt: __________\nNgười kiểm tra: Nguyễn Thị Mỹ",
+          "id": "geometry_table_0_cell_5",
+          "token_ids": [
+            "token_110",
+            "token_111",
+            "token_112",
+            "token_113",
+            "token_114",
+            "token_115",
+            "token_116",
+            "token_117",
+            "token_118",
+            "token_119",
+            "token_120"
+          ],
+          "needs_review": false
+        }
+      ],
+      "xs": [
+        37.79,
+        165.734,
+        556.586
+      ],
+      "ys": [
+        173.669,
+        213.622,
+        433.723,
+        493.652
+      ],
+      "grid_valid": true,
+      "bbox": [
+        37.7895618148121,
+        173.66900994870437,
+        556.5862604438754,
+        493.65191118061773
+      ],
+      "method": "raster_line_intersections",
+      "needs_review": false,
+      "id": "geometry_table_0",
+      "parent_ref": null
+    }
+  ],
+  "containers": [
+    {
+      "id": "geometry_table_0_cell_0",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 0,
+      "col": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_1",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 0,
+      "col": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_2",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 1,
+      "col": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_3",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 1,
+      "col": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_4",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 2,
+      "col": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_5",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 2,
+      "col": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    }
+  ],
+  "status": "success",
+  "errors": [],
+  "tokens": [
+    {
+      "id": "token_0",
+      "bbox": [
+        43.0,
+        41.915191650390625,
+        80.55699920654297,
+        54.915191650390625
+      ],
+      "text": "NOVA",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_1",
+      "bbox": [
+        105.0,
+        30.35457992553711,
+        136.5,
+        40.85457992553711
+      ],
+      "text": "CÔNG",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_2",
+      "bbox": [
+        139.41900634765625,
+        30.35457992553711,
+        152.83799743652344,
+        40.85457992553711
+      ],
+      "text": "TY",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_3",
+      "bbox": [
+        155.7570037841797,
+        30.35457992553711,
+        184.9154815673828,
+        40.85457992553711
+      ],
+      "text": "TNHH",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_4",
+      "bbox": [
+        187.83448791503906,
+        30.35457992553711,
+        218.16897583007812,
+        40.85457992553711
+      ],
+      "text": "THIẾT",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_5",
+      "bbox": [
+        221.08798217773438,
+        30.35457992553711,
+        231.58798217773438,
+        40.85457992553711
+      ],
+      "text": "BỊ",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_6",
+      "bbox": [
+        234.50698852539062,
+        30.35457992553711,
+        264.84149169921875,
+        40.85457992553711
+      ],
+      "text": "NOVA",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_7",
+      "bbox": [
+        105.0,
+        46.88362503051758,
+        115.7352066040039,
+        55.283626556396484
+      ],
+      "text": "Hệ",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_8",
+      "bbox": [
+        118.07040405273438,
+        46.88362503051758,
+        139.08718872070312,
+        55.283626556396484
+      ],
+      "text": "thống",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_9",
+      "bbox": [
+        141.42239379882812,
+        46.88362503051758,
+        160.10397338867188,
+        55.283626556396484
+      ],
+      "text": "quản",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_10",
+      "bbox": [
+        162.43917846679688,
+        46.88362503051758,
+        168.5039825439453,
+        55.283626556396484
+      ],
+      "text": "lý",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_11",
+      "bbox": [
+        170.8391876220703,
+        46.88362503051758,
+        186.71517944335938,
+        55.283626556396484
+      ],
+      "text": "chất",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_12",
+      "bbox": [
+        189.05038452148438,
+        46.88362503051758,
+        211.385986328125,
+        55.283626556396484
+      ],
+      "text": "lượng",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_13",
+      "bbox": [
+        213.72119140625,
+        46.88362503051758,
+        216.056396484375,
+        55.283626556396484
+      ],
+      "text": "/",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_14",
+      "bbox": [
+        218.3916015625,
+        46.88362503051758,
+        244.53240966796875,
+        55.283626556396484
+      ],
+      "text": "Quality",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_15",
+      "bbox": [
+        246.86761474609375,
+        46.88362503051758,
+        295.89007568359375,
+        55.283626556396484
+      ],
+      "text": "Management",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_16",
+      "bbox": [
+        298.22528076171875,
+        46.88362503051758,
+        326.2309265136719,
+        55.283626556396484
+      ],
+      "text": "System",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_17",
+      "bbox": [
+        105.0,
+        62.86122512817383,
+        153.43052673339844,
+        71.16122436523438
+      ],
+      "text": "QP-74-02-F6",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_18",
+      "bbox": [
+        155.73793029785156,
+        62.86122512817383,
+        157.89593505859375,
+        71.16122436523438
+      ],
+      "text": "|",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_19",
+      "bbox": [
+        160.20333862304688,
+        62.86122512817383,
+        181.4264678955078,
+        71.16122436523438
+      ],
+      "text": "Phiên",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_20",
+      "bbox": [
+        183.73387145996094,
+        62.86122512817383,
+        197.5782928466797,
+        71.16122436523438
+      ],
+      "text": "bản",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_21",
+      "bbox": [
+        199.8856964111328,
+        62.86122512817383,
+        209.1153106689453,
+        71.16122436523438
+      ],
+      "text": "03",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_22",
+      "bbox": [
+        211.42271423339844,
+        62.86122512817383,
+        213.58071899414062,
+        71.16122436523438
+      ],
+      "text": "|",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_23",
+      "bbox": [
+        215.88812255859375,
+        62.86122512817383,
+        235.2603302001953,
+        71.16122436523438
+      ],
+      "text": "Ngày",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_24",
+      "bbox": [
+        237.56773376464844,
+        62.86122512817383,
+        253.2547607421875,
+        71.16122436523438
+      ],
+      "text": "hiệu",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_25",
+      "bbox": [
+        255.56216430664062,
+        62.86122512817383,
+        269.41485595703125,
+        71.16122436523438
+      ],
+      "text": "lực:",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_26",
+      "bbox": [
+        271.7222595214844,
+        62.86122512817383,
+        313.2555236816406,
+        71.16122436523438
+      ],
+      "text": "15/10/2026",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_27",
+      "bbox": [
+        38.0,
+        101.36368560791016,
+        73.83500671386719,
+        116.36368560791016
+      ],
+      "text": "BIỂU",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_28",
+      "bbox": [
+        78.0050048828125,
+        101.36368560791016,
+        112.1600112915039,
+        116.36368560791016
+      ],
+      "text": "MẪU",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_29",
+      "bbox": [
+        116.33000946044922,
+        101.36368560791016,
+        153.83001708984375,
+        116.36368560791016
+      ],
+      "text": "KIỂM",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_30",
+      "bbox": [
+        158.00001525878906,
+        101.36368560791016,
+        188.82501220703125,
+        116.36368560791016
+      ],
+      "text": "TRA",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_31",
+      "bbox": [
+        192.99501037597656,
+        101.36368560791016,
+        213.83001708984375,
+        116.36368560791016
+      ],
+      "text": "VÀ",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_32",
+      "bbox": [
+        218.00001525878906,
+        101.36368560791016,
+        276.57501220703125,
+        116.36368560791016
+      ],
+      "text": "HƯỚNG",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_33",
+      "bbox": [
+        280.7450256347656,
+        101.36368560791016,
+        313.2349853515625,
+        116.36368560791016
+      ],
+      "text": "DẪN",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_34",
+      "bbox": [
+        38.0,
+        795.7939453125,
+        50.447998046875,
+        803.7939453125
+      ],
+      "text": "TÀI",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_35",
+      "bbox": [
+        52.6719970703125,
+        795.7939453125,
+        70.45600128173828,
+        803.7939453125
+      ],
+      "text": "LIỆU",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_36",
+      "bbox": [
+        72.68000030517578,
+        795.7939453125,
+        86.46399688720703,
+        803.7939453125
+      ],
+      "text": "GIẢ",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_37",
+      "bbox": [
+        88.68799591064453,
+        795.7939453125,
+        103.80799102783203,
+        803.7939453125
+      ],
+      "text": "LẬP",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_38",
+      "bbox": [
+        106.03199005126953,
+        795.7939453125,
+        108.69599151611328,
+        803.7939453125
+      ],
+      "text": "-",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_39",
+      "bbox": [
+        110.91999053955078,
+        795.7939453125,
+        122.91999053955078,
+        803.7939453125
+      ],
+      "text": "Chỉ",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_40",
+      "bbox": [
+        125.14398956298828,
+        795.7939453125,
+        142.9359893798828,
+        803.7939453125
+      ],
+      "text": "dùng",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_41",
+      "bbox": [
+        145.1599884033203,
+        795.7939453125,
+        162.04798889160156,
+        803.7939453125
+      ],
+      "text": "kiểm",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_42",
+      "bbox": [
+        164.27198791503906,
+        795.7939453125,
+        176.29598999023438,
+        803.7939453125
+      ],
+      "text": "thử",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_43",
+      "bbox": [
+        178.51998901367188,
+        795.7939453125,
+        194.07998657226562,
+        803.7939453125
+      ],
+      "text": "trích",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_44",
+      "bbox": [
+        196.30398559570312,
+        795.7939453125,
+        211.42398071289062,
+        803.7939453125
+      ],
+      "text": "xuất",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_45",
+      "bbox": [
+        501.0,
+        795.7939453125,
+        521.89599609375,
+        803.7939453125
+      ],
+      "text": "Trang",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_46",
+      "bbox": [
+        524.1199951171875,
+        795.7939453125,
+        535.239990234375,
+        803.7939453125
+      ],
+      "text": "4/4",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_47",
+      "bbox": [
+        38.0,
+        139.01820373535156,
+        53.00300216674805,
+        148.01820373535156
+      ],
+      "text": "Một",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_48",
+      "bbox": [
+        55.505001068115234,
+        139.01820373535156,
+        60.509002685546875,
+        148.01820373535156
+      ],
+      "text": "ô",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_49",
+      "bbox": [
+        63.01100158691406,
+        139.01820373535156,
+        83.54000091552734,
+        148.01820373535156
+      ],
+      "text": "chứa",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_50",
+      "bbox": [
+        86.04199981689453,
+        139.01820373535156,
+        103.05199432373047,
+        148.01820373535156
+      ],
+      "text": "text,",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_51",
+      "bbox": [
+        105.55399322509766,
+        139.01820373535156,
+        120.56598663330078,
+        148.01820373535156
+      ],
+      "text": "ảnh",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_52",
+      "bbox": [
+        123.06798553466797,
+        139.01820373535156,
+        146.0719757080078,
+        148.01820373535156
+      ],
+      "text": "raster",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_53",
+      "bbox": [
+        148.573974609375,
+        139.01820373535156,
+        158.07797241210938,
+        148.01820373535156
+      ],
+      "text": "và",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_54",
+      "bbox": [
+        160.57997131347656,
+        139.01820373535156,
+        170.98397827148438,
+        148.01820373535156
+      ],
+      "text": "sơ",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_55",
+      "bbox": [
+        173.48597717285156,
+        139.01820373535156,
+        183.4939727783203,
+        148.01820373535156
+      ],
+      "text": "đồ",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_56",
+      "bbox": [
+        185.9959716796875,
+        139.01820373535156,
+        213.0049591064453,
+        148.01820373535156
+      ],
+      "text": "vector.",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_57",
+      "bbox": [
+        215.5069580078125,
+        139.01820373535156,
+        236.52195739746094,
+        148.01820373535156
+      ],
+      "text": "Phần",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_58",
+      "bbox": [
+        239.02395629882812,
+        139.01820373535156,
+        265.9609680175781,
+        148.01820373535156
+      ],
+      "text": "hướng",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_59",
+      "bbox": [
+        268.4629821777344,
+        139.01820373535156,
+        283.4749755859375,
+        148.01820373535156
+      ],
+      "text": "dẫn",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_60",
+      "bbox": [
+        285.97698974609375,
+        139.01820373535156,
+        303.4909973144531,
+        148.01820373535156
+      ],
+      "text": "phía",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_61",
+      "bbox": [
+        305.9930114746094,
+        139.01820373535156,
+        324.91998291015625,
+        148.01820373535156
+      ],
+      "text": "dưới",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_62",
+      "bbox": [
+        327.4219970703125,
+        139.01820373535156,
+        334.4239807128906,
+        148.01820373535156
+      ],
+      "text": "là",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_63",
+      "bbox": [
+        336.9259948730469,
+        139.01820373535156,
+        356.43798828125,
+        148.01820373535156
+      ],
+      "text": "vùng",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_64",
+      "bbox": [
+        358.94000244140625,
+        139.01820373535156,
+        380.45001220703125,
+        148.01820373535156
+      ],
+      "text": "scan.",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "id": "token_65",
+      "bbox": [
+        44.0,
+        182.9060821533203,
+        65.25,
+        191.4060821533203
+      ],
+      "text": "Hạng",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_0"
+    },
+    {
+      "id": "token_66",
+      "bbox": [
+        67.61299896240234,
+        182.9060821533203,
+        85.08899688720703,
+        191.4060821533203
+      ],
+      "text": "mục",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_0"
+    },
+    {
+      "id": "token_67",
+      "bbox": [
+        172.0,
+        182.9060821533203,
+        197.9674835205078,
+        191.4060821533203
+      ],
+      "text": "Thông",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_1"
+    },
+    {
+      "id": "token_68",
+      "bbox": [
+        200.3304901123047,
+        182.9060821533203,
+        210.71749877929688,
+        191.4060821533203
+      ],
+      "text": "tin",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_1"
+    },
+    {
+      "id": "token_69",
+      "bbox": [
+        213.08050537109375,
+        182.9060821533203,
+        215.44351196289062,
+        191.4060821533203
+      ],
+      "text": "/",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_1"
+    },
+    {
+      "id": "token_70",
+      "bbox": [
+        217.8065185546875,
+        182.9060821533203,
+        237.63702392578125,
+        191.4060821533203
+      ],
+      "text": "Minh",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_1"
+    },
+    {
+      "id": "token_71",
+      "bbox": [
+        240.00003051757812,
+        182.9060821533203,
+        255.11302185058594,
+        191.4060821533203
+      ],
+      "text": "họa",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_1"
+    },
+    {
+      "id": "token_72",
+      "bbox": [
+        44.0,
+        223.01820373535156,
+        64.00700378417969,
+        232.01820373535156
+      ],
+      "text": "Thiết",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_2"
+    },
+    {
+      "id": "token_73",
+      "bbox": [
+        66.50900268554688,
+        223.01820373535156,
+        73.51100158691406,
+        232.01820373535156
+      ],
+      "text": "bị",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_2"
+    },
+    {
+      "id": "token_74",
+      "bbox": [
+        76.01300048828125,
+        223.01820373535156,
+        85.51699829101562,
+        232.01820373535156
+      ],
+      "text": "và",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_2"
+    },
+    {
+      "id": "token_75",
+      "bbox": [
+        88.01899719238281,
+        223.01820373535156,
+        105.53298950195312,
+        232.01820373535156
+      ],
+      "text": "thao",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_2"
+    },
+    {
+      "id": "token_76",
+      "bbox": [
+        108.03498840332031,
+        223.01820373535156,
+        120.04098510742188,
+        232.01820373535156
+      ],
+      "text": "tác",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_2"
+    },
+    {
+      "id": "token_77",
+      "bbox": [
+        44.0,
+        235.4381866455078,
+        87.0199966430664,
+        244.4381866455078
+      ],
+      "text": "Equipment",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_2"
+    },
+    {
+      "id": "token_78",
+      "bbox": [
+        89.5219955444336,
+        235.4381866455078,
+        95.52499389648438,
+        244.4381866455078
+      ],
+      "text": "&",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_2"
+    },
+    {
+      "id": "token_79",
+      "bbox": [
+        98.02699279785156,
+        235.4381866455078,
+        122.03898620605469,
+        244.4381866455078
+      ],
+      "text": "action",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_2"
+    },
+    {
+      "id": "token_80",
+      "bbox": [
+        177.0,
+        228.01820373535156,
+        190.5,
+        237.01820373535156
+      ],
+      "text": "Đối",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_81",
+      "bbox": [
+        193.0019989013672,
+        228.01820373535156,
+        214.51199340820312,
+        237.01820373535156
+      ],
+      "text": "chiếu",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_82",
+      "bbox": [
+        217.0139923095703,
+        228.01820373535156,
+        237.0299835205078,
+        237.01820373535156
+      ],
+      "text": "nhãn",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_83",
+      "bbox": [
+        239.531982421875,
+        228.01820373535156,
+        271.0409851074219,
+        237.01820373535156
+      ],
+      "text": "QC-017",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_84",
+      "bbox": [
+        273.5429992675781,
+        228.01820373535156,
+        295.4670104980469,
+        237.01820373535156
+      ],
+      "text": "trước",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_85",
+      "bbox": [
+        297.9690246582031,
+        228.01820373535156,
+        309.47100830078125,
+        237.01820373535156
+      ],
+      "text": "khi",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_86",
+      "bbox": [
+        311.9730224609375,
+        228.01820373535156,
+        323.9790344238281,
+        237.01820373535156
+      ],
+      "text": "kết",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_87",
+      "bbox": [
+        326.4810485839844,
+        228.01820373535156,
+        338.4870300292969,
+        237.01820373535156
+      ],
+      "text": "nối",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_88",
+      "bbox": [
+        340.9890441894531,
+        228.01820373535156,
+        368.51104736328125,
+        237.01820373535156
+      ],
+      "text": "nguồn.",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_89",
+      "bbox": [
+        419.0,
+        278.9733581542969,
+        439.0464172363281,
+        287.7733459472656
+      ],
+      "text": "Kiểm",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_1"
+    },
+    {
+      "id": "token_90",
+      "bbox": [
+        441.4928283691406,
+        278.9733581542969,
+        451.7624206542969,
+        287.7733459472656
+      ],
+      "text": "tra",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_1"
+    },
+    {
+      "id": "token_91",
+      "bbox": [
+        454.2088317871094,
+        278.9733581542969,
+        473.7799987792969,
+        287.7733459472656
+      ],
+      "text": "nhãn",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_1"
+    },
+    {
+      "id": "token_92",
+      "bbox": [
+        419.0,
+        364.97332763671875,
+        432.20880126953125,
+        373.7733154296875
+      ],
+      "text": "Kết",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_1"
+    },
+    {
+      "id": "token_93",
+      "bbox": [
+        434.65521240234375,
+        364.97332763671875,
+        446.3944091796875,
+        373.7733154296875
+      ],
+      "text": "nối",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_1"
+    },
+    {
+      "id": "token_94",
+      "bbox": [
+        448.8408203125,
+        364.97332763671875,
+        473.3047790527344,
+        373.7733154296875
+      ],
+      "text": "nguồn",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_1"
+    },
+    {
+      "id": "token_95",
+      "bbox": [
+        177.0,
+        408.90606689453125,
+        192.12149047851562,
+        417.40606689453125
+      ],
+      "text": "Ảnh",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_96",
+      "bbox": [
+        194.4844970703125,
+        408.90606689453125,
+        203.4604949951172,
+        417.40606689453125
+      ],
+      "text": "và",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_97",
+      "bbox": [
+        205.82350158691406,
+        408.90606689453125,
+        215.64950561523438,
+        417.40606689453125
+      ],
+      "text": "sơ",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_98",
+      "bbox": [
+        218.01251220703125,
+        408.90606689453125,
+        227.46450805664062,
+        417.40606689453125
+      ],
+      "text": "đồ",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_99",
+      "bbox": [
+        229.8275146484375,
+        408.90606689453125,
+        236.4405059814453,
+        417.40606689453125
+      ],
+      "text": "là",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_100",
+      "bbox": [
+        238.8035125732422,
+        408.90606689453125,
+        250.1425018310547,
+        417.40606689453125
+      ],
+      "text": "hai",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_101",
+      "bbox": [
+        252.50550842285156,
+        408.90606689453125,
+        273.7725524902344,
+        417.40606689453125
+      ],
+      "text": "thành",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_102",
+      "bbox": [
+        276.13555908203125,
+        408.90606689453125,
+        295.03961181640625,
+        417.40606689453125
+      ],
+      "text": "phần",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_103",
+      "bbox": [
+        297.4026184082031,
+        408.90606689453125,
+        311.1046447753906,
+        417.40606689453125
+      ],
+      "text": "độc",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_104",
+      "bbox": [
+        313.4676513671875,
+        408.90606689453125,
+        324.8066711425781,
+        417.40606689453125
+      ],
+      "text": "lập",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_105",
+      "bbox": [
+        327.169677734375,
+        408.90606689453125,
+        346.5412292480469,
+        417.40606689453125
+      ],
+      "text": "trong",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_106",
+      "bbox": [
+        348.90423583984375,
+        408.90606689453125,
+        367.332275390625,
+        417.40606689453125
+      ],
+      "text": "cùng",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_107",
+      "bbox": [
+        369.6952819824219,
+        408.90606689453125,
+        376.7843017578125,
+        417.40606689453125
+      ],
+      "text": "ô.",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "id": "token_108",
+      "bbox": [
+        44.0,
+        443.0181884765625,
+        57.50899887084961,
+        452.0181884765625
+      ],
+      "text": "Kết",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_4"
+    },
+    {
+      "id": "token_109",
+      "bbox": [
+        60.0109977722168,
+        443.0181884765625,
+        75.02299499511719,
+        452.0181884765625
+      ],
+      "text": "quả",
+      "from_ocr": false,
+      "direction": [
+        1.0,
+        0.0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_4"
+    },
+    {
+      "id": "token_110",
+      "bbox": [
+        172.0,
+        443.0181884765625,
+        186.00399780273438,
+        452.0181884765625
+      ],
+      "text": "Đạt",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_111",
+      "bbox": [
+        188.50599670410156,
+        443.0181884765625,
+        191.00799560546875,
+        452.0181884765625
+      ],
+      "text": "/",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_112",
+      "bbox": [
+        193.50999450683594,
+        443.0181884765625,
+        219.52899169921875,
+        452.0181884765625
+      ],
+      "text": "Không",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_113",
+      "bbox": [
+        222.03099060058594,
+        443.0181884765625,
+        237.04298400878906,
+        452.0181884765625
+      ],
+      "text": "đạt:",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_114",
+      "bbox": [
+        239.54498291015625,
+        443.0181884765625,
+        289.5849609375,
+        452.0181884765625
+      ],
+      "text": "__________",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_115",
+      "bbox": [
+        172.0,
+        455.4382019042969,
+        197.4250030517578,
+        464.4382019042969
+      ],
+      "text": "Người",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_116",
+      "bbox": [
+        199.927001953125,
+        455.4382019042969,
+        218.92599487304688,
+        464.4382019042969
+      ],
+      "text": "kiểm",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_117",
+      "bbox": [
+        221.42799377441406,
+        455.4382019042969,
+        234.4329833984375,
+        464.4382019042969
+      ],
+      "text": "tra:",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_118",
+      "bbox": [
+        236.9349822998047,
+        455.4382019042969,
+        267.948974609375,
+        464.4382019042969
+      ],
+      "text": "Nguyễn",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_119",
+      "bbox": [
+        270.45098876953125,
+        455.4382019042969,
+        282.95196533203125,
+        464.4382019042969
+      ],
+      "text": "Thị",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "id": "token_120",
+      "bbox": [
+        285.4539794921875,
+        455.4382019042969,
+        297.45098876953125,
+        464.4382019042969
+      ],
+      "text": "Mỹ",
+      "from_ocr": false,
+      "direction": [
+        1,
+        0
+      ],
+      "source": "native_pdf_word",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "bbox": [
+        204.42353438869785,
+        296.5870760574765,
+        235.734885606685,
+        305.58547035533684
+      ],
+      "text": "24.8 C",
+      "source_ref": "ocr_12",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9987052083015442,
+      "id": "token_121",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        280.36255860703454,
+        294.0675256540756,
+        319.2318221879841,
+        303.06591995193594
+      ],
+      "text": "QC-017",
+      "source_ref": "ocr_13",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9989112019538879,
+      "id": "token_122",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        279.28285684089707,
+        311.3444427059674,
+        327.50953572837153,
+        320.7027727757422
+      ],
+      "text": "THIET B! MAU",
+      "source_ref": "ocr_14",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9674176573753357,
+      "id": "token_123",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        279.64275742960956,
+        328.6213597578593,
+        309.5145062927467,
+        337.2598182838052
+      ],
+      "text": "0/0 - 1/l",
+      "source_ref": "ocr_15",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9267933368682861,
+      "id": "token_124",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        49.66628124232447,
+        547.4623090818225,
+        270.28534212308466,
+        557.1805749235117
+      ],
+      "text": "4. Huó'ng dän an toän / Safety instructions",
+      "source_ref": "ocr_21",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9623863101005554,
+      "id": "token_125",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        49.66628124232447,
+        579.1366570102908,
+        518.616748334707,
+        589.9347301677233
+      ],
+      "text": "Ngát ngun truó'c khi vé sinh. Khng sú dung khi day dán bi hö hoác vó máy nút. Thng báo ngay cho b",
+      "source_ref": "ocr_22",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9497126340866089,
+      "id": "token_126",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        48.94648006489948,
+        592.8142163430385,
+        228.53687383243508,
+        603.9722252723853
+      ],
+      "text": "phan Ky thuat néu phát hién bát thuö'ng.",
+      "source_ref": "ocr_23",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9419330358505249,
+      "id": "token_127",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        49.66628124232447,
+        641.04560977957,
+        528.6939648186569,
+        649.6840683055159
+      ],
+      "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release eguipment until QA has",
+      "source_ref": "ocr_24",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9896497130393982,
+      "id": "token_128",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        49.30638065361198,
+        655.0831048842321,
+        184.62900200951054,
+        664.0814991820924
+      ],
+      "text": "approved the corrective action.",
+      "source_ref": "ocr_25",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9865630269050598,
+      "id": "token_129",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        49.30638065361198,
+        705.8340487241643,
+        253.37001445359732,
+        714.1125714781958
+      ],
+      "text": "Hotline nöi bö (giä lap): 028-0000-017  Revision 03",
+      "source_ref": "ocr_26",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9405676126480103,
+      "id": "token_130",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    }
+  ],
+  "refinement": {
+    "version": "geometry-v1",
+    "assumptions": "upright ruled tables; diagram candidates require connected closed shapes",
+    "native_words": 121,
+    "ocr_tokens": 10,
+    "unassigned_token_count": 0,
+    "seconds": 1.205193200148642
+  },
+  "runtime_warnings": [],
+  "engine": "paddle",
+  "profile": "refined",
+  "page_number": 4,
+  "pdf": "sop_hybrid.pdf",
+  "pdf_sha256": "92d75f4c2c0e7039873e4821ef36fdba2c6981b3e298ccd5857ad6a98ed99bbf",
+  "coordinate_system": "pdf_points_top_left_unrotated"
+}

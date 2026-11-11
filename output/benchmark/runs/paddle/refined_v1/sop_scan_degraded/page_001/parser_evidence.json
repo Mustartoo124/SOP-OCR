@@ -1,0 +1,767 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "block_0",
+      "type": "text",
+      "label": "header",
+      "bbox": [
+        101.85186660563642,
+        27.355118665495404,
+        326.06993337352156,
+        70.54741129522499
+      ],
+      "text": "CONG TY TNHH THIETBI NOVA Hethöng quan lychät lurong/Quality Management System QP-74-02Phien ban 03Ngay hieu luc15/10/2026",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_1",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        34.91035710511213,
+        97.18265841689157,
+        274.2442485989221,
+        114.09963969686899
+      ],
+      "text": "QUY TRiNH KIÉM SOAT THIET BI ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_2",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        35.990058871249616,
+        142.53456567810764,
+        155.47705432379837,
+        154.05251037936887
+      ],
+      "text": "1.Mucdich/Purpose ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_3",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        34.550456516399635,
+        168.09000548403097,
+        548.1285966091317,
+        193.64544528995432
+      ],
+      "text": "Bäo dam thiet bi duoc kiém tra,hieu chuanva ghi nhan truóc khi sur dung.Ap dung cho bö phan San xuat va Dam bao chat lu'o'ngQA).\n",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_4",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        35.270257693824625,
+        225.67972899033708,
+        118.40729368641125,
+        237.1976736915983
+      ],
+      "text": "2.Träch nhiem ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_5",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        45.707374766487014,
+        252.6749118839181,
+        354.14217929309626,
+        265.632599672837
+      ],
+      "text": "1.Nhan vien kiém trama thiét bi QC-017va tinh trang tem hiéu chuan ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_6",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        44.98757358906202,
+        282.9095167247288,
+        335.067448091334,
+        294.78739719790445
+      ],
+      "text": "2.Trungbphan xacnhan kétguatheobiéu mau QP-74-02-F6.",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_7",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        45.34747417777452,
+        313.5040573374539,
+        306.9952021717593,
+        324.6620662668007
+      ],
+      "text": "3.QAluru hsophan bietma0/O,1/lvasöA-001-2026",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_8",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        35.270257693824625,
+        366.7745515807871,
+        156.55675608993585,
+        378.2924962820483
+      ],
+      "text": "3.Acceptance criteria ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_9",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        34.550456516399635,
+        392.3299913867104,
+        552.4474036736816,
+        417.88543119263375
+      ],
+      "text": "Temperature20-25C.Relative humidity40-70%.Record every deviation and obtain QAapproval before releasing the eguipment.\n",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_10",
+      "type": "figure",
+      "label": "image",
+      "bbox": [
+        107.61027602503636,
+        483.03380590914253,
+        281.8021609618845,
+        643.5651601829709
+      ],
+      "text": "24.8C \n",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_11",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        297.6377868652344,
+        510.74886034655236,
+        396.6104487611708,
+        600.3728675532412
+      ],
+      "text": "QC-017THIETBIMAU 0/0-1/l ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_12",
+      "type": "text",
+      "label": "figure_title",
+      "bbox": [
+        116.24789015413627,
+        677.0391869710113,
+        297.99768745394687,
+        688.5571316722725
+      ],
+      "text": "Hinh 1.Minh hoa thiét bi va nhan nhan dang ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_13",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        35.270257693824625,
+        727.4301950390292,
+        304.83579863948427,
+        740.0279470560336
+      ],
+      "text": "Luu yBan sao khong có chu ky phe duyet chi dung de tham khao.",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_14",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        35.270257693824625,
+        791.8586982117091,
+        211.98144675166026,
+        803.0167071410559
+      ],
+      "text": "TAl LIEU GIA LAP-Chi dung kiem thu trichxuat ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_15",
+      "type": "text",
+      "label": "number",
+      "bbox": [
+        499.1821165442322,
+        792.9385055274523,
+        535.5320760041943,
+        803.3766429129703
+      ],
+      "text": "Trang 1/4",
+      "parent_ref": null,
+      "child_refs": []
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        105.45087249276139,
+        28.794861753153057,
+        266.3264356472472,
+        39.23299913867104
+      ],
+      "text": "CONG TY TNHH THIETBI NOVA",
+      "source_ref": "ocr_0"
+    },
+    {
+      "bbox": [
+        43.18807064549954,
+        42.11248531398635,
+        80.61773187159915,
+        52.55062269950433
+      ],
+      "text": "NOVA",
+      "source_ref": "ocr_1"
+    },
+    {
+      "bbox": [
+        104.7310713153364,
+        45.71184303313048,
+        325.7100327848091,
+        54.3503015590764
+      ],
+      "text": "Hethöng quan lychät lurong/Quality Management System",
+      "source_ref": "ocr_2"
+    },
+    {
+      "bbox": [
+        105.09097190404889,
+        61.908952769279075,
+        300.8768921636468,
+        70.54741129522499
+      ],
+      "text": "QP-74-02Phien ban 03Ngay hieu luc15/10/2026",
+      "source_ref": "ocr_3"
+    },
+    {
+      "bbox": [
+        37.7895618148121,
+        97.9025299607204,
+        275.3239503650596,
+        114.45957546878341
+      ],
+      "text": "QUY TRiNH KIÉM SOAT THIET BI",
+      "source_ref": "ocr_4"
+    },
+    {
+      "bbox": [
+        39.229164169662084,
+        144.69418030959412,
+        155.83695491251086,
+        154.41244615128326
+      ],
+      "text": "1.Mucdich/Purpose",
+      "source_ref": "ocr_5"
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        170.60955588743187,
+        545.9691930768568,
+        180.32782172912104
+      ],
+      "text": "Bäo dam thiet bi duoc kiém tra,hieu chuanva ghi nhan truóc khi sur dung.Ap dung cho bö phan San xuat va Dam",
+      "source_ref": "ocr_6"
+    },
+    {
+      "bbox": [
+        37.7895618148121,
+        183.56724367635076,
+        131.7236154687736,
+        194.72525260569756
+      ],
+      "text": "bao chat lu'o'ngQA).",
+      "source_ref": "ocr_7"
+    },
+    {
+      "bbox": [
+        37.429661226099604,
+        226.75953630608032,
+        118.40729368641125,
+        238.63741677925597
+      ],
+      "text": "2.Träch nhiem",
+      "source_ref": "ocr_8"
+    },
+    {
+      "bbox": [
+        48.22667888747449,
+        254.47459074349015,
+        353.4223781156713,
+        265.27266390092257
+      ],
+      "text": "1.Nhan vien kiém trama thiét bi QC-017va tinh trang tem hiéu chuan",
+      "source_ref": "ocr_9"
+    },
+    {
+      "bbox": [
+        47.86677829876199,
+        284.34925981238644,
+        333.98774632519644,
+        295.50726874173324
+      ],
+      "text": "2.Trungbphan xacnhan kétguatheobiéu mau QP-74-02-F6.",
+      "source_ref": "ocr_10"
+    },
+    {
+      "bbox": [
+        47.86677829876199,
+        315.303736197026,
+        306.27540099433423,
+        325.02200203871513
+      ],
+      "text": "3.QAluru hsophan bietma0/O,1/lvasöA-001-2026",
+      "source_ref": "ocr_11"
+    },
+    {
+      "bbox": [
+        37.429661226099604,
+        368.57423044035914,
+        155.83695491251086,
+        378.2924962820483
+      ],
+      "text": "3.Acceptance criteria",
+      "source_ref": "ocr_12"
+    },
+    {
+      "bbox": [
+        37.7895618148121,
+        394.4896060181969,
+        551.3677019075442,
+        404.56780763180046
+      ],
+      "text": "Temperature20-25C.Relative humidity40-70%.Record every deviation and obtain QAapproval before releasing",
+      "source_ref": "ocr_13"
+    },
+    {
+      "bbox": [
+        36.709860048674614,
+        408.527101122859,
+        102.9315683717739,
+        418.6053027364626
+      ],
+      "text": "the eguipment.",
+      "source_ref": "ocr_14"
+    },
+    {
+      "bbox": [
+        302.3164945184968,
+        514.7081538376109,
+        379.69512109168346,
+        533.4248139771604
+      ],
+      "text": "QC-017",
+      "source_ref": "ocr_15"
+    },
+    {
+      "bbox": [
+        151.8780484366734,
+        520.8270619601559,
+        211.62154616294777,
+        537.0241716963045
+      ],
+      "text": "24.8C",
+      "source_ref": "ocr_16"
+    },
+    {
+      "bbox": [
+        301.95659392978433,
+        551.0616668009667,
+        394.81094581760834,
+        565.8190334494576
+      ],
+      "text": "THIETBIMAU",
+      "source_ref": "ocr_17"
+    },
+    {
+      "bbox": [
+        300.8768921636468,
+        583.8158220451783,
+        359.1807875350712,
+        598.5731886936692
+      ],
+      "text": "0/0-1/l",
+      "source_ref": "ocr_18"
+    },
+    {
+      "bbox": [
+        118.40729368641125,
+        678.4789300586689,
+        297.99768745394687,
+        688.917067444187
+      ],
+      "text": "Hinh 1.Minh hoa thiét bi va nhan nhan dang",
+      "source_ref": "ocr_19"
+    },
+    {
+      "bbox": [
+        37.429661226099604,
+        729.5898096705156,
+        304.4758980507718,
+        739.6680112841192
+      ],
+      "text": "Luu yBan sao khong có chu ky phe duyet chi dung de tham khao.",
+      "source_ref": "ocr_20"
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        794.7381843870244,
+        211.26164557423527,
+        803.0167071410559
+      ],
+      "text": "TAl LIEU GIA LAP-Chi dung kiem thu trichxuat",
+      "source_ref": "ocr_21"
+    },
+    {
+      "bbox": [
+        499.1821165442322,
+        793.6583770712812,
+        535.8919765929069,
+        804.4564502287136
+      ],
+      "text": "Trang 1/4",
+      "source_ref": "ocr_22"
+    }
+  ],
+  "tables": [],
+  "containers": [],
+  "status": "success",
+  "errors": [],
+  "tokens": [
+    {
+      "bbox": [
+        105.45087249276139,
+        28.794861753153057,
+        266.3264356472472,
+        39.23299913867104
+      ],
+      "text": "CONG TY TNHH THIETBI NOVA",
+      "source_ref": "ocr_0",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9069715142250061
+    },
+    {
+      "bbox": [
+        43.18807064549954,
+        42.11248531398635,
+        80.61773187159915,
+        52.55062269950433
+      ],
+      "text": "NOVA",
+      "source_ref": "ocr_1",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9972033500671387
+    },
+    {
+      "bbox": [
+        104.7310713153364,
+        45.71184303313048,
+        325.7100327848091,
+        54.3503015590764
+      ],
+      "text": "Hethöng quan lychät lurong/Quality Management System",
+      "source_ref": "ocr_2",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8896481394767761
+    },
+    {
+      "bbox": [
+        105.09097190404889,
+        61.908952769279075,
+        300.8768921636468,
+        70.54741129522499
+      ],
+      "text": "QP-74-02Phien ban 03Ngay hieu luc15/10/2026",
+      "source_ref": "ocr_3",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9022420644760132
+    },
+    {
+      "bbox": [
+        37.7895618148121,
+        97.9025299607204,
+        275.3239503650596,
+        114.45957546878341
+      ],
+      "text": "QUY TRiNH KIÉM SOAT THIET BI",
+      "source_ref": "ocr_4",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8744047284126282
+    },
+    {
+      "bbox": [
+        39.229164169662084,
+        144.69418030959412,
+        155.83695491251086,
+        154.41244615128326
+      ],
+      "text": "1.Mucdich/Purpose",
+      "source_ref": "ocr_5",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9751327633857727
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        170.60955588743187,
+        545.9691930768568,
+        180.32782172912104
+      ],
+      "text": "Bäo dam thiet bi duoc kiém tra,hieu chuanva ghi nhan truóc khi sur dung.Ap dung cho bö phan San xuat va Dam",
+      "source_ref": "ocr_6",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8638516664505005
+    },
+    {
+      "bbox": [
+        37.7895618148121,
+        183.56724367635076,
+        131.7236154687736,
+        194.72525260569756
+      ],
+      "text": "bao chat lu'o'ngQA).",
+      "source_ref": "ocr_7",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.812943160533905
+    },
+    {
+      "bbox": [
+        37.429661226099604,
+        226.75953630608032,
+        118.40729368641125,
+        238.63741677925597
+      ],
+      "text": "2.Träch nhiem",
+      "source_ref": "ocr_8",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8810200095176697
+    },
+    {
+      "bbox": [
+        48.22667888747449,
+        254.47459074349015,
+        353.4223781156713,
+        265.27266390092257
+      ],
+      "text": "1.Nhan vien kiém trama thiét bi QC-017va tinh trang tem hiéu chuan",
+      "source_ref": "ocr_9",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8959514498710632
+    },
+    {
+      "bbox": [
+        47.86677829876199,
+        284.34925981238644,
+        333.98774632519644,
+        295.50726874173324
+      ],
+      "text": "2.Trungbphan xacnhan kétguatheobiéu mau QP-74-02-F6.",
+      "source_ref": "ocr_10",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8743330836296082
+    },
+    {
+      "bbox": [
+        47.86677829876199,
+        315.303736197026,
+        306.27540099433423,
+        325.02200203871513
+      ],
+      "text": "3.QAluru hsophan bietma0/O,1/lvasöA-001-2026",
+      "source_ref": "ocr_11",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8735130429267883
+    },
+    {
+      "bbox": [
+        37.429661226099604,
+        368.57423044035914,
+        155.83695491251086,
+        378.2924962820483
+      ],
+      "text": "3.Acceptance criteria",
+      "source_ref": "ocr_12",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9724351167678833
+    },
+    {
+      "bbox": [
+        37.7895618148121,
+        394.4896060181969,
+        551.3677019075442,
+        404.56780763180046
+      ],
+      "text": "Temperature20-25C.Relative humidity40-70%.Record every deviation and obtain QAapproval before releasing",
+      "source_ref": "ocr_13",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9695123434066772
+    },
+    {
+      "bbox": [
+        36.709860048674614,
+        408.527101122859,
+        102.9315683717739,
+        418.6053027364626
+      ],
+      "text": "the eguipment.",
+      "source_ref": "ocr_14",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9443132281303406
+    },
+    {
+      "bbox": [
+        302.3164945184968,
+        514.7081538376109,
+        379.69512109168346,
+        533.4248139771604
+      ],
+      "text": "QC-017",
+      "source_ref": "ocr_15",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9922558665275574
+    },
+    {
+      "bbox": [
+        151.8780484366734,
+        520.8270619601559,
+        211.62154616294777,
+        537.0241716963045
+      ],
+      "text": "24.8C",
+      "source_ref": "ocr_16",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9539865255355835
+    },
+    {
+      "bbox": [
+        301.95659392978433,
+        551.0616668009667,
+        394.81094581760834,
+        565.8190334494576
+      ],
+      "text": "THIETBIMAU",
+      "source_ref": "ocr_17",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9801582098007202
+    },
+    {
+      "bbox": [
+        300.8768921636468,
+        583.8158220451783,
+        359.1807875350712,
+        598.5731886936692
+      ],
+      "text": "0/0-1/l",
+      "source_ref": "ocr_18",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9063935875892639
+    },
+    {
+      "bbox": [
+        118.40729368641125,
+        678.4789300586689,
+        297.99768745394687,
+        688.917067444187
+      ],
+      "text": "Hinh 1.Minh hoa thiét bi va nhan nhan dang",
+      "source_ref": "ocr_19",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9062237739562988
+    },
+    {
+      "bbox": [
+        37.429661226099604,
+        729.5898096705156,
+        304.4758980507718,
+        739.6680112841192
+      ],
+      "text": "Luu yBan sao khong có chu ky phe duyet chi dung de tham khao.",
+      "source_ref": "ocr_20",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8621380925178528
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        794.7381843870244,
+        211.26164557423527,
+        803.0167071410559
+      ],
+      "text": "TAl LIEU GIA LAP-Chi dung kiem thu trichxuat",
+      "source_ref": "ocr_21",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8927918076515198
+    },
+    {
+      "bbox": [
+        499.1821165442322,
+        793.6583770712812,
+        535.8919765929069,
+        804.4564502287136
+      ],
+      "text": "Trang 1/4",
+      "source_ref": "ocr_22",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9439562559127808
+    }
+  ]
+}

@@ -1,0 +1,1401 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "#/texts/0",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        41.666666666666664,
+        40.333303841145835,
+        81.66666666666666,
+        54.333303841145835
+      ],
+      "text": "NOVA",
+      "parent_ref": "#/pictures/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/1",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        103.66666666666667,
+        27.666637174479092,
+        266.0,
+        41.66663717447909
+      ],
+      "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        104.0,
+        43.66663717447909,
+        327.6666666666667,
+        72.99997050781246
+      ],
+      "text": "Hệ quản lý chất Iượng / Quality Management System OP-74-02 Phiên bản 03 Ngày hiệu Iực: 15/10/2026",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/3",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        36.333333333333336,
+        96.33330384114583,
+        301.6666666666667,
+        116.66663717447909
+      ],
+      "text": "LỊCH SỬ BAN HÀNH VÀ PHÊ DUYỆT",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/4",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        37.0,
+        136.33330384114583,
+        355.6666666666667,
+        149.99997050781246
+      ],
+      "text": "Các ô gộp, nội dung nhỉều dòng và chữ xoay phải được bảo toàn khi trich xuất.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/5",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        41.0,
+        441.99997050781246,
+        51.66666666666667,
+        557.9999705078125
+      ],
+      "text": "1 = 3",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/6",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        66.66666666666667,
+        716.0486132949726,
+        411.6666666666667,
+        730.6179943873191
+      ],
+      "text": "Xác nhận Approval: Nội dung này là dữ lỉệu phải hổ sơ doanh nghỉệp. gỉả không",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/7",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        36.666666666666664,
+        793.3333038411458,
+        213.66666666666666,
+        805.3333038411458
+      ],
+      "text": "TẢl LIEU GIẢ LAP Chỉ dung kiểm thử trích xuẩt",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/8",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        499.3333333333333,
+        793.9999705078125,
+        536.6666666666666,
+        804.9999705078125
+      ],
+      "text": "Trang 2/4",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/pictures/0",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        36.602403927113066,
+        25.468249742451235,
+        93.26279644147118,
+        68.73367983961668
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/0"
+      ]
+    },
+    {
+      "id": "#/tables/0",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        57.565800109394765,
+        175.01382031928847,
+        557.9345662668113,
+        688.3821540785112
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        41.666666666666664,
+        40.333303841145835,
+        81.66666666666666,
+        54.333303841145835
+      ],
+      "text": "NOVA",
+      "source_ref": "#/texts/0"
+    },
+    {
+      "bbox": [
+        103.66666666666667,
+        27.666637174479092,
+        266.0,
+        41.66663717447909
+      ],
+      "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+      "source_ref": "#/texts/1"
+    },
+    {
+      "bbox": [
+        104.0,
+        43.66663717447909,
+        327.6666666666667,
+        72.99997050781246
+      ],
+      "text": "Hệ quản lý chất Iượng / Quality Management System OP-74-02 Phiên bản 03 Ngày hiệu Iực: 15/10/2026",
+      "source_ref": "#/texts/2"
+    },
+    {
+      "bbox": [
+        36.333333333333336,
+        96.33330384114583,
+        301.6666666666667,
+        116.66663717447909
+      ],
+      "text": "LỊCH SỬ BAN HÀNH VÀ PHÊ DUYỆT",
+      "source_ref": "#/texts/3"
+    },
+    {
+      "bbox": [
+        37.0,
+        136.33330384114583,
+        355.6666666666667,
+        149.99997050781246
+      ],
+      "text": "Các ô gộp, nội dung nhỉều dòng và chữ xoay phải được bảo toàn khi trich xuất.",
+      "source_ref": "#/texts/4"
+    },
+    {
+      "bbox": [
+        41.0,
+        441.99997050781246,
+        51.66666666666667,
+        557.9999705078125
+      ],
+      "text": "1 = 3",
+      "source_ref": "#/texts/5"
+    },
+    {
+      "bbox": [
+        66.66666666666667,
+        716.0486132949726,
+        411.6666666666667,
+        730.6179943873191
+      ],
+      "text": "Xác nhận Approval: Nội dung này là dữ lỉệu phải hổ sơ doanh nghỉệp. gỉả không",
+      "source_ref": "#/texts/6"
+    },
+    {
+      "bbox": [
+        36.666666666666664,
+        793.3333038411458,
+        213.66666666666666,
+        805.3333038411458
+      ],
+      "text": "TẢl LIEU GIẢ LAP Chỉ dung kiểm thử trích xuẩt",
+      "source_ref": "#/texts/7"
+    },
+    {
+      "bbox": [
+        499.3333333333333,
+        793.9999705078125,
+        536.6666666666666,
+        804.9999705078125
+      ],
+      "text": "Trang 2/4",
+      "source_ref": "#/texts/8"
+    },
+    {
+      "bbox": [
+        67.0,
+        184.0,
+        84.33333333333334,
+        206.0
+      ],
+      "text": "Lần sưa",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        109.0,
+        185.33333333333334,
+        132.33333333333331,
+        196.0
+      ],
+      "text": "Ngày",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        174.33333333333334,
+        185.33333333333334,
+        193.0,
+        194.66666666666666
+      ],
+      "text": "Mục",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        232.33333333333334,
+        184.0,
+        306.3333333333333,
+        195.94868329805053
+      ],
+      "text": "Nội dung đổi thay",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        402.0,
+        184.33333333333334,
+        452.0,
+        196.33333333333334
+      ],
+      "text": "Người soạn",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        479.0,
+        185.33333333333334,
+        523.0,
+        196.0
+      ],
+      "text": "Phê duyệt",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        67.0,
+        232.66666666666669,
+        77.0,
+        241.33333333333331
+      ],
+      "text": "01",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        109.66666666666667,
+        232.66666666666669,
+        153.0,
+        242.66666666666669
+      ],
+      "text": "12/03/2024",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        174.33333333333334,
+        232.66666666666669,
+        207.0,
+        242.66666666666669
+      ],
+      "text": "Toàn bộ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        231.33333333333334,
+        230.70730116509537,
+        377.6666666666667,
+        254.33333333333331
+      ],
+      "text": "Ban hành Iẩn đầu. Bổ sung dẫn kiểm thiết bị. hưởng tra",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        401.6666666666667,
+        231.33333333333331,
+        445.3333333333333,
+        244.66666666666669
+      ],
+      "text": "Nguyễn An",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        478.3333333333333,
+        232.0,
+        518.3333333333333,
+        242.66666666666669
+      ],
+      "text": "Trân Binh",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        109.0,
+        298.66666666666663,
+        153.0,
+        308.66666666666663
+      ],
+      "text": "12/03/2024",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        173.66666666666666,
+        298.66666666666663,
+        203.66666666666666,
+        308.0
+      ],
+      "text": "Phụ luc",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        401.6666666666667,
+        298.66666666666663,
+        425.6666666666667,
+        308.66666666666663
+      ],
+      "text": "Lẻ Hà",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        231.66666666666666,
+        310.0,
+        272.33333333333337,
+        319.33333333333337
+      ],
+      "text": "bị OC-017",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        67.0,
+        364.66666666666663,
+        78.33333333333334,
+        373.33333333333337
+      ],
+      "text": "02",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        109.0,
+        364.66666666666663,
+        153.0,
+        374.0
+      ],
+      "text": "08/06/2025",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        173.66666666666666,
+        364.66666666666663,
+        187.66666666666666,
+        373.33333333333337
+      ],
+      "text": "4.2",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        231.0,
+        363.0,
+        368.2900073952829,
+        387.28504195109383
+      ],
+      "text": "Sửa tần suất hiệu chuẩn tử 12 thành 6 tháng thang",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        401.6666666666667,
+        363.33333333333337,
+        431.6403361132561,
+        375.9517086177606
+      ],
+      "text": "Đỗ Huy",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        67.0,
+        431.3333333333333,
+        77.66666666666666,
+        439.3333333333333
+      ],
+      "text": "03",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        109.66666666666667,
+        430.6666666666667,
+        153.0,
+        440.6666666666667
+      ],
+      "text": "15/10/2026",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        174.33333333333334,
+        430.6666666666667,
+        187.0,
+        440.0
+      ],
+      "text": "5.1",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        231.33333333333334,
+        429.0,
+        374.2564102564102,
+        451.3333333333333
+      ],
+      "text": "Bổ sung Iưu đồ xử lý sai lệch; kỉểm và 1/L. tra",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        401.6666666666667,
+        430.6666666666667,
+        439.6666666666667,
+        441.3333333333333
+      ],
+      "text": "Phạm Mỹ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        479.0,
+        430.6666666666667,
+        507.0,
+        440.6666666666667
+      ],
+      "text": "Vũ Mai",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        109.0,
+        496.6666666666667,
+        153.0,
+        506.6666666666667
+      ],
+      "text": "15/10/2026",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        174.33333333333334,
+        496.6666666666667,
+        187.66666666666666,
+        506.0
+      ],
+      "text": "5.2",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        231.66666666666666,
+        496.0513167019495,
+        377.0,
+        518.0
+      ],
+      "text": "Phân trách nhiệm QA và bộ phận Sản xuất. công",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        401.0,
+        496.3333333333333,
+        439.6666666666667,
+        507.3333333333333
+      ],
+      "text": "Phạm Mỹ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        479.0,
+        496.6666666666667,
+        507.0,
+        506.6666666666667
+      ],
+      "text": "Vũ Mai",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        109.0,
+        561.6666666666667,
+        153.0,
+        571.6666666666667
+      ],
+      "text": "15/10/2026",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        231.66666666666666,
+        561.3333333333333,
+        363.6666666666667,
+        584.6666666666667
+      ],
+      "text": "Hồ sơ luu tổi thỉểu 03 năm. Record retention: 3 years.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        402.0,
+        561.6666666666667,
+        445.3333333333333,
+        573.6666666666667
+      ],
+      "text": "Nguyễn An",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        479.0,
+        562.0,
+        517.6666666666667,
+        572.0
+      ],
+      "text": "Trẩn Binh",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        67.0,
+        628.6666666666667,
+        78.33333333333334,
+        637.3333333333333
+      ],
+      "text": "03",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        109.0,
+        628.3333333333333,
+        153.0,
+        638.3333333333333
+      ],
+      "text": "15/10/2026",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        174.33333333333334,
+        628.6666666666667,
+        204.33333333333334,
+        638.6666666666667
+      ],
+      "text": "Ghi chú",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        401.6666666666667,
+        628.6666666666667,
+        469.6666666666667,
+        638.6666666666667
+      ],
+      "text": "Lê Hà / Trân Binh",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        231.33333333333334,
+        638.3333333333333,
+        328.6666666666667,
+        651.0
+      ],
+      "text": "Đã kiểm tra và phê duyệt",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    }
+  ],
+  "tables": [
+    {
+      "id": "#/tables/0",
+      "bbox": [
+        57.565800109394765,
+        175.01382031928847,
+        557.9345662668113,
+        688.3821540785112
+      ],
+      "rows": 8,
+      "cols": 6,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Lần sưa",
+          "bbox": [
+            67.0,
+            184.0,
+            84.33333333333334,
+            206.0
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Ngày",
+          "bbox": [
+            109.0,
+            185.33333333333334,
+            132.33333333333331,
+            196.0
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Mục",
+          "bbox": [
+            174.33333333333334,
+            185.33333333333334,
+            193.0,
+            194.66666666666666
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Nội dung đổi thay",
+          "bbox": [
+            232.33333333333334,
+            184.0,
+            306.3333333333333,
+            195.94868329805053
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Người soạn",
+          "bbox": [
+            402.0,
+            184.33333333333334,
+            452.0,
+            196.33333333333334
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phê duyệt",
+          "bbox": [
+            479.0,
+            185.33333333333334,
+            523.0,
+            196.0
+          ],
+          "column_header": true
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 2,
+          "colspan": 1,
+          "text": "01",
+          "bbox": [
+            67.0,
+            232.66666666666669,
+            77.0,
+            241.33333333333331
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "12/03/2024",
+          "bbox": [
+            109.66666666666667,
+            232.66666666666669,
+            153.0,
+            242.66666666666669
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Toàn bộ",
+          "bbox": [
+            174.33333333333334,
+            232.66666666666669,
+            207.0,
+            242.66666666666669
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Ban hành Iẩn đầu. Bổ sung dẫn kiểm thiết bị. hưởng tra",
+          "bbox": [
+            231.33333333333334,
+            230.70730116509537,
+            377.6666666666667,
+            254.33333333333331
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Nguyễn An",
+          "bbox": [
+            401.6666666666667,
+            231.33333333333331,
+            445.3333333333333,
+            244.66666666666669
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Trân Binh",
+          "bbox": [
+            478.3333333333333,
+            232.0,
+            518.3333333333333,
+            242.66666666666669
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "12/03/2024",
+          "bbox": [
+            109.0,
+            298.66666666666663,
+            153.0,
+            308.66666666666663
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phụ luc",
+          "bbox": [
+            173.66666666666666,
+            298.66666666666663,
+            203.66666666666666,
+            308.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Lẻ Hà",
+          "bbox": [
+            401.6666666666667,
+            298.66666666666663,
+            425.6666666666667,
+            308.66666666666663
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "bị OC-017",
+          "bbox": [
+            231.66666666666666,
+            310.0,
+            272.33333333333337,
+            319.33333333333337
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "02",
+          "bbox": [
+            67.0,
+            364.66666666666663,
+            78.33333333333334,
+            373.33333333333337
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "08/06/2025",
+          "bbox": [
+            109.0,
+            364.66666666666663,
+            153.0,
+            374.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "4.2",
+          "bbox": [
+            173.66666666666666,
+            364.66666666666663,
+            187.66666666666666,
+            373.33333333333337
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Sửa tần suất hiệu chuẩn tử 12 thành 6 tháng thang",
+          "bbox": [
+            231.0,
+            363.0,
+            368.2900073952829,
+            387.28504195109383
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Đỗ Huy",
+          "bbox": [
+            401.6666666666667,
+            363.33333333333337,
+            431.6403361132561,
+            375.9517086177606
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "03",
+          "bbox": [
+            67.0,
+            431.3333333333333,
+            77.66666666666666,
+            439.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "15/10/2026",
+          "bbox": [
+            109.66666666666667,
+            430.6666666666667,
+            153.0,
+            440.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "5.1",
+          "bbox": [
+            174.33333333333334,
+            430.6666666666667,
+            187.0,
+            440.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Bổ sung Iưu đồ xử lý sai lệch; kỉểm và 1/L. tra",
+          "bbox": [
+            231.33333333333334,
+            429.0,
+            374.2564102564102,
+            451.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phạm Mỹ",
+          "bbox": [
+            401.6666666666667,
+            430.6666666666667,
+            439.6666666666667,
+            441.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Vũ Mai",
+          "bbox": [
+            479.0,
+            430.6666666666667,
+            507.0,
+            440.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "15/10/2026",
+          "bbox": [
+            109.0,
+            496.6666666666667,
+            153.0,
+            506.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "5.2",
+          "bbox": [
+            174.33333333333334,
+            496.6666666666667,
+            187.66666666666666,
+            506.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phân trách nhiệm QA và bộ phận Sản xuất. công",
+          "bbox": [
+            231.66666666666666,
+            496.0513167019495,
+            377.0,
+            518.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phạm Mỹ",
+          "bbox": [
+            401.0,
+            496.3333333333333,
+            439.6666666666667,
+            507.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Vũ Mai",
+          "bbox": [
+            479.0,
+            496.6666666666667,
+            507.0,
+            506.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "15/10/2026",
+          "bbox": [
+            109.0,
+            561.6666666666667,
+            153.0,
+            571.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Hồ sơ luu tổi thỉểu 03 năm. Record retention: 3 years.",
+          "bbox": [
+            231.66666666666666,
+            561.3333333333333,
+            363.6666666666667,
+            584.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Nguyễn An",
+          "bbox": [
+            402.0,
+            561.6666666666667,
+            445.3333333333333,
+            573.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Trẩn Binh",
+          "bbox": [
+            479.0,
+            562.0,
+            517.6666666666667,
+            572.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "03",
+          "bbox": [
+            67.0,
+            628.6666666666667,
+            78.33333333333334,
+            637.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "15/10/2026",
+          "bbox": [
+            109.0,
+            628.3333333333333,
+            153.0,
+            638.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Ghi chú",
+          "bbox": [
+            174.33333333333334,
+            628.6666666666667,
+            204.33333333333334,
+            638.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Lê Hà / Trân Binh",
+          "bbox": [
+            401.6666666666667,
+            628.6666666666667,
+            469.6666666666667,
+            638.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Đã kiểm tra và phê duyệt",
+          "bbox": [
+            231.33333333333334,
+            638.3333333333333,
+            328.6666666666667,
+            651.0
+          ],
+          "column_header": false
+        }
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "containers": [
+    {
+      "id": "#/groups/0",
+      "type": "container",
+      "label": "key_value_area",
+      "parent_ref": "#/body",
+      "child_refs": []
+    }
+  ],
+  "status": "ConversionStatus.SUCCESS",
+  "errors": [],
+  "runtime_warnings": [
+    "`force_full_page_ocr` is deprecated; set `mode=OcrMode.FULL_PAGE` instead.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used."
+  ],
+  "engine": "docling",
+  "page_number": 2,
+  "pdf": "sop_scan_degraded.pdf",
+  "pdf_sha256": "76f623b06e718646e61e9699fb74d9b661c3706e684ff6278f8e15f40eba03b2",
+  "coordinate_system": "pdf_points_top_left_unrotated"
+}

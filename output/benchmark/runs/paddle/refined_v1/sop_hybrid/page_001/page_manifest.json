@@ -1,0 +1,84 @@
+{
+  "engine": "paddle",
+  "pdf": "sop_hybrid.pdf",
+  "page": 1,
+  "inference_fingerprint": "bcf26b711e18b16a74678ad53f46c165aaa4d348ff852be5de7d802a0eed9650",
+  "artifacts": [
+    {
+      "file": "status.json",
+      "bytes": 614,
+      "sha256": "282c1cbee5ea369916e4652de2aa6ccfb4bdbfe1354d6e3f7458d44a427f2be2"
+    },
+    {
+      "file": "evidence.json",
+      "bytes": 119066,
+      "sha256": "f924527dfc88afe29e4f62d63e815b43ed43f7d5dc0abd0af828b217563d2e4b"
+    },
+    {
+      "file": "evaluation.json",
+      "bytes": 8014,
+      "sha256": "3aff2b4a3f4cb42f69d12eb19565e11e577641327b5ee2402032adacfb32f57c"
+    },
+    {
+      "file": "overlay.png",
+      "bytes": 225813,
+      "sha256": "ff757d36fa3f4fabeedbc7cdbdfa9aafea3ba3c922b0fab84b7dd86462f2bd43"
+    },
+    {
+      "file": "cells_overlay.png",
+      "bytes": 222093,
+      "sha256": "011caa7073821ad43c6b275032456b2d7e4b413893be414468e97cc6a27b08bd"
+    },
+    {
+      "file": "parser.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "crops.json",
+      "bytes": 188,
+      "sha256": "7a12312bdc32516a9d1276c19acb9821febac1849a1d9a311b5db55c8c295a94"
+    },
+    {
+      "file": "raw_paddle.json",
+      "bytes": 36388,
+      "sha256": "7e068c370f10b420a55372546e66f349fe23079fb5853652926e5e14ae400e7b"
+    },
+    {
+      "file": "parser_evidence.json",
+      "bytes": 19508,
+      "sha256": "0f179af49d53af9a6f4c33d180fdb7bf7ddb7a3473eb0b080115be24ee6391aa"
+    },
+    {
+      "file": "geometry_candidates.json",
+      "bytes": 1032,
+      "sha256": "b3293bb7444e5b1e5ba72d53f36c56d1cd4f3f7fe15030b7021141a4edf98a86"
+    },
+    {
+      "file": "grid_mask.png",
+      "bytes": 10903,
+      "sha256": "93991b21a3dad338e6504509d04da089240f68710cc8ab3f63f35f56773792c6"
+    },
+    {
+      "file": "diagram_working_mask.png",
+      "bytes": 49096,
+      "sha256": "aeff57609a15c49b1d3139f8af5a22b92768aca45cbbcfc3e5ab28a4967d38bd"
+    },
+    {
+      "file": "token_ownership.json",
+      "bytes": 63748,
+      "sha256": "25e3f7c68cfc89b69074f35982f3ea5c41dcde285fc50fd13e63d452606555fe"
+    },
+    {
+      "file": "suppressed_duplicates.json",
+      "bytes": 2770,
+      "sha256": "3f76efab833337184f62b585428b5aa72a8a28a17ab47e0e0c27ca79e50fe9e1"
+    },
+    {
+      "file": "crop_015_figure.png",
+      "bytes": 39509,
+      "sha256": "4f35ee85872c317f64fbd011d395d6b8acf14496dcdfa78a37bf298aabf4abfb"
+    }
+  ],
+  "note": "Only listed artifacts belong to the current successful attempt; archived retries are not exported"
+}

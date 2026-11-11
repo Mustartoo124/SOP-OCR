@@ -1,0 +1,943 @@
+{
+  "tables": [
+    {
+      "rows": 8,
+      "cols": 6,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            62.0,
+            177.0,
+            104.0,
+            225.0
+          ],
+          "text": "Lần\nsửa",
+          "id": "geometry_table_0_cell_0",
+          "token_ids": [
+            "token_64",
+            "token_65"
+          ]
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            104.0,
+            177.0,
+            169.0,
+            225.0
+          ],
+          "text": "Ngày",
+          "id": "geometry_table_0_cell_1",
+          "token_ids": [
+            "token_66"
+          ]
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            169.0,
+            177.0,
+            227.0,
+            225.0
+          ],
+          "text": "Mục",
+          "id": "geometry_table_0_cell_2",
+          "token_ids": [
+            "token_67"
+          ]
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            227.0,
+            177.0,
+            397.0,
+            225.0
+          ],
+          "text": "Nội dung thay đổi",
+          "id": "geometry_table_0_cell_3",
+          "token_ids": [
+            "token_68",
+            "token_69",
+            "token_70",
+            "token_71"
+          ]
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            397.0,
+            177.0,
+            474.0,
+            225.0
+          ],
+          "text": "Người soạn",
+          "id": "geometry_table_0_cell_4",
+          "token_ids": [
+            "token_72",
+            "token_73"
+          ]
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            474.0,
+            177.0,
+            557.0,
+            225.0
+          ],
+          "text": "Phê duyệt",
+          "id": "geometry_table_0_cell_5",
+          "token_ids": [
+            "token_74",
+            "token_75"
+          ]
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 2,
+          "colspan": 1,
+          "bbox": [
+            62.0,
+            225.0,
+            104.0,
+            357.0
+          ],
+          "text": "01",
+          "id": "geometry_table_0_cell_6",
+          "token_ids": [
+            "token_76"
+          ]
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            104.0,
+            225.0,
+            169.0,
+            291.0
+          ],
+          "text": "12/03/2024",
+          "id": "geometry_table_0_cell_7",
+          "token_ids": [
+            "token_77"
+          ]
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            169.0,
+            225.0,
+            227.0,
+            291.0
+          ],
+          "text": "Toàn bộ",
+          "id": "geometry_table_0_cell_8",
+          "token_ids": [
+            "token_78",
+            "token_79"
+          ]
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            227.0,
+            225.0,
+            397.0,
+            291.0
+          ],
+          "text": "Ban hành lần đầu. Bổ sung hướng dẫn\nkiểm tra thiết bị.",
+          "id": "geometry_table_0_cell_9",
+          "token_ids": [
+            "token_80",
+            "token_81",
+            "token_82",
+            "token_83",
+            "token_84",
+            "token_85",
+            "token_86",
+            "token_87",
+            "token_88",
+            "token_89",
+            "token_90",
+            "token_91"
+          ]
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            397.0,
+            225.0,
+            474.0,
+            291.0
+          ],
+          "text": "Nguyễn An",
+          "id": "geometry_table_0_cell_10",
+          "token_ids": [
+            "token_92",
+            "token_93"
+          ]
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            474.0,
+            225.0,
+            557.0,
+            291.0
+          ],
+          "text": "Trần Bình",
+          "id": "geometry_table_0_cell_11",
+          "token_ids": [
+            "token_94",
+            "token_95"
+          ]
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            104.0,
+            291.0,
+            169.0,
+            357.0
+          ],
+          "text": "12/03/2024",
+          "id": "geometry_table_0_cell_12",
+          "token_ids": [
+            "token_96"
+          ]
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            169.0,
+            291.0,
+            227.0,
+            357.0
+          ],
+          "text": "Phụ lục",
+          "id": "geometry_table_0_cell_13",
+          "token_ids": [
+            "token_97",
+            "token_98"
+          ]
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            227.0,
+            291.0,
+            397.0,
+            357.0
+          ],
+          "text": "Biểu mẫu QP-74-02-F6 và danh mục thiết\nbị QC-017.",
+          "id": "geometry_table_0_cell_14",
+          "token_ids": [
+            "token_99",
+            "token_100",
+            "token_101",
+            "token_102",
+            "token_103",
+            "token_104",
+            "token_105",
+            "token_106",
+            "token_107"
+          ]
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            397.0,
+            291.0,
+            474.0,
+            357.0
+          ],
+          "text": "Lê Hà",
+          "id": "geometry_table_0_cell_15",
+          "token_ids": [
+            "token_108",
+            "token_109"
+          ]
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            474.0,
+            291.0,
+            557.0,
+            357.0
+          ],
+          "text": "Trần Bình",
+          "id": "geometry_table_0_cell_16",
+          "token_ids": [
+            "token_110",
+            "token_111"
+          ]
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            62.0,
+            357.0,
+            104.0,
+            423.0
+          ],
+          "text": "02",
+          "id": "geometry_table_0_cell_17",
+          "token_ids": [
+            "token_112"
+          ]
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            104.0,
+            357.0,
+            169.0,
+            423.0
+          ],
+          "text": "08/06/2025",
+          "id": "geometry_table_0_cell_18",
+          "token_ids": [
+            "token_113"
+          ]
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            169.0,
+            357.0,
+            227.0,
+            423.0
+          ],
+          "text": "4.2",
+          "id": "geometry_table_0_cell_19",
+          "token_ids": [
+            "token_114"
+          ]
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            227.0,
+            357.0,
+            397.0,
+            423.0
+          ],
+          "text": "Sửa tần suất hiệu chuẩn từ 12 tháng\nthành 6 tháng.",
+          "id": "geometry_table_0_cell_20",
+          "token_ids": [
+            "token_115",
+            "token_116",
+            "token_117",
+            "token_118",
+            "token_119",
+            "token_120",
+            "token_121",
+            "token_122",
+            "token_123",
+            "token_124",
+            "token_125"
+          ]
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            397.0,
+            357.0,
+            474.0,
+            423.0
+          ],
+          "text": "Đỗ Huy",
+          "id": "geometry_table_0_cell_21",
+          "token_ids": [
+            "token_126",
+            "token_127"
+          ]
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            474.0,
+            357.0,
+            557.0,
+            423.0
+          ],
+          "text": "Vũ Mai",
+          "id": "geometry_table_0_cell_22",
+          "token_ids": [
+            "token_128",
+            "token_129"
+          ]
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            62.0,
+            423.0,
+            104.0,
+            489.0
+          ],
+          "text": "03",
+          "id": "geometry_table_0_cell_23",
+          "token_ids": [
+            "token_130"
+          ]
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            104.0,
+            423.0,
+            169.0,
+            489.0
+          ],
+          "text": "15/10/2026",
+          "id": "geometry_table_0_cell_24",
+          "token_ids": [
+            "token_131"
+          ]
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            169.0,
+            423.0,
+            227.0,
+            489.0
+          ],
+          "text": "5.1",
+          "id": "geometry_table_0_cell_25",
+          "token_ids": [
+            "token_132"
+          ]
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            227.0,
+            423.0,
+            397.0,
+            489.0
+          ],
+          "text": "Bổ sung lưu đồ xử lý sai lệch; kiểm tra 0/O\nvà 1/I.",
+          "id": "geometry_table_0_cell_26",
+          "token_ids": [
+            "token_133",
+            "token_134",
+            "token_135",
+            "token_136",
+            "token_137",
+            "token_138",
+            "token_139",
+            "token_140",
+            "token_141",
+            "token_142",
+            "token_143",
+            "token_144",
+            "token_145"
+          ]
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            397.0,
+            423.0,
+            474.0,
+            489.0
+          ],
+          "text": "Phạm Mỹ",
+          "id": "geometry_table_0_cell_27",
+          "token_ids": [
+            "token_146",
+            "token_147"
+          ]
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            474.0,
+            423.0,
+            557.0,
+            489.0
+          ],
+          "text": "Vũ Mai",
+          "id": "geometry_table_0_cell_28",
+          "token_ids": [
+            "token_148",
+            "token_149"
+          ]
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            62.0,
+            489.0,
+            104.0,
+            555.0
+          ],
+          "text": "03",
+          "id": "geometry_table_0_cell_29",
+          "token_ids": [
+            "token_150"
+          ]
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            104.0,
+            489.0,
+            169.0,
+            555.0
+          ],
+          "text": "15/10/2026",
+          "id": "geometry_table_0_cell_30",
+          "token_ids": [
+            "token_151"
+          ]
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            169.0,
+            489.0,
+            227.0,
+            555.0
+          ],
+          "text": "5.2",
+          "id": "geometry_table_0_cell_31",
+          "token_ids": [
+            "token_152"
+          ]
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            227.0,
+            489.0,
+            397.0,
+            555.0
+          ],
+          "text": "Phân công trách nhiệm QA và bộ phận\nSản xuất.",
+          "id": "geometry_table_0_cell_32",
+          "token_ids": [
+            "token_153",
+            "token_154",
+            "token_155",
+            "token_156",
+            "token_157",
+            "token_158",
+            "token_159",
+            "token_160",
+            "token_161",
+            "token_162"
+          ]
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            397.0,
+            489.0,
+            474.0,
+            555.0
+          ],
+          "text": "Phạm Mỹ",
+          "id": "geometry_table_0_cell_33",
+          "token_ids": [
+            "token_163",
+            "token_164"
+          ]
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            474.0,
+            489.0,
+            557.0,
+            555.0
+          ],
+          "text": "Vũ Mai",
+          "id": "geometry_table_0_cell_34",
+          "token_ids": [
+            "token_165",
+            "token_166"
+          ]
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            62.0,
+            555.0,
+            104.0,
+            621.0
+          ],
+          "text": "03",
+          "id": "geometry_table_0_cell_35",
+          "token_ids": [
+            "token_167"
+          ]
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            104.0,
+            555.0,
+            169.0,
+            621.0
+          ],
+          "text": "15/10/2026",
+          "id": "geometry_table_0_cell_36",
+          "token_ids": [
+            "token_168"
+          ]
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            169.0,
+            555.0,
+            227.0,
+            621.0
+          ],
+          "text": "6",
+          "id": "geometry_table_0_cell_37",
+          "token_ids": [
+            "token_169"
+          ]
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            227.0,
+            555.0,
+            397.0,
+            621.0
+          ],
+          "text": "Hồ sơ lưu tối thiểu 03 năm. Record\nretention: 3 years.",
+          "id": "geometry_table_0_cell_38",
+          "token_ids": [
+            "token_170",
+            "token_171",
+            "token_172",
+            "token_173",
+            "token_174",
+            "token_175",
+            "token_176",
+            "token_177",
+            "token_178",
+            "token_179",
+            "token_180"
+          ]
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            397.0,
+            555.0,
+            474.0,
+            621.0
+          ],
+          "text": "Nguyễn An",
+          "id": "geometry_table_0_cell_39",
+          "token_ids": [
+            "token_181",
+            "token_182"
+          ]
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            474.0,
+            555.0,
+            557.0,
+            621.0
+          ],
+          "text": "Trần Bình",
+          "id": "geometry_table_0_cell_40",
+          "token_ids": [
+            "token_183",
+            "token_184"
+          ]
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            62.0,
+            621.0,
+            104.0,
+            687.0
+          ],
+          "text": "03",
+          "id": "geometry_table_0_cell_41",
+          "token_ids": [
+            "token_185"
+          ]
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            104.0,
+            621.0,
+            169.0,
+            687.0
+          ],
+          "text": "15/10/2026",
+          "id": "geometry_table_0_cell_42",
+          "token_ids": [
+            "token_186"
+          ]
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            169.0,
+            621.0,
+            227.0,
+            687.0
+          ],
+          "text": "Ghi chú",
+          "id": "geometry_table_0_cell_43",
+          "token_ids": [
+            "token_187",
+            "token_188"
+          ]
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            227.0,
+            621.0,
+            397.0,
+            687.0
+          ],
+          "text": "Dấu tiếng Việt: ă, â, ê, ô, ơ, ư, đ.\nĐã kiểm tra và phê duyệt.",
+          "id": "geometry_table_0_cell_44",
+          "token_ids": [
+            "token_189",
+            "token_190",
+            "token_191",
+            "token_192",
+            "token_193",
+            "token_194",
+            "token_195",
+            "token_196",
+            "token_197",
+            "token_198",
+            "token_199",
+            "token_200",
+            "token_201",
+            "token_202",
+            "token_203",
+            "token_204"
+          ]
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 2,
+          "bbox": [
+            397.0,
+            621.0,
+            557.0,
+            687.0
+          ],
+          "text": "Lê Hà / Trần Bình",
+          "id": "geometry_table_0_cell_45",
+          "token_ids": [
+            "token_205",
+            "token_206",
+            "token_207",
+            "token_208",
+            "token_209"
+          ]
+        }
+      ],
+      "xs": [
+        62.0,
+        104.0,
+        169.0,
+        227.0,
+        397.0,
+        474.0,
+        557.0
+      ],
+      "ys": [
+        177.0,
+        225.0,
+        291.0,
+        357.0,
+        423.0,
+        489.0,
+        555.0,
+        621.0,
+        687.0
+      ],
+      "grid_valid": true,
+      "bbox": [
+        62.0,
+        177.0,
+        557.0,
+        687.0
+      ],
+      "method": "native_pdf_grid",
+      "needs_review": false,
+      "id": "geometry_table_0",
+      "parent_ref": null
+    }
+  ],
+  "figures": [
+    {
+      "bbox": [
+        36.18478316892842,
+        25.389145182980542,
+        92.72543309421411,
+        68.7356861077659
+      ],
+      "label": "picture",
+      "method": "parser_figure",
+      "needs_review": false,
+      "id": "recovered_figure_0",
+      "type": "figure",
+      "parent_ref": null,
+      "child_refs": [],
+      "metadata_text": "NOVA"
+    }
+  ],
+  "nodes": [],
+  "image_placements": []
+}

@@ -1,0 +1,28 @@
+{
+  "engine": "paddle",
+  "profile": "refined",
+  "device": "cpu",
+  "threads": 4,
+  "offline": true,
+  "environment": {
+    "python": "3.11.7",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "cpu": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+    "logical_cpus": 22,
+    "ram_bytes": 33683177472,
+    "packages": {
+      "paddleocr": "3.7.0",
+      "paddlex": "3.7.2",
+      "paddlepaddle": "3.3.1",
+      "numpy": "2.3.5",
+      "pymupdf": "2.1"
+    }
+  },
+  "scope": "parser plus geometry refinement, native image/text recovery, nested figures",
+  "timing_policy": "v2: page seconds include input preparation, parser/raw export, refinement, and evidence/crop export; startup separate",
+  "renderer_dpi": 200,
+  "runner_sha256": "64ba3c01178143941cd35b6c4743e9d40c09ff10869ddeba7bf0f3bb588961d5",
+  "adapter_sha256": "7d541ab1f3f233a21386cf47b18e56e4d1f2cfa239f68a45388958a6b7fd39e9",
+  "common_sha256": "6df46c677b1941478cc50760ca80b34f26d93fbf9ab345cb368baf91bbd65f75",
+  "refinement_sha256": "fc4325a1d9cb9533e730a9b484ad92faf7f13961d2f0465dbccd3476a8958a6b"
+}

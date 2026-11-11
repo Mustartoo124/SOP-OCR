@@ -1,0 +1,74 @@
+{
+  "engine": "docling",
+  "pdf": "sop_scan_degraded.pdf",
+  "page": 2,
+  "inference_fingerprint": "98a5e78d4cf2e331d3f47c6de9d84e666cf340f168e6abff73068571fb61501f",
+  "artifacts": [
+    {
+      "file": "status.json",
+      "bytes": 386,
+      "sha256": "9f456e9b5abf7a1ab0060976c0befa8623a770c0aa8f8196d5810fbee96b8e03"
+    },
+    {
+      "file": "evidence.json",
+      "bytes": 40944,
+      "sha256": "ea023bf47288d9edc8667a01469b92b251974010d15eeb60cc8da2f4d9130344"
+    },
+    {
+      "file": "evaluation.json",
+      "bytes": 42793,
+      "sha256": "dc1b17298f43c54087553a97bf726059f7b649e322e5e9d873e5087e16bb53ec"
+    },
+    {
+      "file": "overlay.png",
+      "bytes": 658828,
+      "sha256": "8fb9d387c95941641daddc440cb1ac4a1f5998c63d12dab31c255d6f54f7b457"
+    },
+    {
+      "file": "cells_overlay.png",
+      "bytes": 659329,
+      "sha256": "d823d582ab96ced18d1200e2fc53bb60f1cedb7e0bf1f94be203f8303fe389e0"
+    },
+    {
+      "file": "parser.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "crops.json",
+      "bytes": 459,
+      "sha256": "0159f295ba140bbae9bc34e897aa9065ed1299b6ad83fc84655ad25cc48a575c"
+    },
+    {
+      "file": "raw_document.json",
+      "bytes": 595432,
+      "sha256": "c1cb704e0e5be0104e24399ec02549c8eece54e02ed6fb563c4c507505dffa6c"
+    },
+    {
+      "file": "document.md",
+      "bytes": 1738,
+      "sha256": "e239d604770106061b7170667363fccbf98f1a431ecb684465fb9b80294b718a"
+    },
+    {
+      "file": "table_00.html",
+      "bytes": 1201,
+      "sha256": "b021a3c0a6a22f27416adc7c67e464093650993f566a966a2a978ca97546a332"
+    },
+    {
+      "file": "table_00.view.html",
+      "bytes": 1762,
+      "sha256": "cdf09664606a6ecb2cee1e9502a2bf8fbe423d209aa6212b8a9ab43d7cf6e3ad"
+    },
+    {
+      "file": "crop_009_figure.png",
+      "bytes": 6548,
+      "sha256": "243837262aa0cc3a6d0fa9dc2a92b532eb1f2238ce73776804c3648d836dd1dd"
+    },
+    {
+      "file": "crop_010_table.png",
+      "bytes": 358865,
+      "sha256": "0801f3a9f2b066b2e69f80206845feff19bcad0bc55e2fb5cc036d295a435269"
+    }
+  ],
+  "note": "Only listed artifacts belong to the current successful attempt; archived retries are not exported"
+}

@@ -1,0 +1,1090 @@
+[
+  {
+    "bbox": [
+      105.09097190404889,
+      29.154797525067472,
+      264.5269327036847,
+      39.592934910585456
+    ],
+    "text": "CONG TY TNHH THIET BI NOVA",
+    "source_ref": "ocr_0",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9888322353363037,
+    "id": "token_0",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      43.18807064549954,
+      42.47242108590076,
+      80.25783128288666,
+      52.55062269950433
+    ],
+    "text": "NOVA",
+    "source_ref": "ocr_1",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9979495406150818,
+    "id": "token_1",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      104.7310713153364,
+      46.07177880504489,
+      325.7100327848091,
+      55.43010887481964
+    ],
+    "text": "Hé thóng quän ly chät luo'ng / Quality Management System",
+    "source_ref": "ocr_2",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9403432607650757,
+    "id": "token_2",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      105.09097190404889,
+      62.26888854119349,
+      300.8768921636468,
+      70.90734706713941
+    ],
+    "text": "QP-74-02Phién bän 03 Ngay hi&u luc: 15/10/2026",
+    "source_ref": "ocr_3",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9362191557884216,
+    "id": "token_3",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      37.069760637387105,
+      98.26246573263481,
+      297.6377868652344,
+      114.81951124069782
+    ],
+    "text": "LICH SU' BAN HANH VA PHE DUYET",
+    "source_ref": "ocr_4",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.96288001537323,
+    "id": "token_4",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      37.7895618148121,
+      137.13552909939145,
+      352.7025769382463,
+      147.93360225682383
+    ],
+    "text": "Các  göp, nöi dung nhiéu döng vá ch xoay phái duo'c báo toán khi trich xuát.",
+    "source_ref": "ocr_5",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9399935007095337,
+    "id": "token_5",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      66.5816089118118,
+      183.92717944826515,
+      83.85683717001162,
+      194.00538106186872
+    ],
+    "text": "Lan",
+    "source_ref": "ocr_6",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8474674224853516,
+    "id": "token_6",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_0"
+  },
+  {
+    "bbox": [
+      108.33007720246135,
+      183.92717944826515,
+      131.7236154687736,
+      195.8050599214408
+    ],
+    "text": "Ngay",
+    "source_ref": "ocr_7",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9020477533340454,
+    "id": "token_7",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_1"
+  },
+  {
+    "bbox": [
+      174.19188493684817,
+      185.3669225359228,
+      192.90671554989797,
+      194.72525260569756
+    ],
+    "text": "Muc",
+    "source_ref": "ocr_8",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9961006045341492,
+    "id": "token_8",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_2"
+  },
+  {
+    "bbox": [
+      232.13587971956005,
+      184.28711522017957,
+      304.4758980507718,
+      195.44512414952638
+    ],
+    "text": "Nöi dung thay di",
+    "source_ref": "ocr_9",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9926928281784058,
+    "id": "token_9",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_3"
+  },
+  {
+    "bbox": [
+      402.3688581805707,
+      185.0069867640084,
+      450.95543765675774,
+      194.72525260569756
+    ],
+    "text": "Nguöi soan",
+    "source_ref": "ocr_10",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9588271975517273,
+    "id": "token_10",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_4"
+  },
+  {
+    "bbox": [
+      479.02768357633244,
+      185.0069867640084,
+      521.1360524556945,
+      194.72525260569756
+    ],
+    "text": "Phé duyet",
+    "source_ref": "ocr_11",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8869826793670654,
+    "id": "token_11",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_5"
+  },
+  {
+    "bbox": [
+      66.2217083230993,
+      195.8050599214408,
+      84.9365389361491,
+      206.2431973069588
+    ],
+    "text": "sua",
+    "source_ref": "ocr_12",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8005029559135437,
+    "id": "token_12",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_0"
+  },
+  {
+    "bbox": [
+      66.94150950052429,
+      232.87844442862536,
+      78.09842775061168,
+      241.8768387264857
+    ],
+    "text": "01",
+    "source_ref": "ocr_13",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9991405010223389,
+    "id": "token_13",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_6"
+  },
+  {
+    "bbox": [
+      109.76967955731133,
+      233.59831597245417,
+      151.5181478479609,
+      240.79703141074245
+    ],
+    "text": "12/03/2024",
+    "source_ref": "ocr_14",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9986356496810913,
+    "id": "token_14",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_7"
+  },
+  {
+    "bbox": [
+      173.47208375942316,
+      232.51850865671094,
+      206.22303733226033,
+      242.2367744984001
+    ],
+    "text": "Toan bö",
+    "source_ref": "ocr_15",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8737073540687561,
+    "id": "token_15",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_8"
+  },
+  {
+    "bbox": [
+      232.49578030827254,
+      232.51850865671094,
+      376.09611520455854,
+      241.51690295457126
+    ],
+    "text": "Ban hänh lan dau. Bó sung huó'ng dan",
+    "source_ref": "ocr_16",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9166558384895325,
+    "id": "token_16",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_9"
+  },
+  {
+    "bbox": [
+      401.28915641443325,
+      231.79863711288212,
+      444.4772270599328,
+      242.5967102703145
+    ],
+    "text": "Nguyên An",
+    "source_ref": "ocr_17",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9223740100860596,
+    "id": "token_17",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_10"
+  },
+  {
+    "bbox": [
+      479.3875841650449,
+      231.79863711288212,
+      516.4573448024321,
+      241.51690295457126
+    ],
+    "text": "Trän Binh",
+    "source_ref": "ocr_18",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9423180818557739,
+    "id": "token_18",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_11"
+  },
+  {
+    "bbox": [
+      232.49578030827254,
+      242.95664604222893,
+      290.7996756796969,
+      253.0348476558325
+    ],
+    "text": "kiém tra thiét bi.",
+    "source_ref": "ocr_19",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9919895529747009,
+    "id": "token_19",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_9"
+  },
+  {
+    "bbox": [
+      109.76967955731133,
+      299.8264980047062,
+      151.5181478479609,
+      307.02521344299447
+    ],
+    "text": "12/03/2024",
+    "source_ref": "ocr_20",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9988927841186523,
+    "id": "token_20",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_12"
+  },
+  {
+    "bbox": [
+      173.83198434813565,
+      298.746690688963,
+      203.34383262256034,
+      308.46495653065216
+    ],
+    "text": "Phu luc",
+    "source_ref": "ocr_21",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.97980135679245,
+    "id": "token_21",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_13"
+  },
+  {
+    "bbox": [
+      232.49578030827254,
+      299.1066264608774,
+      386.8931328659334,
+      307.3851492149089
+    ],
+    "text": "Biéu mäu QP-74-02-F6 va danh muc thiét",
+    "source_ref": "ocr_22",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9622064828872681,
+    "id": "token_22",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_14"
+  },
+  {
+    "bbox": [
+      401.28915641443325,
+      299.46656223279183,
+      425.4024958581705,
+      307.3851492149089
+    ],
+    "text": "Le Ha",
+    "source_ref": "ocr_23",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.920859158039093,
+    "id": "token_23",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_15"
+  },
+  {
+    "bbox": [
+      479.7474847537574,
+      298.746690688963,
+      516.4573448024321,
+      307.3851492149089
+    ],
+    "text": "Tran Binh",
+    "source_ref": "ocr_24",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9286702275276184,
+    "id": "token_24",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_16"
+  },
+  {
+    "bbox": [
+      232.85568089698504,
+      310.984506934053,
+      272.8046462440721,
+      318.5431581442557
+    ],
+    "text": "bi QC-017.",
+    "source_ref": "ocr_25",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9964664578437805,
+    "id": "token_25",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_14"
+  },
+  {
+    "bbox": [
+      66.94150950052429,
+      364.6149369493006,
+      78.09842775061168,
+      373.61333124716094
+    ],
+    "text": "02",
+    "source_ref": "ocr_26",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9991343021392822,
+    "id": "token_26",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_17"
+  },
+  {
+    "bbox": [
+      109.76967955731133,
+      365.3348084931294,
+      151.5181478479609,
+      372.5335239314177
+    ],
+    "text": "08/06/2025",
+    "source_ref": "ocr_27",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9986971020698547,
+    "id": "token_27",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_18"
+  },
+  {
+    "bbox": [
+      173.83198434813565,
+      364.97487272121504,
+      187.5082067192105,
+      373.2533954752465
+    ],
+    "text": "4.2",
+    "source_ref": "ocr_28",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9983202815055847,
+    "id": "token_28",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_19"
+  },
+  {
+    "bbox": [
+      232.49578030827254,
+      363.89506540547177,
+      367.8184016641711,
+      373.97326701907537
+    ],
+    "text": "Süa tan suät hiéu chuän tür 12 thäng",
+    "source_ref": "ocr_29",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8949601650238037,
+    "id": "token_29",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_20"
+  },
+  {
+    "bbox": [
+      401.64905700314574,
+      363.89506540547177,
+      430.801004688858,
+      374.69313856290415
+    ],
+    "text": "Dö Huy",
+    "source_ref": "ocr_30",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9020018577575684,
+    "id": "token_30",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_21"
+  },
+  {
+    "bbox": [
+      479.3875841650449,
+      365.3348084931294,
+      506.38012831848215,
+      372.8934597033321
+    ],
+    "text": "Vü Mai",
+    "source_ref": "ocr_31",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8597585558891296,
+    "id": "token_31",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_22"
+  },
+  {
+    "bbox": [
+      232.13587971956005,
+      375.7729458786474,
+      285.041266260297,
+      386.2110832641654
+    ],
+    "text": "thanh 6 thäng.",
+    "source_ref": "ocr_32",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9191156029701233,
+    "id": "token_32",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_20"
+  },
+  {
+    "bbox": [
+      41.38856770193706,
+      400.60851414074193,
+      51.46578418588695,
+      579.4965927822053
+    ],
+    "text": "LOOOLITOIOTCIET-CUIOILOOLHICY",
+    "source_ref": "ocr_33",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.2877970337867737,
+    "id": "token_33",
+    "needs_review": true,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      66.94150950052429,
+      431.20305475346703,
+      78.09842775061168,
+      439.84151327941294
+    ],
+    "text": "03",
+    "source_ref": "ocr_34",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9969494342803955,
+    "id": "token_34",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_23"
+  },
+  {
+    "bbox": [
+      109.40977896859884,
+      431.56299052538145,
+      151.1582472592484,
+      438.7617059636697
+    ],
+    "text": "15/10/2026",
+    "source_ref": "ocr_35",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9990410804748535,
+    "id": "token_35",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_24"
+  },
+  {
+    "bbox": [
+      173.83198434813565,
+      431.20305475346703,
+      187.148306130498,
+      439.84151327941294
+    ],
+    "text": "5.1",
+    "source_ref": "ocr_36",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9977204203605652,
+    "id": "token_36",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_25"
+  },
+  {
+    "bbox": [
+      232.85568089698504,
+      430.8431189815526,
+      389.05253639820836,
+      439.84151327941294
+    ],
+    "text": "Bó sung luu d xür ly sai Iéch; kiém tra 0/O",
+    "source_ref": "ocr_37",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9236840605735779,
+    "id": "token_37",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_26"
+  },
+  {
+    "bbox": [
+      401.64905700314574,
+      430.48318320963824,
+      437.99901646310786,
+      440.5613848232418
+    ],
+    "text": "Pham My",
+    "source_ref": "ocr_38",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9596639275550842,
+    "id": "token_38",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_27"
+  },
+  {
+    "bbox": [
+      479.3875841650449,
+      431.56299052538145,
+      506.38012831848215,
+      439.48157750749857
+    ],
+    "text": "Vü Mai",
+    "source_ref": "ocr_39",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9085795879364014,
+    "id": "token_39",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_28"
+  },
+  {
+    "bbox": [
+      232.13587971956005,
+      442.72099945472826,
+      255.8893185745848,
+      450.6395864368454
+    ],
+    "text": "va 1/l.",
+    "source_ref": "ocr_40",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9206517934799194,
+    "id": "token_40",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_26"
+  },
+  {
+    "bbox": [
+      66.94150950052429,
+      497.07130101380466,
+      78.09842775061168,
+      505.70975953975056
+    ],
+    "text": "03",
+    "source_ref": "ocr_41",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9976297616958618,
+    "id": "token_41",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_29"
+  },
+  {
+    "bbox": [
+      109.76967955731133,
+      497.7911725576335,
+      151.5181478479609,
+      505.3498237678362
+    ],
+    "text": "15/10/2026",
+    "source_ref": "ocr_42",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9984772801399231,
+    "id": "token_42",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_30"
+  },
+  {
+    "bbox": [
+      173.83198434813565,
+      497.07130101380466,
+      187.5082067192105,
+      505.70975953975056
+    ],
+    "text": "5.2",
+    "source_ref": "ocr_43",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9981748461723328,
+    "id": "token_43",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_31"
+  },
+  {
+    "bbox": [
+      232.85568089698504,
+      497.7911725576335,
+      375.73621461584605,
+      505.70975953975056
+    ],
+    "text": "Phan cong trach nhiém QA va bophan",
+    "source_ref": "ocr_44",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8317546248435974,
+    "id": "token_44",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_32"
+  },
+  {
+    "bbox": [
+      401.64905700314574,
+      496.71136524189023,
+      438.35891705182036,
+      506.78956685549383
+    ],
+    "text": "Pham My",
+    "source_ref": "ocr_45",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9554789662361145,
+    "id": "token_45",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_33"
+  },
+  {
+    "bbox": [
+      479.02768357633244,
+      497.4312367857191,
+      506.74002890719464,
+      505.70975953975056
+    ],
+    "text": "Vü Mai",
+    "source_ref": "ocr_46",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.879700243473053,
+    "id": "token_46",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_34"
+  },
+  {
+    "bbox": [
+      232.49578030827254,
+      507.86937417123704,
+      267.76603800209716,
+      516.8677684690974
+    ],
+    "text": "Sän xuat.",
+    "source_ref": "ocr_47",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8740749359130859,
+    "id": "token_47",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_32"
+  },
+  {
+    "bbox": [
+      67.30141008923678,
+      563.2994830460567,
+      77.73852716189919,
+      570.8581342562594
+    ],
+    "text": "03",
+    "source_ref": "ocr_48",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.998131275177002,
+    "id": "token_48",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_35"
+  },
+  {
+    "bbox": [
+      109.40977896859884,
+      563.2994830460567,
+      151.1582472592484,
+      570.8581342562594
+    ],
+    "text": "15/10/2026",
+    "source_ref": "ocr_49",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9989150762557983,
+    "id": "token_49",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_36"
+  },
+  {
+    "bbox": [
+      173.11218317071067,
+      562.5796115022279,
+      181.0299961223856,
+      571.5780058000882
+    ],
+    "text": "6",
+    "source_ref": "ocr_50",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9990248680114746,
+    "id": "token_50",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_37"
+  },
+  {
+    "bbox": [
+      232.85568089698504,
+      562.2196757303135,
+      362.4198928334837,
+      571.2180700281738
+    ],
+    "text": "H so' luu töi thiéu 03 näm. Record",
+    "source_ref": "ocr_51",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9427176117897034,
+    "id": "token_51",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_38"
+  },
+  {
+    "bbox": [
+      401.64905700314574,
+      561.859739958399,
+      444.4772270599328,
+      572.6578131158315
+    ],
+    "text": "Nguyn An",
+    "source_ref": "ocr_52",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9998704791069031,
+    "id": "token_52",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_39"
+  },
+  {
+    "bbox": [
+      479.3875841650449,
+      562.5796115022279,
+      516.4573448024321,
+      571.2180700281738
+    ],
+    "text": "Trän Binh",
+    "source_ref": "ocr_53",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9475037455558777,
+    "id": "token_53",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_40"
+  },
+  {
+    "bbox": [
+      232.49578030827254,
+      575.1773635192324,
+      298.71748863137185,
+      583.0959505013494
+    ],
+    "text": "retention: 3 years.",
+    "source_ref": "ocr_54",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9791814088821411,
+    "id": "token_54",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_38"
+  },
+  {
+    "bbox": [
+      66.94150950052429,
+      628.8077935344799,
+      78.09842775061168,
+      637.8061878323402
+    ],
+    "text": "03",
+    "source_ref": "ocr_55",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9980616569519043,
+    "id": "token_55",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_41"
+  },
+  {
+    "bbox": [
+      109.76967955731133,
+      629.5276650783087,
+      151.1582472592484,
+      636.726380516597
+    ],
+    "text": "15/10/2026",
+    "source_ref": "ocr_56",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9986065626144409,
+    "id": "token_56",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_42"
+  },
+  {
+    "bbox": [
+      174.55178552556066,
+      629.5276650783087,
+      204.06363379998535,
+      637.0863162885114
+    ],
+    "text": "Ghi chü",
+    "source_ref": "ocr_57",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9252986311912537,
+    "id": "token_57",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_43"
+  },
+  {
+    "bbox": [
+      232.85568089698504,
+      628.4478577625655,
+      353.0624775269588,
+      637.8061878323402
+    ],
+    "text": "Dau tiéng Viét: a, a, é, , o, u, d.",
+    "source_ref": "ocr_58",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9647288918495178,
+    "id": "token_58",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_44"
+  },
+  {
+    "bbox": [
+      401.64905700314574,
+      629.1677293063943,
+      467.51086473753253,
+      636.726380516597
+    ],
+    "text": "Lé Hä/ Tran Binh",
+    "source_ref": "ocr_59",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8710970878601074,
+    "id": "token_59",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_45"
+  },
+  {
+    "bbox": [
+      232.85568089698504,
+      640.3257382357411,
+      326.42983396223406,
+      648.6042609897727
+    ],
+    "text": "Dä kiém tra va phé duyét.",
+    "source_ref": "ocr_60",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8538764119148254,
+    "id": "token_60",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_44"
+  },
+  {
+    "bbox": [
+      67.30141008923678,
+      717.7119291973399,
+      408.1272675999707,
+      728.1500665828579
+    ],
+    "text": "Xác nhan/ Approval: Ni dung nay lá d liéu gia lap, khöng phái h so doanh nghiép",
+    "source_ref": "ocr_61",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9354251623153687,
+    "id": "token_61",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      38.149462403524595,
+      794.7381843870244,
+      211.26164557423527,
+      803.0167071410559
+    ],
+    "text": "TAI LIEU GIA LAP -Chi düng kiém thür trich xuat",
+    "source_ref": "ocr_62",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.935276448726654,
+    "id": "token_62",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      500.26181831036973,
+      795.0981201589389,
+      535.5320760041943,
+      803.7365786848848
+    ],
+    "text": "Trang 2/4",
+    "source_ref": "ocr_63",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9998637437820435,
+    "id": "token_63",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  }
+]

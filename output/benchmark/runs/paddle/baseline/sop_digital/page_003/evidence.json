@@ -1,0 +1,959 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "block_0",
+      "type": "text",
+      "label": "header",
+      "bbox": [
+        37.069760637387105,
+        24.83556826209451,
+        91.41474953297403,
+        67.66792511990968
+      ],
+      "text": "NOVA ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_1",
+      "type": "text",
+      "label": "header",
+      "bbox": [
+        102.9315683717739,
+        27.71505443740982,
+        325.3501321960966,
+        69.46760397948175
+      ],
+      "text": "CONG TY TNHH THIET BI NOVA Hé thöng quän ly chät luo'ng / Quality Management System QP-74-02  Phién bän 03  Ngäy hiéu luc: 15/10/2026",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_2",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        35.630158282537124,
+        98.62240150454923,
+        311.31400923630923,
+        113.73970392495458
+      ],
+      "text": "QUY TRINH THU'C HIEN/WORKELOW ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_3",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        35.270257693824625,
+        136.4156575555626,
+        366.73869989803364,
+        147.21373071299502
+      ],
+      "text": "Luu d vector gm text, hinh khói vá mai tén; khöng có möt ánh nhúng tuo'ng úng ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_4",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        37.7895618148121,
+        173.12910629083277,
+        556.0464095608066,
+        674.5196365676104
+      ],
+      "text": "<html><body><table><tbody><tr><td colspan=\"2\">Luu dö</td><td>Träch nhiém</td><td>Diên giai</td><td>Biéu mäu</td></tr><tr><td colspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td>Tiép nhan thiét bi Kiém tra / Do Khong Dat yéu cau? C6 Phé duyét, luu h so Két thüc</td></tr><tr><td rowspan=\"2\">Tiép nhan thiét bi</td><td></td><td></td><td>Kiém tra / Do</td></tr><tr><td>Ky thuat</td><td>Do thng só theo huó'ng dan. Ghi nhan nhiet d0 20-25 *C va ma QC-017</td><td>HD-74-01</td></tr><tr><td rowspan=\"2\">QA</td><td>Dói chiéu tiéu chi. Néu khng dat: cách ly va läp phiéu xu ly sai léch.</td><td>NC-01</td><td>Phé duyét, luu h so</td></tr><tr><td></td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td></td><td>QA/ Kho</td></tr><tr><td colspan=\"2\"></td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td></td><td></td></tr></tbody></table></body></html>",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_5",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        35.630158282537124,
+        701.5148194611913,
+        384.0139281562334,
+        711.9529568467094
+      ],
+      "text": "Ghi chú: So' d chay lién tuc qua các khoáng hang bén phái; khng suy ra quan hê 1:1",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_6",
+      "type": "text",
+      "label": "footer",
+      "bbox": [
+        36.709860048674614,
+        792.9385055274523,
+        210.54184439681026,
+        802.2968355972271
+      ],
+      "text": "TAI LIEU GIA LAP -Chi düng kiém thü trich xuät ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_7",
+      "type": "text",
+      "label": "number",
+      "bbox": [
+        499.90191772165724,
+        793.6583770712812,
+        533.7325730606318,
+        802.2968355972271
+      ],
+      "text": "Trang 3/4",
+      "parent_ref": null,
+      "child_refs": []
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        105.09097190404889,
+        28.794861753153057,
+        263.8071315262597,
+        39.592934910585456
+      ],
+      "text": "CONG TY TNHH THIET BI NOVA",
+      "source_ref": "ocr_0"
+    },
+    {
+      "bbox": [
+        42.828170056787044,
+        42.11248531398635,
+        80.61773187159915,
+        52.190686927589915
+      ],
+      "text": "NOVA",
+      "source_ref": "ocr_1"
+    },
+    {
+      "bbox": [
+        105.45087249276139,
+        46.43171457695931,
+        325.7100327848091,
+        54.71023733099081
+      ],
+      "text": "Hé thöng quän ly chät luo'ng / Quality Management System",
+      "source_ref": "ocr_2"
+    },
+    {
+      "bbox": [
+        104.7310713153364,
+        61.54901699736466,
+        300.5169915749343,
+        70.54741129522499
+      ],
+      "text": "QP-74-02  Phién bän 03  Ngäy hiéu luc: 15/10/2026",
+      "source_ref": "ocr_3"
+    },
+    {
+      "bbox": [
+        38.86926358094959,
+        101.14195190795012,
+        311.31400923630923,
+        113.01983238112575
+      ],
+      "text": "QUY TRINH THU'C HIEN/WORKELOW",
+      "source_ref": "ocr_4"
+    },
+    {
+      "bbox": [
+        37.7895618148121,
+        137.13552909939145,
+        366.73869989803364,
+        148.65347380065268
+      ],
+      "text": "Luu d vector gm text, hinh khói vá mai tén; khöng có möt ánh nhúng tuo'ng úng",
+      "source_ref": "ocr_5"
+    },
+    {
+      "bbox": [
+        42.828170056787044,
+        180.68775750103543,
+        73.41972009734923,
+        190.765959114639
+      ],
+      "text": "Luu dö",
+      "source_ref": "ocr_6"
+    },
+    {
+      "bbox": [
+        223.49826559046014,
+        182.8473721325219,
+        273.8843480102096,
+        190.4060233427246
+      ],
+      "text": "Träch nhiém",
+      "source_ref": "ocr_7"
+    },
+    {
+      "bbox": [
+        291.5194768571219,
+        180.68775750103543,
+        329.309038671934,
+        191.84576643038224
+      ],
+      "text": "Diên giai",
+      "source_ref": "ocr_8"
+    },
+    {
+      "bbox": [
+        470.3900694472325,
+        181.40762904486428,
+        508.8994324394696,
+        190.4060233427246
+      ],
+      "text": "Biéu mäu",
+      "source_ref": "ocr_9"
+    },
+    {
+      "bbox": [
+        223.85816617917263,
+        223.1601785869362,
+        258.76852328428475,
+        231.79863711288212
+      ],
+      "text": "Sän xuät",
+      "source_ref": "ocr_10"
+    },
+    {
+      "bbox": [
+        293.6788803893969,
+        223.1601785869362,
+        447.35643176963276,
+        232.15857288479654
+      ],
+      "text": "Tiép nhan thiét bi. Kiém tra mä, tem hiéu",
+      "source_ref": "ocr_11"
+    },
+    {
+      "bbox": [
+        470.3900694472325,
+        223.5201143588506,
+        520.4162512782694,
+        231.0787655690533
+      ],
+      "text": "QP-74-02-F6",
+      "source_ref": "ocr_12"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        235.03805906011183,
+        408.1272675999707,
+        244.03645335797216
+      ],
+      "text": "chuan vä tinh trang bén ngoäi.",
+      "source_ref": "ocr_13"
+    },
+    {
+      "bbox": [
+        88.89544541198656,
+        244.03645335797216,
+        155.83695491251086,
+        254.47459074349015
+      ],
+      "text": "Tiép nhan thiét bi",
+      "source_ref": "ocr_14"
+    },
+    {
+      "bbox": [
+        88.89544541198656,
+        325.741873582544,
+        140.00132900916103,
+        334.3803321084899
+      ],
+      "text": "Kiém tra / Do",
+      "source_ref": "ocr_15"
+    },
+    {
+      "bbox": [
+        223.49826559046014,
+        337.6197540557196,
+        256.2492191632973,
+        347.33801989740874
+      ],
+      "text": "Ky thuat",
+      "source_ref": "ocr_16"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        338.3396255995484,
+        442.6777241163703,
+        346.61814835357995
+      ],
+      "text": "Do thng só theo huó'ng dan. Ghi nhan",
+      "source_ref": "ocr_17"
+    },
+    {
+      "bbox": [
+        470.03016885852,
+        338.3396255995484,
+        507.4598300846196,
+        345.8982768097511
+      ],
+      "text": "HD-74-01",
+      "source_ref": "ocr_18"
+    },
+    {
+      "bbox": [
+        293.3189798006844,
+        350.9373776165529,
+        419.64408643877056,
+        358.1360930548412
+      ],
+      "text": "nhiet d0 20-25 *C va ma QC-017",
+      "source_ref": "ocr_19"
+    },
+    {
+      "bbox": [
+        51.46578418588695,
+        387.29089057990865,
+        74.13952127477421,
+        396.6492206496834
+      ],
+      "text": "Khong",
+      "source_ref": "ocr_20"
+    },
+    {
+      "bbox": [
+        109.04987837988635,
+        427.6036970343229,
+        160.15576197706082,
+        438.0418344198409
+      ],
+      "text": "Dat yéu cau?",
+      "source_ref": "ocr_21"
+    },
+    {
+      "bbox": [
+        223.13836500174764,
+        453.1591368402463,
+        237.174487961535,
+        461.7975953661922
+      ],
+      "text": "QA",
+      "source_ref": "ocr_22"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        452.43926529641743,
+        450.59553706804525,
+        462.1575311381066
+      ],
+      "text": "Dói chiéu tiéu chi. Néu khng dat: cách ly",
+      "source_ref": "ocr_23"
+    },
+    {
+      "bbox": [
+        469.67026826980754,
+        453.51907261216064,
+        495.5831106571073,
+        461.43765959427776
+      ],
+      "text": "NC-01",
+      "source_ref": "ocr_24"
+    },
+    {
+      "bbox": [
+        292.9590792119719,
+        465.3969530853363,
+        393.3713434627583,
+        473.67547583936783
+      ],
+      "text": "va läp phiéu xu ly sai léch.",
+      "source_ref": "ocr_25"
+    },
+    {
+      "bbox": [
+        143.60033489628597,
+        483.39374168105695,
+        154.39735255766087,
+        490.95239289125965
+      ],
+      "text": "C6",
+      "source_ref": "ocr_26"
+    },
+    {
+      "bbox": [
+        88.89544541198656,
+        530.5453278018451,
+        169.51317728358572,
+        540.2635936435343
+      ],
+      "text": "Phé duyét, luu h so",
+      "source_ref": "ocr_27"
+    },
+    {
+      "bbox": [
+        223.49826559046014,
+        568.6985196247729,
+        258.76852328428475,
+        576.2571708349756
+      ],
+      "text": "QA/ Kho",
+      "source_ref": "ocr_28"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        567.978648080944,
+        446.2767300034953,
+        576.9770423788044
+      ],
+      "text": "Phé duyét thiét bi dat yéu cäu. Cap nhat",
+      "source_ref": "ocr_29"
+    },
+    {
+      "bbox": [
+        470.03016885852,
+        568.6985196247729,
+        519.6964501008445,
+        575.8972350630612
+      ],
+      "text": "DM-THIETBI",
+      "source_ref": "ocr_30"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        580.2164643260342,
+        383.6540275675209,
+        588.4949870800656
+      ],
+      "text": "danh muc va luu hö so'.",
+      "source_ref": "ocr_31"
+    },
+    {
+      "bbox": [
+        87.81574364584907,
+        620.8892065523628,
+        120.92659780739872,
+        630.607472394052
+      ],
+      "text": "Két thüc",
+      "source_ref": "ocr_32"
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        702.954562548849,
+        384.0139281562334,
+        712.6728283905381
+      ],
+      "text": "Ghi chú: So' d chay lién tuc qua các khoáng hang bén phái; khng suy ra quan hê 1:1",
+      "source_ref": "ocr_33"
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        794.7381843870244,
+        210.90174498552278,
+        802.6567713691416
+      ],
+      "text": "TAI LIEU GIA LAP -Chi düng kiém thü trich xuät",
+      "source_ref": "ocr_34"
+    },
+    {
+      "bbox": [
+        500.26181831036973,
+        795.0981201589389,
+        535.5320760041943,
+        803.7365786848848
+      ],
+      "text": "Trang 3/4",
+      "source_ref": "ocr_35"
+    }
+  ],
+  "tables": [
+    {
+      "id": "block_4",
+      "bbox": [
+        37.7895618148121,
+        173.12910629083277,
+        556.0464095608066,
+        674.5196365676104
+      ],
+      "rows": 10,
+      "cols": 5,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 2,
+          "text": "Luu dö",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Träch nhiém",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Diên giai",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Biéu mäu",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 2,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 2,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 2,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rowspan": 2,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Tiép nhan thiét bi Kiém tra / Do Khong Dat yéu cau? C6 Phé duyét, luu h so Két thüc",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rowspan": 2,
+          "colspan": 1,
+          "text": "Tiép nhan thiét bi",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Kiém tra / Do",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Ky thuat",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Do thng só theo huó'ng dan. Ghi nhan nhiet d0 20-25 *C va ma QC-017",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "HD-74-01",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "rowspan": 2,
+          "colspan": 1,
+          "text": "QA",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Dói chiéu tiéu chi. Néu khng dat: cách ly va läp phiéu xu ly sai léch.",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "NC-01",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phé duyét, luu h so",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 2,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QA/ Kho",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 8,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 2,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 8,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 8,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 9,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 2,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 9,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 9,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        }
+      ],
+      "cell_box_count": 27,
+      "cell_box_alignment": "unresolved",
+      "raw_cell_boxes": [
+        [
+          38.286583856470195,
+          173.4303242652389,
+          217.606376195028,
+          214.9048630564799
+        ],
+        [
+          217.5693295432419,
+          173.4529081366548,
+          286.3781748131309,
+          214.84753563968238
+        ],
+        [
+          286.3888945084002,
+          173.51221345840318,
+          464.5843000626675,
+          214.88584911540374
+        ],
+        [
+          464.48944833280547,
+          173.40409999833327,
+          555.7992854383081,
+          214.89521878134133
+        ],
+        [
+          38.49178182706106,
+          215.52511462046758,
+          217.8418799921219,
+          673.3180345790465
+        ],
+        [
+          38.97323951096507,
+          214.4827832223827,
+          76.81735826616807,
+          335.6859121249145
+        ],
+        [
+          217.50798784439058,
+          214.6734141836141,
+          286.3537918997111,
+          329.88454011365195
+        ],
+        [
+          286.2851023769508,
+          214.65542728094965,
+          464.5257810704599,
+          329.7908654230121
+        ],
+        [
+          464.456674182515,
+          214.67005296699406,
+          555.8200658311866,
+          329.7835278651618
+        ],
+        [
+          76.52415373229434,
+          234.57411779941654,
+          192.79915614849227,
+          271.67890112264166
+        ],
+        [
+          76.53562029157827,
+          271.6055584972427,
+          134.47909336780933,
+          315.50829808302336
+        ],
+        [
+          134.2954526865571,
+          271.22931093878987,
+          217.52385870470218,
+          317.1977927467924
+        ],
+        [
+          76.63246823518543,
+          315.5705245279665,
+          192.79492758017398,
+          355.61042435844234
+        ],
+        [
+          217.51117299974723,
+          329.8271577750142,
+          286.30961708990264,
+          444.48601164876806
+        ],
+        [
+          286.23453528984044,
+          329.72841929070825,
+          464.5182684971359,
+          444.3971041738573
+        ],
+        [
+          464.4666470137696,
+          329.69063306465273,
+          555.8653170038397,
+          444.41911684740825
+        ],
+        [
+          217.56670453589624,
+          444.3632283828239,
+          286.367894449635,
+          559.560755665229
+        ],
+        [
+          286.26919856675624,
+          444.32487096963035,
+          464.5549087670317,
+          559.5374248675133
+        ],
+        [
+          464.50987726026534,
+          444.36889631673216,
+          555.8454152745078,
+          559.5539453570445
+        ],
+        [
+          76.57413870480504,
+          520.5451591387933,
+          192.72673230565871,
+          561.4700145803619
+        ],
+        [
+          76.58927917604345,
+          561.537854037373,
+          134.50410232900617,
+          611.3616732773095
+        ],
+        [
+          134.3078638091537,
+          560.5062021911144,
+          217.47537844351513,
+          611.2783238926266
+        ],
+        [
+          217.55702825358864,
+          559.4089956363969,
+          286.3587563487497,
+          673.7754236642063
+        ],
+        [
+          286.27767766998153,
+          559.4444971139001,
+          464.41889165000856,
+          673.4672022970212
+        ],
+        [
+          464.46937087076424,
+          559.4299098731439,
+          555.7735845295682,
+          673.8305212542919
+        ],
+        [
+          76.58542129390888,
+          611.425690174243,
+          192.77923245257173,
+          648.5456484019145
+        ],
+        [
+          76.58715390858995,
+          648.5497785242973,
+          217.54216785635572,
+          673.6879880946128
+        ]
+      ],
+      "parent_ref": null
+    }
+  ],
+  "containers": [],
+  "status": "success",
+  "errors": [],
+  "runtime_warnings": [],
+  "engine": "paddle",
+  "page_number": 3,
+  "pdf": "sop_digital.pdf",
+  "pdf_sha256": "31a8b81356763a5569ad0ea6dfa7409e481af6e107d798b090080073d28af2ba",
+  "coordinate_system": "pdf_points_top_left_unrotated"
+}

@@ -1,0 +1,3649 @@
+{
+  "annotation_version": "fixture-1",
+  "synthetic": true,
+  "source_pdf": "sop_hybrid.pdf",
+  "sha256": "92d75f4c2c0e7039873e4821ef36fdba2c6981b3e298ccd5857ad6a98ed99bbf",
+  "coordinate_system": "pdf_points_top_left_unrotated",
+  "policy": "authoring-derived visible semantic regions; not a product export schema",
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 595.2756,
+      "height": 841.8898,
+      "components": [
+        {
+          "id": "p1_001",
+          "type": "image",
+          "page": 1,
+          "bbox": [
+            38,
+            27,
+            92,
+            68
+          ],
+          "parent_id": null,
+          "representation": "vector_logo",
+          "layer": "furniture",
+          "rendered_representation": "vector_logo"
+        },
+        {
+          "id": "p1_002",
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            43,
+            39,
+            80.55908203125,
+            54.08
+          ],
+          "parent_id": "p1_001",
+          "text": "NOVA",
+          "rendered_lines": [
+            "NOVA"
+          ],
+          "role": "figure_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_003",
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            105,
+            28,
+            264.832763671875,
+            40.18
+          ],
+          "parent_id": null,
+          "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+          "rendered_lines": [
+            "CÔNG TY TNHH THIẾT BỊ NOVA"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_004",
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            105,
+            45,
+            326.246484375,
+            54.744
+          ],
+          "parent_id": null,
+          "text": "Hệ thống quản lý chất lượng / Quality Management System",
+          "rendered_lines": [
+            "Hệ thống quản lý chất lượng / Quality Management System"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_005",
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            105,
+            61,
+            300.824072265625,
+            70.628
+          ],
+          "parent_id": null,
+          "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+          "rendered_lines": [
+            "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_006",
+          "type": "heading",
+          "page": 1,
+          "bbox": [
+            38,
+            98,
+            274.66748046875,
+            115.4
+          ],
+          "parent_id": null,
+          "text": "QUY TRÌNH KIỂM SOÁT THIẾT BỊ",
+          "rendered_lines": [
+            "QUY TRÌNH KIỂM SOÁT THIẾT BỊ"
+          ],
+          "level": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_007",
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            38,
+            794,
+            211.421875,
+            803.28
+          ],
+          "parent_id": null,
+          "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+          "rendered_lines": [
+            "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_008",
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            501,
+            794,
+            535.2421875,
+            803.28
+          ],
+          "parent_id": null,
+          "text": "Trang 1/4",
+          "rendered_lines": [
+            "Trang 1/4"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_009",
+          "type": "heading",
+          "page": 1,
+          "bbox": [
+            38,
+            142,
+            156.217529296875,
+            155.34
+          ],
+          "parent_id": null,
+          "text": "1. Mục đích / Purpose",
+          "rendered_lines": [
+            "1. Mục đích / Purpose"
+          ],
+          "level": 2,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_010",
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            38,
+            169,
+            546.4912109375,
+            194.4
+          ],
+          "parent_id": null,
+          "text": "Bảo đảm thiết bị được kiểm tra, hiệu chuẩn và ghi nhận trước khi sử dụng. Áp dụng cho bộ phận Sản xuất và Đảm bảo chất lượng (QA).",
+          "rendered_lines": [
+            "Bảo đảm thiết bị được kiểm tra, hiệu chuẩn và ghi nhận trước khi sử dụng. Áp dụng cho bộ phận Sản xuất và Đảm",
+            "bảo chất lượng (QA)."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_011",
+          "type": "heading",
+          "page": 1,
+          "bbox": [
+            38,
+            225,
+            119.16259765625,
+            238.34
+          ],
+          "parent_id": null,
+          "text": "2. Trách nhiệm",
+          "rendered_lines": [
+            "2. Trách nhiệm"
+          ],
+          "level": 2,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_012",
+          "type": "list_item",
+          "page": 1,
+          "bbox": [
+            48,
+            254,
+            355.22617187500003,
+            265.368
+          ],
+          "parent_id": null,
+          "text": "1. Nhân viên kiểm tra mã thiết bị QC-017 và tình trạng tem hiệu chuẩn.",
+          "rendered_lines": [
+            "1. Nhân viên kiểm tra mã thiết bị QC-017 và tình trạng tem hiệu chuẩn."
+          ],
+          "order": 0,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_013",
+          "type": "list_item",
+          "page": 1,
+          "bbox": [
+            48,
+            284,
+            335.01367187500006,
+            295.368
+          ],
+          "parent_id": null,
+          "text": "2. Trưởng bộ phận xác nhận kết quả theo biểu mẫu QP-74-02-F6.",
+          "rendered_lines": [
+            "2. Trưởng bộ phận xác nhận kết quả theo biểu mẫu QP-74-02-F6."
+          ],
+          "order": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_014",
+          "type": "list_item",
+          "page": 1,
+          "bbox": [
+            48,
+            314,
+            307.76220703125006,
+            325.368
+          ],
+          "parent_id": null,
+          "text": "3. QA lưu hồ sơ; phân biệt mã 0/O, 1/I và số lô A-001-2026.",
+          "rendered_lines": [
+            "3. QA lưu hồ sơ; phân biệt mã 0/O, 1/I và số lô A-001-2026."
+          ],
+          "order": 2,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_015",
+          "type": "heading",
+          "page": 1,
+          "bbox": [
+            38,
+            366,
+            156.89697265625,
+            379.34
+          ],
+          "parent_id": null,
+          "text": "3. Acceptance criteria",
+          "rendered_lines": [
+            "3. Acceptance criteria"
+          ],
+          "level": 2,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_016",
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            38,
+            393,
+            552.27734375,
+            418.40000000000003
+          ],
+          "parent_id": null,
+          "text": "Temperature: 20-25 °C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing the equipment.",
+          "rendered_lines": [
+            "Temperature: 20-25 °C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing",
+            "the equipment."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_017",
+          "type": "image",
+          "page": 1,
+          "bbox": [
+            96,
+            461,
+            500,
+            663
+          ],
+          "parent_id": null,
+          "representation": "embedded_raster",
+          "expected_label_text": "QC-017; THIẾT BỊ MẪU; 0/O - 1/I",
+          "rendered_representation": "embedded_raster"
+        },
+        {
+          "id": "p1_018",
+          "type": "caption",
+          "page": 1,
+          "bbox": [
+            119,
+            678,
+            298.630859375,
+            688.44
+          ],
+          "parent_id": null,
+          "text": "Hình 1. Minh họa thiết bị và nhãn nhận dạng.",
+          "rendered_lines": [
+            "Hình 1. Minh họa thiết bị và nhãn nhận dạng."
+          ],
+          "associated_with": "p1_017",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p1_019",
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            38,
+            729,
+            305.71923828125006,
+            739.44
+          ],
+          "parent_id": null,
+          "text": "Lưu ý: Bản sao không có chữ ký phê duyệt chỉ dùng để tham khảo.",
+          "rendered_lines": [
+            "Lưu ý: Bản sao không có chữ ký phê duyệt chỉ dùng để tham khảo."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        }
+      ],
+      "source_kind": "digital"
+    },
+    {
+      "page_number": 2,
+      "width": 595.2756,
+      "height": 841.8898,
+      "components": [
+        {
+          "id": "p2_001",
+          "type": "image",
+          "page": 2,
+          "bbox": [
+            38,
+            27,
+            92,
+            68
+          ],
+          "parent_id": null,
+          "representation": "vector_logo",
+          "layer": "furniture",
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_002",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            43,
+            39,
+            80.55908203125,
+            54.08
+          ],
+          "parent_id": "p2_001",
+          "text": "NOVA",
+          "rendered_lines": [
+            "NOVA"
+          ],
+          "role": "figure_label",
+          "recognition_target": false,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_003",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            105,
+            28,
+            264.832763671875,
+            40.18
+          ],
+          "parent_id": null,
+          "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+          "rendered_lines": [
+            "CÔNG TY TNHH THIẾT BỊ NOVA"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_004",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            105,
+            45,
+            326.246484375,
+            54.744
+          ],
+          "parent_id": null,
+          "text": "Hệ thống quản lý chất lượng / Quality Management System",
+          "rendered_lines": [
+            "Hệ thống quản lý chất lượng / Quality Management System"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_005",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            105,
+            61,
+            300.824072265625,
+            70.628
+          ],
+          "parent_id": null,
+          "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+          "rendered_lines": [
+            "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_006",
+          "type": "heading",
+          "page": 2,
+          "bbox": [
+            38,
+            98,
+            298.79345703125,
+            115.4
+          ],
+          "parent_id": null,
+          "text": "LỊCH SỬ BAN HÀNH VÀ PHÊ DUYỆT",
+          "rendered_lines": [
+            "LỊCH SỬ BAN HÀNH VÀ PHÊ DUYỆT"
+          ],
+          "level": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_007",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            38,
+            794,
+            211.421875,
+            803.28
+          ],
+          "parent_id": null,
+          "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+          "rendered_lines": [
+            "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_008",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            501,
+            794,
+            535.2421875,
+            803.28
+          ],
+          "parent_id": null,
+          "text": "Trang 2/4",
+          "rendered_lines": [
+            "Trang 2/4"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_009",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            38,
+            137,
+            354.15576171875006,
+            147.44
+          ],
+          "parent_id": null,
+          "text": "Các ô gộp, nội dung nhiều dòng và chữ xoay phải được bảo toàn khi trích xuất.",
+          "rendered_lines": [
+            "Các ô gộp, nội dung nhiều dòng và chữ xoay phải được bảo toàn khi trích xuất."
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_010",
+          "type": "table",
+          "page": 2,
+          "bbox": [
+            62,
+            177,
+            557,
+            687
+          ],
+          "parent_id": null,
+          "rows": 8,
+          "cols": 6,
+          "grid_policy": "complete",
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_011",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            62,
+            177,
+            104,
+            225
+          ],
+          "parent_id": "p2_010",
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_012",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            68,
+            184,
+            83.609619140625,
+            205.58999999999997
+          ],
+          "parent_id": "p2_011",
+          "text": "Lần sửa",
+          "rendered_lines": [
+            "Lần",
+            "sửa"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_013",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            104,
+            177,
+            169,
+            225
+          ],
+          "parent_id": "p2_010",
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_014",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            110,
+            184,
+            130.78515625,
+            193.86
+          ],
+          "parent_id": "p2_013",
+          "text": "Ngày",
+          "rendered_lines": [
+            "Ngày"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_015",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            169,
+            177,
+            227,
+            225
+          ],
+          "parent_id": "p2_010",
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_016",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175,
+            184,
+            192.0,
+            193.86
+          ],
+          "parent_id": "p2_015",
+          "text": "Mục",
+          "rendered_lines": [
+            "Mục"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_017",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            227,
+            177,
+            397,
+            225
+          ],
+          "parent_id": "p2_010",
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_018",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            233,
+            184,
+            304.7685546875,
+            193.86
+          ],
+          "parent_id": "p2_017",
+          "text": "Nội dung thay đổi",
+          "rendered_lines": [
+            "Nội dung thay đổi"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_019",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            397,
+            177,
+            474,
+            225
+          ],
+          "parent_id": "p2_010",
+          "row": 0,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_020",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            403,
+            184,
+            451.090576171875,
+            193.86
+          ],
+          "parent_id": "p2_019",
+          "text": "Người soạn",
+          "rendered_lines": [
+            "Người soạn"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_021",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            474,
+            177,
+            557,
+            225
+          ],
+          "parent_id": "p2_010",
+          "row": 0,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_022",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            480,
+            184,
+            520.619873046875,
+            193.86
+          ],
+          "parent_id": "p2_021",
+          "text": "Phê duyệt",
+          "rendered_lines": [
+            "Phê duyệt"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_023",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            62,
+            225,
+            104,
+            357
+          ],
+          "parent_id": "p2_010",
+          "row": 1,
+          "col": 0,
+          "rowspan": 2,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_024",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            68,
+            232,
+            77.23212890625,
+            241.628
+          ],
+          "parent_id": "p2_023",
+          "text": "01",
+          "rendered_lines": [
+            "01"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_025",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            104,
+            225,
+            169,
+            291
+          ],
+          "parent_id": "p2_010",
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_026",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            110,
+            232,
+            151.54052734375,
+            241.628
+          ],
+          "parent_id": "p2_025",
+          "text": "12/03/2024",
+          "rendered_lines": [
+            "12/03/2024"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_027",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            169,
+            225,
+            227,
+            291
+          ],
+          "parent_id": "p2_010",
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_028",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175,
+            232,
+            205.456298828125,
+            241.628
+          ],
+          "parent_id": "p2_027",
+          "text": "Toàn bộ",
+          "rendered_lines": [
+            "Toàn bộ"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_029",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            227,
+            225,
+            397,
+            291
+          ],
+          "parent_id": "p2_010",
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_030",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            233,
+            232,
+            376.4505859375,
+            253.082
+          ],
+          "parent_id": "p2_029",
+          "text": "Ban hành lần đầu. Bổ sung hướng dẫn kiểm tra thiết bị.",
+          "rendered_lines": [
+            "Ban hành lần đầu. Bổ sung hướng dẫn",
+            "kiểm tra thiết bị."
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_031",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            397,
+            225,
+            474,
+            291
+          ],
+          "parent_id": "p2_010",
+          "row": 1,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_032",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            403,
+            232,
+            444.066357421875,
+            241.628
+          ],
+          "parent_id": "p2_031",
+          "text": "Nguyễn An",
+          "rendered_lines": [
+            "Nguyễn An"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_033",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            474,
+            225,
+            557,
+            291
+          ],
+          "parent_id": "p2_010",
+          "row": 1,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_034",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            480,
+            232,
+            516.446240234375,
+            241.628
+          ],
+          "parent_id": "p2_033",
+          "text": "Trần Bình",
+          "rendered_lines": [
+            "Trần Bình"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_035",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            104,
+            291,
+            169,
+            357
+          ],
+          "parent_id": "p2_010",
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_036",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            110,
+            298,
+            151.54052734375,
+            307.628
+          ],
+          "parent_id": "p2_035",
+          "text": "12/03/2024",
+          "rendered_lines": [
+            "12/03/2024"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_037",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            169,
+            291,
+            227,
+            357
+          ],
+          "parent_id": "p2_010",
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_038",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175,
+            298,
+            202.684228515625,
+            307.628
+          ],
+          "parent_id": "p2_037",
+          "text": "Phụ lục",
+          "rendered_lines": [
+            "Phụ lục"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_039",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            227,
+            291,
+            397,
+            357
+          ],
+          "parent_id": "p2_010",
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_040",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            233,
+            298,
+            386.627001953125,
+            319.082
+          ],
+          "parent_id": "p2_039",
+          "text": "Biểu mẫu QP-74-02-F6 và danh mục thiết bị QC-017.",
+          "rendered_lines": [
+            "Biểu mẫu QP-74-02-F6 và danh mục thiết",
+            "bị QC-017."
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_041",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            397,
+            291,
+            474,
+            357
+          ],
+          "parent_id": "p2_010",
+          "row": 2,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_042",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            403,
+            298,
+            425.148193359375,
+            307.628
+          ],
+          "parent_id": "p2_041",
+          "text": "Lê Hà",
+          "rendered_lines": [
+            "Lê Hà"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_043",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            474,
+            291,
+            557,
+            357
+          ],
+          "parent_id": "p2_010",
+          "row": 2,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_044",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            480,
+            298,
+            516.446240234375,
+            307.628
+          ],
+          "parent_id": "p2_043",
+          "text": "Trần Bình",
+          "rendered_lines": [
+            "Trần Bình"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_045",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            62,
+            357,
+            104,
+            423
+          ],
+          "parent_id": "p2_010",
+          "row": 3,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_046",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            68,
+            364,
+            77.23212890625,
+            373.628
+          ],
+          "parent_id": "p2_045",
+          "text": "02",
+          "rendered_lines": [
+            "02"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_047",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            104,
+            357,
+            169,
+            423
+          ],
+          "parent_id": "p2_010",
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_048",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            110,
+            364,
+            151.54052734375,
+            373.628
+          ],
+          "parent_id": "p2_047",
+          "text": "08/06/2025",
+          "rendered_lines": [
+            "08/06/2025"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_049",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            169,
+            357,
+            227,
+            423
+          ],
+          "parent_id": "p2_010",
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_050",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175,
+            364,
+            186.538134765625,
+            373.628
+          ],
+          "parent_id": "p2_049",
+          "text": "4.2",
+          "rendered_lines": [
+            "4.2"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_051",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            227,
+            357,
+            397,
+            423
+          ],
+          "parent_id": "p2_010",
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_052",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            233,
+            364,
+            368.2478515625,
+            385.082
+          ],
+          "parent_id": "p2_051",
+          "text": "Sửa tần suất hiệu chuẩn từ 12 tháng thành 6 tháng.",
+          "rendered_lines": [
+            "Sửa tần suất hiệu chuẩn từ 12 tháng",
+            "thành 6 tháng."
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_053",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            397,
+            357,
+            474,
+            423
+          ],
+          "parent_id": "p2_010",
+          "row": 3,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_054",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            403,
+            364,
+            430.676123046875,
+            373.628
+          ],
+          "parent_id": "p2_053",
+          "text": "Đỗ Huy",
+          "rendered_lines": [
+            "Đỗ Huy"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_055",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            474,
+            357,
+            557,
+            423
+          ],
+          "parent_id": "p2_010",
+          "row": 3,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_056",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            480,
+            364,
+            505.83212890625,
+            373.628
+          ],
+          "parent_id": "p2_055",
+          "text": "Vũ Mai",
+          "rendered_lines": [
+            "Vũ Mai"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_057",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            62,
+            423,
+            104,
+            489
+          ],
+          "parent_id": "p2_010",
+          "row": 4,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_058",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            68,
+            430,
+            77.23212890625,
+            439.628
+          ],
+          "parent_id": "p2_057",
+          "text": "03",
+          "rendered_lines": [
+            "03"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_059",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            104,
+            423,
+            169,
+            489
+          ],
+          "parent_id": "p2_010",
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_060",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            110,
+            430,
+            151.54052734375,
+            439.628
+          ],
+          "parent_id": "p2_059",
+          "text": "15/10/2026",
+          "rendered_lines": [
+            "15/10/2026"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_061",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            169,
+            423,
+            227,
+            489
+          ],
+          "parent_id": "p2_010",
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_062",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175,
+            430,
+            186.538134765625,
+            439.628
+          ],
+          "parent_id": "p2_061",
+          "text": "5.1",
+          "rendered_lines": [
+            "5.1"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_063",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            227,
+            423,
+            397,
+            489
+          ],
+          "parent_id": "p2_010",
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_064",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            233,
+            430,
+            389.889453125,
+            451.082
+          ],
+          "parent_id": "p2_063",
+          "text": "Bổ sung lưu đồ xử lý sai lệch; kiểm tra 0/O và 1/I.",
+          "rendered_lines": [
+            "Bổ sung lưu đồ xử lý sai lệch; kiểm tra 0/O",
+            "và 1/I."
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_065",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            397,
+            423,
+            474,
+            489
+          ],
+          "parent_id": "p2_010",
+          "row": 4,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_066",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            403,
+            430,
+            438.052099609375,
+            439.628
+          ],
+          "parent_id": "p2_065",
+          "text": "Phạm Mỹ",
+          "rendered_lines": [
+            "Phạm Mỹ"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_067",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            474,
+            423,
+            557,
+            489
+          ],
+          "parent_id": "p2_010",
+          "row": 4,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_068",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            480,
+            430,
+            505.83212890625,
+            439.628
+          ],
+          "parent_id": "p2_067",
+          "text": "Vũ Mai",
+          "rendered_lines": [
+            "Vũ Mai"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_069",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            62,
+            489,
+            104,
+            555
+          ],
+          "parent_id": "p2_010",
+          "row": 5,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_070",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            68,
+            496,
+            77.23212890625,
+            505.628
+          ],
+          "parent_id": "p2_069",
+          "text": "03",
+          "rendered_lines": [
+            "03"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_071",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            104,
+            489,
+            169,
+            555
+          ],
+          "parent_id": "p2_010",
+          "row": 5,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_072",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            110,
+            496,
+            151.54052734375,
+            505.628
+          ],
+          "parent_id": "p2_071",
+          "text": "15/10/2026",
+          "rendered_lines": [
+            "15/10/2026"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_073",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            169,
+            489,
+            227,
+            555
+          ],
+          "parent_id": "p2_010",
+          "row": 5,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_074",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175,
+            496,
+            186.538134765625,
+            505.628
+          ],
+          "parent_id": "p2_073",
+          "text": "5.2",
+          "rendered_lines": [
+            "5.2"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_075",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            227,
+            489,
+            397,
+            555
+          ],
+          "parent_id": "p2_010",
+          "row": 5,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_076",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            233,
+            496,
+            376.03720703125,
+            517.082
+          ],
+          "parent_id": "p2_075",
+          "text": "Phân công trách nhiệm QA và bộ phận Sản xuất.",
+          "rendered_lines": [
+            "Phân công trách nhiệm QA và bộ phận",
+            "Sản xuất."
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_077",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            397,
+            489,
+            474,
+            555
+          ],
+          "parent_id": "p2_010",
+          "row": 5,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_078",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            403,
+            496,
+            438.052099609375,
+            505.628
+          ],
+          "parent_id": "p2_077",
+          "text": "Phạm Mỹ",
+          "rendered_lines": [
+            "Phạm Mỹ"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_079",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            474,
+            489,
+            557,
+            555
+          ],
+          "parent_id": "p2_010",
+          "row": 5,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_080",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            480,
+            496,
+            505.83212890625,
+            505.628
+          ],
+          "parent_id": "p2_079",
+          "text": "Vũ Mai",
+          "rendered_lines": [
+            "Vũ Mai"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_081",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            62,
+            555,
+            104,
+            621
+          ],
+          "parent_id": "p2_010",
+          "row": 6,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_082",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            68,
+            562,
+            77.23212890625,
+            571.628
+          ],
+          "parent_id": "p2_081",
+          "text": "03",
+          "rendered_lines": [
+            "03"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_083",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            104,
+            555,
+            169,
+            621
+          ],
+          "parent_id": "p2_010",
+          "row": 6,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_084",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            110,
+            562,
+            151.54052734375,
+            571.628
+          ],
+          "parent_id": "p2_083",
+          "text": "15/10/2026",
+          "rendered_lines": [
+            "15/10/2026"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_085",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            169,
+            555,
+            227,
+            621
+          ],
+          "parent_id": "p2_010",
+          "row": 6,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_086",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175,
+            562,
+            179.616064453125,
+            571.628
+          ],
+          "parent_id": "p2_085",
+          "text": "6",
+          "rendered_lines": [
+            "6"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_087",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            227,
+            555,
+            397,
+            621
+          ],
+          "parent_id": "p2_010",
+          "row": 6,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_088",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            233,
+            562,
+            362.56591796875,
+            583.082
+          ],
+          "parent_id": "p2_087",
+          "text": "Hồ sơ lưu tối thiểu 03 năm. Record retention: 3 years.",
+          "rendered_lines": [
+            "Hồ sơ lưu tối thiểu 03 năm. Record",
+            "retention: 3 years."
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_089",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            397,
+            555,
+            474,
+            621
+          ],
+          "parent_id": "p2_010",
+          "row": 6,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_090",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            403,
+            562,
+            444.066357421875,
+            571.628
+          ],
+          "parent_id": "p2_089",
+          "text": "Nguyễn An",
+          "rendered_lines": [
+            "Nguyễn An"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_091",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            474,
+            555,
+            557,
+            621
+          ],
+          "parent_id": "p2_010",
+          "row": 6,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_092",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            480,
+            562,
+            516.446240234375,
+            571.628
+          ],
+          "parent_id": "p2_091",
+          "text": "Trần Bình",
+          "rendered_lines": [
+            "Trần Bình"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_093",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            62,
+            621,
+            104,
+            687
+          ],
+          "parent_id": "p2_010",
+          "row": 7,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_094",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            68,
+            628,
+            77.23212890625,
+            637.628
+          ],
+          "parent_id": "p2_093",
+          "text": "03",
+          "rendered_lines": [
+            "03"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_095",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            104,
+            621,
+            169,
+            687
+          ],
+          "parent_id": "p2_010",
+          "row": 7,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_096",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            110,
+            628,
+            151.54052734375,
+            637.628
+          ],
+          "parent_id": "p2_095",
+          "text": "15/10/2026",
+          "rendered_lines": [
+            "15/10/2026"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_097",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            169,
+            621,
+            227,
+            687
+          ],
+          "parent_id": "p2_010",
+          "row": 7,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_098",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175,
+            628,
+            203.60419921875,
+            637.628
+          ],
+          "parent_id": "p2_097",
+          "text": "Ghi chú",
+          "rendered_lines": [
+            "Ghi chú"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_099",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            227,
+            621,
+            397,
+            687
+          ],
+          "parent_id": "p2_010",
+          "row": 7,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_100",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            233,
+            628,
+            353.807958984375,
+            649.082
+          ],
+          "parent_id": "p2_099",
+          "text": "Dấu tiếng Việt: ă, â, ê, ô, ơ, ư, đ.\nĐã kiểm tra và phê duyệt.",
+          "rendered_lines": [
+            "Dấu tiếng Việt: ă, â, ê, ô, ơ, ư, đ.",
+            "Đã kiểm tra và phê duyệt."
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_101",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            397,
+            621,
+            557,
+            687
+          ],
+          "parent_id": "p2_010",
+          "row": 7,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 2,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_102",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            403,
+            628,
+            468.512451171875,
+            637.628
+          ],
+          "parent_id": "p2_101",
+          "text": "Lê Hà / Trần Bình",
+          "rendered_lines": [
+            "Lê Hà / Trần Bình"
+          ],
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_103",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            41,
+            400.5361328125,
+            52,
+            582
+          ],
+          "parent_id": null,
+          "text": "LỊCH SỬ TÀI LIỆU - DOCUMENT HISTORY",
+          "rotation_degrees": 270,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_104",
+          "type": "table",
+          "page": 2,
+          "bbox": [
+            62,
+            710,
+            557,
+            758
+          ],
+          "parent_id": null,
+          "rows": 1,
+          "cols": 1,
+          "grid_policy": "complete",
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_105",
+          "type": "table_cell",
+          "page": 2,
+          "bbox": [
+            62,
+            710,
+            557,
+            758
+          ],
+          "parent_id": "p2_104",
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "page_raster"
+        },
+        {
+          "id": "p2_106",
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            68,
+            717,
+            409.66601562500006,
+            727.44
+          ],
+          "parent_id": "p2_105",
+          "text": "Xác nhận / Approval: Nội dung này là dữ liệu giả lập, không phải hồ sơ doanh nghiệp.",
+          "rendered_lines": [
+            "Xác nhận / Approval: Nội dung này là dữ liệu giả lập, không phải hồ sơ doanh nghiệp."
+          ],
+          "rendered_representation": "page_raster"
+        }
+      ],
+      "source_kind": "scan"
+    },
+    {
+      "page_number": 3,
+      "width": 595.2756,
+      "height": 841.8898,
+      "components": [
+        {
+          "id": "p3_001",
+          "type": "image",
+          "page": 3,
+          "bbox": [
+            38,
+            27,
+            92,
+            68
+          ],
+          "parent_id": null,
+          "representation": "vector_logo",
+          "layer": "furniture",
+          "rendered_representation": "vector_logo"
+        },
+        {
+          "id": "p3_002",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            43,
+            39,
+            80.55908203125,
+            54.08
+          ],
+          "parent_id": "p3_001",
+          "text": "NOVA",
+          "rendered_lines": [
+            "NOVA"
+          ],
+          "role": "figure_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_003",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            105,
+            28,
+            264.832763671875,
+            40.18
+          ],
+          "parent_id": null,
+          "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+          "rendered_lines": [
+            "CÔNG TY TNHH THIẾT BỊ NOVA"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_004",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            105,
+            45,
+            326.246484375,
+            54.744
+          ],
+          "parent_id": null,
+          "text": "Hệ thống quản lý chất lượng / Quality Management System",
+          "rendered_lines": [
+            "Hệ thống quản lý chất lượng / Quality Management System"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_005",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            105,
+            61,
+            300.824072265625,
+            70.628
+          ],
+          "parent_id": null,
+          "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+          "rendered_lines": [
+            "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_006",
+          "type": "heading",
+          "page": 3,
+          "bbox": [
+            38,
+            98,
+            312.0869140625,
+            115.4
+          ],
+          "parent_id": null,
+          "text": "QUY TRÌNH THỰC HIỆN / WORKFLOW",
+          "rendered_lines": [
+            "QUY TRÌNH THỰC HIỆN / WORKFLOW"
+          ],
+          "level": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_007",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            38,
+            794,
+            211.421875,
+            803.28
+          ],
+          "parent_id": null,
+          "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+          "rendered_lines": [
+            "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_008",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            501,
+            794,
+            535.2421875,
+            803.28
+          ],
+          "parent_id": null,
+          "text": "Trang 3/4",
+          "rendered_lines": [
+            "Trang 3/4"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_009",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            38,
+            137,
+            368.16992187500006,
+            147.44
+          ],
+          "parent_id": null,
+          "text": "Lưu đồ vector gồm text, hình khối và mũi tên; không có một ảnh nhúng tương ứng.",
+          "rendered_lines": [
+            "Lưu đồ vector gồm text, hình khối và mũi tên; không có một ảnh nhúng tương ứng."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_010",
+          "type": "table",
+          "page": 3,
+          "bbox": [
+            38,
+            174,
+            557,
+            675
+          ],
+          "parent_id": null,
+          "rows": 5,
+          "cols": 4,
+          "grid_policy": "partial_layout_grid",
+          "note": "Do not infer a rowspan for the left diagram region. Row cells are explicit only in columns 1-3.",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_011",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            38,
+            174,
+            218,
+            215
+          ],
+          "parent_id": "p3_010",
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_012",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            44,
+            181,
+            73.28515625,
+            190.86
+          ],
+          "parent_id": "p3_011",
+          "text": "Lưu đồ",
+          "rendered_lines": [
+            "Lưu đồ"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_013",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            218,
+            174,
+            287,
+            215
+          ],
+          "parent_id": "p3_010",
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_014",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            224,
+            181,
+            274.539306640625,
+            190.86
+          ],
+          "parent_id": "p3_013",
+          "text": "Trách nhiệm",
+          "rendered_lines": [
+            "Trách nhiệm"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_015",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            287,
+            174,
+            465,
+            215
+          ],
+          "parent_id": "p3_010",
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_016",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            293,
+            181,
+            328.423583984375,
+            190.86
+          ],
+          "parent_id": "p3_015",
+          "text": "Diễn giải",
+          "rendered_lines": [
+            "Diễn giải"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_017",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            465,
+            174,
+            557,
+            215
+          ],
+          "parent_id": "p3_010",
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_018",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            471,
+            181,
+            509.25830078125,
+            190.86
+          ],
+          "parent_id": "p3_017",
+          "text": "Biểu mẫu",
+          "rendered_lines": [
+            "Biểu mẫu"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_019",
+          "type": "container",
+          "page": 3,
+          "bbox": [
+            38,
+            215,
+            218,
+            675
+          ],
+          "parent_id": "p3_010",
+          "role": "diagram_column",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_020",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            218,
+            215,
+            287,
+            330
+          ],
+          "parent_id": "p3_010",
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_021",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            224,
+            222,
+            257.946484375,
+            231.976
+          ],
+          "parent_id": "p3_020",
+          "text": "Sản xuất",
+          "rendered_lines": [
+            "Sản xuất"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_022",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            287,
+            215,
+            465,
+            330
+          ],
+          "parent_id": "p3_010",
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_023",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            293,
+            222,
+            447.8755859375,
+            243.844
+          ],
+          "parent_id": "p3_022",
+          "text": "Tiếp nhận thiết bị. Kiểm tra mã, tem hiệu chuẩn và tình trạng bên ngoài.",
+          "rendered_lines": [
+            "Tiếp nhận thiết bị. Kiểm tra mã, tem hiệu",
+            "chuẩn và tình trạng bên ngoài."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_024",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            465,
+            215,
+            557,
+            330
+          ],
+          "parent_id": "p3_010",
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_025",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            471,
+            222,
+            521.18486328125,
+            231.976
+          ],
+          "parent_id": "p3_024",
+          "text": "QP-74-02-F6",
+          "rendered_lines": [
+            "QP-74-02-F6"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_026",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            218,
+            330,
+            287,
+            445
+          ],
+          "parent_id": "p3_010",
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_027",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            224,
+            337,
+            255.5529296875,
+            346.976
+          ],
+          "parent_id": "p3_026",
+          "text": "Kỹ thuật",
+          "rendered_lines": [
+            "Kỹ thuật"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_028",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            287,
+            330,
+            465,
+            445
+          ],
+          "parent_id": "p3_010",
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_029",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            293,
+            337,
+            443.05908203125,
+            358.844
+          ],
+          "parent_id": "p3_028",
+          "text": "Đo thông số theo hướng dẫn. Ghi nhận nhiệt độ 20-25 °C và mã QC-017.",
+          "rendered_lines": [
+            "Đo thông số theo hướng dẫn. Ghi nhận",
+            "nhiệt độ 20-25 °C và mã QC-017."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_030",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            465,
+            330,
+            557,
+            445
+          ],
+          "parent_id": "p3_010",
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_031",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            471,
+            337,
+            508.2806640625,
+            346.976
+          ],
+          "parent_id": "p3_030",
+          "text": "HD-74-01",
+          "rendered_lines": [
+            "HD-74-01"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_032",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            218,
+            445,
+            287,
+            560
+          ],
+          "parent_id": "p3_010",
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_033",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            224,
+            452,
+            236.42548828125,
+            461.976
+          ],
+          "parent_id": "p3_032",
+          "text": "QA",
+          "rendered_lines": [
+            "QA"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_034",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            287,
+            445,
+            465,
+            560
+          ],
+          "parent_id": "p3_010",
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_035",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            293,
+            452,
+            451.2349609375,
+            473.844
+          ],
+          "parent_id": "p3_034",
+          "text": "Đối chiếu tiêu chí. Nếu không đạt: cách ly và lập phiếu xử lý sai lệch.",
+          "rendered_lines": [
+            "Đối chiếu tiêu chí. Nếu không đạt: cách ly",
+            "và lập phiếu xử lý sai lệch."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_036",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            465,
+            445,
+            557,
+            560
+          ],
+          "parent_id": "p3_010",
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_037",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            471,
+            452,
+            495.8509765625,
+            461.976
+          ],
+          "parent_id": "p3_036",
+          "text": "NC-01",
+          "rendered_lines": [
+            "NC-01"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_038",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            218,
+            560,
+            287,
+            675
+          ],
+          "parent_id": "p3_010",
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_039",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            224,
+            567,
+            258.8955078125,
+            576.976
+          ],
+          "parent_id": "p3_038",
+          "text": "QA / Kho",
+          "rendered_lines": [
+            "QA / Kho"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_040",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            287,
+            560,
+            465,
+            675
+          ],
+          "parent_id": "p3_010",
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_041",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            293,
+            567,
+            445.9943359375,
+            588.844
+          ],
+          "parent_id": "p3_040",
+          "text": "Phê duyệt thiết bị đạt yêu cầu. Cập nhật danh mục và lưu hồ sơ.",
+          "rendered_lines": [
+            "Phê duyệt thiết bị đạt yêu cầu. Cập nhật",
+            "danh mục và lưu hồ sơ."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_042",
+          "type": "table_cell",
+          "page": 3,
+          "bbox": [
+            465,
+            560,
+            557,
+            675
+          ],
+          "parent_id": "p3_010",
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_043",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            471,
+            567,
+            520.2064453125,
+            576.976
+          ],
+          "parent_id": "p3_042",
+          "text": "DM-THIETBI",
+          "rendered_lines": [
+            "DM-THIETBI"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_044",
+          "type": "diagram",
+          "page": 3,
+          "bbox": [
+            48,
+            231,
+            208,
+            650
+          ],
+          "parent_id": "p3_019",
+          "representation": "vector_paths_and_text",
+          "overlaps_row_intervals": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "recognition_policy": "atomic_asset_with_internal_text_metadata",
+          "rendered_representation": "vector_paths_and_text"
+        },
+        {
+          "id": "p3_045",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            89,
+            244,
+            155.7453125,
+            254.09199999999998
+          ],
+          "parent_id": "p3_044",
+          "text": "Tiếp nhận thiết bị",
+          "rendered_lines": [
+            "Tiếp nhận thiết bị"
+          ],
+          "role": "diagram_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_046",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            89,
+            325,
+            139.76416015625,
+            335.092
+          ],
+          "parent_id": "p3_044",
+          "text": "Kiểm tra / Đo",
+          "rendered_lines": [
+            "Kiểm tra / Đo"
+          ],
+          "role": "diagram_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_047",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            109.36728515625,
+            427.5,
+            160.63271484375,
+            437.592
+          ],
+          "parent_id": "p3_044",
+          "text": "Đạt yêu cầu?",
+          "rendered_lines": [
+            "Đạt yêu cầu?"
+          ],
+          "role": "diagram_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_048",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            89,
+            530,
+            170.175927734375,
+            540.092
+          ],
+          "parent_id": "p3_044",
+          "text": "Phê duyệt, lưu hồ sơ",
+          "rendered_lines": [
+            "Phê duyệt, lưu hồ sơ"
+          ],
+          "role": "diagram_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_049",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            89,
+            621,
+            120.91982421875,
+            631.092
+          ],
+          "parent_id": "p3_044",
+          "text": "Kết thúc",
+          "rendered_lines": [
+            "Kết thúc"
+          ],
+          "role": "diagram_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_050",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            52,
+            387,
+            73.976171875,
+            395.816
+          ],
+          "parent_id": "p3_044",
+          "text": "Không",
+          "rendered_lines": [
+            "Không"
+          ],
+          "role": "diagram_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_051",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            144,
+            482,
+            154.2265625,
+            491.28
+          ],
+          "parent_id": "p3_044",
+          "text": "Có",
+          "rendered_lines": [
+            "Có"
+          ],
+          "role": "diagram_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p3_052",
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            38,
+            702,
+            385.64257812500006,
+            712.44
+          ],
+          "parent_id": null,
+          "text": "Ghi chú: Sơ đồ chạy liên tục qua các khoảng hàng bên phải; không suy ra quan hệ 1:1.",
+          "rendered_lines": [
+            "Ghi chú: Sơ đồ chạy liên tục qua các khoảng hàng bên phải; không suy ra quan hệ 1:1."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        }
+      ],
+      "source_kind": "digital"
+    },
+    {
+      "page_number": 4,
+      "width": 595.2756,
+      "height": 841.8898,
+      "components": [
+        {
+          "id": "p4_001",
+          "type": "image",
+          "page": 4,
+          "bbox": [
+            38,
+            27,
+            92,
+            68
+          ],
+          "parent_id": null,
+          "representation": "vector_logo",
+          "layer": "furniture",
+          "rendered_representation": "vector_logo"
+        },
+        {
+          "id": "p4_002",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            43,
+            39,
+            80.55908203125,
+            54.08
+          ],
+          "parent_id": "p4_001",
+          "text": "NOVA",
+          "rendered_lines": [
+            "NOVA"
+          ],
+          "role": "figure_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_003",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            105,
+            28,
+            264.832763671875,
+            40.18
+          ],
+          "parent_id": null,
+          "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+          "rendered_lines": [
+            "CÔNG TY TNHH THIẾT BỊ NOVA"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_004",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            105,
+            45,
+            326.246484375,
+            54.744
+          ],
+          "parent_id": null,
+          "text": "Hệ thống quản lý chất lượng / Quality Management System",
+          "rendered_lines": [
+            "Hệ thống quản lý chất lượng / Quality Management System"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_005",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            105,
+            61,
+            313.274072265625,
+            70.628
+          ],
+          "parent_id": null,
+          "text": "QP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+          "rendered_lines": [
+            "QP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_006",
+          "type": "heading",
+          "page": 4,
+          "bbox": [
+            38,
+            98,
+            313.23681640625,
+            115.4
+          ],
+          "parent_id": null,
+          "text": "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+          "rendered_lines": [
+            "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN"
+          ],
+          "level": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_007",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            38,
+            794,
+            211.421875,
+            803.28
+          ],
+          "parent_id": null,
+          "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+          "rendered_lines": [
+            "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_008",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            501,
+            794,
+            535.2421875,
+            803.28
+          ],
+          "parent_id": null,
+          "text": "Trang 4/4",
+          "rendered_lines": [
+            "Trang 4/4"
+          ],
+          "layer": "furniture",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_009",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            38,
+            137,
+            380.46582031250006,
+            147.44
+          ],
+          "parent_id": null,
+          "text": "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+          "rendered_lines": [
+            "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_010",
+          "type": "table",
+          "page": 4,
+          "bbox": [
+            38,
+            174,
+            557,
+            494
+          ],
+          "parent_id": null,
+          "rows": 3,
+          "cols": 2,
+          "grid_policy": "complete",
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_011",
+          "type": "table_cell",
+          "page": 4,
+          "bbox": [
+            38,
+            174,
+            166,
+            214
+          ],
+          "parent_id": "p4_010",
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_012",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            44,
+            181,
+            85.0888671875,
+            190.86
+          ],
+          "parent_id": "p4_011",
+          "text": "Hạng mục",
+          "rendered_lines": [
+            "Hạng mục"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_013",
+          "type": "table_cell",
+          "page": 4,
+          "bbox": [
+            166,
+            174,
+            557,
+            214
+          ],
+          "parent_id": "p4_010",
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_014",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            172,
+            181,
+            255.0908203125,
+            190.86
+          ],
+          "parent_id": "p4_013",
+          "text": "Thông tin / Minh họa",
+          "rendered_lines": [
+            "Thông tin / Minh họa"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_015",
+          "type": "table_cell",
+          "page": 4,
+          "bbox": [
+            38,
+            214,
+            166,
+            434
+          ],
+          "parent_id": "p4_010",
+          "row": 1,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_016",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            44,
+            221,
+            122.04687500000001,
+            243.85999999999999
+          ],
+          "parent_id": "p4_015",
+          "text": "Thiết bị và thao tác\nEquipment & action",
+          "rendered_lines": [
+            "Thiết bị và thao tác",
+            "Equipment & action"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_017",
+          "type": "table_cell",
+          "page": 4,
+          "bbox": [
+            166,
+            214,
+            557,
+            434
+          ],
+          "parent_id": "p4_010",
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_018",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            177,
+            226,
+            368.53125,
+            236.44
+          ],
+          "parent_id": "p4_017",
+          "text": "Đối chiếu nhãn QC-017 trước khi kết nối nguồn.",
+          "rendered_lines": [
+            "Đối chiếu nhãn QC-017 trước khi kết nối nguồn."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_019",
+          "type": "image",
+          "page": 4,
+          "bbox": [
+            177,
+            267,
+            380,
+            369
+          ],
+          "parent_id": "p4_017",
+          "representation": "embedded_raster",
+          "expected_label_text": "QC-017; THIẾT BỊ MẪU; 0/O - 1/I",
+          "rendered_representation": "embedded_raster"
+        },
+        {
+          "id": "p4_020",
+          "type": "diagram",
+          "page": 4,
+          "bbox": [
+            404,
+            263,
+            542,
+            393
+          ],
+          "parent_id": "p4_017",
+          "representation": "vector_paths_and_text",
+          "rendered_representation": "vector_paths_and_text"
+        },
+        {
+          "id": "p4_021",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            419,
+            277,
+            473.78515625,
+            287.208
+          ],
+          "parent_id": "p4_020",
+          "text": "Kiểm tra nhãn",
+          "rendered_lines": [
+            "Kiểm tra nhãn"
+          ],
+          "role": "diagram_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_022",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            419,
+            363,
+            473.3125,
+            373.208
+          ],
+          "parent_id": "p4_020",
+          "text": "Kết nối nguồn",
+          "rendered_lines": [
+            "Kết nối nguồn"
+          ],
+          "role": "diagram_label",
+          "recognition_target": false,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_023",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            177,
+            407,
+            376.7998046875,
+            416.86
+          ],
+          "parent_id": "p4_017",
+          "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+          "rendered_lines": [
+            "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô."
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_024",
+          "type": "table_cell",
+          "page": 4,
+          "bbox": [
+            38,
+            434,
+            166,
+            494
+          ],
+          "parent_id": "p4_010",
+          "row": 2,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_025",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            44,
+            441,
+            75.025390625,
+            451.44
+          ],
+          "parent_id": "p4_024",
+          "text": "Kết quả",
+          "rendered_lines": [
+            "Kết quả"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_026",
+          "type": "table_cell",
+          "page": 4,
+          "bbox": [
+            166,
+            434,
+            557,
+            494
+          ],
+          "parent_id": "p4_010",
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_027",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            172,
+            441,
+            297.45947265625,
+            463.86
+          ],
+          "parent_id": "p4_026",
+          "text": "Đạt / Không đạt: __________\nNgười kiểm tra: Nguyễn Thị Mỹ",
+          "rendered_lines": [
+            "Đạt / Không đạt: __________",
+            "Người kiểm tra: Nguyễn Thị Mỹ"
+          ],
+          "rendered_representation": "native_text_or_geometry"
+        },
+        {
+          "id": "p4_028",
+          "type": "container",
+          "page": 4,
+          "bbox": [
+            38,
+            531,
+            557,
+            729
+          ],
+          "parent_id": null,
+          "role": "scan_insert_region",
+          "rendered_representation": "scan_insert"
+        },
+        {
+          "id": "p4_029",
+          "type": "heading",
+          "page": 4,
+          "bbox": [
+            49,
+            545,
+            271.36865234375,
+            557.76
+          ],
+          "parent_id": "p4_028",
+          "text": "4. Hướng dẫn an toàn / Safety instructions",
+          "rendered_lines": [
+            "4. Hướng dẫn an toàn / Safety instructions"
+          ],
+          "level": 2,
+          "rendered_representation": "scan_insert"
+        },
+        {
+          "id": "p4_030",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            49,
+            578,
+            519.1513671875,
+            603.4
+          ],
+          "parent_id": "p4_028",
+          "text": "Ngắt nguồn trước khi vệ sinh. Không sử dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ phận Kỹ thuật nếu phát hiện bất thường.",
+          "rendered_lines": [
+            "Ngắt nguồn trước khi vệ sinh. Không sử dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ",
+            "phận Kỹ thuật nếu phát hiện bất thường."
+          ],
+          "rendered_representation": "scan_insert"
+        },
+        {
+          "id": "p4_031",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            49,
+            639,
+            529.2587890625,
+            664.4
+          ],
+          "parent_id": "p4_028",
+          "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has approved the corrective action.",
+          "rendered_lines": [
+            "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has",
+            "approved the corrective action."
+          ],
+          "rendered_representation": "scan_insert"
+        },
+        {
+          "id": "p4_032",
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            49,
+            704,
+            254.46630859375003,
+            714.44
+          ],
+          "parent_id": "p4_028",
+          "text": "Hotline nội bộ (giả lập): 028-0000-017 | Revision 03",
+          "rendered_lines": [
+            "Hotline nội bộ (giả lập): 028-0000-017 | Revision 03"
+          ],
+          "rendered_representation": "scan_insert"
+        }
+      ],
+      "source_kind": "hybrid"
+    }
+  ]
+}

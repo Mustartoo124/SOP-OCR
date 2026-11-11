@@ -1,0 +1,808 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "#/texts/0",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        42.0,
+        40.66663717447909,
+        81.33333333333334,
+        53.99997050781246
+      ],
+      "text": "NOVA",
+      "parent_ref": "#/pictures/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/1",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        103.33333333333333,
+        27.333303841145835,
+        266.0,
+        41.99997050781246
+      ],
+      "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        103.66666666666667,
+        43.333303841145835,
+        328.0,
+        73.33330384114583
+      ],
+      "text": "Hệ thống quản lý chất Iượng / Quality Management System QP-74-02 Phiên bản 03 Ngày hiệu lực: 15/10/2026",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/3",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        36.666666666666664,
+        97.66663717447909,
+        313.6666666666667,
+        118.33330384114583
+      ],
+      "text": "QUY TRÌNH THỰC HIỆN WORKFLOW",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/4",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        36.666666666666664,
+        136.33330384114583,
+        366.9566740619495,
+        149.99997050781246
+      ],
+      "text": "Lưu đồ vector gồm text; hinh khối và mũi tên; không có một ảnh nhúng tương ứng.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/5",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        37.0,
+        700.9999705078125,
+        385.6666666666667,
+        715.3333038411458
+      ],
+      "text": "Ghi chú: Sơ đồ chạy liên tục qua các khoảng hàng bên phải; không suy ra quan hệ 1:1.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/6",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        37.0,
+        792.7208165057174,
+        213.33333333333334,
+        806.6124578432408
+      ],
+      "text": "TÀl LIẸU GIẢ LẶP Chỉ kiểm thử trích xuất dùng",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/7",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        499.3333333333333,
+        793.9999705078125,
+        536.0,
+        804.9999705078125
+      ],
+      "text": "Trang 3/4",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/pictures/0",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        36.5527321651894,
+        25.595785081057443,
+        92.67110162800014,
+        68.55372597786368
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/0"
+      ]
+    },
+    {
+      "id": "#/tables/0",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        37.35805708459432,
+        172.51118769878826,
+        557.9587068116873,
+        675.8704251144591
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        42.0,
+        40.66663717447909,
+        81.33333333333334,
+        53.99997050781246
+      ],
+      "text": "NOVA",
+      "source_ref": "#/texts/0"
+    },
+    {
+      "bbox": [
+        103.33333333333333,
+        27.333303841145835,
+        266.0,
+        41.99997050781246
+      ],
+      "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+      "source_ref": "#/texts/1"
+    },
+    {
+      "bbox": [
+        103.66666666666667,
+        43.333303841145835,
+        328.0,
+        73.33330384114583
+      ],
+      "text": "Hệ thống quản lý chất Iượng / Quality Management System QP-74-02 Phiên bản 03 Ngày hiệu lực: 15/10/2026",
+      "source_ref": "#/texts/2"
+    },
+    {
+      "bbox": [
+        36.666666666666664,
+        97.66663717447909,
+        313.6666666666667,
+        118.33330384114583
+      ],
+      "text": "QUY TRÌNH THỰC HIỆN WORKFLOW",
+      "source_ref": "#/texts/3"
+    },
+    {
+      "bbox": [
+        36.666666666666664,
+        136.33330384114583,
+        366.9566740619495,
+        149.99997050781246
+      ],
+      "text": "Lưu đồ vector gồm text; hinh khối và mũi tên; không có một ảnh nhúng tương ứng.",
+      "source_ref": "#/texts/4"
+    },
+    {
+      "bbox": [
+        37.0,
+        700.9999705078125,
+        385.6666666666667,
+        715.3333038411458
+      ],
+      "text": "Ghi chú: Sơ đồ chạy liên tục qua các khoảng hàng bên phải; không suy ra quan hệ 1:1.",
+      "source_ref": "#/texts/5"
+    },
+    {
+      "bbox": [
+        37.0,
+        792.7208165057174,
+        213.33333333333334,
+        806.6124578432408
+      ],
+      "text": "TÀl LIẸU GIẢ LẶP Chỉ kiểm thử trích xuất dùng",
+      "source_ref": "#/texts/6"
+    },
+    {
+      "bbox": [
+        499.3333333333333,
+        793.9999705078125,
+        536.0,
+        804.9999705078125
+      ],
+      "text": "Trang 3/4",
+      "source_ref": "#/texts/7"
+    },
+    {
+      "bbox": [
+        43.333333333333336,
+        180.66666666666666,
+        74.66666666666666,
+        191.33333333333334
+      ],
+      "text": "Lưu đồ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        223.0,
+        181.0,
+        276.33333333333337,
+        193.0
+      ],
+      "text": "Trách nhiệm",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        291.6666666666667,
+        180.33333333333334,
+        330.3333333333333,
+        193.0
+      ],
+      "text": "Diễn giải",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        470.6666666666667,
+        180.66666666666666,
+        510.6666666666667,
+        191.33333333333334
+      ],
+      "text": "Biểu mẫu",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        223.0,
+        221.0,
+        260.33333333333337,
+        233.0
+      ],
+      "text": "Sản xuất",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        291.6666666666667,
+        221.0,
+        449.6666666666667,
+        247.0
+      ],
+      "text": "Tiếp nhận thiết bị- Kiểm tra mã, tem hiệu chuẩn và tình trạng bên ngoài.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        470.0,
+        222.66666666666666,
+        522.0,
+        232.0
+      ],
+      "text": "QP-74-02-F6",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        87.66666666666666,
+        243.66666666666669,
+        157.0,
+        256.3333333333333
+      ],
+      "text": "Tiếp nhận thiết bị",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        87.66666666666666,
+        324.33333333333337,
+        141.33333333333331,
+        336.33333333333337
+      ],
+      "text": "Kiểm tra Đo",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        223.33333333333334,
+        338.0,
+        257.33333333333337,
+        348.66666666666663
+      ],
+      "text": "Kỹ thuật",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        292.0,
+        335.71530945382676,
+        445.0,
+        360.0
+      ],
+      "text": "Đo số theo hướng dẫn. Ghi nhận nhiệt độ 20-25  C và mã QC-017 . thông",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        470.0,
+        338.0,
+        509.3333333333333,
+        348.0
+      ],
+      "text": "HD-74-01",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        107.66666666666667,
+        427.0,
+        162.33333333333334,
+        439.6666666666667
+      ],
+      "text": "Đạt yêu cầu?",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        223.33333333333334,
+        453.3333333333333,
+        237.33333333333334,
+        462.6666666666667
+      ],
+      "text": "QA",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        291.6666666666667,
+        451.6666666666667,
+        452.3333333333333,
+        476.6666666666667
+      ],
+      "text": "Đối chiếu tiêu chí. Nếu không đạt: cách ly và lập phiếu xử lý sai Iệch.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        470.6666666666667,
+        453.3333333333333,
+        496.6666666666667,
+        462.6666666666667
+      ],
+      "text": "NC-01",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        87.66666666666666,
+        529.6666666666667,
+        171.66666666666666,
+        632.3333333333333
+      ],
+      "text": "Phê duyệt; lưu hồ sơ Kết thúc",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        223.33333333333334,
+        568.0,
+        260.0,
+        577.3333333333333
+      ],
+      "text": "QA / Kho",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        291.6666666666667,
+        566.3333333333333,
+        448.3333333333333,
+        589.3333333333333
+      ],
+      "text": "Phê duyệt thiết bị đạt yêu cầu. Cập nhật danh mục và lưu hồ sơ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        470.6666666666667,
+        568.0,
+        522.0,
+        578.0
+      ],
+      "text": "DM-THIETBI",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    }
+  ],
+  "tables": [
+    {
+      "id": "#/tables/0",
+      "bbox": [
+        37.35805708459432,
+        172.51118769878826,
+        557.9587068116873,
+        675.8704251144591
+      ],
+      "rows": 5,
+      "cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Lưu đồ",
+          "bbox": [
+            43.333333333333336,
+            180.66666666666666,
+            74.66666666666666,
+            191.33333333333334
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Trách nhiệm",
+          "bbox": [
+            223.0,
+            181.0,
+            276.33333333333337,
+            193.0
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Diễn giải",
+          "bbox": [
+            291.6666666666667,
+            180.33333333333334,
+            330.3333333333333,
+            193.0
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Biểu mẫu",
+          "bbox": [
+            470.6666666666667,
+            180.66666666666666,
+            510.6666666666667,
+            191.33333333333334
+          ],
+          "column_header": true
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Sản xuất",
+          "bbox": [
+            223.0,
+            221.0,
+            260.33333333333337,
+            233.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Tiếp nhận thiết bị- Kiểm tra mã, tem hiệu chuẩn và tình trạng bên ngoài.",
+          "bbox": [
+            291.6666666666667,
+            221.0,
+            449.6666666666667,
+            247.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QP-74-02-F6",
+          "bbox": [
+            470.0,
+            222.66666666666666,
+            522.0,
+            232.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 3,
+          "colspan": 1,
+          "text": "Tiếp nhận thiết bị",
+          "bbox": [
+            87.66666666666666,
+            243.66666666666669,
+            157.0,
+            256.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Kiểm tra Đo",
+          "bbox": [
+            87.66666666666666,
+            324.33333333333337,
+            141.33333333333331,
+            336.33333333333337
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Kỹ thuật",
+          "bbox": [
+            223.33333333333334,
+            338.0,
+            257.33333333333337,
+            348.66666666666663
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Đo số theo hướng dẫn. Ghi nhận nhiệt độ 20-25  C và mã QC-017 . thông",
+          "bbox": [
+            292.0,
+            335.71530945382676,
+            445.0,
+            360.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "HD-74-01",
+          "bbox": [
+            470.0,
+            338.0,
+            509.3333333333333,
+            348.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Đạt yêu cầu?",
+          "bbox": [
+            107.66666666666667,
+            427.0,
+            162.33333333333334,
+            439.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QA",
+          "bbox": [
+            223.33333333333334,
+            453.3333333333333,
+            237.33333333333334,
+            462.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Đối chiếu tiêu chí. Nếu không đạt: cách ly và lập phiếu xử lý sai Iệch.",
+          "bbox": [
+            291.6666666666667,
+            451.6666666666667,
+            452.3333333333333,
+            476.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "NC-01",
+          "bbox": [
+            470.6666666666667,
+            453.3333333333333,
+            496.6666666666667,
+            462.6666666666667
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phê duyệt; lưu hồ sơ Kết thúc",
+          "bbox": [
+            87.66666666666666,
+            529.6666666666667,
+            171.66666666666666,
+            632.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QA / Kho",
+          "bbox": [
+            223.33333333333334,
+            568.0,
+            260.0,
+            577.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phê duyệt thiết bị đạt yêu cầu. Cập nhật danh mục và lưu hồ sơ",
+          "bbox": [
+            291.6666666666667,
+            566.3333333333333,
+            448.3333333333333,
+            589.3333333333333
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "DM-THIETBI",
+          "bbox": [
+            470.6666666666667,
+            568.0,
+            522.0,
+            578.0
+          ],
+          "column_header": false
+        }
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "containers": [
+    {
+      "id": "#/groups/0",
+      "type": "container",
+      "label": "key_value_area",
+      "parent_ref": "#/body",
+      "child_refs": []
+    }
+  ],
+  "status": "ConversionStatus.SUCCESS",
+  "errors": [],
+  "runtime_warnings": [
+    "`force_full_page_ocr` is deprecated; set `mode=OcrMode.FULL_PAGE` instead.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used."
+  ],
+  "engine": "docling",
+  "page_number": 3,
+  "pdf": "sop_scan_clean.pdf",
+  "pdf_sha256": "8949ba7d87671613df7e2cc072fad1026d66ca872da9c464e114b214501b839b",
+  "coordinate_system": "pdf_points_top_left_unrotated"
+}

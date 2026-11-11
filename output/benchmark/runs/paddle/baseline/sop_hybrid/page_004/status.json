@@ -1,0 +1,12 @@
+{
+  "engine": "paddle",
+  "pdf": "sop_hybrid.pdf",
+  "pdf_sha256": "92d75f4c2c0e7039873e4821ef36fdba2c6981b3e298ccd5857ad6a98ed99bbf",
+  "page_number": 4,
+  "fingerprint": "fc560fe16771dcd4e557a5f2e270677f54c9e63e35d7bd7d0bcfbd2d1de5dc34",
+  "state": "success",
+  "seconds": 23.79861389985308,
+  "peak_rss_bytes": 1829052416,
+  "block_count": 11,
+  "table_count": 1
+}

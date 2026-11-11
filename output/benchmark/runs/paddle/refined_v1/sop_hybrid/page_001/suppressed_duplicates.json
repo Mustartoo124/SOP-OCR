@@ -1,0 +1,97 @@
+[
+  {
+    "source_token": 0,
+    "text": "CONG TY TNHH THIET BI NOVA",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 1,
+    "text": "NOVA",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 2,
+    "text": "Hé thöng quän ly chät luo'ng / Quality Management System",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 3,
+    "text": "QP-74-02  Phién bän 03  Ngay hi€u luc: 15/10/2026",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 4,
+    "text": "QUY TRiNH KIEM SOAT THIET BI",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 5,
+    "text": "1. Muc dich / Purpose",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 6,
+    "text": "Báo dám thiét bi duo'c kiém tra, hiêu chuán vá ghi nhan truó'c khi súr dung. Ap dung cho b phan Sán xuát vá ám",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 7,
+    "text": "bäo chät luQ'ng (QA).",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 8,
+    "text": "2. Träch nhiém",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 9,
+    "text": "1. Nhän vién kiém tra mä thiét bi QC-017 vä tinh trang tem hiéu chuän",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 10,
+    "text": "2. Truö'ng b phan xäc nhan két quä theo biéu mäu QP-74-02-F6",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 11,
+    "text": "3. QA luu hó so'; phan biet ma 0/O, 1/l va só l A-001-2026",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 12,
+    "text": "3. Acceptance criteria",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 13,
+    "text": "Temperature: 20-25 *C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 14,
+    "text": "the equipment.",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 19,
+    "text": "Hinh 1. Minh hoa thiét bi vä nhän nhan dang",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 20,
+    "text": "Luu y: Bän sao khng có ch ky phé duyét chi düng dé tham khäo",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 21,
+    "text": "TAI LIEU GIA LAP -Chi düng kiém thü trich xuät",
+    "reason": "native_text_covers_ocr_region"
+  },
+  {
+    "source_token": 22,
+    "text": "Trang 1/4",
+    "reason": "native_text_covers_ocr_region"
+  }
+]

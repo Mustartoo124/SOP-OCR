@@ -1,0 +1,1381 @@
+{
+  "engine": "paddle",
+  "pdf": "sop_scan_degraded.pdf",
+  "page_number": 2,
+  "state": "success",
+  "directory": "runs/paddle/refined_v1/sop_scan_degraded/page_002",
+  "seconds": 32.5643927003257,
+  "peak_rss_bytes": 1946169344,
+  "phase_seconds": {
+    "input_preparation": 0.005076299887150526,
+    "parser_and_raw_export": 31.372244799975306,
+    "refinement_and_debug_export": 0.6394187998957932,
+    "evidence_and_crop_export": 0.529865900054574
+  },
+  "table_matches": [
+    {
+      "gt_id": "p2_010",
+      "prediction_id": "geometry_table_0",
+      "iou": 0.9983036922732128,
+      "grid_policy": "complete",
+      "expected_shape": [
+        8,
+        6
+      ],
+      "predicted_shape": [
+        8,
+        6
+      ],
+      "shape_exact": true,
+      "span_grid_exact": true,
+      "cells_expected": 46,
+      "cells_predicted": 46,
+      "logical_cells_exact": 46,
+      "cell_text_checks": [
+        {
+          "row": 0,
+          "col": 0,
+          "expected": "Lần sửa",
+          "predicted": "Lan\nsua",
+          "exact": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "expected": "Ngày",
+          "predicted": "Ngay",
+          "exact": false
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "expected": "Mục",
+          "predicted": "Muc",
+          "exact": false
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "expected": "Nội dung thay đổi",
+          "predicted": "Noi dung thay doi",
+          "exact": false
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "expected": "Người soạn",
+          "predicted": "Nguoi soan",
+          "exact": false
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "expected": "Phê duyệt",
+          "predicted": "Phe duyét",
+          "exact": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "expected": "01",
+          "predicted": "01",
+          "exact": true
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "expected": "12/03/2024",
+          "predicted": "12/03/2024",
+          "exact": true
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "expected": "Toàn bộ",
+          "predicted": "Toan bo",
+          "exact": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "expected": "Ban hành lần đầu. Bổ sung hướng dẫn kiểm tra thiết bị.",
+          "predicted": "Ban hanh lan dau.Bo sung huöng dan\nkiem tra thiét bi.",
+          "exact": false
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "expected": "Nguyễn An",
+          "predicted": "Nguy&n An",
+          "exact": false
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "expected": "Trần Bình",
+          "predicted": "Tran Binh",
+          "exact": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "expected": "12/03/2024",
+          "predicted": "12/03/2024",
+          "exact": true
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "expected": "Phụ lục",
+          "predicted": "Phu luc",
+          "exact": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "expected": "Biểu mẫu QP-74-02-F6 và danh mục thiết bị QC-017.",
+          "predicted": "Biéu.mau QP-74-02-F6vadanh muc thiét\nbi QC-017.",
+          "exact": false
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "expected": "Lê Hà",
+          "predicted": "Le Ha",
+          "exact": false
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "expected": "Trần Bình",
+          "predicted": "Tran Binh",
+          "exact": false
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "expected": "02",
+          "predicted": "02",
+          "exact": true
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "expected": "08/06/2025",
+          "predicted": "08/06/2025",
+          "exact": true
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "expected": "4.2",
+          "predicted": "4.2",
+          "exact": true
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "expected": "Sửa tần suất hiệu chuẩn từ 12 tháng thành 6 tháng.",
+          "predicted": "Sua tan suat hieu chuan tur 12 thang\nthanh.6thang.",
+          "exact": false
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "expected": "Đỗ Huy",
+          "predicted": "DHuy",
+          "exact": false
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "expected": "Vũ Mai",
+          "predicted": "Vü Mai",
+          "exact": false
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "expected": "03",
+          "predicted": "03",
+          "exact": true
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "expected": "15/10/2026",
+          "predicted": "15/10/2026",
+          "exact": true
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "expected": "5.1",
+          "predicted": "5.1",
+          "exact": true
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "expected": "Bổ sung lưu đồ xử lý sai lệch; kiểm tra 0/O và 1/I.",
+          "predicted": "Bö sung luu d xur ly sai lech kiem tra 0/O\nva1/l.",
+          "exact": false
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "expected": "Phạm Mỹ",
+          "predicted": "Pham My",
+          "exact": false
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "expected": "Vũ Mai",
+          "predicted": "Vu Mai",
+          "exact": false
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "expected": "03",
+          "predicted": "03",
+          "exact": true
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "expected": "15/10/2026",
+          "predicted": "15/10/2026",
+          "exact": true
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "expected": "5.2",
+          "predicted": "5.2",
+          "exact": true
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "expected": "Phân công trách nhiệm QA và bộ phận Sản xuất.",
+          "predicted": "Phan cong trachnhiem QAvabophan\nSan xuat.",
+          "exact": false
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "expected": "Phạm Mỹ",
+          "predicted": "Pham My",
+          "exact": false
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "expected": "Vũ Mai",
+          "predicted": "Vü Mai",
+          "exact": false
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "expected": "03",
+          "predicted": "03",
+          "exact": true
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "expected": "15/10/2026",
+          "predicted": "15/10/2026",
+          "exact": true
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "expected": "6",
+          "predicted": "6",
+          "exact": true
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "expected": "Hồ sơ lưu tối thiểu 03 năm. Record retention: 3 years.",
+          "predicted": "Ho so luu töi thieu 03 nam.Record\nretention3 years.",
+          "exact": false
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "expected": "Nguyễn An",
+          "predicted": "Nguyen An",
+          "exact": false
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "expected": "Trần Bình",
+          "predicted": "Tran Binh",
+          "exact": false
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "expected": "03",
+          "predicted": "03",
+          "exact": true
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "expected": "15/10/2026",
+          "predicted": "15/10/2026",
+          "exact": true
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "expected": "Ghi chú",
+          "predicted": "Ghi chü",
+          "exact": false
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "expected": "Dấu tiếng Việt: ă, â, ê, ô, ơ, ư, đ.\nĐã kiểm tra và phê duyệt.",
+          "predicted": "Dau tieng Viet.aa.eo,ou,d.\nDa kiem tra va pheduyet.",
+          "exact": false
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "expected": "Lê Hà / Trần Bình",
+          "predicted": "Le Ha/Tran Binh",
+          "exact": false
+        }
+      ]
+    }
+  ],
+  "figure_matches": [],
+  "text_checks": [
+    {
+      "gt_id": "p2_003",
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "observed": "CONG TY TNHH THIET BI NOVA",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_004",
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "observed": "Hé thöng quan ly chat luo'ng/Quality Management System",
+      "spatial_token_recall": 0.2,
+      "exact": false,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_005",
+      "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "observed": "QP-74-02Phienban03Ngay hieu luc15/10/2026",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_006",
+      "text": "LỊCH SỬ BAN HÀNH VÀ PHÊ DUYỆT",
+      "observed": "LICH SU' BAN HANH VAPHE DUYET",
+      "spatial_token_recall": 0.14285714285714285,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_007",
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "observed": "TAI LIEU GIALAP-Chi dung kiem thu trichxuat",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_008",
+      "text": "Trang 2/4",
+      "observed": "Trang2/4",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_009",
+      "text": "Các ô gộp, nội dung nhiều dòng và chữ xoay phải được bảo toàn khi trích xuất.",
+      "observed": "Cac  gop,ni dung nhieu dong va chu xoay phai duoc bao toan khi trich xuat.",
+      "spatial_token_recall": 0.17647058823529413,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_012",
+      "text": "Lần sửa",
+      "observed": "Lan sua",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_014",
+      "text": "Ngày",
+      "observed": "Ngay",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_016",
+      "text": "Mục",
+      "observed": "Muc",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_018",
+      "text": "Nội dung thay đổi",
+      "observed": "Noi dung thay doi",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_020",
+      "text": "Người soạn",
+      "observed": "Nguoi soan",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_022",
+      "text": "Phê duyệt",
+      "observed": "Phe duyét",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_024",
+      "text": "01",
+      "observed": "01",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_026",
+      "text": "12/03/2024",
+      "observed": "12/03/2024",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_028",
+      "text": "Toàn bộ",
+      "observed": "Toan bo",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_030",
+      "text": "Ban hành lần đầu. Bổ sung hướng dẫn kiểm tra thiết bị.",
+      "observed": "Ban hanh lan dau.Bo sung huöng dan kiem tra thiét bi.",
+      "spatial_token_recall": 0.25,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_032",
+      "text": "Nguyễn An",
+      "observed": "Nguy&n An",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_034",
+      "text": "Trần Bình",
+      "observed": "Tran Binh",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_036",
+      "text": "12/03/2024",
+      "observed": "12/03/2024",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_038",
+      "text": "Phụ lục",
+      "observed": "Phu luc",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_040",
+      "text": "Biểu mẫu QP-74-02-F6 và danh mục thiết bị QC-017.",
+      "observed": "Biéu.mau QP-74-02-F6vadanh muc thiét bi QC-017.",
+      "spatial_token_recall": 0.1111111111111111,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_042",
+      "text": "Lê Hà",
+      "observed": "Le Ha",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_044",
+      "text": "Trần Bình",
+      "observed": "Tran Binh",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_046",
+      "text": "02",
+      "observed": "02",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_048",
+      "text": "08/06/2025",
+      "observed": "08/06/2025",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_050",
+      "text": "4.2",
+      "observed": "4.2",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_052",
+      "text": "Sửa tần suất hiệu chuẩn từ 12 tháng thành 6 tháng.",
+      "observed": "Sua tan suat hieu chuan tur 12 thang thanh.6thang.",
+      "spatial_token_recall": 0.09090909090909091,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_054",
+      "text": "Đỗ Huy",
+      "observed": "DHuy",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_056",
+      "text": "Vũ Mai",
+      "observed": "Vü Mai",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_058",
+      "text": "03",
+      "observed": "03",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_060",
+      "text": "15/10/2026",
+      "observed": "15/10/2026",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_062",
+      "text": "5.1",
+      "observed": "5.1",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_064",
+      "text": "Bổ sung lưu đồ xử lý sai lệch; kiểm tra 0/O và 1/I.",
+      "observed": "Bö sung luu d xur ly sai lech kiem tra 0/O va1/l.",
+      "spatial_token_recall": 0.3076923076923077,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_066",
+      "text": "Phạm Mỹ",
+      "observed": "Pham My",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_068",
+      "text": "Vũ Mai",
+      "observed": "Vu Mai",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_070",
+      "text": "03",
+      "observed": "03",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_072",
+      "text": "15/10/2026",
+      "observed": "15/10/2026",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_074",
+      "text": "5.2",
+      "observed": "5.2",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_076",
+      "text": "Phân công trách nhiệm QA và bộ phận Sản xuất.",
+      "observed": "Phan cong trachnhiem QAvabophan San xuat.",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_078",
+      "text": "Phạm Mỹ",
+      "observed": "Pham My",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_080",
+      "text": "Vũ Mai",
+      "observed": "Vü Mai",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_082",
+      "text": "03",
+      "observed": "03",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_084",
+      "text": "15/10/2026",
+      "observed": "15/10/2026",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_086",
+      "text": "6",
+      "observed": "6",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_088",
+      "text": "Hồ sơ lưu tối thiểu 03 năm. Record retention: 3 years.",
+      "observed": "Ho so luu töi thieu 03 nam.Record retention3 years.",
+      "spatial_token_recall": 0.18181818181818182,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_090",
+      "text": "Nguyễn An",
+      "observed": "Nguyen An",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_092",
+      "text": "Trần Bình",
+      "observed": "Tran Binh",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_094",
+      "text": "03",
+      "observed": "03",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_096",
+      "text": "15/10/2026",
+      "observed": "15/10/2026",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_098",
+      "text": "Ghi chú",
+      "observed": "Ghi chü",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_100",
+      "text": "Dấu tiếng Việt: ă, â, ê, ô, ơ, ư, đ.\nĐã kiểm tra và phê duyệt.",
+      "observed": "Dau tieng Viet.aa.eo,ou,d. Da kiem tra va pheduyet.",
+      "spatial_token_recall": 0.0625,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_102",
+      "text": "Lê Hà / Trần Bình",
+      "observed": "Le Ha/Tran Binh",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p2_103",
+      "text": "LỊCH SỬ TÀI LIỆU - DOCUMENT HISTORY",
+      "rotation": 270,
+      "evaluation": "manual_rotated_text",
+      "layer": "body"
+    },
+    {
+      "gt_id": "p2_106",
+      "text": "Xác nhận / Approval: Nội dung này là dữ liệu giả lập, không phải hồ sơ doanh nghiệp.",
+      "observed": "Xac nhan/ApprovalNi dung nay la du lieu gialap,khng phái h.so doanh nghiep",
+      "spatial_token_recall": 0.1111111111111111,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    }
+  ],
+  "issues": [
+    {
+      "type": "single_cell_box_not_classified_as_table",
+      "target_id": "p2_104",
+      "bbox": [
+        62,
+        710,
+        557,
+        758
+      ]
+    },
+    {
+      "type": "figure_region_missing_or_low_iou",
+      "expected_type": "image",
+      "target_id": "p2_001",
+      "bbox": [
+        38,
+        27,
+        92,
+        68
+      ],
+      "layer": "furniture"
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_003",
+      "detail": {
+        "gt_id": "p2_003",
+        "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+        "observed": "CONG TY TNHH THIET BI NOVA",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "furniture",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_004",
+      "detail": {
+        "gt_id": "p2_004",
+        "text": "Hệ thống quản lý chất lượng / Quality Management System",
+        "observed": "Hé thöng quan ly chat luo'ng/Quality Management System",
+        "spatial_token_recall": 0.2,
+        "exact": false,
+        "layer": "furniture",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_005",
+      "detail": {
+        "gt_id": "p2_005",
+        "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+        "observed": "QP-74-02Phienban03Ngay hieu luc15/10/2026",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "furniture",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_006",
+      "detail": {
+        "gt_id": "p2_006",
+        "text": "LỊCH SỬ BAN HÀNH VÀ PHÊ DUYỆT",
+        "observed": "LICH SU' BAN HANH VAPHE DUYET",
+        "spatial_token_recall": 0.14285714285714285,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_007",
+      "detail": {
+        "gt_id": "p2_007",
+        "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+        "observed": "TAI LIEU GIALAP-Chi dung kiem thu trichxuat",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "furniture",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_008",
+      "detail": {
+        "gt_id": "p2_008",
+        "text": "Trang 2/4",
+        "observed": "Trang2/4",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "furniture",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_009",
+      "detail": {
+        "gt_id": "p2_009",
+        "text": "Các ô gộp, nội dung nhiều dòng và chữ xoay phải được bảo toàn khi trích xuất.",
+        "observed": "Cac  gop,ni dung nhieu dong va chu xoay phai duoc bao toan khi trich xuat.",
+        "spatial_token_recall": 0.17647058823529413,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_012",
+      "detail": {
+        "gt_id": "p2_012",
+        "text": "Lần sửa",
+        "observed": "Lan sua",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_014",
+      "detail": {
+        "gt_id": "p2_014",
+        "text": "Ngày",
+        "observed": "Ngay",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_016",
+      "detail": {
+        "gt_id": "p2_016",
+        "text": "Mục",
+        "observed": "Muc",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_018",
+      "detail": {
+        "gt_id": "p2_018",
+        "text": "Nội dung thay đổi",
+        "observed": "Noi dung thay doi",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_020",
+      "detail": {
+        "gt_id": "p2_020",
+        "text": "Người soạn",
+        "observed": "Nguoi soan",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_022",
+      "detail": {
+        "gt_id": "p2_022",
+        "text": "Phê duyệt",
+        "observed": "Phe duyét",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_028",
+      "detail": {
+        "gt_id": "p2_028",
+        "text": "Toàn bộ",
+        "observed": "Toan bo",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_030",
+      "detail": {
+        "gt_id": "p2_030",
+        "text": "Ban hành lần đầu. Bổ sung hướng dẫn kiểm tra thiết bị.",
+        "observed": "Ban hanh lan dau.Bo sung huöng dan kiem tra thiét bi.",
+        "spatial_token_recall": 0.25,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_032",
+      "detail": {
+        "gt_id": "p2_032",
+        "text": "Nguyễn An",
+        "observed": "Nguy&n An",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_034",
+      "detail": {
+        "gt_id": "p2_034",
+        "text": "Trần Bình",
+        "observed": "Tran Binh",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_038",
+      "detail": {
+        "gt_id": "p2_038",
+        "text": "Phụ lục",
+        "observed": "Phu luc",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_040",
+      "detail": {
+        "gt_id": "p2_040",
+        "text": "Biểu mẫu QP-74-02-F6 và danh mục thiết bị QC-017.",
+        "observed": "Biéu.mau QP-74-02-F6vadanh muc thiét bi QC-017.",
+        "spatial_token_recall": 0.1111111111111111,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_042",
+      "detail": {
+        "gt_id": "p2_042",
+        "text": "Lê Hà",
+        "observed": "Le Ha",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_044",
+      "detail": {
+        "gt_id": "p2_044",
+        "text": "Trần Bình",
+        "observed": "Tran Binh",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_052",
+      "detail": {
+        "gt_id": "p2_052",
+        "text": "Sửa tần suất hiệu chuẩn từ 12 tháng thành 6 tháng.",
+        "observed": "Sua tan suat hieu chuan tur 12 thang thanh.6thang.",
+        "spatial_token_recall": 0.09090909090909091,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_054",
+      "detail": {
+        "gt_id": "p2_054",
+        "text": "Đỗ Huy",
+        "observed": "DHuy",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_056",
+      "detail": {
+        "gt_id": "p2_056",
+        "text": "Vũ Mai",
+        "observed": "Vü Mai",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_064",
+      "detail": {
+        "gt_id": "p2_064",
+        "text": "Bổ sung lưu đồ xử lý sai lệch; kiểm tra 0/O và 1/I.",
+        "observed": "Bö sung luu d xur ly sai lech kiem tra 0/O va1/l.",
+        "spatial_token_recall": 0.3076923076923077,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_066",
+      "detail": {
+        "gt_id": "p2_066",
+        "text": "Phạm Mỹ",
+        "observed": "Pham My",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_068",
+      "detail": {
+        "gt_id": "p2_068",
+        "text": "Vũ Mai",
+        "observed": "Vu Mai",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_076",
+      "detail": {
+        "gt_id": "p2_076",
+        "text": "Phân công trách nhiệm QA và bộ phận Sản xuất.",
+        "observed": "Phan cong trachnhiem QAvabophan San xuat.",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_078",
+      "detail": {
+        "gt_id": "p2_078",
+        "text": "Phạm Mỹ",
+        "observed": "Pham My",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_080",
+      "detail": {
+        "gt_id": "p2_080",
+        "text": "Vũ Mai",
+        "observed": "Vü Mai",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_088",
+      "detail": {
+        "gt_id": "p2_088",
+        "text": "Hồ sơ lưu tối thiểu 03 năm. Record retention: 3 years.",
+        "observed": "Ho so luu töi thieu 03 nam.Record retention3 years.",
+        "spatial_token_recall": 0.18181818181818182,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_090",
+      "detail": {
+        "gt_id": "p2_090",
+        "text": "Nguyễn An",
+        "observed": "Nguyen An",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_092",
+      "detail": {
+        "gt_id": "p2_092",
+        "text": "Trần Bình",
+        "observed": "Tran Binh",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_098",
+      "detail": {
+        "gt_id": "p2_098",
+        "text": "Ghi chú",
+        "observed": "Ghi chü",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_100",
+      "detail": {
+        "gt_id": "p2_100",
+        "text": "Dấu tiếng Việt: ă, â, ê, ô, ơ, ư, đ.\nĐã kiểm tra và phê duyệt.",
+        "observed": "Dau tieng Viet.aa.eo,ou,d. Da kiem tra va pheduyet.",
+        "spatial_token_recall": 0.0625,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_102",
+      "detail": {
+        "gt_id": "p2_102",
+        "text": "Lê Hà / Trần Bình",
+        "observed": "Le Ha/Tran Binh",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p2_106",
+      "detail": {
+        "gt_id": "p2_106",
+        "text": "Xác nhận / Approval: Nội dung này là dữ liệu giả lập, không phải hồ sơ doanh nghiệp.",
+        "observed": "Xac nhan/ApprovalNi dung nay la du lieu gialap,khng phái h.so doanh nghiep",
+        "spatial_token_recall": 0.1111111111111111,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    }
+  ],
+  "table_detection": {
+    "expected": 2,
+    "predicted": 1,
+    "matched": 1
+  },
+  "cell_text_evaluation": {
+    "expected": 47,
+    "compared": 46,
+    "exact": 17
+  },
+  "figure_detection": {
+    "expected": 1,
+    "predicted": 0,
+    "matched": 0,
+    "body_expected": 0,
+    "body_matched": 0,
+    "diagram_expected": 0,
+    "diagram_matched": 0,
+    "nested_expected": 0
+  }
+}

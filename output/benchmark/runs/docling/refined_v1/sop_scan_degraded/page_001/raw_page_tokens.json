@@ -1,0 +1,902 @@
+[
+  {
+    "index": 0,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 103.33333333333333,
+      "r_y0": 41.66666666666667,
+      "r_x1": 265.66666666666663,
+      "r_y1": 41.66666666666667,
+      "r_x2": 265.66666666666663,
+      "r_y2": 27.666666666666664,
+      "r_x3": 103.33333333333333,
+      "r_y3": 27.666666666666664,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+    "orig": "CÔNG TY TNHH THIÉT BỊ NOVA",
+    "text_direction": "left_to_right",
+    "confidence": 0.965055697498294,
+    "from_ocr": true
+  },
+  {
+    "index": 1,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 41.333333333333336,
+      "r_y0": 54.333333333333336,
+      "r_x1": 81.33333333333334,
+      "r_y1": 54.333333333333336,
+      "r_x2": 81.33333333333334,
+      "r_y2": 40.33333333333333,
+      "r_x3": 41.333333333333336,
+      "r_y3": 40.33333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "NOVA",
+    "orig": "NOVA",
+    "text_direction": "left_to_right",
+    "confidence": 0.9994542002677917,
+    "from_ocr": true
+  },
+  {
+    "index": 2,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 103.66666666666667,
+      "r_y0": 56.0,
+      "r_x1": 117.0,
+      "r_y1": 56.0,
+      "r_x2": 117.0,
+      "r_y2": 46.0,
+      "r_x3": 103.66666666666667,
+      "r_y3": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Hệ",
+    "orig": "Hệ",
+    "text_direction": "left_to_right",
+    "confidence": 0.9997811805753406,
+    "from_ocr": true
+  },
+  {
+    "index": 3,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 139.0,
+      "r_y0": 57.0,
+      "r_x1": 327.3333333333333,
+      "r_y1": 57.0,
+      "r_x2": 327.3333333333333,
+      "r_y2": 43.66666666666667,
+      "r_x3": 139.0,
+      "r_y3": 43.66666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "quản lý chất Iượng / Quality Management System",
+    "orig": "quản lý chất Iượng / Quality Management System",
+    "text_direction": "left_to_right",
+    "confidence": 0.7648284624933739,
+    "from_ocr": true
+  },
+  {
+    "index": 4,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 103.66666666666667,
+      "r_y0": 70.66666666666666,
+      "r_x1": 142.33333333333331,
+      "r_y1": 70.66666666666666,
+      "r_x2": 142.33333333333331,
+      "r_y2": 62.0,
+      "r_x3": 103.66666666666667,
+      "r_y3": 62.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "OP-74-02",
+    "orig": "OP-74-02",
+    "text_direction": "left_to_right",
+    "confidence": 0.5060623708905188,
+    "from_ocr": true
+  },
+  {
+    "index": 5,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 146.33333333333331,
+      "r_y0": 71.33333333333334,
+      "r_x1": 198.33333333333334,
+      "r_y1": 71.33333333333334,
+      "r_x2": 198.33333333333334,
+      "r_y2": 61.333333333333336,
+      "r_x3": 146.33333333333331,
+      "r_y3": 61.333333333333336,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Phiên bản 03",
+    "orig": "Phiên bản 03",
+    "text_direction": "left_to_right",
+    "confidence": 0.9569605765171814,
+    "from_ocr": true
+  },
+  {
+    "index": 6,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 202.0,
+      "r_y0": 73.0,
+      "r_x1": 302.3333333333333,
+      "r_y1": 73.0,
+      "r_x2": 302.3333333333333,
+      "r_y2": 60.333333333333336,
+      "r_x3": 202.0,
+      "r_y3": 60.333333333333336,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Ngày hỉệu lực: 15/10/2026",
+    "orig": "Ngày hỉệu lực: 15/10/2026",
+    "text_direction": "left_to_right",
+    "confidence": 0.6849047031237573,
+    "from_ocr": true
+  },
+  {
+    "index": 7,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 116.9940089342938,
+      "r_y0": 58.2894327163502,
+      "r_x1": 140.33932439903953,
+      "r_y1": 58.2894327163502,
+      "r_x2": 140.33932439903953,
+      "r_y2": 43.04390061698314,
+      "r_x3": 116.9940089342938,
+      "r_y3": 43.04390061698314,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "thông '",
+    "orig": "thông '",
+    "text_direction": "left_to_right",
+    "confidence": 0.5926899788402499,
+    "from_ocr": true
+  },
+  {
+    "index": 8,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 36.0,
+      "r_y0": 116.0,
+      "r_x1": 276.66666666666663,
+      "r_y1": 116.0,
+      "r_x2": 276.66666666666663,
+      "r_y2": 97.33333333333333,
+      "r_x3": 36.0,
+      "r_y3": 97.33333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "QUY TRÌNH KIỂM SOÁT THIÉT BI",
+    "orig": "QUY TRÌNH KIỂM SOÁT THIÉT BI",
+    "text_direction": "left_to_right",
+    "confidence": 0.7248332718770347,
+    "from_ocr": true
+  },
+  {
+    "index": 9,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 36.666666666666664,
+      "r_y0": 159.33333333333334,
+      "r_x1": 158.66666666666666,
+      "r_y1": 159.33333333333334,
+      "r_x2": 158.66666666666666,
+      "r_y2": 142.66666666666666,
+      "r_x3": 36.666666666666664,
+      "r_y3": 142.66666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "1. Mục đích / Purpose",
+    "orig": "1. Mục đích / Purpose",
+    "text_direction": "left_to_right",
+    "confidence": 0.8090388817724531,
+    "from_ocr": true
+  },
+  {
+    "index": 10,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 37.0,
+      "r_y0": 182.66666666666666,
+      "r_x1": 162.33333333333334,
+      "r_y1": 182.66666666666666,
+      "r_x2": 162.33333333333334,
+      "r_y2": 169.0,
+      "r_x3": 37.0,
+      "r_y3": 169.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Bảo đảm thiết bị được kiểm",
+    "orig": "Bảo đảm thiết bị được kiểm",
+    "text_direction": "left_to_right",
+    "confidence": 0.5680089739810884,
+    "from_ocr": true
+  },
+  {
+    "index": 11,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 178.66666666666666,
+      "r_y0": 184.0,
+      "r_x1": 548.6666666666666,
+      "r_y1": 184.0,
+      "r_x2": 548.6666666666666,
+      "r_y2": 168.0,
+      "r_x3": 178.66666666666666,
+      "r_y3": 168.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "hiệu chuẩn và ghi nhận trước khi sử dụng. Áp dụng cho bộ phận Sản xuất và Đảm",
+    "orig": "hiệu chuẩn và ghi nhận trước khi sử dụng. Áp dụng cho bộ phận Sản xuất và Đảm",
+    "text_direction": "left_to_right",
+    "confidence": 0.6907392254918255,
+    "from_ocr": true
+  },
+  {
+    "index": 12,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 37.0,
+      "r_y0": 197.33333333333334,
+      "r_x1": 134.33333333333331,
+      "r_y1": 197.33333333333334,
+      "r_x2": 134.33333333333331,
+      "r_y2": 182.33333333333334,
+      "r_x3": 37.0,
+      "r_y3": 182.33333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "bảo chất Iượng (QA).",
+    "orig": "bảo chất Iượng (QA).",
+    "text_direction": "left_to_right",
+    "confidence": 0.662248466966551,
+    "from_ocr": true
+  },
+  {
+    "index": 13,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 162.3303302696685,
+      "r_y0": 181.6084085782615,
+      "r_x1": 178.0030030636648,
+      "r_y1": 181.6084085782615,
+      "r_x2": 178.0030030636648,
+      "r_y2": 170.3915914217385,
+      "r_x3": 162.3303302696685,
+      "r_y3": 170.3915914217385,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "tra,",
+    "orig": "tra,",
+    "text_direction": "left_to_right",
+    "confidence": 0.6663089990615845,
+    "from_ocr": true
+  },
+  {
+    "index": 14,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 37.0,
+      "r_y0": 239.66666666666666,
+      "r_x1": 120.33333333333333,
+      "r_y1": 239.66666666666666,
+      "r_x2": 120.33333333333333,
+      "r_y2": 226.33333333333334,
+      "r_x3": 37.0,
+      "r_y3": 226.33333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "2. Trách nhiệm",
+    "orig": "2. Trách nhiệm",
+    "text_direction": "left_to_right",
+    "confidence": 0.7327780709383769,
+    "from_ocr": true
+  },
+  {
+    "index": 15,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 48.33333333333333,
+      "r_y0": 264.3333333333333,
+      "r_x1": 54.33333333333333,
+      "r_y1": 264.3333333333333,
+      "r_x2": 54.33333333333333,
+      "r_y2": 255.66666666666666,
+      "r_x3": 48.33333333333333,
+      "r_y3": 255.66666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "1",
+    "orig": "1",
+    "text_direction": "left_to_right",
+    "confidence": 0.9997376375644684,
+    "from_ocr": true
+  },
+  {
+    "index": 16,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 57.66666666666667,
+      "r_y0": 266.3333333333333,
+      "r_x1": 128.33333333333331,
+      "r_y1": 266.3333333333333,
+      "r_x2": 128.33333333333331,
+      "r_y2": 253.66666666666666,
+      "r_x3": 57.66666666666667,
+      "r_y3": 253.66666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Nhân viên kiểm",
+    "orig": "Nhân viên kiểm",
+    "text_direction": "left_to_right",
+    "confidence": 0.833389105519949,
+    "from_ocr": true
+  },
+  {
+    "index": 17,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 142.33333333333331,
+      "r_y0": 267.3333333333333,
+      "r_x1": 357.0,
+      "r_y1": 267.3333333333333,
+      "r_x2": 357.0,
+      "r_y2": 253.0,
+      "r_x3": 142.33333333333331,
+      "r_y3": 253.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "mã thiết bị QC-017 và tình trạng tem hiệu chuẩn.",
+    "orig": "mã thiết bị QC-017 và tình trạng tem hiệu chuẩn.",
+    "text_direction": "left_to_right",
+    "confidence": 0.6708095674537413,
+    "from_ocr": true
+  },
+  {
+    "index": 18,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 46.33333333333333,
+      "r_y0": 298.0,
+      "r_x1": 334.0,
+      "r_y1": 298.0,
+      "r_x2": 334.0,
+      "r_y2": 283.6666666666667,
+      "r_x3": 46.33333333333333,
+      "r_y3": 283.6666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "2. Trưởng bộ phận xác nhận kết quả theo biểu mẫu QP-74-02-F6",
+    "orig": "2. Trưởng bộ phận xác nhận kết quả theo biểu mẫu QP-74-02-F6",
+    "text_direction": "left_to_right",
+    "confidence": 0.50164708117816,
+    "from_ocr": true
+  },
+  {
+    "index": 19,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 47.66666666666667,
+      "r_y0": 325.0,
+      "r_x1": 54.33333333333333,
+      "r_y1": 325.0,
+      "r_x2": 54.33333333333333,
+      "r_y2": 316.3333333333333,
+      "r_x3": 47.66666666666667,
+      "r_y3": 316.3333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "3",
+    "orig": "3",
+    "text_direction": "left_to_right",
+    "confidence": 0.9999562506692463,
+    "from_ocr": true
+  },
+  {
+    "index": 20,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 57.66666666666667,
+      "r_y0": 328.0,
+      "r_x1": 307.6666666666667,
+      "r_y1": 328.0,
+      "r_x2": 307.6666666666667,
+      "r_y2": 313.6666666666667,
+      "r_x3": 57.66666666666667,
+      "r_y3": 313.6666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "QA Iưu hồ sơ; phân biệt mã 0/0, 1/l và số lô A-001-2026.",
+    "orig": "QA Iưu hồ sơ; phân biệt mã 0/0, 1/l và số lô A-001-2026.",
+    "text_direction": "left_to_right",
+    "confidence": 0.3268590141876467,
+    "from_ocr": true
+  },
+  {
+    "index": 21,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 127.65268564417642,
+      "r_y0": 265.9377487607237,
+      "r_x1": 140.6806476891569,
+      "r_y1": 265.9377487607237,
+      "r_x2": 140.6806476891569,
+      "r_y2": 255.0622512392763,
+      "r_x3": 127.65268564417642,
+      "r_y3": 255.0622512392763,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "tra",
+    "orig": "tra",
+    "text_direction": "left_to_right",
+    "confidence": 0.9996240845023047,
+    "from_ocr": true
+  },
+  {
+    "index": 22,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 37.0,
+      "r_y0": 382.0,
+      "r_x1": 158.66666666666666,
+      "r_y1": 382.0,
+      "r_x2": 158.66666666666666,
+      "r_y2": 367.6666666666667,
+      "r_x3": 37.0,
+      "r_y3": 367.6666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "3. Acceptance criteria",
+    "orig": "3. Acceptance criteria",
+    "text_direction": "left_to_right",
+    "confidence": 0.8073582949912174,
+    "from_ocr": true
+  },
+  {
+    "index": 23,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 36.666666666666664,
+      "r_y0": 407.3333333333333,
+      "r_x1": 128.33333333333331,
+      "r_y1": 407.3333333333333,
+      "r_x2": 128.33333333333331,
+      "r_y2": 394.3333333333333,
+      "r_x3": 36.666666666666664,
+      "r_y3": 394.3333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Temperature: 20-25",
+    "orig": "Temperature: 20-25",
+    "text_direction": "left_to_right",
+    "confidence": 0.8068185466838032,
+    "from_ocr": true
+  },
+  {
+    "index": 24,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 132.33333333333331,
+      "r_y0": 407.6666666666667,
+      "r_x1": 554.0,
+      "r_y1": 407.6666666666667,
+      "r_x2": 554.0,
+      "r_y2": 392.6666666666667,
+      "r_x3": 132.33333333333331,
+      "r_y3": 392.6666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing",
+    "orig": "C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing",
+    "text_direction": "left_to_right",
+    "confidence": 0.5348872437246092,
+    "from_ocr": true
+  },
+  {
+    "index": 25,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 36.333333333333336,
+      "r_y0": 421.0,
+      "r_x1": 104.33333333333333,
+      "r_y1": 421.0,
+      "r_x2": 104.33333333333333,
+      "r_y2": 407.3333333333333,
+      "r_x3": 36.333333333333336,
+      "r_y3": 407.3333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "the equipment:",
+    "orig": "the equipment:",
+    "text_direction": "left_to_right",
+    "confidence": 0.8847901889773858,
+    "from_ocr": true
+  },
+  {
+    "index": 26,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 149.66666666666666,
+      "r_y0": 540.6666666666666,
+      "r_x1": 214.33333333333334,
+      "r_y1": 540.6666666666666,
+      "r_x2": 214.33333333333334,
+      "r_y2": 519.3333333333334,
+      "r_x3": 149.66666666666666,
+      "r_y3": 519.3333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "24.8 €",
+    "orig": "24.8 €",
+    "text_direction": "left_to_right",
+    "confidence": 0.5802095592381658,
+    "from_ocr": true
+  },
+  {
+    "index": 27,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 300.0,
+      "r_y0": 536.0,
+      "r_x1": 383.6666666666667,
+      "r_y1": 536.0,
+      "r_x2": 383.6666666666667,
+      "r_y2": 513.0,
+      "r_x3": 300.0,
+      "r_y3": 513.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "QC-017",
+    "orig": "QC-017",
+    "text_direction": "left_to_right",
+    "confidence": 0.5824272544093302,
+    "from_ocr": true
+  },
+  {
+    "index": 28,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 299.33333333333337,
+      "r_y0": 567.0,
+      "r_x1": 397.3333333333333,
+      "r_y1": 567.0,
+      "r_x2": 397.3333333333333,
+      "r_y2": 549.6666666666666,
+      "r_x3": 299.33333333333337,
+      "r_y3": 549.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "THIÉT BỊ MẪU",
+    "orig": "THIÉT BỊ MẪU",
+    "text_direction": "left_to_right",
+    "confidence": 0.6739726976380479,
+    "from_ocr": true
+  },
+  {
+    "index": 29,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 299.33333333333337,
+      "r_y0": 600.3333333333334,
+      "r_x1": 329.33333333333337,
+      "r_y1": 600.3333333333334,
+      "r_x2": 329.33333333333337,
+      "r_y2": 583.6666666666666,
+      "r_x3": 299.33333333333337,
+      "r_y3": 583.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "0/O",
+    "orig": "0/O",
+    "text_direction": "left_to_right",
+    "confidence": 0.4943325459026254,
+    "from_ocr": true
+  },
+  {
+    "index": 30,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 340.66666666666663,
+      "r_y0": 600.3333333333334,
+      "r_x1": 361.3333333333333,
+      "r_y1": 600.3333333333334,
+      "r_x2": 361.3333333333333,
+      "r_y2": 584.3333333333334,
+      "r_x3": 340.66666666666663,
+      "r_y3": 584.3333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "1/1",
+    "orig": "1/1",
+    "text_direction": "left_to_right",
+    "confidence": 0.5204331559976775,
+    "from_ocr": true
+  },
+  {
+    "index": 31,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 117.66666666666667,
+      "r_y0": 691.0,
+      "r_x1": 298.0,
+      "r_y1": 691.0,
+      "r_x2": 298.0,
+      "r_y2": 678.0,
+      "r_x3": 117.66666666666667,
+      "r_y3": 678.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Hinh 1. Minh họa thiết bị và nhãn nhận dạng",
+    "orig": "Hinh 1. Minh họa thiết bị và nhãn nhận dạng",
+    "text_direction": "left_to_right",
+    "confidence": 0.8492607601198363,
+    "from_ocr": true
+  },
+  {
+    "index": 32,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 36.333333333333336,
+      "r_y0": 742.0,
+      "r_x1": 307.0,
+      "r_y1": 742.0,
+      "r_x2": 307.0,
+      "r_y2": 728.3333333333334,
+      "r_x3": 36.333333333333336,
+      "r_y3": 728.3333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Lưu ý: Bản sao không có chữ ký phê duyệt chỉ dùng để tham khảo.",
+    "orig": "Lưu ý: Bản sao không có chữ ký phê duyệt chỉ dùng để tham khảo.",
+    "text_direction": "left_to_right",
+    "confidence": 0.7554063507159232,
+    "from_ocr": true
+  },
+  {
+    "index": 33,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 36.666666666666664,
+      "r_y0": 804.3333333333334,
+      "r_x1": 106.0,
+      "r_y1": 804.3333333333334,
+      "r_x2": 106.0,
+      "r_y2": 793.6666666666666,
+      "r_x3": 36.666666666666664,
+      "r_y3": 793.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "TẢl LIEU GIẢ LAP",
+    "orig": "TẢl LIEU GIẢ LAP",
+    "text_direction": "left_to_right",
+    "confidence": 0.8549715197813496,
+    "from_ocr": true
+  },
+  {
+    "index": 34,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 110.0,
+      "r_y0": 804.3333333333334,
+      "r_x1": 213.33333333333334,
+      "r_y1": 804.3333333333334,
+      "r_x2": 213.33333333333334,
+      "r_y2": 793.6666666666666,
+      "r_x3": 110.0,
+      "r_y3": 793.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Chỉ dung kiểm thử trích xuẩt",
+    "orig": "Chỉ dung kiểm thử trích xuẩt",
+    "text_direction": "left_to_right",
+    "confidence": 0.5289979800924858,
+    "from_ocr": true
+  },
+  {
+    "index": 35,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 498.6666666666667,
+      "r_y0": 805.0,
+      "r_x1": 536.6666666666666,
+      "r_y1": 805.0,
+      "r_x2": 536.6666666666666,
+      "r_y2": 794.0,
+      "r_x3": 498.6666666666667,
+      "r_y3": 794.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Trang 1/4",
+    "orig": "Trang 1/4",
+    "text_direction": "left_to_right",
+    "confidence": 0.9986311570089692,
+    "from_ocr": true
+  }
+]

@@ -1,0 +1,1591 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "block_0",
+      "type": "text",
+      "label": "header",
+      "bbox": [
+        101.49196601692393,
+        27.355118665495404,
+        326.06993337352156,
+        70.18747552331058
+      ],
+      "text": "CONGTY TNHH THIET BINOVA Hé thöng quan ly chat luro'ng/Quality Management System QP-74-02Phienban03Ngayhieuluc15/10/2026",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_1",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        35.270257693824625,
+        97.54259418880598,
+        312.3937110024467,
+        114.09963969686899
+      ],
+      "text": "QUYTRINH THU'CHIEN/WORKFLOW ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        34.91035710511213,
+        135.6957860117338,
+        367.09860048674614,
+        147.93360225682383
+      ],
+      "text": "Luu d vector gm text,hinh khói va mi tenkhong có mt anh nhüng tuo'ng ng.",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_4",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        34.91035710511213,
+        700.7949479173626,
+        384.73372933365846,
+        713.0327641624526
+      ],
+      "text": "Ghi chuSo do chay lien tuc gua cac khoang hang ben phaikhong suy ra guan he1:1",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_5",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        35.630158282537124,
+        790.7788908959659,
+        214.14085028393524,
+        803.3766429129703
+      ],
+      "text": "TAl LIEU GIA LAP-Chi.dung kiem thu trichxuat ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        37.7895618148121,
+        174.0289457206188,
+        556.5862604438754,
+        674.8795723395248
+      ],
+      "parent_ref": null,
+      "method": "raster_line_intersections"
+    },
+    {
+      "bbox": [
+        44.38608241974947,
+        227.9582517443686,
+        206.8245285015729,
+        655.6840683055159
+      ],
+      "label": "diagram",
+      "method": "closed_shapes_with_connectors",
+      "table_id": "geometry_table_0",
+      "node_count": 5,
+      "needs_review": true,
+      "id": "recovered_figure_0",
+      "type": "figure",
+      "parent_ref": "geometry_table_0",
+      "child_refs": [],
+      "association": "table_region_crosses_row_bands",
+      "metadata_text": "Tiép nhan thiétbi\nKiem tra/Do\nKhong\nDat yeu cau?\nCo\nPhe duyet, luu h so\nKét thüc"
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        105.45087249276139,
+        29.154797525067472,
+        264.1670321149722,
+        38.873063366756625
+      ],
+      "text": "CONGTY TNHH THIET BINOVA",
+      "source_ref": "token_0",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        42.828170056787044,
+        41.392613770157524,
+        81.33753304902415,
+        52.910558471418746
+      ],
+      "text": "NOVA",
+      "source_ref": "token_1",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        104.3711707266239,
+        44.991971489301655,
+        326.78973455094655,
+        55.79004464673405
+      ],
+      "text": "Hé thöng quan ly chat luro'ng/Quality Management System",
+      "source_ref": "token_2",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        104.7310713153364,
+        61.908952769279075,
+        300.8768921636468,
+        70.54741129522499
+      ],
+      "text": "QP-74-02Phienban03Ngayhieuluc15/10/2026",
+      "source_ref": "token_3",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        99.70220882029247,
+        312.0338104137342,
+        113.37976815304016
+      ],
+      "text": "QUYTRINH THU'CHIEN/WORKFLOW",
+      "source_ref": "token_4",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        37.069760637387105,
+        136.4156575555626,
+        367.4585010754586,
+        148.29353802873825
+      ],
+      "text": "Luu d vector gm text,hinh khói va mi tenkhong có mt anh nhüng tuo'ng ng.",
+      "source_ref": "token_5",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        42.108368879362054,
+        179.6079501852922,
+        74.49942186348672,
+        191.12589488655343
+      ],
+      "text": "Lwudo",
+      "source_ref": "token_6",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        222.77846441303515,
+        182.1275005886931,
+        274.9640497763471,
+        190.765959114639
+      ],
+      "text": "Trach nhiem",
+      "source_ref": "token_7",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        291.5194768571219,
+        181.40762904486428,
+        336.14714985747145,
+        191.48583065846785
+      ],
+      "text": "Dien giai",
+      "source_ref": "token_8",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        469.31036768109504,
+        179.96788595720662,
+        509.9791342056071,
+        191.12589488655343
+      ],
+      "text": "Biéu mau",
+      "source_ref": "token_9",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        222.77846441303515,
+        221.36049972736413,
+        259.48832446170974,
+        231.79863711288212
+      ],
+      "text": "Sän xuat",
+      "source_ref": "token_10",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        292.9590792119719,
+        222.08037127119297,
+        447.71633235834526,
+        231.4387013409677
+      ],
+      "text": "Tiép nhan thiét bi.Kiem tra matem hieu",
+      "source_ref": "token_11",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        470.749970035945,
+        223.1601785869362,
+        521.1360524556945,
+        230.71882979713888
+      ],
+      "text": "QP-74-02-F6",
+      "source_ref": "token_12",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        292.2392780345469,
+        234.31818751628302,
+        408.4871681886832,
+        244.3963891298866
+      ],
+      "text": "chuanva tinh trang bén ngoai",
+      "source_ref": "token_13",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        223.13836500174764,
+        338.3396255995484,
+        256.2492191632973,
+        346.9780841254944
+      ],
+      "text": "Ky thuat",
+      "source_ref": "token_16",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        337.97968982763405,
+        442.6777241163703,
+        346.25821258166553
+      ],
+      "text": "Do thong so theo huöng dan.Ghi nhan",
+      "source_ref": "token_17",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        470.03016885852,
+        337.6197540557196,
+        507.8197306733321,
+        346.25821258166553
+      ],
+      "text": "HD-74-01",
+      "source_ref": "token_18",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        291.8793774458344,
+        349.85757030080964,
+        420.00398702748305,
+        358.1360930548412
+      ],
+      "text": "nhietdo20-25°CvamaQC-017.",
+      "source_ref": "token_19",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        222.05866323561014,
+        451.7193937525886,
+        237.53438855024748,
+        462.8774026819354
+      ],
+      "text": "QA",
+      "source_ref": "token_22",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        452.079329524503,
+        450.95543765675774,
+        462.1575311381066
+      ],
+      "text": "Doi chieu tieu chi.Néu khong datcach ly",
+      "source_ref": "token_23",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        468.95046709238255,
+        451.7193937525886,
+        495.9430112458198,
+        462.1575311381066
+      ],
+      "text": "NC-01",
+      "source_ref": "token_24",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        291.8793774458344,
+        465.03701731342187,
+        393.3713434627583,
+        473.3155400674534
+      ],
+      "text": "va lap phiéu xu ly sai lech.",
+      "source_ref": "token_25",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        222.77846441303515,
+        567.2587765371153,
+        259.12842387299725,
+        576.6171066068899
+      ],
+      "text": "QA/Kho",
+      "source_ref": "token_28",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        567.978648080944,
+        446.6366305922078,
+        576.6171066068899
+      ],
+      "text": "Phe duyet thiét bi dat yéu cauCapnhat",
+      "source_ref": "token_29",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        470.3900694472325,
+        568.3385838528585,
+        520.4162512782694,
+        575.8972350630612
+      ],
+      "text": "DM-THIETBI",
+      "source_ref": "token_30",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        291.5194768571219,
+        579.1366570102908,
+        384.3738287449459,
+        588.4949870800656
+      ],
+      "text": "danh muc va luu ho so.",
+      "source_ref": "token_31",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        703.6744340926779,
+        384.0139281562334,
+        712.3128926186238
+      ],
+      "text": "Ghi chuSo do chay lien tuc gua cac khoang hang ben phaikhong suy ra guan he1:1",
+      "source_ref": "token_33",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        793.6583770712812,
+        211.98144675166026,
+        802.6567713691416
+      ],
+      "text": "TAl LIEU GIA LAP-Chi.dung kiem thu trichxuat",
+      "source_ref": "token_34",
+      "source": "pipeline_ocr"
+    },
+    {
+      "bbox": [
+        499.1821165442322,
+        793.6583770712812,
+        535.8919765929069,
+        804.4564502287136
+      ],
+      "text": "Trang 3/4",
+      "source_ref": "token_35",
+      "source": "pipeline_ocr"
+    }
+  ],
+  "tables": [
+    {
+      "rows": 5,
+      "cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            174.029,
+            217.92,
+            214.882
+          ],
+          "text": "Lwudo",
+          "id": "geometry_table_0_cell_0",
+          "token_ids": [
+            "token_6"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            174.029,
+            286.661,
+            214.882
+          ],
+          "text": "Trach nhiem",
+          "id": "geometry_table_0_cell_1",
+          "token_ids": [
+            "token_7"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            174.029,
+            464.632,
+            214.882
+          ],
+          "text": "Dien giai",
+          "id": "geometry_table_0_cell_2",
+          "token_ids": [
+            "token_8"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            174.029,
+            556.586,
+            214.882
+          ],
+          "text": "Biéu mau",
+          "id": "geometry_table_0_cell_3",
+          "token_ids": [
+            "token_9"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 4,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            214.882,
+            217.92,
+            674.88
+          ],
+          "text": "",
+          "id": "geometry_table_0_cell_4",
+          "token_ids": [],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            214.882,
+            286.661,
+            329.701
+          ],
+          "text": "Sän xuat",
+          "id": "geometry_table_0_cell_5",
+          "token_ids": [
+            "token_10"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            214.882,
+            464.632,
+            329.701
+          ],
+          "text": "Tiép nhan thiét bi.Kiem tra matem hieu\nchuanva tinh trang bén ngoai",
+          "id": "geometry_table_0_cell_6",
+          "token_ids": [
+            "token_11",
+            "token_13"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            214.882,
+            556.586,
+            329.701
+          ],
+          "text": "QP-74-02-F6",
+          "id": "geometry_table_0_cell_7",
+          "token_ids": [
+            "token_12"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            329.701,
+            286.661,
+            444.881
+          ],
+          "text": "Ky thuat",
+          "id": "geometry_table_0_cell_8",
+          "token_ids": [
+            "token_16"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            329.701,
+            464.632,
+            444.881
+          ],
+          "text": "Do thong so theo huöng dan.Ghi nhan\nnhietdo20-25°CvamaQC-017.",
+          "id": "geometry_table_0_cell_9",
+          "token_ids": [
+            "token_17",
+            "token_19"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            329.701,
+            556.586,
+            444.881
+          ],
+          "text": "HD-74-01",
+          "id": "geometry_table_0_cell_10",
+          "token_ids": [
+            "token_18"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            444.881,
+            286.661,
+            559.7
+          ],
+          "text": "QA",
+          "id": "geometry_table_0_cell_11",
+          "token_ids": [
+            "token_22"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            444.881,
+            464.632,
+            559.7
+          ],
+          "text": "Doi chieu tieu chi.Néu khong datcach ly\nva lap phiéu xu ly sai lech.",
+          "id": "geometry_table_0_cell_12",
+          "token_ids": [
+            "token_23",
+            "token_25"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            444.881,
+            556.586,
+            559.7
+          ],
+          "text": "NC-01",
+          "id": "geometry_table_0_cell_13",
+          "token_ids": [
+            "token_24"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            559.7,
+            286.661,
+            674.88
+          ],
+          "text": "QA/Kho",
+          "id": "geometry_table_0_cell_14",
+          "token_ids": [
+            "token_28"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            559.7,
+            464.632,
+            674.88
+          ],
+          "text": "Phe duyet thiét bi dat yéu cauCapnhat\ndanh muc va luu ho so.",
+          "id": "geometry_table_0_cell_15",
+          "token_ids": [
+            "token_29",
+            "token_31"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            559.7,
+            556.586,
+            674.88
+          ],
+          "text": "DM-THIETBI",
+          "id": "geometry_table_0_cell_16",
+          "token_ids": [
+            "token_30"
+          ],
+          "needs_review": false
+        }
+      ],
+      "xs": [
+        37.79,
+        217.92000000000002,
+        286.661,
+        464.63199999999995,
+        556.586
+      ],
+      "ys": [
+        174.029,
+        214.882,
+        329.701,
+        444.8809999999999,
+        559.6999999999999,
+        674.88
+      ],
+      "grid_valid": true,
+      "bbox": [
+        37.7895618148121,
+        174.0289457206188,
+        556.5862604438754,
+        674.8795723395248
+      ],
+      "method": "raster_line_intersections",
+      "needs_review": false,
+      "id": "geometry_table_0",
+      "parent_ref": null
+    }
+  ],
+  "containers": [
+    {
+      "id": "geometry_table_0_cell_0",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 0,
+      "col": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_1",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 0,
+      "col": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_2",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 0,
+      "col": 2,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_3",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 0,
+      "col": 3,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_4",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 1,
+      "col": 0,
+      "rowspan": 4,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_5",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 1,
+      "col": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_6",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 1,
+      "col": 2,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_7",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 1,
+      "col": 3,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_8",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 2,
+      "col": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_9",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 2,
+      "col": 2,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_10",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 2,
+      "col": 3,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_11",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 3,
+      "col": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_12",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 3,
+      "col": 2,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_13",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 3,
+      "col": 3,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_14",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 4,
+      "col": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_15",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 4,
+      "col": 2,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    },
+    {
+      "id": "geometry_table_0_cell_16",
+      "type": "table_cell",
+      "label": "table_cell",
+      "parent_ref": "geometry_table_0",
+      "row": 4,
+      "col": 3,
+      "rowspan": 1,
+      "colspan": 1,
+      "child_refs": []
+    }
+  ],
+  "status": "success",
+  "errors": [],
+  "tokens": [
+    {
+      "bbox": [
+        105.45087249276139,
+        29.154797525067472,
+        264.1670321149722,
+        38.873063366756625
+      ],
+      "text": "CONGTY TNHH THIET BINOVA",
+      "source_ref": "ocr_0",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9200003743171692,
+      "id": "token_0",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        42.828170056787044,
+        41.392613770157524,
+        81.33753304902415,
+        52.910558471418746
+      ],
+      "text": "NOVA",
+      "source_ref": "ocr_1",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9974870681762695,
+      "id": "token_1",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        104.3711707266239,
+        44.991971489301655,
+        326.78973455094655,
+        55.79004464673405
+      ],
+      "text": "Hé thöng quan ly chat luro'ng/Quality Management System",
+      "source_ref": "ocr_2",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8921777009963989,
+      "id": "token_2",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        104.7310713153364,
+        61.908952769279075,
+        300.8768921636468,
+        70.54741129522499
+      ],
+      "text": "QP-74-02Phienban03Ngayhieuluc15/10/2026",
+      "source_ref": "ocr_3",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9435478448867798,
+      "id": "token_3",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        99.70220882029247,
+        312.0338104137342,
+        113.37976815304016
+      ],
+      "text": "QUYTRINH THU'CHIEN/WORKFLOW",
+      "source_ref": "ocr_4",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9555584788322449,
+      "id": "token_4",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        37.069760637387105,
+        136.4156575555626,
+        367.4585010754586,
+        148.29353802873825
+      ],
+      "text": "Luu d vector gm text,hinh khói va mi tenkhong có mt anh nhüng tuo'ng ng.",
+      "source_ref": "ocr_5",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8760657906532288,
+      "id": "token_5",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        42.108368879362054,
+        179.6079501852922,
+        74.49942186348672,
+        191.12589488655343
+      ],
+      "text": "Lwudo",
+      "source_ref": "ocr_6",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8020925521850586,
+      "id": "token_6",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_0"
+    },
+    {
+      "bbox": [
+        222.77846441303515,
+        182.1275005886931,
+        274.9640497763471,
+        190.765959114639
+      ],
+      "text": "Trach nhiem",
+      "source_ref": "ocr_7",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.864119291305542,
+      "id": "token_7",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_1"
+    },
+    {
+      "bbox": [
+        291.5194768571219,
+        181.40762904486428,
+        336.14714985747145,
+        191.48583065846785
+      ],
+      "text": "Dien giai",
+      "source_ref": "ocr_8",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.900274395942688,
+      "id": "token_8",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_2"
+    },
+    {
+      "bbox": [
+        469.31036768109504,
+        179.96788595720662,
+        509.9791342056071,
+        191.12589488655343
+      ],
+      "text": "Biéu mau",
+      "source_ref": "ocr_9",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8489236831665039,
+      "id": "token_9",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_3"
+    },
+    {
+      "bbox": [
+        222.77846441303515,
+        221.36049972736413,
+        259.48832446170974,
+        231.79863711288212
+      ],
+      "text": "Sän xuat",
+      "source_ref": "ocr_10",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8442022204399109,
+      "id": "token_10",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_5"
+    },
+    {
+      "bbox": [
+        292.9590792119719,
+        222.08037127119297,
+        447.71633235834526,
+        231.4387013409677
+      ],
+      "text": "Tiép nhan thiét bi.Kiem tra matem hieu",
+      "source_ref": "ocr_11",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8770219087600708,
+      "id": "token_11",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_6"
+    },
+    {
+      "bbox": [
+        470.749970035945,
+        223.1601785869362,
+        521.1360524556945,
+        230.71882979713888
+      ],
+      "text": "QP-74-02-F6",
+      "source_ref": "ocr_12",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9877910614013672,
+      "id": "token_12",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_7"
+    },
+    {
+      "bbox": [
+        292.2392780345469,
+        234.31818751628302,
+        408.4871681886832,
+        244.3963891298866
+      ],
+      "text": "chuanva tinh trang bén ngoai",
+      "source_ref": "ocr_13",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9286598563194275,
+      "id": "token_13",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_6"
+    },
+    {
+      "bbox": [
+        89.25534600069906,
+        244.756324901801,
+        157.63645785607332,
+        254.47459074349015
+      ],
+      "text": "Tiép nhan thiétbi",
+      "source_ref": "ocr_14",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8914854526519775,
+      "id": "token_14",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        88.89544541198656,
+        325.741873582544,
+        140.721130186586,
+        334.3803321084899
+      ],
+      "text": "Kiem tra/Do",
+      "source_ref": "ocr_15",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8987743854522705,
+      "id": "token_15",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        223.13836500174764,
+        338.3396255995484,
+        256.2492191632973,
+        346.9780841254944
+      ],
+      "text": "Ky thuat",
+      "source_ref": "ocr_16",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9484004378318787,
+      "id": "token_16",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_8"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        337.97968982763405,
+        442.6777241163703,
+        346.25821258166553
+      ],
+      "text": "Do thong so theo huöng dan.Ghi nhan",
+      "source_ref": "ocr_17",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8841099143028259,
+      "id": "token_17",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_9"
+    },
+    {
+      "bbox": [
+        470.03016885852,
+        337.6197540557196,
+        507.8197306733321,
+        346.25821258166553
+      ],
+      "text": "HD-74-01",
+      "source_ref": "ocr_18",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9887495040893555,
+      "id": "token_18",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_10"
+    },
+    {
+      "bbox": [
+        291.8793774458344,
+        349.85757030080964,
+        420.00398702748305,
+        358.1360930548412
+      ],
+      "text": "nhietdo20-25°CvamaQC-017.",
+      "source_ref": "ocr_19",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9003751873970032,
+      "id": "token_19",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_9"
+    },
+    {
+      "bbox": [
+        51.82568477459945,
+        388.01076212373744,
+        73.41972009734923,
+        395.92934910585456
+      ],
+      "text": "Khong",
+      "source_ref": "ocr_20",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9072962999343872,
+      "id": "token_20",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        109.04987837988635,
+        427.96363280623734,
+        160.5156625657733,
+        437.68189864792646
+      ],
+      "text": "Dat yeu cau?",
+      "source_ref": "ocr_21",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9439530372619629,
+      "id": "token_21",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        222.05866323561014,
+        451.7193937525886,
+        237.53438855024748,
+        462.8774026819354
+      ],
+      "text": "QA",
+      "source_ref": "ocr_22",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9988629817962646,
+      "id": "token_22",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_11"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        452.079329524503,
+        450.95543765675774,
+        462.1575311381066
+      ],
+      "text": "Doi chieu tieu chi.Néu khong datcach ly",
+      "source_ref": "ocr_23",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8620112538337708,
+      "id": "token_23",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_12"
+    },
+    {
+      "bbox": [
+        468.95046709238255,
+        451.7193937525886,
+        495.9430112458198,
+        462.1575311381066
+      ],
+      "text": "NC-01",
+      "source_ref": "ocr_24",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.992037296295166,
+      "id": "token_24",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_13"
+    },
+    {
+      "bbox": [
+        291.8793774458344,
+        465.03701731342187,
+        393.3713434627583,
+        473.3155400674534
+      ],
+      "text": "va lap phiéu xu ly sai lech.",
+      "source_ref": "ocr_25",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8659818768501282,
+      "id": "token_25",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_12"
+    },
+    {
+      "bbox": [
+        143.96023548499846,
+        483.39374168105695,
+        154.39735255766087,
+        490.95239289125965
+      ],
+      "text": "Co",
+      "source_ref": "ocr_26",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.7827526926994324,
+      "id": "token_26",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        88.89544541198656,
+        530.1853920299307,
+        170.5928790497232,
+        539.9036578716199
+      ],
+      "text": "Phe duyet, luu h so",
+      "source_ref": "ocr_27",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8558621406555176,
+      "id": "token_27",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        222.77846441303515,
+        567.2587765371153,
+        259.12842387299725,
+        576.6171066068899
+      ],
+      "text": "QA/Kho",
+      "source_ref": "ocr_28",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9809086918830872,
+      "id": "token_28",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_14"
+    },
+    {
+      "bbox": [
+        292.59917862325943,
+        567.978648080944,
+        446.6366305922078,
+        576.6171066068899
+      ],
+      "text": "Phe duyet thiét bi dat yéu cauCapnhat",
+      "source_ref": "ocr_29",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8830962181091309,
+      "id": "token_29",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_15"
+    },
+    {
+      "bbox": [
+        470.3900694472325,
+        568.3385838528585,
+        520.4162512782694,
+        575.8972350630612
+      ],
+      "text": "DM-THIETBI",
+      "source_ref": "ocr_30",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9917744398117065,
+      "id": "token_30",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_16"
+    },
+    {
+      "bbox": [
+        291.5194768571219,
+        579.1366570102908,
+        384.3738287449459,
+        588.4949870800656
+      ],
+      "text": "danh muc va luu ho so.",
+      "source_ref": "ocr_31",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8878536224365234,
+      "id": "token_31",
+      "needs_review": false,
+      "owner_kind": "table_cell",
+      "owner_id": "geometry_table_0_cell_15"
+    },
+    {
+      "bbox": [
+        88.53554482327407,
+        621.2491423242773,
+        121.64639898482372,
+        630.2475366221375
+      ],
+      "text": "Két thüc",
+      "source_ref": "ocr_32",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8197593688964844,
+      "id": "token_32",
+      "needs_review": false,
+      "owner_kind": "figure_metadata",
+      "owner_id": "recovered_figure_0"
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        703.6744340926779,
+        384.0139281562334,
+        712.3128926186238
+      ],
+      "text": "Ghi chuSo do chay lien tuc gua cac khoang hang ben phaikhong suy ra guan he1:1",
+      "source_ref": "ocr_33",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8844224810600281,
+      "id": "token_33",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        793.6583770712812,
+        211.98144675166026,
+        802.6567713691416
+      ],
+      "text": "TAl LIEU GIA LAP-Chi.dung kiem thu trichxuat",
+      "source_ref": "ocr_34",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.8893174529075623,
+      "id": "token_34",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    },
+    {
+      "bbox": [
+        499.1821165442322,
+        793.6583770712812,
+        535.8919765929069,
+        804.4564502287136
+      ],
+      "text": "Trang 3/4",
+      "source_ref": "ocr_35",
+      "from_ocr": true,
+      "source": "pipeline_ocr",
+      "confidence": 0.9527559280395508,
+      "id": "token_35",
+      "needs_review": false,
+      "owner_kind": "body",
+      "owner_id": null
+    }
+  ],
+  "refinement": {
+    "version": "geometry-v1",
+    "assumptions": "upright ruled tables; diagram candidates require connected closed shapes",
+    "native_words": 0,
+    "ocr_tokens": 36,
+    "unassigned_token_count": 0,
+    "seconds": 0.5919213001616299
+  },
+  "runtime_warnings": [],
+  "engine": "paddle",
+  "profile": "refined",
+  "page_number": 3,
+  "pdf": "sop_scan_degraded.pdf",
+  "pdf_sha256": "76f623b06e718646e61e9699fb74d9b661c3706e684ff6278f8e15f40eba03b2",
+  "coordinate_system": "pdf_points_top_left_unrotated"
+}

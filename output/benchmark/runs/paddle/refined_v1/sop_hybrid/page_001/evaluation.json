@@ -1,0 +1,212 @@
+{
+  "engine": "paddle",
+  "pdf": "sop_hybrid.pdf",
+  "page_number": 1,
+  "state": "success",
+  "directory": "runs/paddle/refined_v1/sop_hybrid/page_001",
+  "seconds": 26.35099639976397,
+  "peak_rss_bytes": 1982271488,
+  "phase_seconds": {
+    "input_preparation": 0.0017436998896300793,
+    "parser_and_raw_export": 25.004833800252527,
+    "refinement_and_debug_export": 1.1038949000649154,
+    "evidence_and_crop_export": 0.22299750009551644
+  },
+  "table_matches": [],
+  "figure_matches": [
+    {
+      "gt_id": "p1_017",
+      "prediction_id": "recovered_figure_0",
+      "expected_type": "image",
+      "predicted_label": "image",
+      "iou": 1.0,
+      "target_area_coverage": 1.0,
+      "bbox_purity": 1.0,
+      "nested_expected": false,
+      "nested_explicit": false,
+      "predicted_table_parent": null,
+      "cell_ownership_verified": null,
+      "note": "Explicit ancestor is checked against the matched table; exact cell ownership is not automatically verified"
+    }
+  ],
+  "text_checks": [
+    {
+      "gt_id": "p1_003",
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "observed": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_004",
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "observed": "Hệ thống quản lý chất lượng / Quality Management System",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_005",
+      "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "observed": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_006",
+      "text": "QUY TRÌNH KIỂM SOÁT THIẾT BỊ",
+      "observed": "QUY TRÌNH KIỂM SOÁT THIẾT BỊ",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_007",
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "observed": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_008",
+      "text": "Trang 1/4",
+      "observed": "Trang 1/4",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_009",
+      "text": "1. Mục đích / Purpose",
+      "observed": "1. Mục đích / Purpose",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_010",
+      "text": "Bảo đảm thiết bị được kiểm tra, hiệu chuẩn và ghi nhận trước khi sử dụng. Áp dụng cho bộ phận Sản xuất và Đảm bảo chất lượng (QA).",
+      "observed": "Bảo đảm thiết bị được kiểm tra, hiệu chuẩn và ghi nhận trước khi sử dụng. Áp dụng cho bộ phận Sản xuất và Đảm bảo chất lượng (QA).",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_011",
+      "text": "2. Trách nhiệm",
+      "observed": "2. Trách nhiệm",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_012",
+      "text": "1. Nhân viên kiểm tra mã thiết bị QC-017 và tình trạng tem hiệu chuẩn.",
+      "observed": "1. Nhân viên kiểm tra mã thiết bị QC-017 và tình trạng tem hiệu chuẩn.",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_013",
+      "text": "2. Trưởng bộ phận xác nhận kết quả theo biểu mẫu QP-74-02-F6.",
+      "observed": "2. Trưởng bộ phận xác nhận kết quả theo biểu mẫu QP-74-02-F6.",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_014",
+      "text": "3. QA lưu hồ sơ; phân biệt mã 0/O, 1/I và số lô A-001-2026.",
+      "observed": "3. QA lưu hồ sơ; phân biệt mã 0/O, 1/I và số lô A-001-2026.",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_015",
+      "text": "3. Acceptance criteria",
+      "observed": "3. Acceptance criteria",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_016",
+      "text": "Temperature: 20-25 °C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing the equipment.",
+      "observed": "Temperature: 20-25 °C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing the equipment.",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_018",
+      "text": "Hình 1. Minh họa thiết bị và nhãn nhận dạng.",
+      "observed": "Hình 1. Minh họa thiết bị và nhãn nhận dạng.",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p1_019",
+      "text": "Lưu ý: Bản sao không có chữ ký phê duyệt chỉ dùng để tham khảo.",
+      "observed": "Lưu ý: Bản sao không có chữ ký phê duyệt chỉ dùng để tham khảo.",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    }
+  ],
+  "issues": [
+    {
+      "type": "figure_region_missing_or_low_iou",
+      "expected_type": "image",
+      "target_id": "p1_001",
+      "bbox": [
+        38,
+        27,
+        92,
+        68
+      ],
+      "layer": "furniture"
+    }
+  ],
+  "table_detection": {
+    "expected": 0,
+    "predicted": 0,
+    "matched": 0
+  },
+  "cell_text_evaluation": {
+    "expected": 0,
+    "compared": 0,
+    "exact": 0
+  },
+  "figure_detection": {
+    "expected": 2,
+    "predicted": 1,
+    "matched": 1,
+    "body_expected": 1,
+    "body_matched": 1,
+    "diagram_expected": 0,
+    "diagram_matched": 0,
+    "nested_expected": 0
+  }
+}

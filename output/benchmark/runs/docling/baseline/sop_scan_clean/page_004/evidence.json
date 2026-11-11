@@ -1,0 +1,789 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "#/texts/0",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        42.0,
+        40.66663717447909,
+        81.33333333333334,
+        53.99997050781246
+      ],
+      "text": "NOVA",
+      "parent_ref": "#/pictures/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/1",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        103.33333333333333,
+        27.333303841145835,
+        266.0,
+        41.99997050781246
+      ],
+      "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        103.66666666666667,
+        43.333303841145835,
+        328.0,
+        73.33330384114583
+      ],
+      "text": "Hệ thống quản lý chất Iượng / Quality Management System QP-74-02-F6 Phiên bản 03 Ngày hiệu lực: 15/10/2026",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/3",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        37.0,
+        97.66663717447909,
+        314.6666666666667,
+        115.66663717447909
+      ],
+      "text": "BlỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/4",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        37.333333333333336,
+        135.99997050781246,
+        380.0,
+        149.99997050781246
+      ],
+      "text": "Một ô chứa text; ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/5",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        42.333333333333336,
+        180.99997050781246,
+        86.33333333333334,
+        193.99997050781246
+      ],
+      "text": "Hạng mục",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/6",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        170.33333333333334,
+        179.6666371744791,
+        212.33333333333334,
+        193.33330384114583
+      ],
+      "text": "Thông tin",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/7",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        217.33333333333334,
+        181.99997050781246,
+        256.66666666666663,
+        192.6666371744791
+      ],
+      "text": "Minh họa",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/8",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        43.0,
+        220.33330384114583,
+        122.33333333333333,
+        232.99997050781246
+      ],
+      "text": "Thiết bị và thao tác",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/9",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        175.66666666666666,
+        225.6666371744791,
+        340.3333333333333,
+        237.6666371744791
+      ],
+      "text": "Đối chiếu nhãn QC-017 trước khi kết nối",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/10",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        43.0,
+        234.33330384114583,
+        123.0,
+        246.33330384114583
+      ],
+      "text": "Equipment & action",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/11",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        417.6666666666667,
+        276.33330384114583,
+        475.6666666666667,
+        288.33330384114583
+      ],
+      "text": "Kiểm tra nhãn",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/12",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        203.66666666666666,
+        295.6666371744791,
+        237.0,
+        307.6666371744791
+      ],
+      "text": "24.8 C",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/13",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        278.66666666666663,
+        292.99997050781246,
+        321.3333333333333,
+        305.6666371744791
+      ],
+      "text": "QC-017",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/14",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        279.33333333333337,
+        311.33330384114583,
+        329.3333333333333,
+        321.33330384114583
+      ],
+      "text": "THIET BỊ MAU",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/15",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        279.33333333333337,
+        328.6666371744791,
+        295.3333333333333,
+        337.99997050781246
+      ],
+      "text": "0/0",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/16",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        417.6666666666667,
+        361.33330384114583,
+        475.6666666666667,
+        376.33330384114583
+      ],
+      "text": "Kết nối nguồn",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/17",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        175.66666666666666,
+        405.33330384114583,
+        376.3333333333333,
+        419.33330384114583
+      ],
+      "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/18",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        43.0,
+        440.3333038411458,
+        76.33333333333334,
+        452.99997050781246
+      ],
+      "text": "Kết quả",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/19",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        170.33333333333334,
+        439.99997050781246,
+        239.0,
+        454.66663717447915
+      ],
+      "text": "Đạt / Không đạt:",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/20",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        170.66666666666666,
+        451.99997050781246,
+        300.0,
+        467.99997050781246
+      ],
+      "text": "Người kiểm tra: Nguyễn Thị Mỹ",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/21",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        339.0934218928102,
+        227.4628231493806,
+        368.57324477385646,
+        236.8704511995777
+      ],
+      "text": "nguồn.",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/22",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        48.33333333333333,
+        543.9999705078125,
+        273.0,
+        560.9999705078125
+      ],
+      "text": "4. Hướng dẫn an toàn / Safety instructions",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/23",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        47.66666666666667,
+        576.6666371744791,
+        521.0,
+        605.9999705078125
+      ],
+      "text": "Ngắt trước khi vệ sinh. Không dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ phận Kỹ thuật nếu phát hiện bất thường. nguồn sử",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/24",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        47.66666666666667,
+        638.9999705078125,
+        531.3333333333333,
+        667.3333038411458
+      ],
+      "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has approved the corrective action:.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/25",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        47.66666666666667,
+        703.6666371744791,
+        255.66666666666666,
+        716.9999705078125
+      ],
+      "text": "Hotline nội bộ (giả lập): 028-0000-017 Revision 03",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/26",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        37.0,
+        792.7208165057174,
+        213.33333333333334,
+        806.6124578432408
+      ],
+      "text": "TÀl LIẸU GIẢ LẶP Chỉ kiểm thử trích xuất dùng",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/27",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        499.3333333333333,
+        793.9999705078125,
+        536.0,
+        804.9999705078125
+      ],
+      "text": "Trang 4/4",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/pictures/0",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        36.519009317541446,
+        25.579342073469093,
+        92.60707736725264,
+        68.63871393775298
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/0"
+      ]
+    },
+    {
+      "id": "#/pictures/1",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        37.296265519442976,
+        172.95372620781836,
+        557.9176191166206,
+        494.5809532753045
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/5",
+        "#/texts/6",
+        "#/texts/7",
+        "#/texts/8",
+        "#/texts/9",
+        "#/texts/10",
+        "#/texts/11",
+        "#/texts/12",
+        "#/texts/13",
+        "#/texts/14",
+        "#/texts/15",
+        "#/texts/16",
+        "#/texts/17",
+        "#/texts/18",
+        "#/texts/19",
+        "#/texts/20",
+        "#/texts/21"
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        42.0,
+        40.66663717447909,
+        81.33333333333334,
+        53.99997050781246
+      ],
+      "text": "NOVA",
+      "source_ref": "#/texts/0"
+    },
+    {
+      "bbox": [
+        103.33333333333333,
+        27.333303841145835,
+        266.0,
+        41.99997050781246
+      ],
+      "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+      "source_ref": "#/texts/1"
+    },
+    {
+      "bbox": [
+        103.66666666666667,
+        43.333303841145835,
+        328.0,
+        73.33330384114583
+      ],
+      "text": "Hệ thống quản lý chất Iượng / Quality Management System QP-74-02-F6 Phiên bản 03 Ngày hiệu lực: 15/10/2026",
+      "source_ref": "#/texts/2"
+    },
+    {
+      "bbox": [
+        37.0,
+        97.66663717447909,
+        314.6666666666667,
+        115.66663717447909
+      ],
+      "text": "BlỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+      "source_ref": "#/texts/3"
+    },
+    {
+      "bbox": [
+        37.333333333333336,
+        135.99997050781246,
+        380.0,
+        149.99997050781246
+      ],
+      "text": "Một ô chứa text; ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+      "source_ref": "#/texts/4"
+    },
+    {
+      "bbox": [
+        42.333333333333336,
+        180.99997050781246,
+        86.33333333333334,
+        193.99997050781246
+      ],
+      "text": "Hạng mục",
+      "source_ref": "#/texts/5"
+    },
+    {
+      "bbox": [
+        170.33333333333334,
+        179.6666371744791,
+        212.33333333333334,
+        193.33330384114583
+      ],
+      "text": "Thông tin",
+      "source_ref": "#/texts/6"
+    },
+    {
+      "bbox": [
+        217.33333333333334,
+        181.99997050781246,
+        256.66666666666663,
+        192.6666371744791
+      ],
+      "text": "Minh họa",
+      "source_ref": "#/texts/7"
+    },
+    {
+      "bbox": [
+        43.0,
+        220.33330384114583,
+        122.33333333333333,
+        232.99997050781246
+      ],
+      "text": "Thiết bị và thao tác",
+      "source_ref": "#/texts/8"
+    },
+    {
+      "bbox": [
+        175.66666666666666,
+        225.6666371744791,
+        340.3333333333333,
+        237.6666371744791
+      ],
+      "text": "Đối chiếu nhãn QC-017 trước khi kết nối",
+      "source_ref": "#/texts/9"
+    },
+    {
+      "bbox": [
+        43.0,
+        234.33330384114583,
+        123.0,
+        246.33330384114583
+      ],
+      "text": "Equipment & action",
+      "source_ref": "#/texts/10"
+    },
+    {
+      "bbox": [
+        417.6666666666667,
+        276.33330384114583,
+        475.6666666666667,
+        288.33330384114583
+      ],
+      "text": "Kiểm tra nhãn",
+      "source_ref": "#/texts/11"
+    },
+    {
+      "bbox": [
+        203.66666666666666,
+        295.6666371744791,
+        237.0,
+        307.6666371744791
+      ],
+      "text": "24.8 C",
+      "source_ref": "#/texts/12"
+    },
+    {
+      "bbox": [
+        278.66666666666663,
+        292.99997050781246,
+        321.3333333333333,
+        305.6666371744791
+      ],
+      "text": "QC-017",
+      "source_ref": "#/texts/13"
+    },
+    {
+      "bbox": [
+        279.33333333333337,
+        311.33330384114583,
+        329.3333333333333,
+        321.33330384114583
+      ],
+      "text": "THIET BỊ MAU",
+      "source_ref": "#/texts/14"
+    },
+    {
+      "bbox": [
+        279.33333333333337,
+        328.6666371744791,
+        295.3333333333333,
+        337.99997050781246
+      ],
+      "text": "0/0",
+      "source_ref": "#/texts/15"
+    },
+    {
+      "bbox": [
+        417.6666666666667,
+        361.33330384114583,
+        475.6666666666667,
+        376.33330384114583
+      ],
+      "text": "Kết nối nguồn",
+      "source_ref": "#/texts/16"
+    },
+    {
+      "bbox": [
+        175.66666666666666,
+        405.33330384114583,
+        376.3333333333333,
+        419.33330384114583
+      ],
+      "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+      "source_ref": "#/texts/17"
+    },
+    {
+      "bbox": [
+        43.0,
+        440.3333038411458,
+        76.33333333333334,
+        452.99997050781246
+      ],
+      "text": "Kết quả",
+      "source_ref": "#/texts/18"
+    },
+    {
+      "bbox": [
+        170.33333333333334,
+        439.99997050781246,
+        239.0,
+        454.66663717447915
+      ],
+      "text": "Đạt / Không đạt:",
+      "source_ref": "#/texts/19"
+    },
+    {
+      "bbox": [
+        170.66666666666666,
+        451.99997050781246,
+        300.0,
+        467.99997050781246
+      ],
+      "text": "Người kiểm tra: Nguyễn Thị Mỹ",
+      "source_ref": "#/texts/20"
+    },
+    {
+      "bbox": [
+        339.0934218928102,
+        227.4628231493806,
+        368.57324477385646,
+        236.8704511995777
+      ],
+      "text": "nguồn.",
+      "source_ref": "#/texts/21"
+    },
+    {
+      "bbox": [
+        48.33333333333333,
+        543.9999705078125,
+        273.0,
+        560.9999705078125
+      ],
+      "text": "4. Hướng dẫn an toàn / Safety instructions",
+      "source_ref": "#/texts/22"
+    },
+    {
+      "bbox": [
+        47.66666666666667,
+        576.6666371744791,
+        521.0,
+        605.9999705078125
+      ],
+      "text": "Ngắt trước khi vệ sinh. Không dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ phận Kỹ thuật nếu phát hiện bất thường. nguồn sử",
+      "source_ref": "#/texts/23"
+    },
+    {
+      "bbox": [
+        47.66666666666667,
+        638.9999705078125,
+        531.3333333333333,
+        667.3333038411458
+      ],
+      "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has approved the corrective action:.",
+      "source_ref": "#/texts/24"
+    },
+    {
+      "bbox": [
+        47.66666666666667,
+        703.6666371744791,
+        255.66666666666666,
+        716.9999705078125
+      ],
+      "text": "Hotline nội bộ (giả lập): 028-0000-017 Revision 03",
+      "source_ref": "#/texts/25"
+    },
+    {
+      "bbox": [
+        37.0,
+        792.7208165057174,
+        213.33333333333334,
+        806.6124578432408
+      ],
+      "text": "TÀl LIẸU GIẢ LẶP Chỉ kiểm thử trích xuất dùng",
+      "source_ref": "#/texts/26"
+    },
+    {
+      "bbox": [
+        499.3333333333333,
+        793.9999705078125,
+        536.0,
+        804.9999705078125
+      ],
+      "text": "Trang 4/4",
+      "source_ref": "#/texts/27"
+    }
+  ],
+  "tables": [],
+  "containers": [
+    {
+      "id": "#/groups/0",
+      "type": "container",
+      "label": "key_value_area",
+      "parent_ref": "#/body",
+      "child_refs": []
+    }
+  ],
+  "status": "ConversionStatus.SUCCESS",
+  "errors": [],
+  "runtime_warnings": [
+    "`force_full_page_ocr` is deprecated; set `mode=OcrMode.FULL_PAGE` instead.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used."
+  ],
+  "engine": "docling",
+  "page_number": 4,
+  "pdf": "sop_scan_clean.pdf",
+  "pdf_sha256": "8949ba7d87671613df7e2cc072fad1026d66ca872da9c464e114b214501b839b",
+  "coordinate_system": "pdf_points_top_left_unrotated"
+}

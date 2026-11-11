@@ -1,0 +1,18 @@
+{
+  "engine": "docling",
+  "pdf": "sop_scan_clean.pdf",
+  "pdf_sha256": "8949ba7d87671613df7e2cc072fad1026d66ca872da9c464e114b214501b839b",
+  "page_number": 2,
+  "fingerprint": "b8fd0f87eaa7e273c4a9a38e755473300303d0ba161ac7f4bb6fa9b70bedbc97",
+  "state": "success",
+  "seconds": 29.71551899984479,
+  "phase_seconds": {
+    "input_preparation": 0.0021647000685334206,
+    "parser_and_raw_export": 29.17271149996668,
+    "refinement_and_debug_export": 0.3121259002946317,
+    "evidence_and_crop_export": 0.20205439999699593
+  },
+  "peak_rss_bytes": 3879772160,
+  "block_count": 9,
+  "table_count": 1
+}

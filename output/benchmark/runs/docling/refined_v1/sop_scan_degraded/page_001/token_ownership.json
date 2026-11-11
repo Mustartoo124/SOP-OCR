@@ -1,0 +1,974 @@
+[
+  {
+    "id": "token_0",
+    "bbox": [
+      103.33333333333333,
+      27.666666666666664,
+      265.66666666666663,
+      41.66666666666667
+    ],
+    "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+    "from_ocr": true,
+    "confidence": 0.965055697498294,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 103.33333333333333,
+      "r_y0": 41.66666666666667,
+      "r_x1": 265.66666666666663,
+      "r_y1": 41.66666666666667,
+      "r_x2": 265.66666666666663,
+      "r_y2": 27.666666666666664,
+      "r_x3": 103.33333333333333,
+      "r_y3": 27.666666666666664,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_1",
+    "bbox": [
+      41.333333333333336,
+      40.33333333333333,
+      81.33333333333334,
+      54.333333333333336
+    ],
+    "text": "NOVA",
+    "from_ocr": true,
+    "confidence": 0.9994542002677917,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 41.333333333333336,
+      "r_y0": 54.333333333333336,
+      "r_x1": 81.33333333333334,
+      "r_y1": 54.333333333333336,
+      "r_x2": 81.33333333333334,
+      "r_y2": 40.33333333333333,
+      "r_x3": 41.333333333333336,
+      "r_y3": 40.33333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "figure_metadata",
+    "owner_id": "recovered_figure_1"
+  },
+  {
+    "id": "token_2",
+    "bbox": [
+      103.66666666666667,
+      46.0,
+      117.0,
+      56.0
+    ],
+    "text": "Hệ",
+    "from_ocr": true,
+    "confidence": 0.9997811805753406,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 103.66666666666667,
+      "r_y0": 56.0,
+      "r_x1": 117.0,
+      "r_y1": 56.0,
+      "r_x2": 117.0,
+      "r_y2": 46.0,
+      "r_x3": 103.66666666666667,
+      "r_y3": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_3",
+    "bbox": [
+      139.0,
+      43.66666666666667,
+      327.3333333333333,
+      57.0
+    ],
+    "text": "quản lý chất Iượng / Quality Management System",
+    "from_ocr": true,
+    "confidence": 0.7648284624933739,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 139.0,
+      "r_y0": 57.0,
+      "r_x1": 327.3333333333333,
+      "r_y1": 57.0,
+      "r_x2": 327.3333333333333,
+      "r_y2": 43.66666666666667,
+      "r_x3": 139.0,
+      "r_y3": 43.66666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_4",
+    "bbox": [
+      103.66666666666667,
+      62.0,
+      142.33333333333331,
+      70.66666666666666
+    ],
+    "text": "OP-74-02",
+    "from_ocr": true,
+    "confidence": 0.5060623708905188,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 103.66666666666667,
+      "r_y0": 70.66666666666666,
+      "r_x1": 142.33333333333331,
+      "r_y1": 70.66666666666666,
+      "r_x2": 142.33333333333331,
+      "r_y2": 62.0,
+      "r_x3": 103.66666666666667,
+      "r_y3": 62.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_5",
+    "bbox": [
+      146.33333333333331,
+      61.333333333333336,
+      198.33333333333334,
+      71.33333333333334
+    ],
+    "text": "Phiên bản 03",
+    "from_ocr": true,
+    "confidence": 0.9569605765171814,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 146.33333333333331,
+      "r_y0": 71.33333333333334,
+      "r_x1": 198.33333333333334,
+      "r_y1": 71.33333333333334,
+      "r_x2": 198.33333333333334,
+      "r_y2": 61.333333333333336,
+      "r_x3": 146.33333333333331,
+      "r_y3": 61.333333333333336,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_6",
+    "bbox": [
+      202.0,
+      60.333333333333336,
+      302.3333333333333,
+      73.0
+    ],
+    "text": "Ngày hỉệu lực: 15/10/2026",
+    "from_ocr": true,
+    "confidence": 0.6849047031237573,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 202.0,
+      "r_y0": 73.0,
+      "r_x1": 302.3333333333333,
+      "r_y1": 73.0,
+      "r_x2": 302.3333333333333,
+      "r_y2": 60.333333333333336,
+      "r_x3": 202.0,
+      "r_y3": 60.333333333333336,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_7",
+    "bbox": [
+      116.9940089342938,
+      43.04390061698314,
+      140.33932439903953,
+      58.2894327163502
+    ],
+    "text": "thông '",
+    "from_ocr": true,
+    "confidence": 0.5926899788402499,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 116.9940089342938,
+      "r_y0": 58.2894327163502,
+      "r_x1": 140.33932439903953,
+      "r_y1": 58.2894327163502,
+      "r_x2": 140.33932439903953,
+      "r_y2": 43.04390061698314,
+      "r_x3": 116.9940089342938,
+      "r_y3": 43.04390061698314,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_8",
+    "bbox": [
+      36.0,
+      97.33333333333333,
+      276.66666666666663,
+      116.0
+    ],
+    "text": "QUY TRÌNH KIỂM SOÁT THIÉT BI",
+    "from_ocr": true,
+    "confidence": 0.7248332718770347,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 36.0,
+      "r_y0": 116.0,
+      "r_x1": 276.66666666666663,
+      "r_y1": 116.0,
+      "r_x2": 276.66666666666663,
+      "r_y2": 97.33333333333333,
+      "r_x3": 36.0,
+      "r_y3": 97.33333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_9",
+    "bbox": [
+      36.666666666666664,
+      142.66666666666666,
+      158.66666666666666,
+      159.33333333333334
+    ],
+    "text": "1. Mục đích / Purpose",
+    "from_ocr": true,
+    "confidence": 0.8090388817724531,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 36.666666666666664,
+      "r_y0": 159.33333333333334,
+      "r_x1": 158.66666666666666,
+      "r_y1": 159.33333333333334,
+      "r_x2": 158.66666666666666,
+      "r_y2": 142.66666666666666,
+      "r_x3": 36.666666666666664,
+      "r_y3": 142.66666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_10",
+    "bbox": [
+      37.0,
+      169.0,
+      162.33333333333334,
+      182.66666666666666
+    ],
+    "text": "Bảo đảm thiết bị được kiểm",
+    "from_ocr": true,
+    "confidence": 0.5680089739810884,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 37.0,
+      "r_y0": 182.66666666666666,
+      "r_x1": 162.33333333333334,
+      "r_y1": 182.66666666666666,
+      "r_x2": 162.33333333333334,
+      "r_y2": 169.0,
+      "r_x3": 37.0,
+      "r_y3": 169.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_11",
+    "bbox": [
+      178.66666666666666,
+      168.0,
+      548.6666666666666,
+      184.0
+    ],
+    "text": "hiệu chuẩn và ghi nhận trước khi sử dụng. Áp dụng cho bộ phận Sản xuất và Đảm",
+    "from_ocr": true,
+    "confidence": 0.6907392254918255,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 178.66666666666666,
+      "r_y0": 184.0,
+      "r_x1": 548.6666666666666,
+      "r_y1": 184.0,
+      "r_x2": 548.6666666666666,
+      "r_y2": 168.0,
+      "r_x3": 178.66666666666666,
+      "r_y3": 168.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_12",
+    "bbox": [
+      37.0,
+      182.33333333333334,
+      134.33333333333331,
+      197.33333333333334
+    ],
+    "text": "bảo chất Iượng (QA).",
+    "from_ocr": true,
+    "confidence": 0.662248466966551,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 37.0,
+      "r_y0": 197.33333333333334,
+      "r_x1": 134.33333333333331,
+      "r_y1": 197.33333333333334,
+      "r_x2": 134.33333333333331,
+      "r_y2": 182.33333333333334,
+      "r_x3": 37.0,
+      "r_y3": 182.33333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_13",
+    "bbox": [
+      162.3303302696685,
+      170.3915914217385,
+      178.0030030636648,
+      181.6084085782615
+    ],
+    "text": "tra,",
+    "from_ocr": true,
+    "confidence": 0.6663089990615845,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 162.3303302696685,
+      "r_y0": 181.6084085782615,
+      "r_x1": 178.0030030636648,
+      "r_y1": 181.6084085782615,
+      "r_x2": 178.0030030636648,
+      "r_y2": 170.3915914217385,
+      "r_x3": 162.3303302696685,
+      "r_y3": 170.3915914217385,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_14",
+    "bbox": [
+      37.0,
+      226.33333333333334,
+      120.33333333333333,
+      239.66666666666666
+    ],
+    "text": "2. Trách nhiệm",
+    "from_ocr": true,
+    "confidence": 0.7327780709383769,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 37.0,
+      "r_y0": 239.66666666666666,
+      "r_x1": 120.33333333333333,
+      "r_y1": 239.66666666666666,
+      "r_x2": 120.33333333333333,
+      "r_y2": 226.33333333333334,
+      "r_x3": 37.0,
+      "r_y3": 226.33333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_15",
+    "bbox": [
+      48.33333333333333,
+      255.66666666666666,
+      54.33333333333333,
+      264.3333333333333
+    ],
+    "text": "1",
+    "from_ocr": true,
+    "confidence": 0.9997376375644684,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 48.33333333333333,
+      "r_y0": 264.3333333333333,
+      "r_x1": 54.33333333333333,
+      "r_y1": 264.3333333333333,
+      "r_x2": 54.33333333333333,
+      "r_y2": 255.66666666666666,
+      "r_x3": 48.33333333333333,
+      "r_y3": 255.66666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_16",
+    "bbox": [
+      57.66666666666667,
+      253.66666666666666,
+      128.33333333333331,
+      266.3333333333333
+    ],
+    "text": "Nhân viên kiểm",
+    "from_ocr": true,
+    "confidence": 0.833389105519949,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 57.66666666666667,
+      "r_y0": 266.3333333333333,
+      "r_x1": 128.33333333333331,
+      "r_y1": 266.3333333333333,
+      "r_x2": 128.33333333333331,
+      "r_y2": 253.66666666666666,
+      "r_x3": 57.66666666666667,
+      "r_y3": 253.66666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_17",
+    "bbox": [
+      142.33333333333331,
+      253.0,
+      357.0,
+      267.3333333333333
+    ],
+    "text": "mã thiết bị QC-017 và tình trạng tem hiệu chuẩn.",
+    "from_ocr": true,
+    "confidence": 0.6708095674537413,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 142.33333333333331,
+      "r_y0": 267.3333333333333,
+      "r_x1": 357.0,
+      "r_y1": 267.3333333333333,
+      "r_x2": 357.0,
+      "r_y2": 253.0,
+      "r_x3": 142.33333333333331,
+      "r_y3": 253.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_18",
+    "bbox": [
+      46.33333333333333,
+      283.6666666666667,
+      334.0,
+      298.0
+    ],
+    "text": "2. Trưởng bộ phận xác nhận kết quả theo biểu mẫu QP-74-02-F6",
+    "from_ocr": true,
+    "confidence": 0.50164708117816,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 46.33333333333333,
+      "r_y0": 298.0,
+      "r_x1": 334.0,
+      "r_y1": 298.0,
+      "r_x2": 334.0,
+      "r_y2": 283.6666666666667,
+      "r_x3": 46.33333333333333,
+      "r_y3": 283.6666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_19",
+    "bbox": [
+      47.66666666666667,
+      316.3333333333333,
+      54.33333333333333,
+      325.0
+    ],
+    "text": "3",
+    "from_ocr": true,
+    "confidence": 0.9999562506692463,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 47.66666666666667,
+      "r_y0": 325.0,
+      "r_x1": 54.33333333333333,
+      "r_y1": 325.0,
+      "r_x2": 54.33333333333333,
+      "r_y2": 316.3333333333333,
+      "r_x3": 47.66666666666667,
+      "r_y3": 316.3333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_20",
+    "bbox": [
+      57.66666666666667,
+      313.6666666666667,
+      307.6666666666667,
+      328.0
+    ],
+    "text": "QA Iưu hồ sơ; phân biệt mã 0/0, 1/l và số lô A-001-2026.",
+    "from_ocr": true,
+    "confidence": 0.3268590141876467,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 57.66666666666667,
+      "r_y0": 328.0,
+      "r_x1": 307.6666666666667,
+      "r_y1": 328.0,
+      "r_x2": 307.6666666666667,
+      "r_y2": 313.6666666666667,
+      "r_x3": 57.66666666666667,
+      "r_y3": 313.6666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": true,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_21",
+    "bbox": [
+      127.65268564417642,
+      255.0622512392763,
+      140.6806476891569,
+      265.9377487607237
+    ],
+    "text": "tra",
+    "from_ocr": true,
+    "confidence": 0.9996240845023047,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 127.65268564417642,
+      "r_y0": 265.9377487607237,
+      "r_x1": 140.6806476891569,
+      "r_y1": 265.9377487607237,
+      "r_x2": 140.6806476891569,
+      "r_y2": 255.0622512392763,
+      "r_x3": 127.65268564417642,
+      "r_y3": 255.0622512392763,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_22",
+    "bbox": [
+      37.0,
+      367.6666666666667,
+      158.66666666666666,
+      382.0
+    ],
+    "text": "3. Acceptance criteria",
+    "from_ocr": true,
+    "confidence": 0.8073582949912174,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 37.0,
+      "r_y0": 382.0,
+      "r_x1": 158.66666666666666,
+      "r_y1": 382.0,
+      "r_x2": 158.66666666666666,
+      "r_y2": 367.6666666666667,
+      "r_x3": 37.0,
+      "r_y3": 367.6666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_23",
+    "bbox": [
+      36.666666666666664,
+      394.3333333333333,
+      128.33333333333331,
+      407.3333333333333
+    ],
+    "text": "Temperature: 20-25",
+    "from_ocr": true,
+    "confidence": 0.8068185466838032,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 36.666666666666664,
+      "r_y0": 407.3333333333333,
+      "r_x1": 128.33333333333331,
+      "r_y1": 407.3333333333333,
+      "r_x2": 128.33333333333331,
+      "r_y2": 394.3333333333333,
+      "r_x3": 36.666666666666664,
+      "r_y3": 394.3333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_24",
+    "bbox": [
+      132.33333333333331,
+      392.6666666666667,
+      554.0,
+      407.6666666666667
+    ],
+    "text": "C. Relative humidity: 40-70%. Record every deviation and obtain QA approval before releasing",
+    "from_ocr": true,
+    "confidence": 0.5348872437246092,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 132.33333333333331,
+      "r_y0": 407.6666666666667,
+      "r_x1": 554.0,
+      "r_y1": 407.6666666666667,
+      "r_x2": 554.0,
+      "r_y2": 392.6666666666667,
+      "r_x3": 132.33333333333331,
+      "r_y3": 392.6666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_25",
+    "bbox": [
+      36.333333333333336,
+      407.3333333333333,
+      104.33333333333333,
+      421.0
+    ],
+    "text": "the equipment:",
+    "from_ocr": true,
+    "confidence": 0.8847901889773858,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 36.333333333333336,
+      "r_y0": 421.0,
+      "r_x1": 104.33333333333333,
+      "r_y1": 421.0,
+      "r_x2": 104.33333333333333,
+      "r_y2": 407.3333333333333,
+      "r_x3": 36.333333333333336,
+      "r_y3": 407.3333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_26",
+    "bbox": [
+      149.66666666666666,
+      519.3333333333334,
+      214.33333333333334,
+      540.6666666666666
+    ],
+    "text": "24.8 €",
+    "from_ocr": true,
+    "confidence": 0.5802095592381658,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 149.66666666666666,
+      "r_y0": 540.6666666666666,
+      "r_x1": 214.33333333333334,
+      "r_y1": 540.6666666666666,
+      "r_x2": 214.33333333333334,
+      "r_y2": 519.3333333333334,
+      "r_x3": 149.66666666666666,
+      "r_y3": 519.3333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "figure_metadata",
+    "owner_id": "recovered_figure_0"
+  },
+  {
+    "id": "token_27",
+    "bbox": [
+      300.0,
+      513.0,
+      383.6666666666667,
+      536.0
+    ],
+    "text": "QC-017",
+    "from_ocr": true,
+    "confidence": 0.5824272544093302,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 300.0,
+      "r_y0": 536.0,
+      "r_x1": 383.6666666666667,
+      "r_y1": 536.0,
+      "r_x2": 383.6666666666667,
+      "r_y2": 513.0,
+      "r_x3": 300.0,
+      "r_y3": 513.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "figure_metadata",
+    "owner_id": "recovered_figure_0"
+  },
+  {
+    "id": "token_28",
+    "bbox": [
+      299.33333333333337,
+      549.6666666666666,
+      397.3333333333333,
+      567.0
+    ],
+    "text": "THIÉT BỊ MẪU",
+    "from_ocr": true,
+    "confidence": 0.6739726976380479,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 299.33333333333337,
+      "r_y0": 567.0,
+      "r_x1": 397.3333333333333,
+      "r_y1": 567.0,
+      "r_x2": 397.3333333333333,
+      "r_y2": 549.6666666666666,
+      "r_x3": 299.33333333333337,
+      "r_y3": 549.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "figure_metadata",
+    "owner_id": "recovered_figure_0"
+  },
+  {
+    "id": "token_29",
+    "bbox": [
+      299.33333333333337,
+      583.6666666666666,
+      329.33333333333337,
+      600.3333333333334
+    ],
+    "text": "0/O",
+    "from_ocr": true,
+    "confidence": 0.4943325459026254,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 299.33333333333337,
+      "r_y0": 600.3333333333334,
+      "r_x1": 329.33333333333337,
+      "r_y1": 600.3333333333334,
+      "r_x2": 329.33333333333337,
+      "r_y2": 583.6666666666666,
+      "r_x3": 299.33333333333337,
+      "r_y3": 583.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": true,
+    "owner_kind": "figure_metadata",
+    "owner_id": "recovered_figure_0"
+  },
+  {
+    "id": "token_30",
+    "bbox": [
+      340.66666666666663,
+      584.3333333333334,
+      361.3333333333333,
+      600.3333333333334
+    ],
+    "text": "1/1",
+    "from_ocr": true,
+    "confidence": 0.5204331559976775,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 340.66666666666663,
+      "r_y0": 600.3333333333334,
+      "r_x1": 361.3333333333333,
+      "r_y1": 600.3333333333334,
+      "r_x2": 361.3333333333333,
+      "r_y2": 584.3333333333334,
+      "r_x3": 340.66666666666663,
+      "r_y3": 584.3333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "figure_metadata",
+    "owner_id": "recovered_figure_0"
+  },
+  {
+    "id": "token_31",
+    "bbox": [
+      117.66666666666667,
+      678.0,
+      298.0,
+      691.0
+    ],
+    "text": "Hinh 1. Minh họa thiết bị và nhãn nhận dạng",
+    "from_ocr": true,
+    "confidence": 0.8492607601198363,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 117.66666666666667,
+      "r_y0": 691.0,
+      "r_x1": 298.0,
+      "r_y1": 691.0,
+      "r_x2": 298.0,
+      "r_y2": 678.0,
+      "r_x3": 117.66666666666667,
+      "r_y3": 678.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_32",
+    "bbox": [
+      36.333333333333336,
+      728.3333333333334,
+      307.0,
+      742.0
+    ],
+    "text": "Lưu ý: Bản sao không có chữ ký phê duyệt chỉ dùng để tham khảo.",
+    "from_ocr": true,
+    "confidence": 0.7554063507159232,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 36.333333333333336,
+      "r_y0": 742.0,
+      "r_x1": 307.0,
+      "r_y1": 742.0,
+      "r_x2": 307.0,
+      "r_y2": 728.3333333333334,
+      "r_x3": 36.333333333333336,
+      "r_y3": 728.3333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_33",
+    "bbox": [
+      36.666666666666664,
+      793.6666666666666,
+      106.0,
+      804.3333333333334
+    ],
+    "text": "TẢl LIEU GIẢ LAP",
+    "from_ocr": true,
+    "confidence": 0.8549715197813496,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 36.666666666666664,
+      "r_y0": 804.3333333333334,
+      "r_x1": 106.0,
+      "r_y1": 804.3333333333334,
+      "r_x2": 106.0,
+      "r_y2": 793.6666666666666,
+      "r_x3": 36.666666666666664,
+      "r_y3": 793.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_34",
+    "bbox": [
+      110.0,
+      793.6666666666666,
+      213.33333333333334,
+      804.3333333333334
+    ],
+    "text": "Chỉ dung kiểm thử trích xuẩt",
+    "from_ocr": true,
+    "confidence": 0.5289979800924858,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 110.0,
+      "r_y0": 804.3333333333334,
+      "r_x1": 213.33333333333334,
+      "r_y1": 804.3333333333334,
+      "r_x2": 213.33333333333334,
+      "r_y2": 793.6666666666666,
+      "r_x3": 110.0,
+      "r_y3": 793.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "id": "token_35",
+    "bbox": [
+      498.6666666666667,
+      794.0,
+      536.6666666666666,
+      805.0
+    ],
+    "text": "Trang 1/4",
+    "from_ocr": true,
+    "confidence": 0.9986311570089692,
+    "source": "pipeline_ocr",
+    "quad": {
+      "r_x0": 498.6666666666667,
+      "r_y0": 805.0,
+      "r_x1": 536.6666666666666,
+      "r_y1": 805.0,
+      "r_x2": 536.6666666666666,
+      "r_y2": 794.0,
+      "r_x3": 498.6666666666667,
+      "r_y3": 794.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  }
+]

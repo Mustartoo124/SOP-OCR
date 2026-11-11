@@ -1,0 +1,35 @@
+[
+  {
+    "block_id": "geometry_table_0",
+    "file": "crop_010_table.png",
+    "bbox": [
+      37.7895618148121,
+      173.66900994870437,
+      556.5862604438754,
+      493.65191118061773
+    ],
+    "type": "table"
+  },
+  {
+    "block_id": "recovered_figure_0",
+    "file": "crop_011_figure.png",
+    "bbox": [
+      177.0,
+      266.9999694824219,
+      380.0,
+      368.9999694824219
+    ],
+    "type": "figure"
+  },
+  {
+    "block_id": "recovered_figure_1",
+    "file": "crop_012_figure.png",
+    "bbox": [
+      402.4871681886832,
+      260.7124069885802,
+      545.1310818913194,
+      395.45050521139507
+    ],
+    "type": "figure"
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "source": "sop_scan_clean.pdf",
+  "sha256": "8949ba7d87671613df7e2cc072fad1026d66ca872da9c464e114b214501b839b",
+  "engine": "PyMuPDF 1.26.0",
+  "limitation": "Native diagnostics only. No OCR, semantic layout, diagram detection, or accuracy measurement.",
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 595.2755737304688,
+      "height": 841.8897705078125,
+      "native_text_chars": 0,
+      "words": [],
+      "raster_occurrences": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            595.2755737304688,
+            841.8897705078125
+          ],
+          "width": 1323,
+          "height": 1871
+        }
+      ],
+      "vector_path_count": 0,
+      "geometry_table_candidates": [],
+      "table_error": null
+    },
+    {
+      "page_number": 2,
+      "width": 595.2755737304688,
+      "height": 841.8897705078125,
+      "native_text_chars": 0,
+      "words": [],
+      "raster_occurrences": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            595.2755737304688,
+            841.8897705078125
+          ],
+          "width": 1323,
+          "height": 1871
+        }
+      ],
+      "vector_path_count": 0,
+      "geometry_table_candidates": [],
+      "table_error": null
+    },
+    {
+      "page_number": 3,
+      "width": 595.2755737304688,
+      "height": 841.8897705078125,
+      "native_text_chars": 0,
+      "words": [],
+      "raster_occurrences": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            595.2755737304688,
+            841.8897705078125
+          ],
+          "width": 1323,
+          "height": 1871
+        }
+      ],
+      "vector_path_count": 0,
+      "geometry_table_candidates": [],
+      "table_error": null
+    },
+    {
+      "page_number": 4,
+      "width": 595.2755737304688,
+      "height": 841.8897705078125,
+      "native_text_chars": 0,
+      "words": [],
+      "raster_occurrences": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            595.2755737304688,
+            841.8897705078125
+          ],
+          "width": 1323,
+          "height": 1871
+        }
+      ],
+      "vector_path_count": 0,
+      "geometry_table_candidates": [],
+      "table_error": null
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+[
+  {
+    "file": "sop_digital.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "native_chars": 847,
+        "raster_occurrences": 1,
+        "vector_paths": 3,
+        "table_candidates": [],
+        "table_error": null
+      },
+      {
+        "page": 2,
+        "native_chars": 1105,
+        "raster_occurrences": 0,
+        "vector_paths": 51,
+        "table_candidates": [
+          "8x6"
+        ],
+        "table_error": null
+      },
+      {
+        "page": 3,
+        "native_chars": 862,
+        "raster_occurrences": 0,
+        "vector_paths": 42,
+        "table_candidates": [
+          "5x4"
+        ],
+        "table_error": null
+      },
+      {
+        "page": 4,
+        "native_chars": 953,
+        "raster_occurrences": 1,
+        "vector_paths": 15,
+        "table_candidates": [
+          "3x2"
+        ],
+        "table_error": null
+      }
+    ]
+  },
+  {
+    "file": "sop_hybrid.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "native_chars": 847,
+        "raster_occurrences": 1,
+        "vector_paths": 3,
+        "table_candidates": [],
+        "table_error": null
+      },
+      {
+        "page": 2,
+        "native_chars": 0,
+        "raster_occurrences": 1,
+        "vector_paths": 0,
+        "table_candidates": [],
+        "table_error": null
+      },
+      {
+        "page": 3,
+        "native_chars": 862,
+        "raster_occurrences": 0,
+        "vector_paths": 42,
+        "table_candidates": [
+          "5x4"
+        ],
+        "table_error": null
+      },
+      {
+        "page": 4,
+        "native_chars": 579,
+        "raster_occurrences": 2,
+        "vector_paths": 16,
+        "table_candidates": [
+          "3x2"
+        ],
+        "table_error": null
+      }
+    ]
+  },
+  {
+    "file": "sop_scan_clean.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "native_chars": 0,
+        "raster_occurrences": 1,
+        "vector_paths": 0,
+        "table_candidates": [],
+        "table_error": null
+      },
+      {
+        "page": 2,
+        "native_chars": 0,
+        "raster_occurrences": 1,
+        "vector_paths": 0,
+        "table_candidates": [],
+        "table_error": null
+      },
+      {
+        "page": 3,
+        "native_chars": 0,
+        "raster_occurrences": 1,
+        "vector_paths": 0,
+        "table_candidates": [],
+        "table_error": null
+      },
+      {
+        "page": 4,
+        "native_chars": 0,
+        "raster_occurrences": 1,
+        "vector_paths": 0,
+        "table_candidates": [],
+        "table_error": null
+      }
+    ]
+  },
+  {
+    "file": "sop_scan_degraded.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "native_chars": 0,
+        "raster_occurrences": 1,
+        "vector_paths": 0,
+        "table_candidates": [],
+        "table_error": null
+      },
+      {
+        "page": 2,
+        "native_chars": 0,
+        "raster_occurrences": 1,
+        "vector_paths": 0,
+        "table_candidates": [],
+        "table_error": null
+      },
+      {
+        "page": 3,
+        "native_chars": 0,
+        "raster_occurrences": 1,
+        "vector_paths": 0,
+        "table_candidates": [],
+        "table_error": null
+      },
+      {
+        "page": 4,
+        "native_chars": 0,
+        "raster_occurrences": 1,
+        "vector_paths": 0,
+        "table_candidates": [],
+        "table_error": null
+      }
+    ]
+  }
+]

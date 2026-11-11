@@ -1,0 +1,12 @@
+{
+  "engine": "paddle",
+  "pdf": "sop_digital.pdf",
+  "pdf_sha256": "31a8b81356763a5569ad0ea6dfa7409e481af6e107d798b090080073d28af2ba",
+  "page_number": 3,
+  "fingerprint": "fc560fe16771dcd4e557a5f2e270677f54c9e63e35d7bd7d0bcfbd2d1de5dc34",
+  "state": "success",
+  "seconds": 52.90409700013697,
+  "peak_rss_bytes": 1824157696,
+  "block_count": 8,
+  "table_count": 1
+}

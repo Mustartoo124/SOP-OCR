@@ -1,0 +1,1606 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "#/texts/0",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        43.0,
+        42.69430660781245,
+        80.5590826,
+        54.68993766045071
+      ],
+      "text": "NOVA",
+      "parent_ref": "#/pictures/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/1",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        105.0,
+        30.98385735781244,
+        264.8327619,
+        40.67263628494334
+      ],
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        105.0,
+        47.38297826781252,
+        326.2464727200001,
+        55.139288804412445
+      ],
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/3",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        105.0,
+        63.35460912781252,
+        300.8240604900002,
+        71.0185826342148
+      ],
+      "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "parent_ref": "#/groups/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/4",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        38.0,
+        102.26266600781241,
+        312.08691200000004,
+        116.10377876085658
+      ],
+      "text": "QUY TRÌNH THỰC HIỆN / WORKFLOW",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/5",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        38.0,
+        139.5531931078125,
+        368.16990050000004,
+        147.863525825598
+      ],
+      "text": "Lưu đồ vector gồm text, hình khối và mũi tên; không có một ảnh nhúng tương ứng.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/6",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        38.0,
+        704.5531931078125,
+        385.6425554000001,
+        712.8635258255981
+      ],
+      "text": "Ghi chú: Sơ đồ chạy liên tục qua các khoảng hàng bên phải; không suy ra quan hệ 1:1.",
+      "parent_ref": "#/groups/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/7",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        38.0,
+        796.2695017078125,
+        211.4218672000001,
+        803.656464123622
+      ],
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/8",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        501.0,
+        796.2695017078125,
+        535.2421847999998,
+        803.656464123622
+      ],
+      "text": "Trang 3/4",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/pictures/0",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        36.15802511232108,
+        25.404583149395307,
+        92.79007458480221,
+        68.70523355091484
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/0"
+      ]
+    },
+    {
+      "id": "#/tables/0",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        36.90696875283158,
+        172.27772826745763,
+        557.7493668341515,
+        675.4951080310233
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        43.0,
+        42.69430660781245,
+        80.5590826,
+        54.68993766045071
+      ],
+      "text": "NOVA",
+      "source_ref": "#/texts/0"
+    },
+    {
+      "bbox": [
+        105.0,
+        30.98385735781244,
+        264.8327619,
+        40.67263628494334
+      ],
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "source_ref": "#/texts/1"
+    },
+    {
+      "bbox": [
+        105.0,
+        47.38297826781252,
+        326.2464727200001,
+        55.139288804412445
+      ],
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "source_ref": "#/texts/2"
+    },
+    {
+      "bbox": [
+        105.0,
+        63.35460912781252,
+        300.8240604900002,
+        71.0185826342148
+      ],
+      "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "source_ref": "#/texts/3"
+    },
+    {
+      "bbox": [
+        38.0,
+        102.26266600781241,
+        312.08691200000004,
+        116.10377876085658
+      ],
+      "text": "QUY TRÌNH THỰC HIỆN / WORKFLOW",
+      "source_ref": "#/texts/4"
+    },
+    {
+      "bbox": [
+        38.0,
+        139.5531931078125,
+        368.16990050000004,
+        147.863525825598
+      ],
+      "text": "Lưu đồ vector gồm text, hình khối và mũi tên; không có một ảnh nhúng tương ứng.",
+      "source_ref": "#/texts/5"
+    },
+    {
+      "bbox": [
+        38.0,
+        704.5531931078125,
+        385.6425554000001,
+        712.8635258255981
+      ],
+      "text": "Ghi chú: Sơ đồ chạy liên tục qua các khoảng hàng bên phải; không suy ra quan hệ 1:1.",
+      "source_ref": "#/texts/6"
+    },
+    {
+      "bbox": [
+        38.0,
+        796.2695017078125,
+        211.4218672000001,
+        803.656464123622
+      ],
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "source_ref": "#/texts/7"
+    },
+    {
+      "bbox": [
+        501.0,
+        796.2695017078125,
+        535.2421847999998,
+        803.656464123622
+      ],
+      "text": "Trang 3/4",
+      "source_ref": "#/texts/8"
+    },
+    {
+      "bbox": [
+        44.0,
+        183.41552745,
+        73.28515455,
+        191.258824676725
+      ],
+      "text": "Lưu đồ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        224.0,
+        183.41552745,
+        274.53930425000004,
+        191.258824676725
+      ],
+      "text": "Trách nhiệm",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        293.0,
+        183.41552745,
+        328.4235817000001,
+        191.258824676725
+      ],
+      "text": "Diễn giải",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        471.0,
+        183.41552745,
+        509.25829940000006,
+        191.258824676725
+      ],
+      "text": "Biểu mẫu",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        224.0,
+        224.43974604000005,
+        257.94648244000007,
+        232.38073063699517
+      ],
+      "text": "Sản xuất",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        293.0,
+        224.43974604000005,
+        447.87557680000026,
+        244.24873063699522
+      ],
+      "text": "Tiếp nhận thiết bị. Kiểm tra mã, tem hiệu chuẩn và tình trạng bên ngoài.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        471.0,
+        224.43974604000005,
+        521.1848605399999,
+        232.38073063699517
+      ],
+      "text": "QP-74-02-F6",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        224.0,
+        339.43974604000005,
+        255.55292786000007,
+        347.3807306369951
+      ],
+      "text": "Kỹ thuật",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        293.0,
+        339.43974604000005,
+        443.0590719800004,
+        359.2487306369951
+      ],
+      "text": "Đo thông số theo hướng dẫn. Ghi nhận nhiệt độ 20-25 °C và mã QC-017.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        471.0,
+        339.43974604000005,
+        508.28066288,
+        347.3807306369951
+      ],
+      "text": "HD-74-01",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        224.0,
+        454.43974604000005,
+        236.42548811999998,
+        462.3807306369951
+      ],
+      "text": "QA",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        293.0,
+        454.43974604000005,
+        451.23495266000043,
+        474.2487306369951
+      ],
+      "text": "Đối chiếu tiêu chí. Nếu không đạt: cách ly và lập phiếu xử lý sai lệch.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        471.0,
+        454.43974604000005,
+        495.85097624,
+        462.3807306369951
+      ],
+      "text": "NC-01",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        224.0,
+        569.43974604,
+        258.8955062,
+        577.3807306369952
+      ],
+      "text": "QA / Kho",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        293.0,
+        569.43974604,
+        445.9943259400004,
+        589.2487306369951
+      ],
+      "text": "Phê duyệt thiết bị đạt yêu cầu. Cập nhật danh mục và lưu hồ sơ.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        471.0,
+        569.43974604,
+        520.20644456,
+        577.3807306369952
+      ],
+      "text": "DM-THIETBI",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        89.0,
+        246.46811518000004,
+        155.74530815,
+        254.50143680719282
+      ],
+      "text": "Tiếp nhận thiết bị",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        89.0,
+        623.46811518,
+        120.91982236999998,
+        631.5014368071928
+      ],
+      "text": "Kết thúc",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        52.0,
+        389.15605464000004,
+        73.97617064,
+        396.17366893501895
+      ],
+      "text": "Không",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    }
+  ],
+  "tables": [
+    {
+      "id": "#/tables/0",
+      "bbox": [
+        36.90696875283158,
+        172.27772826745763,
+        557.7493668341515,
+        675.4951080310233
+      ],
+      "rows": 5,
+      "cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Lưu đồ",
+          "bbox": [
+            44.0,
+            183.41552745,
+            73.28515455,
+            191.258824676725
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Trách nhiệm",
+          "bbox": [
+            224.0,
+            183.41552745,
+            274.53930425000004,
+            191.258824676725
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Diễn giải",
+          "bbox": [
+            293.0,
+            183.41552745,
+            328.4235817000001,
+            191.258824676725
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Biểu mẫu",
+          "bbox": [
+            471.0,
+            183.41552745,
+            509.25829940000006,
+            191.258824676725
+          ],
+          "column_header": true
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Sản xuất",
+          "bbox": [
+            224.0,
+            224.43974604000005,
+            257.94648244000007,
+            232.38073063699517
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Tiếp nhận thiết bị. Kiểm tra mã, tem hiệu chuẩn và tình trạng bên ngoài.",
+          "bbox": [
+            293.0,
+            224.43974604000005,
+            447.87557680000026,
+            244.24873063699522
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QP-74-02-F6",
+          "bbox": [
+            471.0,
+            224.43974604000005,
+            521.1848605399999,
+            232.38073063699517
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Kỹ thuật",
+          "bbox": [
+            224.0,
+            339.43974604000005,
+            255.55292786000007,
+            347.3807306369951
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Đo thông số theo hướng dẫn. Ghi nhận nhiệt độ 20-25 °C và mã QC-017.",
+          "bbox": [
+            293.0,
+            339.43974604000005,
+            443.0590719800004,
+            359.2487306369951
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "HD-74-01",
+          "bbox": [
+            471.0,
+            339.43974604000005,
+            508.28066288,
+            347.3807306369951
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QA",
+          "bbox": [
+            224.0,
+            454.43974604000005,
+            236.42548811999998,
+            462.3807306369951
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Đối chiếu tiêu chí. Nếu không đạt: cách ly và lập phiếu xử lý sai lệch.",
+          "bbox": [
+            293.0,
+            454.43974604000005,
+            451.23495266000043,
+            474.2487306369951
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "NC-01",
+          "bbox": [
+            471.0,
+            454.43974604000005,
+            495.85097624,
+            462.3807306369951
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QA / Kho",
+          "bbox": [
+            224.0,
+            569.43974604,
+            258.8955062,
+            577.3807306369952
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phê duyệt thiết bị đạt yêu cầu. Cập nhật danh mục và lưu hồ sơ.",
+          "bbox": [
+            293.0,
+            569.43974604,
+            445.9943259400004,
+            589.2487306369951
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "DM-THIETBI",
+          "bbox": [
+            471.0,
+            569.43974604,
+            520.20644456,
+            577.3807306369952
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 3,
+          "colspan": 1,
+          "text": "Tiếp nhận thiết bị",
+          "bbox": [
+            89.0,
+            246.46811518000004,
+            155.74530815,
+            254.50143680719282
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Kết thúc",
+          "bbox": [
+            89.0,
+            623.46811518,
+            120.91982236999998,
+            631.5014368071928
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Không",
+          "bbox": [
+            52.0,
+            389.15605464000004,
+            73.97617064,
+            396.17366893501895
+          ],
+          "column_header": false
+        }
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "containers": [
+    {
+      "id": "#/groups/0",
+      "type": "container",
+      "label": "key_value_area",
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/3"
+      ]
+    },
+    {
+      "id": "#/groups/1",
+      "type": "container",
+      "label": "key_value_area",
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/6"
+      ]
+    }
+  ],
+  "status": "ConversionStatus.SUCCESS",
+  "errors": [],
+  "tokens": [
+    {
+      "id": "pipeline_0",
+      "bbox": [
+        43.0,
+        42.69433609999999,
+        80.5590826,
+        54.689967152638246
+      ],
+      "text": "NOVA",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 43.0,
+        "r_y0": 54.689967152638246,
+        "r_x1": 80.5590826,
+        "r_y1": 54.689967152638246,
+        "r_x2": 80.5590826,
+        "r_y2": 42.69433609999999,
+        "r_x3": 43.0,
+        "r_y3": 42.69433609999999,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_1",
+      "bbox": [
+        105.0,
+        30.983886849999976,
+        264.8327619,
+        40.672665777130874
+      ],
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 105.0,
+        "r_y0": 40.672665777130874,
+        "r_x1": 264.8327619,
+        "r_y1": 40.672665777130874,
+        "r_x2": 264.8327619,
+        "r_y2": 30.983886849999976,
+        "r_x3": 105.0,
+        "r_y3": 30.983886849999976,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_2",
+      "bbox": [
+        105.0,
+        47.383007760000055,
+        326.2464727200001,
+        55.13931829659998
+      ],
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 105.0,
+        "r_y0": 55.13931829659998,
+        "r_x1": 326.2464727200001,
+        "r_y1": 55.13931829659998,
+        "r_x2": 326.2464727200001,
+        "r_y2": 47.383007760000055,
+        "r_x3": 105.0,
+        "r_y3": 47.383007760000055,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_3",
+      "bbox": [
+        105.0,
+        63.35463862000006,
+        300.8240604900002,
+        71.01861212640233
+      ],
+      "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 105.0,
+        "r_y0": 71.01861212640233,
+        "r_x1": 300.8240604900002,
+        "r_y1": 71.01861212640233,
+        "r_x2": 300.8240604900002,
+        "r_y2": 63.35463862000006,
+        "r_x3": 105.0,
+        "r_y3": 63.35463862000006,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_4",
+      "bbox": [
+        38.0,
+        102.26269549999995,
+        312.08691200000004,
+        116.10380825304412
+      ],
+      "text": "QUY TRÌNH THỰC HIỆN / WORKFLOW",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 38.0,
+        "r_y0": 116.10380825304412,
+        "r_x1": 312.08691200000004,
+        "r_y1": 116.10380825304412,
+        "r_x2": 312.08691200000004,
+        "r_y2": 102.26269549999995,
+        "r_x3": 38.0,
+        "r_y3": 102.26269549999995,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_5",
+      "bbox": [
+        38.0,
+        796.2695312000001,
+        211.4218672000001,
+        803.6564936158095
+      ],
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 38.0,
+        "r_y0": 803.6564936158095,
+        "r_x1": 211.4218672000001,
+        "r_y1": 803.6564936158095,
+        "r_x2": 211.4218672000001,
+        "r_y2": 796.2695312000001,
+        "r_x3": 38.0,
+        "r_y3": 796.2695312000001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_6",
+      "bbox": [
+        501.0,
+        796.2695312000001,
+        535.2421847999998,
+        803.6564936158095
+      ],
+      "text": "Trang 3/4",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 501.0,
+        "r_y0": 803.6564936158095,
+        "r_x1": 535.2421847999998,
+        "r_y1": 803.6564936158095,
+        "r_x2": 535.2421847999998,
+        "r_y2": 796.2695312000001,
+        "r_x3": 501.0,
+        "r_y3": 796.2695312000001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_7",
+      "bbox": [
+        38.0,
+        139.55322260000003,
+        368.16990050000004,
+        147.86355531778554
+      ],
+      "text": "Lưu đồ vector gồm text, hình khối và mũi tên; không có một ảnh nhúng tương ứng.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 38.0,
+        "r_y0": 147.86355531778554,
+        "r_x1": 368.16990050000004,
+        "r_y1": 147.86355531778554,
+        "r_x2": 368.16990050000004,
+        "r_y2": 139.55322260000003,
+        "r_x3": 38.0,
+        "r_y3": 139.55322260000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_8",
+      "bbox": [
+        44.0,
+        183.41552745,
+        73.28515455,
+        191.258824676725
+      ],
+      "text": "Lưu đồ",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 44.0,
+        "r_y0": 191.258824676725,
+        "r_x1": 73.28515455,
+        "r_y1": 191.258824676725,
+        "r_x2": 73.28515455,
+        "r_y2": 183.41552745,
+        "r_x3": 44.0,
+        "r_y3": 183.41552745,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_9",
+      "bbox": [
+        224.0,
+        183.41552745,
+        328.4235817000001,
+        191.258824676725
+      ],
+      "text": "Trách nhiệm Diễn giải",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 224.0,
+        "r_y0": 191.258824676725,
+        "r_x1": 328.4235817000001,
+        "r_y1": 191.258824676725,
+        "r_x2": 328.4235817000001,
+        "r_y2": 183.41552745,
+        "r_x3": 224.0,
+        "r_y3": 183.41552745,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_10",
+      "bbox": [
+        471.0,
+        183.41552745,
+        509.25829940000006,
+        191.258824676725
+      ],
+      "text": "Biểu mẫu",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 471.0,
+        "r_y0": 191.258824676725,
+        "r_x1": 509.25829940000006,
+        "r_y1": 191.258824676725,
+        "r_x2": 509.25829940000006,
+        "r_y2": 183.41552745,
+        "r_x3": 471.0,
+        "r_y3": 183.41552745,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_11",
+      "bbox": [
+        224.0,
+        224.43974604000005,
+        257.94648244000007,
+        232.38073063699517
+      ],
+      "text": "Sản xuất",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 224.0,
+        "r_y0": 232.38073063699517,
+        "r_x1": 257.94648244000007,
+        "r_y1": 232.38073063699517,
+        "r_x2": 257.94648244000007,
+        "r_y2": 224.43974604000005,
+        "r_x3": 224.0,
+        "r_y3": 224.43974604000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_12",
+      "bbox": [
+        293.0,
+        224.43974604000005,
+        447.87557680000026,
+        232.38073063699517
+      ],
+      "text": "Tiếp nhận thiết bị. Kiểm tra mã, tem hiệu",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 293.0,
+        "r_y0": 232.38073063699517,
+        "r_x1": 447.87557680000026,
+        "r_y1": 232.38073063699517,
+        "r_x2": 447.87557680000026,
+        "r_y2": 224.43974604000005,
+        "r_x3": 293.0,
+        "r_y3": 224.43974604000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_13",
+      "bbox": [
+        293.0,
+        236.3077460400001,
+        409.1881749400003,
+        244.24873063699522
+      ],
+      "text": "chuẩn và tình trạng bên ngoài.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 293.0,
+        "r_y0": 244.24873063699522,
+        "r_x1": 409.1881749400003,
+        "r_y1": 244.24873063699522,
+        "r_x2": 409.1881749400003,
+        "r_y2": 236.3077460400001,
+        "r_x3": 293.0,
+        "r_y3": 236.3077460400001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_14",
+      "bbox": [
+        471.0,
+        224.43974604000005,
+        521.1848605399999,
+        232.38073063699517
+      ],
+      "text": "QP-74-02-F6",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 471.0,
+        "r_y0": 232.38073063699517,
+        "r_x1": 521.1848605399999,
+        "r_y1": 232.38073063699517,
+        "r_x2": 521.1848605399999,
+        "r_y2": 224.43974604000005,
+        "r_x3": 471.0,
+        "r_y3": 224.43974604000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_15",
+      "bbox": [
+        224.0,
+        339.43974604000005,
+        255.55292786000007,
+        347.3807306369951
+      ],
+      "text": "Kỹ thuật",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 224.0,
+        "r_y0": 347.3807306369951,
+        "r_x1": 255.55292786000007,
+        "r_y1": 347.3807306369951,
+        "r_x2": 255.55292786000007,
+        "r_y2": 339.43974604000005,
+        "r_x3": 224.0,
+        "r_y3": 339.43974604000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_16",
+      "bbox": [
+        293.0,
+        339.43974604000005,
+        443.0590719800004,
+        347.3807306369951
+      ],
+      "text": "Đo thông số theo hướng dẫn. Ghi nhận",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 293.0,
+        "r_y0": 347.3807306369951,
+        "r_x1": 443.0590719800004,
+        "r_y1": 347.3807306369951,
+        "r_x2": 443.0590719800004,
+        "r_y2": 339.43974604000005,
+        "r_x3": 293.0,
+        "r_y3": 339.43974604000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_17",
+      "bbox": [
+        293.0,
+        351.30774604000004,
+        420.72762914000026,
+        359.2487306369951
+      ],
+      "text": "nhiệt độ 20-25 °C và mã QC-017.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 293.0,
+        "r_y0": 359.2487306369951,
+        "r_x1": 420.72762914000026,
+        "r_y1": 359.2487306369951,
+        "r_x2": 420.72762914000026,
+        "r_y2": 351.30774604000004,
+        "r_x3": 293.0,
+        "r_y3": 351.30774604000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_18",
+      "bbox": [
+        471.0,
+        339.43974604000005,
+        508.28066288,
+        347.3807306369951
+      ],
+      "text": "HD-74-01",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 471.0,
+        "r_y0": 347.3807306369951,
+        "r_x1": 508.28066288,
+        "r_y1": 347.3807306369951,
+        "r_x2": 508.28066288,
+        "r_y2": 339.43974604000005,
+        "r_x3": 471.0,
+        "r_y3": 339.43974604000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_19",
+      "bbox": [
+        224.0,
+        454.43974604000005,
+        236.42548811999998,
+        462.3807306369951
+      ],
+      "text": "QA",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 224.0,
+        "r_y0": 462.3807306369951,
+        "r_x1": 236.42548811999998,
+        "r_y1": 462.3807306369951,
+        "r_x2": 236.42548811999998,
+        "r_y2": 454.43974604000005,
+        "r_x3": 224.0,
+        "r_y3": 454.43974604000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_20",
+      "bbox": [
+        293.0,
+        454.43974604000005,
+        451.23495266000043,
+        462.3807306369951
+      ],
+      "text": "Đối chiếu tiêu chí. Nếu không đạt: cách ly",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 293.0,
+        "r_y0": 462.3807306369951,
+        "r_x1": 451.23495266000043,
+        "r_y1": 462.3807306369951,
+        "r_x2": 451.23495266000043,
+        "r_y2": 454.43974604000005,
+        "r_x3": 293.0,
+        "r_y3": 454.43974604000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_21",
+      "bbox": [
+        293.0,
+        466.30774604000004,
+        394.36493716000024,
+        474.2487306369951
+      ],
+      "text": "và lập phiếu xử lý sai lệch.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 293.0,
+        "r_y0": 474.2487306369951,
+        "r_x1": 394.36493716000024,
+        "r_y1": 474.2487306369951,
+        "r_x2": 394.36493716000024,
+        "r_y2": 466.30774604000004,
+        "r_x3": 293.0,
+        "r_y3": 466.30774604000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_22",
+      "bbox": [
+        471.0,
+        454.43974604000005,
+        495.85097624,
+        462.3807306369951
+      ],
+      "text": "NC-01",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 471.0,
+        "r_y0": 462.3807306369951,
+        "r_x1": 495.85097624,
+        "r_y1": 462.3807306369951,
+        "r_x2": 495.85097624,
+        "r_y2": 454.43974604000005,
+        "r_x3": 471.0,
+        "r_y3": 454.43974604000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_23",
+      "bbox": [
+        224.0,
+        569.43974604,
+        258.8955062,
+        577.3807306369952
+      ],
+      "text": "QA / Kho",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 224.0,
+        "r_y0": 577.3807306369952,
+        "r_x1": 258.8955062,
+        "r_y1": 577.3807306369952,
+        "r_x2": 258.8955062,
+        "r_y2": 569.43974604,
+        "r_x3": 224.0,
+        "r_y3": 569.43974604,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_24",
+      "bbox": [
+        293.0,
+        569.43974604,
+        445.9943259400004,
+        577.3807306369952
+      ],
+      "text": "Phê duyệt thiết bị đạt yêu cầu. Cập nhật",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 293.0,
+        "r_y0": 577.3807306369952,
+        "r_x1": 445.9943259400004,
+        "r_y1": 577.3807306369952,
+        "r_x2": 445.9943259400004,
+        "r_y2": 569.43974604,
+        "r_x3": 293.0,
+        "r_y3": 569.43974604,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_25",
+      "bbox": [
+        293.0,
+        581.30774604,
+        383.7535106800002,
+        589.2487306369951
+      ],
+      "text": "danh mục và lưu hồ sơ.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 293.0,
+        "r_y0": 589.2487306369951,
+        "r_x1": 383.7535106800002,
+        "r_y1": 589.2487306369951,
+        "r_x2": 383.7535106800002,
+        "r_y2": 581.30774604,
+        "r_x3": 293.0,
+        "r_y3": 581.30774604,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_26",
+      "bbox": [
+        471.0,
+        569.43974604,
+        520.20644456,
+        577.3807306369952
+      ],
+      "text": "DM-THIETBI",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 471.0,
+        "r_y0": 577.3807306369952,
+        "r_x1": 520.20644456,
+        "r_y1": 577.3807306369952,
+        "r_x2": 520.20644456,
+        "r_y2": 569.43974604,
+        "r_x3": 471.0,
+        "r_y3": 569.43974604,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_27",
+      "bbox": [
+        89.0,
+        246.46811518000004,
+        155.74530815,
+        254.50143680719282
+      ],
+      "text": "Tiếp nhận thiết bị",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 89.0,
+        "r_y0": 254.50143680719282,
+        "r_x1": 155.74530815,
+        "r_y1": 254.50143680719282,
+        "r_x2": 155.74530815,
+        "r_y2": 246.46811518000004,
+        "r_x3": 89.0,
+        "r_y3": 246.46811518000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_28",
+      "bbox": [
+        89.0,
+        327.46811518000004,
+        139.76415809,
+        335.50143680719276
+      ],
+      "text": "Kiểm tra / Đo",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 89.0,
+        "r_y0": 335.50143680719276,
+        "r_x1": 139.76415809,
+        "r_y1": 335.50143680719276,
+        "r_x2": 139.76415809,
+        "r_y2": 327.46811518000004,
+        "r_x3": 89.0,
+        "r_y3": 327.46811518000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_29",
+      "bbox": [
+        109.3673,
+        429.96811518000004,
+        160.63272686000005,
+        438.00143680719276
+      ],
+      "text": "Đạt yêu cầu?",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 109.3673,
+        "r_y0": 438.00143680719276,
+        "r_x1": 160.63272686000005,
+        "r_y1": 438.00143680719276,
+        "r_x2": 160.63272686000005,
+        "r_y2": 429.96811518000004,
+        "r_x3": 109.3673,
+        "r_y3": 429.96811518000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_30",
+      "bbox": [
+        89.0,
+        532.46811518,
+        170.17592333000002,
+        540.5014368071927
+      ],
+      "text": "Phê duyệt, lưu hồ sơ",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 89.0,
+        "r_y0": 540.5014368071927,
+        "r_x1": 170.17592333000002,
+        "r_y1": 540.5014368071927,
+        "r_x2": 170.17592333000002,
+        "r_y2": 532.46811518,
+        "r_x3": 89.0,
+        "r_y3": 532.46811518,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_31",
+      "bbox": [
+        89.0,
+        623.46811518,
+        120.91982236999998,
+        631.5014368071928
+      ],
+      "text": "Kết thúc",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 89.0,
+        "r_y0": 631.5014368071928,
+        "r_x1": 120.91982236999998,
+        "r_y1": 631.5014368071928,
+        "r_x2": 120.91982236999998,
+        "r_y2": 623.46811518,
+        "r_x3": 89.0,
+        "r_y3": 623.46811518,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_32",
+      "bbox": [
+        52.0,
+        389.15605464000004,
+        73.97617064,
+        396.17366893501895
+      ],
+      "text": "Không",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 52.0,
+        "r_y0": 396.17366893501895,
+        "r_x1": 73.97617064,
+        "r_y1": 396.17366893501895,
+        "r_x2": 73.97617064,
+        "r_y2": 389.15605464000004,
+        "r_x3": 52.0,
+        "r_y3": 389.15605464000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_33",
+      "bbox": [
+        144.0,
+        484.2695312000001,
+        154.2265624,
+        491.65649361580944
+      ],
+      "text": "Có",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 144.0,
+        "r_y0": 491.65649361580944,
+        "r_x1": 154.2265624,
+        "r_y1": 491.65649361580944,
+        "r_x2": 154.2265624,
+        "r_y2": 484.2695312000001,
+        "r_x3": 144.0,
+        "r_y3": 484.2695312000001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_34",
+      "bbox": [
+        38.0,
+        704.5532226,
+        385.6425554000001,
+        712.8635553177857
+      ],
+      "text": "Ghi chú: Sơ đồ chạy liên tục qua các khoảng hàng bên phải; không suy ra quan hệ 1:1.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 38.0,
+        "r_y0": 712.8635553177857,
+        "r_x1": 385.6425554000001,
+        "r_y1": 712.8635553177857,
+        "r_x2": 385.6425554000001,
+        "r_y2": 704.5532226,
+        "r_x3": 38.0,
+        "r_y3": 704.5532226,
+        "coord_origin": "TOPLEFT"
+      }
+    }
+  ]
+}

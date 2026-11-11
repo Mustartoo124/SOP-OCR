@@ -1,0 +1,203 @@
+{
+  "baseline": [
+    {
+      "engine": "docling",
+      "run_name": "baseline",
+      "pages": 16,
+      "table_detection": {
+        "predicted": 8,
+        "matched": 8,
+        "expected": 16
+      },
+      "figure_detection": {
+        "predicted": 24,
+        "body_matched": 4,
+        "diagram_expected": 8,
+        "nested_expected": 12,
+        "body_expected": 16,
+        "diagram_matched": 0,
+        "matched": 20,
+        "expected": 32
+      },
+      "cell_text_evaluation": {
+        "compared": 172,
+        "exact": 134,
+        "expected": 212
+      },
+      "complete_grids_exact": 1,
+      "nested_table_links": 0,
+      "cell_ownership_verified": 0,
+      "cells_expected_03_mismatches": [
+        {
+          "row": 4,
+          "col": 0,
+          "expected": "03",
+          "predicted": "03 DOCUMENT HISTORY",
+          "exact": false
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "expected": "03",
+          "predicted": "03 LIỆU -",
+          "exact": false
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "expected": "03",
+          "predicted": "03 LỊCH",
+          "exact": false
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "expected": "03",
+          "predicted": "1 03",
+          "exact": false
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "expected": "03",
+          "predicted": "1 03",
+          "exact": false
+        }
+      ]
+    },
+    {
+      "engine": "paddle",
+      "run_name": "baseline",
+      "pages": 16,
+      "table_detection": {
+        "predicted": 12,
+        "matched": 12,
+        "expected": 16
+      },
+      "figure_detection": {
+        "predicted": 4,
+        "body_matched": 3,
+        "diagram_expected": 8,
+        "nested_expected": 12,
+        "body_expected": 16,
+        "diagram_matched": 0,
+        "matched": 3,
+        "expected": 32
+      },
+      "cell_text_evaluation": {
+        "compared": 178,
+        "exact": 16,
+        "expected": 212
+      },
+      "complete_grids_exact": 0,
+      "nested_table_links": 0,
+      "cell_ownership_verified": 0,
+      "cells_expected_03_mismatches": [
+        {
+          "row": 4,
+          "col": 0,
+          "expected": "03",
+          "predicted": "02",
+          "exact": false
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "expected": "03",
+          "predicted": "02",
+          "exact": false
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "expected": "03",
+          "predicted": "02",
+          "exact": false
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "expected": "03",
+          "predicted": "15/10/2026",
+          "exact": false
+        }
+      ]
+    }
+  ],
+  "refined": [
+    {
+      "engine": "docling",
+      "run_name": "refined_v1",
+      "pages": 16,
+      "table_detection": {
+        "predicted": 12,
+        "matched": 12,
+        "expected": 16
+      },
+      "figure_detection": {
+        "predicted": 32,
+        "body_matched": 16,
+        "diagram_expected": 8,
+        "nested_expected": 12,
+        "body_expected": 16,
+        "diagram_matched": 8,
+        "matched": 32,
+        "expected": 32
+      },
+      "cell_text_evaluation": {
+        "compared": 208,
+        "exact": 171,
+        "expected": 212
+      },
+      "complete_grids_exact": 8,
+      "nested_table_links": 12,
+      "cell_ownership_verified": 8,
+      "cells_expected_03_mismatches": [
+        {
+          "row": 5,
+          "col": 0,
+          "expected": "03",
+          "predicted": "",
+          "exact": false
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "expected": "03",
+          "predicted": "",
+          "exact": false
+        }
+      ]
+    },
+    {
+      "engine": "paddle",
+      "run_name": "refined_v1",
+      "pages": 16,
+      "table_detection": {
+        "predicted": 12,
+        "matched": 12,
+        "expected": 16
+      },
+      "figure_detection": {
+        "predicted": 17,
+        "body_matched": 16,
+        "diagram_expected": 8,
+        "nested_expected": 12,
+        "body_expected": 16,
+        "diagram_matched": 8,
+        "matched": 16,
+        "expected": 32
+      },
+      "cell_text_evaluation": {
+        "compared": 208,
+        "exact": 109,
+        "expected": 212
+      },
+      "complete_grids_exact": 8,
+      "nested_table_links": 12,
+      "cell_ownership_verified": 8,
+      "cells_expected_03_mismatches": []
+    }
+  ],
+  "caveat": "Same four authored page designs were used during rule development. No held-out generalization claim; exact text includes punctuation and Vietnamese accents."
+}

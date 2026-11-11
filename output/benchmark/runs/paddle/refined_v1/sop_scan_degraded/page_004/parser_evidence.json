@@ -1,0 +1,969 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "block_0",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        102.57166778306141,
+        26.995182893580992,
+        264.8868332923972,
+        39.592934910585456
+      ],
+      "text": "CONG TY TNHH THIET BI NOVA ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_1",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        99.69246307336145,
+        43.552228401644,
+        325.3501321960966,
+        71.26728283905382
+      ],
+      "text": "Héthöng quan ly chat luro'ng/Quality Management System QP-74-02-F6Phienban03Ngay hieu luc15/10/2026",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_2",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        35.630158282537124,
+        96.46278687306274,
+        313.1135121798717,
+        113.37976815304016
+      ],
+      "text": "BIEU MAU KIÉM TRAVA HU'ó'NG DAN ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_3",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        34.91035710511213,
+        134.97591446790497,
+        379.33522050297097,
+        147.5736664849094
+      ],
+      "text": "Mot  chua text.anh raster va so do vector.Phan huong dan phia duöi la vüng scan.",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_4",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        36.349959459962115,
+        170.24962011551744,
+        554.6068072059567,
+        527.6658416265298
+      ],
+      "text": "<table><tbody><tr><td>Hang muc</td><td colspan=\"5\">Thong tin/Minh hoa</td></tr><tr><td rowspan=\"5\">Thiét bi va thao tac Eguipment&action</td><td rowspan=\"5\" colspan=\"5\">Dói chiéu nhan QC-017 truóc khi két nói ngun Kiém tranhan 24.8C QC-017 THIETBIMAU 0/0-1/1 Két nói nguön Anhva so d la hai thanh phan döc lap trong cung </td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td>Kiém tranhan</td><td colspan=\"5\"></td></tr><tr><td colspan=\"6\"></td></tr></tbody></table>",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_5",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        46.06727535519951,
+        544.5828229065072,
+        271.36504388922214,
+        558.2603822392549
+      ],
+      "text": "4.Hwó'ng dan an toan/ Safety instructions ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_6",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        45.34747417777452,
+        576.2571708349756,
+        520.4162512782694,
+        603.9722252723853
+      ],
+      "text": "Ngät ngun truóc khi ve sinh.Khöng su dung khi day dan bi hö hoac vö may nút.Thöng bao ngay cho b phan Ky thuat néu phät hien bat thu'ng.\n",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_7",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        45.34747417777452,
+        637.4462520604259,
+        529.4137659960819,
+        664.4414349540068
+      ],
+      "text": "Disconnect power before cleaning.Record the issue in QP-74-02-F6.Do not release eguipment until QA has approved the corrective action..\n",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_8",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        46.42717594391201,
+        701.5148194611913,
+        254.80961680844732,
+        715.9122503377679
+      ],
+      "text": "Hotlinenoibgialap)028-0000-017Revision 03",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_9",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        35.990058871249616,
+        791.4987624397946,
+        212.34134734037275,
+        803.3766429129703
+      ],
+      "text": "TAl LIEU GIA LAP-Chi dung kiem thu trichxuat ",
+      "parent_ref": null,
+      "child_refs": []
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        105.09097190404889,
+        28.794861753153057,
+        264.5269327036847,
+        39.23299913867104
+      ],
+      "text": "CONG TY TNHH THIET BI NOVA",
+      "source_ref": "ocr_0"
+    },
+    {
+      "bbox": [
+        42.828170056787044,
+        41.392613770157524,
+        80.97763246031164,
+        52.910558471418746
+      ],
+      "text": "NOVA",
+      "source_ref": "ocr_1"
+    },
+    {
+      "bbox": [
+        104.0112701379114,
+        46.07177880504489,
+        326.06993337352156,
+        54.71023733099081
+      ],
+      "text": "Héthöng quan ly chat luro'ng/Quality Management System",
+      "source_ref": "ocr_2"
+    },
+    {
+      "bbox": [
+        105.09097190404889,
+        61.908952769279075,
+        313.1135121798717,
+        70.54741129522499
+      ],
+      "text": "QP-74-02-F6Phienban03Ngay hieu luc15/10/2026",
+      "source_ref": "ocr_3"
+    },
+    {
+      "bbox": [
+        38.509362992237094,
+        98.62240150454923,
+        312.3937110024467,
+        113.01983238112575
+      ],
+      "text": "BIEU MAU KIÉM TRAVA HU'ó'NG DAN",
+      "source_ref": "ocr_4"
+    },
+    {
+      "bbox": [
+        37.069760637387105,
+        136.4156575555626,
+        380.05502168039595,
+        147.5736664849094
+      ],
+      "text": "Mot  chua text.anh raster va so do vector.Phan huong dan phia duöi la vüng scan.",
+      "source_ref": "ocr_5"
+    },
+    {
+      "bbox": [
+        43.18807064549954,
+        181.40762904486428,
+        85.65634011357409,
+        191.48583065846785
+      ],
+      "text": "Hang muc",
+      "source_ref": "ocr_6"
+    },
+    {
+      "bbox": [
+        171.31268022714818,
+        181.76756481677867,
+        254.80961680844732,
+        191.12589488655343
+      ],
+      "text": "Thong tin/Minh hoa",
+      "source_ref": "ocr_7"
+    },
+    {
+      "bbox": [
+        43.18807064549954,
+        221.00056395544973,
+        120.92659780739872,
+        231.79863711288212
+      ],
+      "text": "Thiét bi va thao tac",
+      "source_ref": "ocr_8"
+    },
+    {
+      "bbox": [
+        177.43099023526062,
+        226.75953630608032,
+        367.09860048674614,
+        235.39799483202626
+      ],
+      "text": "Dói chiéu nhan QC-017 truóc khi két nói ngun",
+      "source_ref": "ocr_9"
+    },
+    {
+      "bbox": [
+        44.26777241163703,
+        235.75793060394065,
+        121.28649839611121,
+        243.31658181414335
+      ],
+      "text": "Eguipment&action",
+      "source_ref": "ocr_10"
+    },
+    {
+      "bbox": [
+        418.5643846726331,
+        277.15054437409816,
+        474.34897592307,
+        286.86881021578733
+      ],
+      "text": "Kiém tranhan",
+      "source_ref": "ocr_11"
+    },
+    {
+      "bbox": [
+        204.06363379998535,
+        295.86720451364766,
+        236.0947861953975,
+        305.94540612725126
+      ],
+      "text": "24.8C",
+      "source_ref": "ocr_12"
+    },
+    {
+      "bbox": [
+        280.00265801832205,
+        293.34765411024676,
+        319.5917227766966,
+        303.42585572385036
+      ],
+      "text": "QC-017",
+      "source_ref": "ocr_13"
+    },
+    {
+      "bbox": [
+        279.28285684089707,
+        312.06431424979627,
+        327.50953572837153,
+        319.62296545999897
+      ],
+      "text": "THIETBIMAU",
+      "source_ref": "ocr_14"
+    },
+    {
+      "bbox": [
+        279.64275742960956,
+        328.2614239859449,
+        309.8744068814592,
+        336.8998825118908
+      ],
+      "text": "0/0-1/1",
+      "source_ref": "ocr_15"
+    },
+    {
+      "bbox": [
+        418.9242852613456,
+        362.81525808972856,
+        473.2692741569325,
+        372.8934597033321
+      ],
+      "text": "Két nói nguön",
+      "source_ref": "ocr_16"
+    },
+    {
+      "bbox": [
+        176.71118905783564,
+        406.72742226328694,
+        375.73621461584605,
+        417.16555964880496
+      ],
+      "text": "Anhva so d la hai thanh phan döc lap trong cung ",
+      "source_ref": "ocr_17"
+    },
+    {
+      "bbox": [
+        43.18807064549954,
+        441.2812563670706,
+        74.85932245219921,
+        451.7193937525886
+      ],
+      "text": "Két qua",
+      "source_ref": "ocr_18"
+    },
+    {
+      "bbox": [
+        171.6725808158607,
+        442.36106368281384,
+        237.174487961535,
+        450.9995222087598
+      ],
+      "text": "Dat/Khongdat:",
+      "source_ref": "ocr_19"
+    },
+    {
+      "bbox": [
+        172.0324814045732,
+        454.5988799279039,
+        296.55808509909684,
+        464.3171457695931
+      ],
+      "text": "Ngui kiem tra Nguyén Thi My",
+      "source_ref": "ocr_20"
+    },
+    {
+      "bbox": [
+        48.586579476186984,
+        546.0225659941649,
+        271.36504388922214,
+        557.9004464673405
+      ],
+      "text": "4.Hwó'ng dan an toan/ Safety instructions",
+      "source_ref": "ocr_21"
+    },
+    {
+      "bbox": [
+        49.30638065361198,
+        578.4167854664621,
+        519.336549512132,
+        589.9347301677233
+      ],
+      "text": "Ngät ngun truóc khi ve sinh.Khöng su dung khi day dan bi hö hoac vö may nút.Thöng bao ngay cho b",
+      "source_ref": "ocr_22"
+    },
+    {
+      "bbox": [
+        48.586579476186984,
+        592.8142163430385,
+        228.53687383243508,
+        603.9722252723853
+      ],
+      "text": "phan Ky thuat néu phät hien bat thu'ng.",
+      "source_ref": "ocr_23"
+    },
+    {
+      "bbox": [
+        48.94648006489948,
+        639.9658024638267,
+        529.0538654073694,
+        650.0440040774303
+      ],
+      "text": "Disconnect power before cleaning.Record the issue in QP-74-02-F6.Do not release eguipment until QA has",
+      "source_ref": "ocr_24"
+    },
+    {
+      "bbox": [
+        48.586579476186984,
+        654.0032975684888,
+        188.9478090740605,
+        664.8013707259212
+      ],
+      "text": "approved the corrective action..",
+      "source_ref": "ocr_25"
+    },
+    {
+      "bbox": [
+        48.94648006489948,
+        705.4741129522499,
+        254.0898156310223,
+        713.7526357062815
+      ],
+      "text": "Hotlinenoibgialap)028-0000-017Revision 03",
+      "source_ref": "ocr_26"
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        794.37824861511,
+        211.26164557423527,
+        803.0167071410559
+      ],
+      "text": "TAl LIEU GIA LAP-Chi dung kiem thu trichxuat",
+      "source_ref": "ocr_27"
+    },
+    {
+      "bbox": [
+        499.1821165442322,
+        793.6583770712812,
+        535.8919765929069,
+        804.4564502287136
+      ],
+      "text": "Trang 4/4",
+      "source_ref": "ocr_28"
+    }
+  ],
+  "tables": [
+    {
+      "id": "block_4",
+      "bbox": [
+        36.349959459962115,
+        170.24962011551744,
+        554.6068072059567,
+        527.6658416265298
+      ],
+      "rows": 8,
+      "cols": 6,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Hang muc",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 5,
+          "text": "Thong tin/Minh hoa",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 5,
+          "colspan": 1,
+          "text": "Thiét bi va thao tac Eguipment&action",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 5,
+          "colspan": 5,
+          "text": "Dói chiéu nhan QC-017 truóc khi két nói ngun Kiém tranhan 24.8C QC-017 THIETBIMAU 0/0-1/1 Két nói nguön Anhva so d la hai thanh phan döc lap trong cung ",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Kiém tranhan",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 5,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 6,
+          "text": "",
+          "column_header": false,
+          "bbox": null
+        }
+      ],
+      "cell_box_count": 11,
+      "cell_box_alignment": "unresolved",
+      "raw_cell_boxes": [
+        [
+          37.50714064499198,
+          173.36715985824372,
+          165.41302564262244,
+          213.51876213014256
+        ],
+        [
+          165.3054552579224,
+          173.2063531725467,
+          554.2223260045263,
+          213.6001919965105
+        ],
+        [
+          37.32063529747947,
+          213.48966453920625,
+          165.51798200327113,
+          433.4695472859767
+        ],
+        [
+          166.27866300220455,
+          213.04474545786314,
+          553.7425317748718,
+          433.48406862052474
+        ],
+        [
+          408.23545304915336,
+          266.4407635669663,
+          538.6549121487949,
+          302.6013580744464
+        ],
+        [
+          408.7235506493237,
+          302.6629144729391,
+          473.8439420830377,
+          352.32032053707894
+        ],
+        [
+          473.95540055393167,
+          302.6025224174586,
+          544.8482160906149,
+          352.5020898593946
+        ],
+        [
+          408.3013967483303,
+          352.33442446564146,
+          538.57460230063,
+          388.57955466955264
+        ],
+        [
+          37.21966964818117,
+          433.3772785944459,
+          165.47669579987237,
+          493.65847983270527
+        ],
+        [
+          165.33642814794223,
+          433.3812329669401,
+          554.2797906004779,
+          493.70652545850953
+        ],
+        [
+          36.58305860205294,
+          493.6186285454584,
+          554.6484778246571,
+          527.7193574676177
+        ]
+      ],
+      "parent_ref": null
+    }
+  ],
+  "containers": [],
+  "status": "success",
+  "errors": [],
+  "tokens": [
+    {
+      "bbox": [
+        105.09097190404889,
+        28.794861753153057,
+        264.5269327036847,
+        39.23299913867104
+      ],
+      "text": "CONG TY TNHH THIET BI NOVA",
+      "source_ref": "ocr_0",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9051873683929443
+    },
+    {
+      "bbox": [
+        42.828170056787044,
+        41.392613770157524,
+        80.97763246031164,
+        52.910558471418746
+      ],
+      "text": "NOVA",
+      "source_ref": "ocr_1",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9975144863128662
+    },
+    {
+      "bbox": [
+        104.0112701379114,
+        46.07177880504489,
+        326.06993337352156,
+        54.71023733099081
+      ],
+      "text": "Héthöng quan ly chat luro'ng/Quality Management System",
+      "source_ref": "ocr_2",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8889124989509583
+    },
+    {
+      "bbox": [
+        105.09097190404889,
+        61.908952769279075,
+        313.1135121798717,
+        70.54741129522499
+      ],
+      "text": "QP-74-02-F6Phienban03Ngay hieu luc15/10/2026",
+      "source_ref": "ocr_3",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9299425482749939
+    },
+    {
+      "bbox": [
+        38.509362992237094,
+        98.62240150454923,
+        312.3937110024467,
+        113.01983238112575
+      ],
+      "text": "BIEU MAU KIÉM TRAVA HU'ó'NG DAN",
+      "source_ref": "ocr_4",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8537765741348267
+    },
+    {
+      "bbox": [
+        37.069760637387105,
+        136.4156575555626,
+        380.05502168039595,
+        147.5736664849094
+      ],
+      "text": "Mot  chua text.anh raster va so do vector.Phan huong dan phia duöi la vüng scan.",
+      "source_ref": "ocr_5",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8720561861991882
+    },
+    {
+      "bbox": [
+        43.18807064549954,
+        181.40762904486428,
+        85.65634011357409,
+        191.48583065846785
+      ],
+      "text": "Hang muc",
+      "source_ref": "ocr_6",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9454829692840576
+    },
+    {
+      "bbox": [
+        171.31268022714818,
+        181.76756481677867,
+        254.80961680844732,
+        191.12589488655343
+      ],
+      "text": "Thong tin/Minh hoa",
+      "source_ref": "ocr_7",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9136671423912048
+    },
+    {
+      "bbox": [
+        43.18807064549954,
+        221.00056395544973,
+        120.92659780739872,
+        231.79863711288212
+      ],
+      "text": "Thiét bi va thao tac",
+      "source_ref": "ocr_8",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8620511293411255
+    },
+    {
+      "bbox": [
+        177.43099023526062,
+        226.75953630608032,
+        367.09860048674614,
+        235.39799483202626
+      ],
+      "text": "Dói chiéu nhan QC-017 truóc khi két nói ngun",
+      "source_ref": "ocr_9",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8834018707275391
+    },
+    {
+      "bbox": [
+        44.26777241163703,
+        235.75793060394065,
+        121.28649839611121,
+        243.31658181414335
+      ],
+      "text": "Eguipment&action",
+      "source_ref": "ocr_10",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9734198451042175
+    },
+    {
+      "bbox": [
+        418.5643846726331,
+        277.15054437409816,
+        474.34897592307,
+        286.86881021578733
+      ],
+      "text": "Kiém tranhan",
+      "source_ref": "ocr_11",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9422627091407776
+    },
+    {
+      "bbox": [
+        204.06363379998535,
+        295.86720451364766,
+        236.0947861953975,
+        305.94540612725126
+      ],
+      "text": "24.8C",
+      "source_ref": "ocr_12",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9764477014541626
+    },
+    {
+      "bbox": [
+        280.00265801832205,
+        293.34765411024676,
+        319.5917227766966,
+        303.42585572385036
+      ],
+      "text": "QC-017",
+      "source_ref": "ocr_13",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9912189841270447
+    },
+    {
+      "bbox": [
+        279.28285684089707,
+        312.06431424979627,
+        327.50953572837153,
+        319.62296545999897
+      ],
+      "text": "THIETBIMAU",
+      "source_ref": "ocr_14",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9826405644416809
+    },
+    {
+      "bbox": [
+        279.64275742960956,
+        328.2614239859449,
+        309.8744068814592,
+        336.8998825118908
+      ],
+      "text": "0/0-1/1",
+      "source_ref": "ocr_15",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9093300700187683
+    },
+    {
+      "bbox": [
+        418.9242852613456,
+        362.81525808972856,
+        473.2692741569325,
+        372.8934597033321
+      ],
+      "text": "Két nói nguön",
+      "source_ref": "ocr_16",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.892717719078064
+    },
+    {
+      "bbox": [
+        176.71118905783564,
+        406.72742226328694,
+        375.73621461584605,
+        417.16555964880496
+      ],
+      "text": "Anhva so d la hai thanh phan döc lap trong cung ",
+      "source_ref": "ocr_17",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8928081393241882
+    },
+    {
+      "bbox": [
+        43.18807064549954,
+        441.2812563670706,
+        74.85932245219921,
+        451.7193937525886
+      ],
+      "text": "Két qua",
+      "source_ref": "ocr_18",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.7669321894645691
+    },
+    {
+      "bbox": [
+        171.6725808158607,
+        442.36106368281384,
+        237.174487961535,
+        450.9995222087598
+      ],
+      "text": "Dat/Khongdat:",
+      "source_ref": "ocr_19",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9054426550865173
+    },
+    {
+      "bbox": [
+        172.0324814045732,
+        454.5988799279039,
+        296.55808509909684,
+        464.3171457695931
+      ],
+      "text": "Ngui kiem tra Nguyén Thi My",
+      "source_ref": "ocr_20",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8914622068405151
+    },
+    {
+      "bbox": [
+        48.586579476186984,
+        546.0225659941649,
+        271.36504388922214,
+        557.9004464673405
+      ],
+      "text": "4.Hwó'ng dan an toan/ Safety instructions",
+      "source_ref": "ocr_21",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8948496580123901
+    },
+    {
+      "bbox": [
+        49.30638065361198,
+        578.4167854664621,
+        519.336549512132,
+        589.9347301677233
+      ],
+      "text": "Ngät ngun truóc khi ve sinh.Khöng su dung khi day dan bi hö hoac vö may nút.Thöng bao ngay cho b",
+      "source_ref": "ocr_22",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8615226745605469
+    },
+    {
+      "bbox": [
+        48.586579476186984,
+        592.8142163430385,
+        228.53687383243508,
+        603.9722252723853
+      ],
+      "text": "phan Ky thuat néu phät hien bat thu'ng.",
+      "source_ref": "ocr_23",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8750260472297668
+    },
+    {
+      "bbox": [
+        48.94648006489948,
+        639.9658024638267,
+        529.0538654073694,
+        650.0440040774303
+      ],
+      "text": "Disconnect power before cleaning.Record the issue in QP-74-02-F6.Do not release eguipment until QA has",
+      "source_ref": "ocr_24",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9526559710502625
+    },
+    {
+      "bbox": [
+        48.586579476186984,
+        654.0032975684888,
+        188.9478090740605,
+        664.8013707259212
+      ],
+      "text": "approved the corrective action..",
+      "source_ref": "ocr_25",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9510794878005981
+    },
+    {
+      "bbox": [
+        48.94648006489948,
+        705.4741129522499,
+        254.0898156310223,
+        713.7526357062815
+      ],
+      "text": "Hotlinenoibgialap)028-0000-017Revision 03",
+      "source_ref": "ocr_26",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9315530061721802
+    },
+    {
+      "bbox": [
+        38.149462403524595,
+        794.37824861511,
+        211.26164557423527,
+        803.0167071410559
+      ],
+      "text": "TAl LIEU GIA LAP-Chi dung kiem thu trichxuat",
+      "source_ref": "ocr_27",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8801375031471252
+    },
+    {
+      "bbox": [
+        499.1821165442322,
+        793.6583770712812,
+        535.8919765929069,
+        804.4564502287136
+      ],
+      "text": "Trang 4/4",
+      "source_ref": "ocr_28",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9401699900627136
+    }
+  ]
+}

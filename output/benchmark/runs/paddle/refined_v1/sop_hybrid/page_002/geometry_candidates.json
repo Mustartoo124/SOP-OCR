@@ -1,0 +1,909 @@
+{
+  "tables": [
+    {
+      "rows": 8,
+      "cols": 6,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            61.903,
+            176.728,
+            103.651,
+            224.6
+          ],
+          "text": "Lan\nsua",
+          "id": "geometry_table_0_cell_0",
+          "token_ids": [
+            "token_6",
+            "token_12"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            103.651,
+            176.728,
+            168.613,
+            224.6
+          ],
+          "text": "Ngay",
+          "id": "geometry_table_0_cell_1",
+          "token_ids": [
+            "token_7"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            168.613,
+            176.728,
+            226.737,
+            224.6
+          ],
+          "text": "Muc",
+          "id": "geometry_table_0_cell_2",
+          "token_ids": [
+            "token_8"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            226.737,
+            176.728,
+            396.61,
+            224.6
+          ],
+          "text": "Nöi dung thay di",
+          "id": "geometry_table_0_cell_3",
+          "token_ids": [
+            "token_9"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            396.61,
+            176.728,
+            473.629,
+            224.6
+          ],
+          "text": "Nguöi soan",
+          "id": "geometry_table_0_cell_4",
+          "token_ids": [
+            "token_10"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            473.629,
+            176.728,
+            556.766,
+            224.6
+          ],
+          "text": "Phé duyet",
+          "id": "geometry_table_0_cell_5",
+          "token_ids": [
+            "token_11"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 2,
+          "colspan": 1,
+          "bbox": [
+            61.903,
+            224.6,
+            103.651,
+            356.696
+          ],
+          "text": "01",
+          "id": "geometry_table_0_cell_6",
+          "token_ids": [
+            "token_13"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            103.651,
+            224.6,
+            168.613,
+            290.828
+          ],
+          "text": "12/03/2024",
+          "id": "geometry_table_0_cell_7",
+          "token_ids": [
+            "token_14"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            168.613,
+            224.6,
+            226.737,
+            290.828
+          ],
+          "text": "Toan bö",
+          "id": "geometry_table_0_cell_8",
+          "token_ids": [
+            "token_15"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            226.737,
+            224.6,
+            396.61,
+            290.828
+          ],
+          "text": "Ban hänh lan dau. Bó sung huó'ng dan\nkiém tra thiét bi.",
+          "id": "geometry_table_0_cell_9",
+          "token_ids": [
+            "token_16",
+            "token_19"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            396.61,
+            224.6,
+            473.629,
+            290.828
+          ],
+          "text": "Nguyên An",
+          "id": "geometry_table_0_cell_10",
+          "token_ids": [
+            "token_17"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            473.629,
+            224.6,
+            556.766,
+            290.828
+          ],
+          "text": "Trän Binh",
+          "id": "geometry_table_0_cell_11",
+          "token_ids": [
+            "token_18"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            103.651,
+            290.828,
+            168.613,
+            356.696
+          ],
+          "text": "12/03/2024",
+          "id": "geometry_table_0_cell_12",
+          "token_ids": [
+            "token_20"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            168.613,
+            290.828,
+            226.737,
+            356.696
+          ],
+          "text": "Phu luc",
+          "id": "geometry_table_0_cell_13",
+          "token_ids": [
+            "token_21"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            226.737,
+            290.828,
+            396.61,
+            356.696
+          ],
+          "text": "Biéu mäu QP-74-02-F6 va danh muc thiét\nbi QC-017.",
+          "id": "geometry_table_0_cell_14",
+          "token_ids": [
+            "token_22",
+            "token_25"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            396.61,
+            290.828,
+            473.629,
+            356.696
+          ],
+          "text": "Le Ha",
+          "id": "geometry_table_0_cell_15",
+          "token_ids": [
+            "token_23"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            473.629,
+            290.828,
+            556.766,
+            356.696
+          ],
+          "text": "Tran Binh",
+          "id": "geometry_table_0_cell_16",
+          "token_ids": [
+            "token_24"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            61.903,
+            356.696,
+            103.651,
+            422.925
+          ],
+          "text": "02",
+          "id": "geometry_table_0_cell_17",
+          "token_ids": [
+            "token_26"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            103.651,
+            356.696,
+            168.613,
+            422.925
+          ],
+          "text": "08/06/2025",
+          "id": "geometry_table_0_cell_18",
+          "token_ids": [
+            "token_27"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            168.613,
+            356.696,
+            226.737,
+            422.925
+          ],
+          "text": "4.2",
+          "id": "geometry_table_0_cell_19",
+          "token_ids": [
+            "token_28"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            226.737,
+            356.696,
+            396.61,
+            422.925
+          ],
+          "text": "Süa tan suät hiéu chuän tür 12 thäng\nthanh 6 thäng.",
+          "id": "geometry_table_0_cell_20",
+          "token_ids": [
+            "token_29",
+            "token_32"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            396.61,
+            356.696,
+            473.629,
+            422.925
+          ],
+          "text": "Dö Huy",
+          "id": "geometry_table_0_cell_21",
+          "token_ids": [
+            "token_30"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            473.629,
+            356.696,
+            556.766,
+            422.925
+          ],
+          "text": "Vü Mai",
+          "id": "geometry_table_0_cell_22",
+          "token_ids": [
+            "token_31"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            61.903,
+            422.925,
+            103.651,
+            488.793
+          ],
+          "text": "03",
+          "id": "geometry_table_0_cell_23",
+          "token_ids": [
+            "token_34"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            103.651,
+            422.925,
+            168.613,
+            488.793
+          ],
+          "text": "15/10/2026",
+          "id": "geometry_table_0_cell_24",
+          "token_ids": [
+            "token_35"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            168.613,
+            422.925,
+            226.737,
+            488.793
+          ],
+          "text": "5.1",
+          "id": "geometry_table_0_cell_25",
+          "token_ids": [
+            "token_36"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            226.737,
+            422.925,
+            396.61,
+            488.793
+          ],
+          "text": "Bó sung luu d xür ly sai Iéch; kiém tra 0/O\nva 1/l.",
+          "id": "geometry_table_0_cell_26",
+          "token_ids": [
+            "token_37",
+            "token_40"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            396.61,
+            422.925,
+            473.629,
+            488.793
+          ],
+          "text": "Pham My",
+          "id": "geometry_table_0_cell_27",
+          "token_ids": [
+            "token_38"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            473.629,
+            422.925,
+            556.766,
+            488.793
+          ],
+          "text": "Vü Mai",
+          "id": "geometry_table_0_cell_28",
+          "token_ids": [
+            "token_39"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            61.903,
+            488.793,
+            103.651,
+            554.661
+          ],
+          "text": "03",
+          "id": "geometry_table_0_cell_29",
+          "token_ids": [
+            "token_41"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            103.651,
+            488.793,
+            168.613,
+            554.661
+          ],
+          "text": "15/10/2026",
+          "id": "geometry_table_0_cell_30",
+          "token_ids": [
+            "token_42"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            168.613,
+            488.793,
+            226.737,
+            554.661
+          ],
+          "text": "5.2",
+          "id": "geometry_table_0_cell_31",
+          "token_ids": [
+            "token_43"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            226.737,
+            488.793,
+            396.61,
+            554.661
+          ],
+          "text": "Phan cong trach nhiém QA va bophan\nSän xuat.",
+          "id": "geometry_table_0_cell_32",
+          "token_ids": [
+            "token_44",
+            "token_47"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            396.61,
+            488.793,
+            473.629,
+            554.661
+          ],
+          "text": "Pham My",
+          "id": "geometry_table_0_cell_33",
+          "token_ids": [
+            "token_45"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            473.629,
+            488.793,
+            556.766,
+            554.661
+          ],
+          "text": "Vü Mai",
+          "id": "geometry_table_0_cell_34",
+          "token_ids": [
+            "token_46"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            61.903,
+            554.661,
+            103.651,
+            620.889
+          ],
+          "text": "03",
+          "id": "geometry_table_0_cell_35",
+          "token_ids": [
+            "token_48"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            103.651,
+            554.661,
+            168.613,
+            620.889
+          ],
+          "text": "15/10/2026",
+          "id": "geometry_table_0_cell_36",
+          "token_ids": [
+            "token_49"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            168.613,
+            554.661,
+            226.737,
+            620.889
+          ],
+          "text": "6",
+          "id": "geometry_table_0_cell_37",
+          "token_ids": [
+            "token_50"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            226.737,
+            554.661,
+            396.61,
+            620.889
+          ],
+          "text": "H so' luu töi thiéu 03 näm. Record\nretention: 3 years.",
+          "id": "geometry_table_0_cell_38",
+          "token_ids": [
+            "token_51",
+            "token_54"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            396.61,
+            554.661,
+            473.629,
+            620.889
+          ],
+          "text": "Nguyn An",
+          "id": "geometry_table_0_cell_39",
+          "token_ids": [
+            "token_52"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            473.629,
+            554.661,
+            556.766,
+            620.889
+          ],
+          "text": "Trän Binh",
+          "id": "geometry_table_0_cell_40",
+          "token_ids": [
+            "token_53"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            61.903,
+            620.889,
+            103.651,
+            686.757
+          ],
+          "text": "03",
+          "id": "geometry_table_0_cell_41",
+          "token_ids": [
+            "token_55"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            103.651,
+            620.889,
+            168.613,
+            686.757
+          ],
+          "text": "15/10/2026",
+          "id": "geometry_table_0_cell_42",
+          "token_ids": [
+            "token_56"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            168.613,
+            620.889,
+            226.737,
+            686.757
+          ],
+          "text": "Ghi chü",
+          "id": "geometry_table_0_cell_43",
+          "token_ids": [
+            "token_57"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            226.737,
+            620.889,
+            396.61,
+            686.757
+          ],
+          "text": "Dau tiéng Viét: a, a, é, , o, u, d.\nDä kiém tra va phé duyét.",
+          "id": "geometry_table_0_cell_44",
+          "token_ids": [
+            "token_58",
+            "token_60"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 2,
+          "bbox": [
+            396.61,
+            620.889,
+            556.766,
+            686.757
+          ],
+          "text": "Lé Hä/ Tran Binh",
+          "id": "geometry_table_0_cell_45",
+          "token_ids": [
+            "token_59"
+          ],
+          "needs_review": false
+        }
+      ],
+      "xs": [
+        61.903000000000006,
+        103.65100000000002,
+        168.613,
+        226.737,
+        396.61,
+        473.62899999999996,
+        556.766
+      ],
+      "ys": [
+        176.72800000000004,
+        224.6,
+        290.828,
+        356.69599999999997,
+        422.925,
+        488.7929999999999,
+        554.661,
+        620.889,
+        686.757
+      ],
+      "grid_valid": true,
+      "bbox": [
+        61.90290125854935,
+        176.72846400997688,
+        556.7662107382316,
+        686.7574528127004
+      ],
+      "method": "raster_line_intersections",
+      "needs_review": false,
+      "id": "geometry_table_0",
+      "parent_ref": null
+    }
+  ],
+  "figures": [],
+  "nodes": [],
+  "image_placements": [
+    {
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.02252197265625,
+        595.2755737304688,
+        841.8672485351562
+      ],
+      "transform": [
+        595.2755737304688,
+        0.0,
+        -0.0,
+        841.8447265625,
+        0.0,
+        0.02252197265625
+      ],
+      "width": 1323,
+      "height": 1871,
+      "colorspace": 3,
+      "cs-name": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 482055,
+      "digest": "b'\\xc7C}\\xda\\xc5\\x9c<%\\x17\\xe6\\x91m\\xf1\\x98V\\xfc'",
+      "has-mask": false,
+      "xref": 18
+    }
+  ]
+}

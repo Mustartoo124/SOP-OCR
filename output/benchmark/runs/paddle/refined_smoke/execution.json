@@ -1,0 +1,16 @@
+{
+  "engine": "paddle",
+  "profile": "refined",
+  "runner_elapsed_seconds": 75.37028150027618,
+  "processed_pages": 1,
+  "skipped_pages": 0,
+  "failed_pages": 0,
+  "page_seconds": 35.11338990041986,
+  "phase_seconds": {
+    "input_preparation": 0.7850583996623755,
+    "parser_and_raw_export": 29.89120630035177,
+    "refinement_and_debug_export": 4.147851999849081,
+    "evidence_and_crop_export": 0.27053359989076853
+  },
+  "model_downloads_allowed": false
+}

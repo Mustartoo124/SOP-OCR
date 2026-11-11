@@ -1,0 +1,1363 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "#/texts/0",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        43.0,
+        42.69430660781245,
+        80.5590826,
+        54.68993766045071
+      ],
+      "text": "NOVA",
+      "parent_ref": "#/pictures/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/1",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        105.0,
+        30.98385735781244,
+        264.8327619,
+        40.67263628494334
+      ],
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        105.0,
+        47.38297826781252,
+        326.2464727200001,
+        55.139288804412445
+      ],
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/3",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        105.0,
+        63.35460912781252,
+        313.2740596600001,
+        71.0185826342148
+      ],
+      "text": "QP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "parent_ref": "#/groups/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/4",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        38.0,
+        102.26266600781241,
+        313.2368165,
+        116.10377876085658
+      ],
+      "text": "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/5",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        38.0,
+        139.5531931078125,
+        380.46579950000006,
+        147.863525825598
+      ],
+      "text": "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/6",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        44.0,
+        183.41549795781248,
+        85.08886569999999,
+        191.25879518453746
+      ],
+      "text": "Hạng mục",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/7",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        172.0,
+        183.41549795781248,
+        255.09081415000006,
+        191.25879518453746
+      ],
+      "text": "Thông tin / Minh họa",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/8",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        44.0,
+        223.5531931078125,
+        120.04296380000002,
+        231.863525825598
+      ],
+      "text": "Thiết bị và thao tác",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/9",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        44.0,
+        235.97319310781256,
+        122.04687140000001,
+        244.28352582559808
+      ],
+      "text": "Equipment & action",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/10",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        177.0,
+        228.5531931078125,
+        368.53124010000016,
+        236.863525825598
+      ],
+      "text": "Đối chiếu nhãn QC-017 trước khi kết nối nguồn.",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/11",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        419.0,
+        279.4964548278125,
+        473.78515328000003,
+        287.62211348520293
+      ],
+      "text": "Kiểm tra nhãn",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/12",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        419.0,
+        365.4964548278125,
+        473.31249648000005,
+        373.6221134852028
+      ],
+      "text": "Kết nối nguồn",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/13",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        177.0,
+        409.4113474078125,
+        376.79979130000044,
+        417.25999497461004
+      ],
+      "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/14",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        44.0,
+        443.55319310781255,
+        75.0253886,
+        451.8635258255981
+      ],
+      "text": "Kết quả",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/15",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        172.0,
+        443.55319310781255,
+        289.59764769999987,
+        451.8635258255981
+      ],
+      "text": "Đạt / Không đạt: __________",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/16",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        172.0,
+        455.9731931078125,
+        297.4594681,
+        464.2835258255981
+      ],
+      "text": "Người kiểm tra: Nguyễn Thị Mỹ",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/17",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        279.0,
+        292.99997050781246,
+        321.6666666666667,
+        305.6666371744791
+      ],
+      "text": "QC-017",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/18",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        279.33333333333337,
+        311.33330384114583,
+        329.3333333333333,
+        321.33330384114583
+      ],
+      "text": "THIÉT BỊ MẴU",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/19",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        279.33333333333337,
+        328.6666371744791,
+        296.0,
+        337.99997050781246
+      ],
+      "text": "0/0 -",
+      "parent_ref": "#/pictures/1",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/20",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        49.0,
+        548.1259472078126,
+        271.3686387999999,
+        558.2760965600448
+      ],
+      "text": "4. Hướng dẫn an toàn / Safety instructions",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/21",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        49.0,
+        580.8368845078124,
+        519.1513390000006,
+        603.8705875275742
+      ],
+      "text": "Ngắt nguồn trước khi vệ sinh. Không sử dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ phận Kỹ thuật nếu phát hiện bất thường.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/22",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        49.0,
+        641.8368845078124,
+        529.2587640000004,
+        664.8705875275742
+      ],
+      "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has approved the corrective action.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/23",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        49.0,
+        706.5531931078125,
+        254.46629739999972,
+        714.8635258255981
+      ],
+      "text": "Hotline nội bộ (giả lập): 028-0000-017 | Revision 03",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/24",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        38.0,
+        796.2695017078125,
+        211.4218672000001,
+        803.656464123622
+      ],
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/25",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        501.0,
+        796.2695017078125,
+        535.2421847999998,
+        803.656464123622
+      ],
+      "text": "Trang 4/4",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/pictures/0",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        36.06613025722888,
+        25.410210998547768,
+        92.7368480362041,
+        68.74336790254279
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/0"
+      ]
+    },
+    {
+      "id": "#/pictures/1",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        36.973492413427365,
+        173.00776576511623,
+        557.3640325307142,
+        494.1338072150876
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/6",
+        "#/texts/7",
+        "#/texts/8",
+        "#/texts/9",
+        "#/texts/10",
+        "#/texts/11",
+        "#/texts/12",
+        "#/texts/13",
+        "#/texts/14",
+        "#/texts/15",
+        "#/texts/16",
+        "#/texts/17",
+        "#/texts/18",
+        "#/texts/19"
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        43.0,
+        42.69430660781245,
+        80.5590826,
+        54.68993766045071
+      ],
+      "text": "NOVA",
+      "source_ref": "#/texts/0"
+    },
+    {
+      "bbox": [
+        105.0,
+        30.98385735781244,
+        264.8327619,
+        40.67263628494334
+      ],
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "source_ref": "#/texts/1"
+    },
+    {
+      "bbox": [
+        105.0,
+        47.38297826781252,
+        326.2464727200001,
+        55.139288804412445
+      ],
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "source_ref": "#/texts/2"
+    },
+    {
+      "bbox": [
+        105.0,
+        63.35460912781252,
+        313.2740596600001,
+        71.0185826342148
+      ],
+      "text": "QP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "source_ref": "#/texts/3"
+    },
+    {
+      "bbox": [
+        38.0,
+        102.26266600781241,
+        313.2368165,
+        116.10377876085658
+      ],
+      "text": "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+      "source_ref": "#/texts/4"
+    },
+    {
+      "bbox": [
+        38.0,
+        139.5531931078125,
+        380.46579950000006,
+        147.863525825598
+      ],
+      "text": "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+      "source_ref": "#/texts/5"
+    },
+    {
+      "bbox": [
+        44.0,
+        183.41549795781248,
+        85.08886569999999,
+        191.25879518453746
+      ],
+      "text": "Hạng mục",
+      "source_ref": "#/texts/6"
+    },
+    {
+      "bbox": [
+        172.0,
+        183.41549795781248,
+        255.09081415000006,
+        191.25879518453746
+      ],
+      "text": "Thông tin / Minh họa",
+      "source_ref": "#/texts/7"
+    },
+    {
+      "bbox": [
+        44.0,
+        223.5531931078125,
+        120.04296380000002,
+        231.863525825598
+      ],
+      "text": "Thiết bị và thao tác",
+      "source_ref": "#/texts/8"
+    },
+    {
+      "bbox": [
+        44.0,
+        235.97319310781256,
+        122.04687140000001,
+        244.28352582559808
+      ],
+      "text": "Equipment & action",
+      "source_ref": "#/texts/9"
+    },
+    {
+      "bbox": [
+        177.0,
+        228.5531931078125,
+        368.53124010000016,
+        236.863525825598
+      ],
+      "text": "Đối chiếu nhãn QC-017 trước khi kết nối nguồn.",
+      "source_ref": "#/texts/10"
+    },
+    {
+      "bbox": [
+        419.0,
+        279.4964548278125,
+        473.78515328000003,
+        287.62211348520293
+      ],
+      "text": "Kiểm tra nhãn",
+      "source_ref": "#/texts/11"
+    },
+    {
+      "bbox": [
+        419.0,
+        365.4964548278125,
+        473.31249648000005,
+        373.6221134852028
+      ],
+      "text": "Kết nối nguồn",
+      "source_ref": "#/texts/12"
+    },
+    {
+      "bbox": [
+        177.0,
+        409.4113474078125,
+        376.79979130000044,
+        417.25999497461004
+      ],
+      "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+      "source_ref": "#/texts/13"
+    },
+    {
+      "bbox": [
+        44.0,
+        443.55319310781255,
+        75.0253886,
+        451.8635258255981
+      ],
+      "text": "Kết quả",
+      "source_ref": "#/texts/14"
+    },
+    {
+      "bbox": [
+        172.0,
+        443.55319310781255,
+        289.59764769999987,
+        451.8635258255981
+      ],
+      "text": "Đạt / Không đạt: __________",
+      "source_ref": "#/texts/15"
+    },
+    {
+      "bbox": [
+        172.0,
+        455.9731931078125,
+        297.4594681,
+        464.2835258255981
+      ],
+      "text": "Người kiểm tra: Nguyễn Thị Mỹ",
+      "source_ref": "#/texts/16"
+    },
+    {
+      "bbox": [
+        279.0,
+        292.99997050781246,
+        321.6666666666667,
+        305.6666371744791
+      ],
+      "text": "QC-017",
+      "source_ref": "#/texts/17"
+    },
+    {
+      "bbox": [
+        279.33333333333337,
+        311.33330384114583,
+        329.3333333333333,
+        321.33330384114583
+      ],
+      "text": "THIÉT BỊ MẴU",
+      "source_ref": "#/texts/18"
+    },
+    {
+      "bbox": [
+        279.33333333333337,
+        328.6666371744791,
+        296.0,
+        337.99997050781246
+      ],
+      "text": "0/0 -",
+      "source_ref": "#/texts/19"
+    },
+    {
+      "bbox": [
+        49.0,
+        548.1259472078126,
+        271.3686387999999,
+        558.2760965600448
+      ],
+      "text": "4. Hướng dẫn an toàn / Safety instructions",
+      "source_ref": "#/texts/20"
+    },
+    {
+      "bbox": [
+        49.0,
+        580.8368845078124,
+        519.1513390000006,
+        603.8705875275742
+      ],
+      "text": "Ngắt nguồn trước khi vệ sinh. Không sử dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ phận Kỹ thuật nếu phát hiện bất thường.",
+      "source_ref": "#/texts/21"
+    },
+    {
+      "bbox": [
+        49.0,
+        641.8368845078124,
+        529.2587640000004,
+        664.8705875275742
+      ],
+      "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has approved the corrective action.",
+      "source_ref": "#/texts/22"
+    },
+    {
+      "bbox": [
+        49.0,
+        706.5531931078125,
+        254.46629739999972,
+        714.8635258255981
+      ],
+      "text": "Hotline nội bộ (giả lập): 028-0000-017 | Revision 03",
+      "source_ref": "#/texts/23"
+    },
+    {
+      "bbox": [
+        38.0,
+        796.2695017078125,
+        211.4218672000001,
+        803.656464123622
+      ],
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "source_ref": "#/texts/24"
+    },
+    {
+      "bbox": [
+        501.0,
+        796.2695017078125,
+        535.2421847999998,
+        803.656464123622
+      ],
+      "text": "Trang 4/4",
+      "source_ref": "#/texts/25"
+    }
+  ],
+  "tables": [],
+  "containers": [
+    {
+      "id": "#/groups/0",
+      "type": "container",
+      "label": "key_value_area",
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/3"
+      ]
+    }
+  ],
+  "status": "ConversionStatus.SUCCESS",
+  "errors": [],
+  "tokens": [
+    {
+      "id": "pipeline_0",
+      "bbox": [
+        43.0,
+        42.69433609999999,
+        80.5590826,
+        54.689967152638246
+      ],
+      "text": "NOVA",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 43.0,
+        "r_y0": 54.689967152638246,
+        "r_x1": 80.5590826,
+        "r_y1": 54.689967152638246,
+        "r_x2": 80.5590826,
+        "r_y2": 42.69433609999999,
+        "r_x3": 43.0,
+        "r_y3": 42.69433609999999,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_1",
+      "bbox": [
+        105.0,
+        30.983886849999976,
+        264.8327619,
+        40.672665777130874
+      ],
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 105.0,
+        "r_y0": 40.672665777130874,
+        "r_x1": 264.8327619,
+        "r_y1": 40.672665777130874,
+        "r_x2": 264.8327619,
+        "r_y2": 30.983886849999976,
+        "r_x3": 105.0,
+        "r_y3": 30.983886849999976,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_2",
+      "bbox": [
+        105.0,
+        47.383007760000055,
+        326.2464727200001,
+        55.13931829659998
+      ],
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 105.0,
+        "r_y0": 55.13931829659998,
+        "r_x1": 326.2464727200001,
+        "r_y1": 55.13931829659998,
+        "r_x2": 326.2464727200001,
+        "r_y2": 47.383007760000055,
+        "r_x3": 105.0,
+        "r_y3": 47.383007760000055,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_3",
+      "bbox": [
+        105.0,
+        63.35463862000006,
+        313.2740596600001,
+        71.01861212640233
+      ],
+      "text": "QP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 105.0,
+        "r_y0": 71.01861212640233,
+        "r_x1": 313.2740596600001,
+        "r_y1": 71.01861212640233,
+        "r_x2": 313.2740596600001,
+        "r_y2": 63.35463862000006,
+        "r_x3": 105.0,
+        "r_y3": 63.35463862000006,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_4",
+      "bbox": [
+        38.0,
+        102.26269549999995,
+        313.2368165,
+        116.10380825304412
+      ],
+      "text": "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 38.0,
+        "r_y0": 116.10380825304412,
+        "r_x1": 313.2368165,
+        "r_y1": 116.10380825304412,
+        "r_x2": 313.2368165,
+        "r_y2": 102.26269549999995,
+        "r_x3": 38.0,
+        "r_y3": 102.26269549999995,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_5",
+      "bbox": [
+        38.0,
+        796.2695312000001,
+        211.4218672000001,
+        803.6564936158095
+      ],
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 38.0,
+        "r_y0": 803.6564936158095,
+        "r_x1": 211.4218672000001,
+        "r_y1": 803.6564936158095,
+        "r_x2": 211.4218672000001,
+        "r_y2": 796.2695312000001,
+        "r_x3": 38.0,
+        "r_y3": 796.2695312000001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_6",
+      "bbox": [
+        501.0,
+        796.2695312000001,
+        535.2421847999998,
+        803.6564936158095
+      ],
+      "text": "Trang 4/4",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 501.0,
+        "r_y0": 803.6564936158095,
+        "r_x1": 535.2421847999998,
+        "r_y1": 803.6564936158095,
+        "r_x2": 535.2421847999998,
+        "r_y2": 796.2695312000001,
+        "r_x3": 501.0,
+        "r_y3": 796.2695312000001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_7",
+      "bbox": [
+        38.0,
+        139.55322260000003,
+        380.46579950000006,
+        147.86355531778554
+      ],
+      "text": "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 38.0,
+        "r_y0": 147.86355531778554,
+        "r_x1": 380.46579950000006,
+        "r_y1": 147.86355531778554,
+        "r_x2": 380.46579950000006,
+        "r_y2": 139.55322260000003,
+        "r_x3": 38.0,
+        "r_y3": 139.55322260000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_8",
+      "bbox": [
+        44.0,
+        183.41552745,
+        85.08886569999999,
+        191.258824676725
+      ],
+      "text": "Hạng mục",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 44.0,
+        "r_y0": 191.258824676725,
+        "r_x1": 85.08886569999999,
+        "r_y1": 191.258824676725,
+        "r_x2": 85.08886569999999,
+        "r_y2": 183.41552745,
+        "r_x3": 44.0,
+        "r_y3": 183.41552745,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_9",
+      "bbox": [
+        172.0,
+        183.41552745,
+        255.09081415000006,
+        191.258824676725
+      ],
+      "text": "Thông tin / Minh họa",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 172.0,
+        "r_y0": 191.258824676725,
+        "r_x1": 255.09081415000006,
+        "r_y1": 191.258824676725,
+        "r_x2": 255.09081415000006,
+        "r_y2": 183.41552745,
+        "r_x3": 172.0,
+        "r_y3": 183.41552745,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_10",
+      "bbox": [
+        44.0,
+        223.55322260000003,
+        120.04296380000002,
+        231.86355531778554
+      ],
+      "text": "Thiết bị và thao tác",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 44.0,
+        "r_y0": 231.86355531778554,
+        "r_x1": 120.04296380000002,
+        "r_y1": 231.86355531778554,
+        "r_x2": 120.04296380000002,
+        "r_y2": 223.55322260000003,
+        "r_x3": 44.0,
+        "r_y3": 223.55322260000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_11",
+      "bbox": [
+        44.0,
+        235.9732226000001,
+        122.04687140000001,
+        244.2835553177856
+      ],
+      "text": "Equipment & action",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 44.0,
+        "r_y0": 244.2835553177856,
+        "r_x1": 122.04687140000001,
+        "r_y1": 244.2835553177856,
+        "r_x2": 122.04687140000001,
+        "r_y2": 235.9732226000001,
+        "r_x3": 44.0,
+        "r_y3": 235.9732226000001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_12",
+      "bbox": [
+        177.0,
+        228.55322260000003,
+        368.53124010000016,
+        236.86355531778554
+      ],
+      "text": "Đối chiếu nhãn QC-017 trước khi kết nối nguồn.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 177.0,
+        "r_y0": 236.86355531778554,
+        "r_x1": 368.53124010000016,
+        "r_y1": 236.86355531778554,
+        "r_x2": 368.53124010000016,
+        "r_y2": 228.55322260000003,
+        "r_x3": 177.0,
+        "r_y3": 228.55322260000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_13",
+      "bbox": [
+        419.0,
+        279.49648432000004,
+        473.78515328000003,
+        287.62214297739047
+      ],
+      "text": "Kiểm tra nhãn",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 419.0,
+        "r_y0": 287.62214297739047,
+        "r_x1": 473.78515328000003,
+        "r_y1": 287.62214297739047,
+        "r_x2": 473.78515328000003,
+        "r_y2": 279.49648432000004,
+        "r_x3": 419.0,
+        "r_y3": 279.49648432000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_14",
+      "bbox": [
+        419.0,
+        365.49648432000004,
+        473.31249648000005,
+        373.62214297739035
+      ],
+      "text": "Kết nối nguồn",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 419.0,
+        "r_y0": 373.62214297739035,
+        "r_x1": 473.31249648000005,
+        "r_y1": 373.62214297739035,
+        "r_x2": 473.31249648000005,
+        "r_y2": 365.49648432000004,
+        "r_x3": 419.0,
+        "r_y3": 365.49648432000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_15",
+      "bbox": [
+        177.0,
+        409.41137690000005,
+        376.79979130000044,
+        417.2600244667976
+      ],
+      "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 177.0,
+        "r_y0": 417.2600244667976,
+        "r_x1": 376.79979130000044,
+        "r_y1": 417.2600244667976,
+        "r_x2": 376.79979130000044,
+        "r_y2": 409.41137690000005,
+        "r_x3": 177.0,
+        "r_y3": 409.41137690000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_16",
+      "bbox": [
+        44.0,
+        443.5532226000001,
+        75.0253886,
+        451.86355531778565
+      ],
+      "text": "Kết quả",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 44.0,
+        "r_y0": 451.86355531778565,
+        "r_x1": 75.0253886,
+        "r_y1": 451.86355531778565,
+        "r_x2": 75.0253886,
+        "r_y2": 443.5532226000001,
+        "r_x3": 44.0,
+        "r_y3": 443.5532226000001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_17",
+      "bbox": [
+        172.0,
+        443.5532226000001,
+        289.59764769999987,
+        451.86355531778565
+      ],
+      "text": "Đạt / Không đạt: __________",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 172.0,
+        "r_y0": 451.86355531778565,
+        "r_x1": 289.59764769999987,
+        "r_y1": 451.86355531778565,
+        "r_x2": 289.59764769999987,
+        "r_y2": 443.5532226000001,
+        "r_x3": 172.0,
+        "r_y3": 443.5532226000001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_18",
+      "bbox": [
+        172.0,
+        455.97322260000004,
+        297.4594681,
+        464.2835553177856
+      ],
+      "text": "Người kiểm tra: Nguyễn Thị Mỹ",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 172.0,
+        "r_y0": 464.2835553177856,
+        "r_x1": 297.4594681,
+        "r_y1": 464.2835553177856,
+        "r_x2": 297.4594681,
+        "r_y2": 455.97322260000004,
+        "r_x3": 172.0,
+        "r_y3": 455.97322260000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_19",
+      "bbox": [
+        49.0,
+        548.1259767000001,
+        271.3686387999999,
+        558.2761260522324
+      ],
+      "text": "4. Hướng dẫn an toàn / Safety instructions",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 49.0,
+        "r_y0": 558.2761260522324,
+        "r_x1": 271.3686387999999,
+        "r_y1": 558.2761260522324,
+        "r_x2": 271.3686387999999,
+        "r_y2": 548.1259767000001,
+        "r_x3": 49.0,
+        "r_y3": 548.1259767000001,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_20",
+      "bbox": [
+        49.0,
+        580.836914,
+        519.1513390000006,
+        590.0706170197618
+      ],
+      "text": "Ngắt nguồn trước khi vệ sinh. Không sử dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 49.0,
+        "r_y0": 590.0706170197618,
+        "r_x1": 519.1513390000006,
+        "r_y1": 590.0706170197618,
+        "r_x2": 519.1513390000006,
+        "r_y2": 580.836914,
+        "r_x3": 49.0,
+        "r_y3": 580.836914,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_21",
+      "bbox": [
+        49.0,
+        594.636914,
+        229.0536979999999,
+        603.8706170197618
+      ],
+      "text": "phận Kỹ thuật nếu phát hiện bất thường.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 49.0,
+        "r_y0": 603.8706170197618,
+        "r_x1": 229.0536979999999,
+        "r_y1": 603.8706170197618,
+        "r_x2": 229.0536979999999,
+        "r_y2": 594.636914,
+        "r_x3": 49.0,
+        "r_y3": 594.636914,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_22",
+      "bbox": [
+        49.0,
+        641.836914,
+        529.2587640000004,
+        651.0706170197618
+      ],
+      "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 49.0,
+        "r_y0": 651.0706170197618,
+        "r_x1": 529.2587640000004,
+        "r_y1": 651.0706170197618,
+        "r_x2": 529.2587640000004,
+        "r_y2": 641.836914,
+        "r_x3": 49.0,
+        "r_y3": 641.836914,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_23",
+      "bbox": [
+        49.0,
+        655.636914,
+        185.74315599999994,
+        664.8706170197618
+      ],
+      "text": "approved the corrective action.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 49.0,
+        "r_y0": 664.8706170197618,
+        "r_x1": 185.74315599999994,
+        "r_y1": 664.8706170197618,
+        "r_x2": 185.74315599999994,
+        "r_y2": 655.636914,
+        "r_x3": 49.0,
+        "r_y3": 655.636914,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_24",
+      "bbox": [
+        49.0,
+        706.5532226,
+        254.46629739999972,
+        714.8635553177857
+      ],
+      "text": "Hotline nội bộ (giả lập): 028-0000-017 | Revision 03",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 49.0,
+        "r_y0": 714.8635553177857,
+        "r_x1": 254.46629739999972,
+        "r_y1": 714.8635553177857,
+        "r_x2": 254.46629739999972,
+        "r_y2": 706.5532226,
+        "r_x3": 49.0,
+        "r_y3": 706.5532226,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_25",
+      "bbox": [
+        279.0,
+        293.0,
+        321.6666666666667,
+        305.66666666666663
+      ],
+      "text": "QC-017",
+      "from_ocr": true,
+      "confidence": 0.9830962900820837,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 279.0,
+        "r_y0": 305.66666666666663,
+        "r_x1": 321.6666666666667,
+        "r_y1": 305.66666666666663,
+        "r_x2": 321.6666666666667,
+        "r_y2": 293.0,
+        "r_x3": 279.0,
+        "r_y3": 293.0,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_26",
+      "bbox": [
+        279.33333333333337,
+        311.33333333333337,
+        329.3333333333333,
+        321.33333333333337
+      ],
+      "text": "THIÉT BỊ MẴU",
+      "from_ocr": true,
+      "confidence": 0.678768768063937,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 279.33333333333337,
+        "r_y0": 321.33333333333337,
+        "r_x1": 329.3333333333333,
+        "r_y1": 321.33333333333337,
+        "r_x2": 329.3333333333333,
+        "r_y2": 311.33333333333337,
+        "r_x3": 279.33333333333337,
+        "r_y3": 311.33333333333337,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_27",
+      "bbox": [
+        279.33333333333337,
+        328.66666666666663,
+        296.0,
+        338.0
+      ],
+      "text": "0/0 -",
+      "from_ocr": true,
+      "confidence": 0.6642911446198033,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 279.33333333333337,
+        "r_y0": 338.0,
+        "r_x1": 296.0,
+        "r_y1": 338.0,
+        "r_x2": 296.0,
+        "r_y2": 328.66666666666663,
+        "r_x3": 279.33333333333337,
+        "r_y3": 328.66666666666663,
+        "coord_origin": "TOPLEFT"
+      }
+    }
+  ]
+}

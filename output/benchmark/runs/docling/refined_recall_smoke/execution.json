@@ -1,0 +1,16 @@
+{
+  "engine": "docling",
+  "profile": "refined",
+  "runner_elapsed_seconds": 86.24884169967845,
+  "processed_pages": 1,
+  "skipped_pages": 0,
+  "failed_pages": 0,
+  "page_seconds": 47.094335000030696,
+  "phase_seconds": {
+    "input_preparation": 0.17844569962471724,
+    "parser_and_raw_export": 45.738985100295395,
+    "refinement_and_debug_export": 0.7365898001007736,
+    "evidence_and_crop_export": 0.40952010033652186
+  },
+  "model_downloads_allowed": false
+}

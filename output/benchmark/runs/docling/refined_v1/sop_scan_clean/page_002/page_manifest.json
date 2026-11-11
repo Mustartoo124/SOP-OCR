@@ -1,0 +1,114 @@
+{
+  "engine": "docling",
+  "pdf": "sop_scan_clean.pdf",
+  "page": 2,
+  "inference_fingerprint": "f6a627fb9bfcf537fc899ef0c55b1adf7ac61e8afeb812af8e550c18f9c69304",
+  "artifacts": [
+    {
+      "file": "status.json",
+      "bytes": 617,
+      "sha256": "fd601e288d2e5e969470096355dccf1b12070598a470ee2043b52325b95f461f"
+    },
+    {
+      "file": "evidence.json",
+      "bytes": 133830,
+      "sha256": "1386e841044a7b2d4ac2afdb4962a4f5190424d8a5442e41032786802551bfaa"
+    },
+    {
+      "file": "evaluation.json",
+      "bytes": 29413,
+      "sha256": "14e2d3185f6d44d4bc1c563c3c925e08ef0e3e1aa720dafbb0acfae374d9e959"
+    },
+    {
+      "file": "overlay.png",
+      "bytes": 410325,
+      "sha256": "0127362818500af30c6f9493641dc089b4f7343534e958ce87d5f22734e963b7"
+    },
+    {
+      "file": "cells_overlay.png",
+      "bytes": 410829,
+      "sha256": "8d854a35ea98d8d04865f23f81bbd6b2a7a69e121c880e331eaa8565a4c04ee6"
+    },
+    {
+      "file": "parser.log",
+      "bytes": 161,
+      "sha256": "a7a1bf7013d1d96d1db047a1b724f8b768adaf93a351f8c865ef9b6b196ceeb0"
+    },
+    {
+      "file": "crops.json",
+      "bytes": 469,
+      "sha256": "5a2355d6ad39d613816f7df20244598702a059173f729b4e450530aebe779681"
+    },
+    {
+      "file": "raw_document.json",
+      "bytes": 389899,
+      "sha256": "460bc835d08d0912534290932b41dada9088c59972b9c5041f915b8dbff31772"
+    },
+    {
+      "file": "document.md",
+      "bytes": 1905,
+      "sha256": "22a0f6f4f058b49770ef834521c2c757e98e53be7d2fd11ad22f5ab0eb07fa2a"
+    },
+    {
+      "file": "parser_evidence.json",
+      "bytes": 89140,
+      "sha256": "0723101f64974c7e589b8a9bc1ef892107e6a317f2e51dffd053cfa8c77ec630"
+    },
+    {
+      "file": "geometry_candidates.json",
+      "bytes": 21505,
+      "sha256": "d101c780571e454163c73f534484c07d5137a105c295c583733c5a7e0ee10d2b"
+    },
+    {
+      "file": "grid_mask.png",
+      "bytes": 36855,
+      "sha256": "4b3aba3355f810a829aa62052d501e3dbbac9a1aa19b120fba20df1d0c41bf73"
+    },
+    {
+      "file": "diagram_working_mask.png",
+      "bytes": 52754,
+      "sha256": "e96a1615e5db3d5a3a81910fb5c0695c76814341de0b2db02337a40558142b92"
+    },
+    {
+      "file": "token_ownership.json",
+      "bytes": 60604,
+      "sha256": "4f085b325087d5727a93fb3733d8edca2b7f7fc5536b468d967fc6fe858b63eb"
+    },
+    {
+      "file": "suppressed_duplicates.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "file": "raw_page_tokens.json",
+      "bytes": 52344,
+      "sha256": "8db91ed3cc8095972aef9c1a68341435dc44b8cfc91664d6a5696842be8d4ec0"
+    },
+    {
+      "file": "parser_table_00.html",
+      "bytes": 1347,
+      "sha256": "6017d923f95856dbde11567cd1ea4a6a17e1fe100e8a76a3bb742ea9ed5fe070"
+    },
+    {
+      "file": "table_00.html",
+      "bytes": 2439,
+      "sha256": "92d3b17cd13a15e9328e1fb4aa62ca28d19a59d3e1b1adbb56ecc19f39836096"
+    },
+    {
+      "file": "table_00.view.html",
+      "bytes": 3011,
+      "sha256": "b7feb3009382f80d1b08dadae024c2b37fb01cc5ddfadd80157125cf47c82f91"
+    },
+    {
+      "file": "crop_007_table.png",
+      "bytes": 233497,
+      "sha256": "af723f187231439b209bf33e7ae83a9c0eb75613d375acc849e7a0cf66fa3a12"
+    },
+    {
+      "file": "crop_008_figure.png",
+      "bytes": 4559,
+      "sha256": "4a502feb9f09d28470f1caf262eb61242bb23a204b83e7e5a6f3ac466b23d580"
+    }
+  ],
+  "note": "Only listed artifacts belong to the current successful attempt; archived retries are not exported"
+}

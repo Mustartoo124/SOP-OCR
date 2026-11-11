@@ -1,0 +1,525 @@
+{
+  "engine": "paddle",
+  "pdf": "sop_hybrid.pdf",
+  "page_number": 4,
+  "state": "success",
+  "directory": "runs/paddle/baseline/sop_hybrid/page_004",
+  "seconds": 23.79861389985308,
+  "peak_rss_bytes": 1829052416,
+  "table_matches": [
+    {
+      "gt_id": "p4_010",
+      "prediction_id": "block_4",
+      "iou": 0.9898237389753985,
+      "grid_policy": "complete",
+      "expected_shape": [
+        3,
+        2
+      ],
+      "predicted_shape": [
+        6,
+        3
+      ],
+      "shape_exact": false,
+      "span_grid_exact": false,
+      "cells_expected": 6,
+      "cells_predicted": 13,
+      "logical_cells_exact": 3,
+      "cell_text_checks": [
+        {
+          "row": 0,
+          "col": 0,
+          "expected": "Hạng mục",
+          "predicted": "Hang muc",
+          "exact": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "expected": "Thiết bị và thao tác\nEquipment & action",
+          "predicted": "",
+          "exact": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "expected": "Đạt / Không đạt: __________\nNgười kiểm tra: Nguyễn Thị Mỹ",
+          "predicted": "Dói chiéu nhan QC-017 truóc khi két nói nguön",
+          "exact": false
+        }
+      ]
+    }
+  ],
+  "figure_matches": [],
+  "text_checks": [
+    {
+      "gt_id": "p4_003",
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "observed": "CONG TY TNHH THIET BI NOVA",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_004",
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "observed": "Hé thóng quän ly chät lu'o'ng / Quality Management System",
+      "spatial_token_recall": 0.4,
+      "exact": false,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_005",
+      "text": "QP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "observed": "QP-74-02-F6 Phién bän 03  Ngäy hiéu luc: 15/10/2026",
+      "spatial_token_recall": 0.3,
+      "exact": false,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_006",
+      "text": "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+      "observed": "BIEU MAU KIEM TRA VA HUO'NG DAN",
+      "spatial_token_recall": 0.14285714285714285,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_007",
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "observed": "TAI LIEU GIA LAP -Chi düng kiém thür trich xuät",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_008",
+      "text": "Trang 4/4",
+      "observed": "Trang 4/4",
+      "spatial_token_recall": 1.0,
+      "exact": true,
+      "layer": "furniture",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_009",
+      "text": "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+      "observed": "Möt  chúa text, ánh raster vä so' dö vector. Phan huó'ng dan phia duó'i lä vung scan.",
+      "spatial_token_recall": 0.2222222222222222,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_012",
+      "text": "Hạng mục",
+      "observed": "Hang muc",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_014",
+      "text": "Thông tin / Minh họa",
+      "observed": "Thng tin / Minh hoa",
+      "spatial_token_recall": 0.6,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_016",
+      "text": "Thiết bị và thao tác\nEquipment & action",
+      "observed": "Thiét bi va thao täc Equipment & action",
+      "spatial_token_recall": 0.5,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_018",
+      "text": "Đối chiếu nhãn QC-017 trước khi kết nối nguồn.",
+      "observed": "Dói chiéu nhan QC-017 truóc khi két nói nguön",
+      "spatial_token_recall": 0.2222222222222222,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_023",
+      "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+      "observed": "Anh vá so d lá hai thánh phan döc láp trong cúng ",
+      "spatial_token_recall": 0.15384615384615385,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_025",
+      "text": "Kết quả",
+      "observed": "Két quä",
+      "spatial_token_recall": 0.0,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_027",
+      "text": "Đạt / Không đạt: __________\nNgười kiểm tra: Nguyễn Thị Mỹ",
+      "observed": "Dat / Khong dat: Ngui kiém tra: Nguyén Thi My",
+      "spatial_token_recall": 0.18181818181818182,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_029",
+      "text": "4. Hướng dẫn an toàn / Safety instructions",
+      "observed": "4. Huó'ng dän an toän / Safety instructions",
+      "spatial_token_recall": 0.625,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_030",
+      "text": "Ngắt nguồn trước khi vệ sinh. Không sử dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ phận Kỹ thuật nếu phát hiện bất thường.",
+      "observed": "Ngát ngun truó'c khi vé sinh. Khng sú dung khi day dán bi hö hoác vó máy nút. Thng báo ngay cho b phan Ky thuat néu phát hién bát thuö'ng.",
+      "spatial_token_recall": 0.25806451612903225,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_031",
+      "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has approved the corrective action.",
+      "observed": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release eguipment until QA has approved the corrective action.",
+      "spatial_token_recall": 0.95,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    },
+    {
+      "gt_id": "p4_032",
+      "text": "Hotline nội bộ (giả lập): 028-0000-017 | Revision 03",
+      "observed": "Hotline nöi bö (giä lap): 028-0000-017  Revision 03",
+      "spatial_token_recall": 0.4444444444444444,
+      "exact": false,
+      "layer": "body",
+      "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+    }
+  ],
+  "issues": [
+    {
+      "type": "table_structure_mismatch",
+      "target_id": "p4_010",
+      "detail": {
+        "gt_id": "p4_010",
+        "prediction_id": "block_4",
+        "iou": 0.9898237389753985,
+        "grid_policy": "complete",
+        "expected_shape": [
+          3,
+          2
+        ],
+        "predicted_shape": [
+          6,
+          3
+        ],
+        "shape_exact": false,
+        "span_grid_exact": false,
+        "cells_expected": 6,
+        "cells_predicted": 13,
+        "logical_cells_exact": 3,
+        "cell_text_checks": [
+          {
+            "row": 0,
+            "col": 0,
+            "expected": "Hạng mục",
+            "predicted": "Hang muc",
+            "exact": false
+          },
+          {
+            "row": 1,
+            "col": 0,
+            "expected": "Thiết bị và thao tác\nEquipment & action",
+            "predicted": "",
+            "exact": false
+          },
+          {
+            "row": 2,
+            "col": 1,
+            "expected": "Đạt / Không đạt: __________\nNgười kiểm tra: Nguyễn Thị Mỹ",
+            "predicted": "Dói chiéu nhan QC-017 truóc khi két nói nguön",
+            "exact": false
+          }
+        ]
+      }
+    },
+    {
+      "type": "figure_region_missing_or_low_iou",
+      "expected_type": "image",
+      "target_id": "p4_001",
+      "bbox": [
+        38,
+        27,
+        92,
+        68
+      ],
+      "layer": "furniture"
+    },
+    {
+      "type": "figure_region_missing_or_low_iou",
+      "expected_type": "image",
+      "target_id": "p4_019",
+      "bbox": [
+        177,
+        267,
+        380,
+        369
+      ],
+      "layer": "body"
+    },
+    {
+      "type": "figure_region_missing_or_low_iou",
+      "expected_type": "diagram",
+      "target_id": "p4_020",
+      "bbox": [
+        404,
+        263,
+        542,
+        393
+      ],
+      "layer": "body"
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_003",
+      "detail": {
+        "gt_id": "p4_003",
+        "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+        "observed": "CONG TY TNHH THIET BI NOVA",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "furniture",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_004",
+      "detail": {
+        "gt_id": "p4_004",
+        "text": "Hệ thống quản lý chất lượng / Quality Management System",
+        "observed": "Hé thóng quän ly chät lu'o'ng / Quality Management System",
+        "spatial_token_recall": 0.4,
+        "exact": false,
+        "layer": "furniture",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_005",
+      "detail": {
+        "gt_id": "p4_005",
+        "text": "QP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+        "observed": "QP-74-02-F6 Phién bän 03  Ngäy hiéu luc: 15/10/2026",
+        "spatial_token_recall": 0.3,
+        "exact": false,
+        "layer": "furniture",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_006",
+      "detail": {
+        "gt_id": "p4_006",
+        "text": "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+        "observed": "BIEU MAU KIEM TRA VA HUO'NG DAN",
+        "spatial_token_recall": 0.14285714285714285,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_007",
+      "detail": {
+        "gt_id": "p4_007",
+        "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+        "observed": "TAI LIEU GIA LAP -Chi düng kiém thür trich xuät",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "furniture",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_009",
+      "detail": {
+        "gt_id": "p4_009",
+        "text": "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+        "observed": "Möt  chúa text, ánh raster vä so' dö vector. Phan huó'ng dan phia duó'i lä vung scan.",
+        "spatial_token_recall": 0.2222222222222222,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_012",
+      "detail": {
+        "gt_id": "p4_012",
+        "text": "Hạng mục",
+        "observed": "Hang muc",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_014",
+      "detail": {
+        "gt_id": "p4_014",
+        "text": "Thông tin / Minh họa",
+        "observed": "Thng tin / Minh hoa",
+        "spatial_token_recall": 0.6,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_016",
+      "detail": {
+        "gt_id": "p4_016",
+        "text": "Thiết bị và thao tác\nEquipment & action",
+        "observed": "Thiét bi va thao täc Equipment & action",
+        "spatial_token_recall": 0.5,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_018",
+      "detail": {
+        "gt_id": "p4_018",
+        "text": "Đối chiếu nhãn QC-017 trước khi kết nối nguồn.",
+        "observed": "Dói chiéu nhan QC-017 truóc khi két nói nguön",
+        "spatial_token_recall": 0.2222222222222222,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_023",
+      "detail": {
+        "gt_id": "p4_023",
+        "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+        "observed": "Anh vá so d lá hai thánh phan döc láp trong cúng ",
+        "spatial_token_recall": 0.15384615384615385,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_025",
+      "detail": {
+        "gt_id": "p4_025",
+        "text": "Kết quả",
+        "observed": "Két quä",
+        "spatial_token_recall": 0.0,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_027",
+      "detail": {
+        "gt_id": "p4_027",
+        "text": "Đạt / Không đạt: __________\nNgười kiểm tra: Nguyễn Thị Mỹ",
+        "observed": "Dat / Khong dat: Ngui kiém tra: Nguyén Thi My",
+        "spatial_token_recall": 0.18181818181818182,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_029",
+      "detail": {
+        "gt_id": "p4_029",
+        "text": "4. Hướng dẫn an toàn / Safety instructions",
+        "observed": "4. Huó'ng dän an toän / Safety instructions",
+        "spatial_token_recall": 0.625,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_030",
+      "detail": {
+        "gt_id": "p4_030",
+        "text": "Ngắt nguồn trước khi vệ sinh. Không sử dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ phận Kỹ thuật nếu phát hiện bất thường.",
+        "observed": "Ngát ngun truó'c khi vé sinh. Khng sú dung khi day dán bi hö hoác vó máy nút. Thng báo ngay cho b phan Ky thuat néu phát hién bát thuö'ng.",
+        "spatial_token_recall": 0.25806451612903225,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    },
+    {
+      "type": "localized_text_needs_review",
+      "target_id": "p4_032",
+      "detail": {
+        "gt_id": "p4_032",
+        "text": "Hotline nội bộ (giả lập): 028-0000-017 | Revision 03",
+        "observed": "Hotline nöi bö (giä lap): 028-0000-017  Revision 03",
+        "spatial_token_recall": 0.4444444444444444,
+        "exact": false,
+        "layer": "body",
+        "note": "Whitespace/case/NFC normalized; sensitive to bbox alignment, not an OCR-only metric"
+      }
+    }
+  ],
+  "table_detection": {
+    "expected": 1,
+    "predicted": 1,
+    "matched": 1
+  },
+  "figure_detection": {
+    "expected": 3,
+    "predicted": 0,
+    "matched": 0,
+    "body_expected": 2,
+    "body_matched": 0,
+    "diagram_expected": 1,
+    "diagram_matched": 0,
+    "nested_expected": 2
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "file": "sop_digital.pdf",
+    "native_text_chars": [
+      847,
+      1105,
+      862,
+      953
+    ],
+    "pypdf_text_chars": [
+      847,
+      1105,
+      862,
+      953
+    ],
+    "checks": "passed: source hash, page count, bounds, parent containment, complete-grid occupancy, PDF modality"
+  },
+  {
+    "file": "sop_hybrid.pdf",
+    "native_text_chars": [
+      847,
+      0,
+      862,
+      579
+    ],
+    "pypdf_text_chars": [
+      847,
+      0,
+      862,
+      579
+    ],
+    "checks": "passed: source hash, page count, bounds, parent containment, complete-grid occupancy, PDF modality"
+  },
+  {
+    "file": "sop_scan_clean.pdf",
+    "native_text_chars": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pypdf_text_chars": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "checks": "passed: source hash, page count, bounds, parent containment, complete-grid occupancy, PDF modality"
+  },
+  {
+    "file": "sop_scan_degraded.pdf",
+    "native_text_chars": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pypdf_text_chars": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "checks": "passed: source hash, page count, bounds, parent containment, complete-grid occupancy, PDF modality"
+  }
+]

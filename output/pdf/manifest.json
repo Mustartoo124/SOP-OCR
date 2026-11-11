@@ -1,0 +1,66 @@
+{
+  "synthetic": true,
+  "seed": 7402,
+  "fixtures": [
+    {
+      "file": "sop_digital.pdf",
+      "sha256": "31a8b81356763a5569ad0ea6dfa7409e481af6e107d798b090080073d28af2ba",
+      "pages": 4,
+      "page_types": [
+        "digital",
+        "digital",
+        "digital",
+        "digital"
+      ]
+    },
+    {
+      "file": "sop_scan_clean.pdf",
+      "sha256": "8949ba7d87671613df7e2cc072fad1026d66ca872da9c464e114b214501b839b",
+      "pages": 4,
+      "page_types": [
+        "scan",
+        "scan",
+        "scan",
+        "scan"
+      ]
+    },
+    {
+      "file": "sop_scan_degraded.pdf",
+      "sha256": "76f623b06e718646e61e9699fb74d9b661c3706e684ff6278f8e15f40eba03b2",
+      "pages": 4,
+      "page_types": [
+        "scan_degraded",
+        "scan_degraded",
+        "scan_degraded",
+        "scan_degraded"
+      ]
+    },
+    {
+      "file": "sop_hybrid.pdf",
+      "sha256": "92d75f4c2c0e7039873e4821ef36fdba2c6981b3e298ccd5857ad6a98ed99bbf",
+      "pages": 4,
+      "page_types": [
+        "digital",
+        "scan",
+        "digital",
+        "hybrid"
+      ]
+    }
+  ],
+  "generation_versions": {
+    "pymupdf": "1.26.0",
+    "reportlab": "5.1.0",
+    "pillow": "10.2.0",
+    "pypdf": "6.3.0"
+  },
+  "fonts": {
+    "regular_sha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+    "bold_sha256": "e8f4e3baf6cc35fed6fcce3a540e8b39e8f6cda1d22a28f2ec8f526fef7a43f5"
+  },
+  "limitations": [
+    "4 independent page designs, 16 paired pages; not 16 independent samples",
+    "No representative real-world accuracy estimate",
+    "No deskew, perspective, watermark, multi-page table, or hidden OCR layer case yet",
+    "Ground truth is authoring intent; inspect overlays before scoring models"
+  ]
+}

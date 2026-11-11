@@ -1,0 +1,18 @@
+{
+  "engine": "paddle",
+  "pdf": "sop_hybrid.pdf",
+  "pdf_sha256": "92d75f4c2c0e7039873e4821ef36fdba2c6981b3e298ccd5857ad6a98ed99bbf",
+  "page_number": 4,
+  "fingerprint": "bcf26b711e18b16a74678ad53f46c165aaa4d348ff852be5de7d802a0eed9650",
+  "state": "success",
+  "seconds": 29.789298499934375,
+  "phase_seconds": {
+    "input_preparation": 0.0016493001021444798,
+    "parser_and_raw_export": 28.27459890022874,
+    "refinement_and_debug_export": 1.283517399802804,
+    "evidence_and_crop_export": 0.21314539993181825
+  },
+  "peak_rss_bytes": 2020315136,
+  "block_count": 13,
+  "table_count": 1
+}

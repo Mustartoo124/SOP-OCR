@@ -1,0 +1,1505 @@
+{
+  "width": 595.2755737304688,
+  "height": 841.8897705078125,
+  "blocks": [
+    {
+      "id": "#/texts/0",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        43.0,
+        42.69430660781245,
+        80.5590826,
+        54.68993766045071
+      ],
+      "text": "NOVA",
+      "parent_ref": "#/pictures/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/1",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        105.0,
+        30.98385735781244,
+        264.8327619,
+        40.67263628494334
+      ],
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        105.0,
+        47.38297826781252,
+        326.2464727200001,
+        55.139288804412445
+      ],
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/3",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        105.0,
+        63.35460912781252,
+        300.8240604900002,
+        71.0185826342148
+      ],
+      "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "parent_ref": "#/groups/0",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/4",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        38.0,
+        102.26266600781241,
+        298.793459,
+        116.10377876085658
+      ],
+      "text": "LỊCH SỬ BAN HÀNH VÀ PHÊ DUYỆT",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/5",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        38.0,
+        139.5531931078125,
+        354.1557422000001,
+        147.863525825598
+      ],
+      "text": "Các ô gộp, nội dung nhiều dòng và chữ xoay phải được bảo toàn khi trích xuất.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/6",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        68.0,
+        719.5531931078125,
+        409.66599560000026,
+        727.8635258255981
+      ],
+      "text": "Xác nhận / Approval: Nội dung này là dữ liệu giả lập, không phải hồ sơ doanh nghiệp.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/7",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        38.0,
+        796.2695017078125,
+        211.4218672000001,
+        803.656464123622
+      ],
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/8",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        501.0,
+        796.2695017078125,
+        535.2421847999998,
+        803.656464123622
+      ],
+      "text": "Trang 2/4",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/pictures/0",
+      "type": "figure",
+      "label": "picture",
+      "bbox": [
+        36.18478316892842,
+        25.389145182980542,
+        92.72543309421411,
+        68.7356861077659
+      ],
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/0"
+      ]
+    },
+    {
+      "id": "#/tables/0",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        37.48663901459355,
+        175.37230916113776,
+        557.6856626185065,
+        687.1361013615044
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        43.0,
+        42.69430660781245,
+        80.5590826,
+        54.68993766045071
+      ],
+      "text": "NOVA",
+      "source_ref": "#/texts/0"
+    },
+    {
+      "bbox": [
+        105.0,
+        30.98385735781244,
+        264.8327619,
+        40.67263628494334
+      ],
+      "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+      "source_ref": "#/texts/1"
+    },
+    {
+      "bbox": [
+        105.0,
+        47.38297826781252,
+        326.2464727200001,
+        55.139288804412445
+      ],
+      "text": "Hệ thống quản lý chất lượng / Quality Management System",
+      "source_ref": "#/texts/2"
+    },
+    {
+      "bbox": [
+        105.0,
+        63.35460912781252,
+        300.8240604900002,
+        71.0185826342148
+      ],
+      "text": "QP-74-02 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+      "source_ref": "#/texts/3"
+    },
+    {
+      "bbox": [
+        38.0,
+        102.26266600781241,
+        298.793459,
+        116.10377876085658
+      ],
+      "text": "LỊCH SỬ BAN HÀNH VÀ PHÊ DUYỆT",
+      "source_ref": "#/texts/4"
+    },
+    {
+      "bbox": [
+        38.0,
+        139.5531931078125,
+        354.1557422000001,
+        147.863525825598
+      ],
+      "text": "Các ô gộp, nội dung nhiều dòng và chữ xoay phải được bảo toàn khi trích xuất.",
+      "source_ref": "#/texts/5"
+    },
+    {
+      "bbox": [
+        68.0,
+        719.5531931078125,
+        409.66599560000026,
+        727.8635258255981
+      ],
+      "text": "Xác nhận / Approval: Nội dung này là dữ liệu giả lập, không phải hồ sơ doanh nghiệp.",
+      "source_ref": "#/texts/6"
+    },
+    {
+      "bbox": [
+        38.0,
+        796.2695017078125,
+        211.4218672000001,
+        803.656464123622
+      ],
+      "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+      "source_ref": "#/texts/7"
+    },
+    {
+      "bbox": [
+        501.0,
+        796.2695017078125,
+        535.2421847999998,
+        803.656464123622
+      ],
+      "text": "Trang 2/4",
+      "source_ref": "#/texts/8"
+    },
+    {
+      "bbox": [
+        68.0,
+        186.41552745,
+        83.60961844999999,
+        205.98882467672502
+      ],
+      "text": "Lần sửa",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        110.0,
+        186.41552745,
+        130.7851554,
+        194.258824676725
+      ],
+      "text": "Ngày",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        175.0,
+        186.41552745,
+        191.99999915,
+        194.258824676725
+      ],
+      "text": "Mục",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        233.0,
+        186.41552745,
+        304.76854980000013,
+        194.258824676725
+      ],
+      "text": "Nội dung thay đổi",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        403.0,
+        186.41552745,
+        451.0905741000001,
+        194.258824676725
+      ],
+      "text": "Người soạn",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        480.0,
+        186.41552745,
+        520.6198705500001,
+        194.258824676725
+      ],
+      "text": "Phê duyệt",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        68.0,
+        234.35463862000006,
+        77.23212817999999,
+        242.01861212640233
+      ],
+      "text": "01",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        110.0,
+        234.35463862000006,
+        151.54052392000003,
+        242.01861212640233
+      ],
+      "text": "12/03/2024",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        175.0,
+        234.35463862000006,
+        205.45629639000003,
+        242.01861212640233
+      ],
+      "text": "Toàn bộ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        233.0,
+        234.35463862000006,
+        376.4505766000001,
+        253.47261212640228
+      ],
+      "text": "Ban hành lần đầu. Bổ sung hướng dẫn kiểm tra thiết bị.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        403.0,
+        234.35463862000006,
+        444.06635571000004,
+        242.01861212640233
+      ],
+      "text": "Nguyễn An",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        480.0,
+        234.35463862000006,
+        516.4462379,
+        242.01861212640233
+      ],
+      "text": "Trần Bình",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        110.0,
+        300.35463862000006,
+        151.54052392000003,
+        308.01861212640233
+      ],
+      "text": "12/03/2024",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        175.0,
+        300.35463862000006,
+        202.68422753000004,
+        308.01861212640233
+      ],
+      "text": "Phụ lục",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        233.0,
+        300.35463862000006,
+        386.6269932900001,
+        319.4726121264023
+      ],
+      "text": "Biểu mẫu QP-74-02-F6 và danh mục thiết bị QC-017.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        403.0,
+        300.35463862000006,
+        425.14819227000004,
+        308.01861212640233
+      ],
+      "text": "Lê Hà",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        480.0,
+        300.35463862000006,
+        516.4462379,
+        308.01861212640233
+      ],
+      "text": "Trần Bình",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        68.0,
+        366.35463862,
+        77.23212817999999,
+        374.0186121264023
+      ],
+      "text": "02",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        110.0,
+        366.35463862,
+        151.54052392000003,
+        374.0186121264023
+      ],
+      "text": "08/06/2025",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        175.0,
+        366.35463862,
+        186.53813378,
+        374.0186121264023
+      ],
+      "text": "4.2",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        233.0,
+        366.35463862,
+        368.24784264,
+        385.4726121264023
+      ],
+      "text": "Sửa tần suất hiệu chuẩn từ 12 tháng thành 6 tháng.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        403.0,
+        366.35463862,
+        430.67612258,
+        374.0186121264023
+      ],
+      "text": "Đỗ Huy",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        480.0,
+        366.35463862,
+        505.83212818,
+        374.0186121264023
+      ],
+      "text": "Vũ Mai",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        43.557617300000004,
+        400.5361354000001,
+        77.23212817999999,
+        495.03613540000003
+      ],
+      "text": "03 DOCUMENT HISTORY",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        110.0,
+        432.35463862,
+        151.54052392000003,
+        440.0186121264023
+      ],
+      "text": "15/10/2026",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        175.0,
+        432.35463862,
+        186.53813378,
+        440.0186121264023
+      ],
+      "text": "5.1",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        233.0,
+        432.35463862,
+        389.8894460699998,
+        451.4726121264023
+      ],
+      "text": "Bổ sung lưu đồ xử lý sai lệch; kiểm tra 0/O và 1/I.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        403.0,
+        432.35463862,
+        438.05209851999996,
+        440.0186121264023
+      ],
+      "text": "Phạm Mỹ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        480.0,
+        432.35463862,
+        505.83212818,
+        440.0186121264023
+      ],
+      "text": "Vũ Mai",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        43.557617300000004,
+        497.53662340000005,
+        77.23212817999999,
+        523.5346696000001
+      ],
+      "text": "03 LIỆU -",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        110.0,
+        498.35463862,
+        151.54052392000003,
+        506.0186121264023
+      ],
+      "text": "15/10/2026",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        175.0,
+        498.35463862,
+        186.53813378,
+        506.0186121264023
+      ],
+      "text": "5.2",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        233.0,
+        498.35463862,
+        376.03719842000004,
+        517.4726121264023
+      ],
+      "text": "Phân công trách nhiệm QA và bộ phận Sản xuất.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        403.0,
+        498.35463862,
+        438.05209851999996,
+        506.0186121264023
+      ],
+      "text": "Phạm Mỹ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        480.0,
+        498.35463862,
+        505.83212818,
+        506.0186121264023
+      ],
+      "text": "Vũ Mai",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        43.557617300000004,
+        559.0029298000001,
+        77.23212817999999,
+        580.0
+      ],
+      "text": "03 LỊCH",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        110.0,
+        564.3546386200001,
+        151.54052392000003,
+        572.0186121264023
+      ],
+      "text": "15/10/2026",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        175.0,
+        564.3546386200001,
+        179.61606409,
+        572.0186121264023
+      ],
+      "text": "6",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        233.0,
+        564.3546386200001,
+        362.56591163999997,
+        583.4726121264023
+      ],
+      "text": "Hồ sơ lưu tối thiểu 03 năm. Record retention: 3 years.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        403.0,
+        564.3546386200001,
+        444.06635571000004,
+        572.0186121264023
+      ],
+      "text": "Nguyễn An",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        480.0,
+        564.3546386200001,
+        516.4462379,
+        572.0186121264023
+      ],
+      "text": "Trần Bình",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        68.0,
+        630.3546386200001,
+        77.23212817999999,
+        638.0186121264023
+      ],
+      "text": "03",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        110.0,
+        630.3546386200001,
+        151.54052392000003,
+        638.0186121264023
+      ],
+      "text": "15/10/2026",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        175.0,
+        630.3546386200001,
+        203.60419787000004,
+        638.0186121264023
+      ],
+      "text": "Ghi chú",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        233.0,
+        630.3546386200001,
+        353.80795083999993,
+        649.4726121264023
+      ],
+      "text": "Dấu tiếng Việt: ă, â, ê, ô, ơ, ư, đ. Đã kiểm tra và phê duyệt.",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        403.0,
+        630.3546386200001,
+        468.51244697000004,
+        638.0186121264023
+      ],
+      "text": "Lê Hà / Trần Bình",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    }
+  ],
+  "tables": [
+    {
+      "id": "#/tables/0",
+      "bbox": [
+        37.48663901459355,
+        175.37230916113776,
+        557.6856626185065,
+        687.1361013615044
+      ],
+      "rows": 8,
+      "cols": 6,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Lần sửa",
+          "bbox": [
+            68.0,
+            186.41552745,
+            83.60961844999999,
+            205.98882467672502
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Ngày",
+          "bbox": [
+            110.0,
+            186.41552745,
+            130.7851554,
+            194.258824676725
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Mục",
+          "bbox": [
+            175.0,
+            186.41552745,
+            191.99999915,
+            194.258824676725
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Nội dung thay đổi",
+          "bbox": [
+            233.0,
+            186.41552745,
+            304.76854980000013,
+            194.258824676725
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Người soạn",
+          "bbox": [
+            403.0,
+            186.41552745,
+            451.0905741000001,
+            194.258824676725
+          ],
+          "column_header": true
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phê duyệt",
+          "bbox": [
+            480.0,
+            186.41552745,
+            520.6198705500001,
+            194.258824676725
+          ],
+          "column_header": true
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 2,
+          "colspan": 1,
+          "text": "01",
+          "bbox": [
+            68.0,
+            234.35463862000006,
+            77.23212817999999,
+            242.01861212640233
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "12/03/2024",
+          "bbox": [
+            110.0,
+            234.35463862000006,
+            151.54052392000003,
+            242.01861212640233
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Toàn bộ",
+          "bbox": [
+            175.0,
+            234.35463862000006,
+            205.45629639000003,
+            242.01861212640233
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Ban hành lần đầu. Bổ sung hướng dẫn kiểm tra thiết bị.",
+          "bbox": [
+            233.0,
+            234.35463862000006,
+            376.4505766000001,
+            253.47261212640228
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Nguyễn An",
+          "bbox": [
+            403.0,
+            234.35463862000006,
+            444.06635571000004,
+            242.01861212640233
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Trần Bình",
+          "bbox": [
+            480.0,
+            234.35463862000006,
+            516.4462379,
+            242.01861212640233
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "12/03/2024",
+          "bbox": [
+            110.0,
+            300.35463862000006,
+            151.54052392000003,
+            308.01861212640233
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phụ lục",
+          "bbox": [
+            175.0,
+            300.35463862000006,
+            202.68422753000004,
+            308.01861212640233
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Biểu mẫu QP-74-02-F6 và danh mục thiết bị QC-017.",
+          "bbox": [
+            233.0,
+            300.35463862000006,
+            386.6269932900001,
+            319.4726121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Lê Hà",
+          "bbox": [
+            403.0,
+            300.35463862000006,
+            425.14819227000004,
+            308.01861212640233
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Trần Bình",
+          "bbox": [
+            480.0,
+            300.35463862000006,
+            516.4462379,
+            308.01861212640233
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "02",
+          "bbox": [
+            68.0,
+            366.35463862,
+            77.23212817999999,
+            374.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "08/06/2025",
+          "bbox": [
+            110.0,
+            366.35463862,
+            151.54052392000003,
+            374.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "4.2",
+          "bbox": [
+            175.0,
+            366.35463862,
+            186.53813378,
+            374.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Sửa tần suất hiệu chuẩn từ 12 tháng thành 6 tháng.",
+          "bbox": [
+            233.0,
+            366.35463862,
+            368.24784264,
+            385.4726121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Đỗ Huy",
+          "bbox": [
+            403.0,
+            366.35463862,
+            430.67612258,
+            374.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Vũ Mai",
+          "bbox": [
+            480.0,
+            366.35463862,
+            505.83212818,
+            374.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "03 DOCUMENT HISTORY",
+          "bbox": [
+            43.557617300000004,
+            400.5361354000001,
+            77.23212817999999,
+            495.03613540000003
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "15/10/2026",
+          "bbox": [
+            110.0,
+            432.35463862,
+            151.54052392000003,
+            440.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "5.1",
+          "bbox": [
+            175.0,
+            432.35463862,
+            186.53813378,
+            440.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Bổ sung lưu đồ xử lý sai lệch; kiểm tra 0/O và 1/I.",
+          "bbox": [
+            233.0,
+            432.35463862,
+            389.8894460699998,
+            451.4726121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phạm Mỹ",
+          "bbox": [
+            403.0,
+            432.35463862,
+            438.05209851999996,
+            440.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Vũ Mai",
+          "bbox": [
+            480.0,
+            432.35463862,
+            505.83212818,
+            440.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "03 LIỆU -",
+          "bbox": [
+            43.557617300000004,
+            497.53662340000005,
+            77.23212817999999,
+            523.5346696000001
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "15/10/2026",
+          "bbox": [
+            110.0,
+            498.35463862,
+            151.54052392000003,
+            506.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "5.2",
+          "bbox": [
+            175.0,
+            498.35463862,
+            186.53813378,
+            506.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phân công trách nhiệm QA và bộ phận Sản xuất.",
+          "bbox": [
+            233.0,
+            498.35463862,
+            376.03719842000004,
+            517.4726121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Phạm Mỹ",
+          "bbox": [
+            403.0,
+            498.35463862,
+            438.05209851999996,
+            506.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Vũ Mai",
+          "bbox": [
+            480.0,
+            498.35463862,
+            505.83212818,
+            506.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "03 LỊCH",
+          "bbox": [
+            43.557617300000004,
+            559.0029298000001,
+            77.23212817999999,
+            580.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "15/10/2026",
+          "bbox": [
+            110.0,
+            564.3546386200001,
+            151.54052392000003,
+            572.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "6",
+          "bbox": [
+            175.0,
+            564.3546386200001,
+            179.61606409,
+            572.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Hồ sơ lưu tối thiểu 03 năm. Record retention: 3 years.",
+          "bbox": [
+            233.0,
+            564.3546386200001,
+            362.56591163999997,
+            583.4726121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Nguyễn An",
+          "bbox": [
+            403.0,
+            564.3546386200001,
+            444.06635571000004,
+            572.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Trần Bình",
+          "bbox": [
+            480.0,
+            564.3546386200001,
+            516.4462379,
+            572.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "03",
+          "bbox": [
+            68.0,
+            630.3546386200001,
+            77.23212817999999,
+            638.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "15/10/2026",
+          "bbox": [
+            110.0,
+            630.3546386200001,
+            151.54052392000003,
+            638.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Ghi chú",
+          "bbox": [
+            175.0,
+            630.3546386200001,
+            203.60419787000004,
+            638.0186121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Dấu tiếng Việt: ă, â, ê, ô, ơ, ư, đ. Đã kiểm tra và phê duyệt.",
+          "bbox": [
+            233.0,
+            630.3546386200001,
+            353.80795083999993,
+            649.4726121264023
+          ],
+          "column_header": false
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "rowspan": 1,
+          "colspan": 2,
+          "text": "Lê Hà / Trần Bình",
+          "bbox": [
+            403.0,
+            630.3546386200001,
+            468.51244697000004,
+            638.0186121264023
+          ],
+          "column_header": false
+        }
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "containers": [
+    {
+      "id": "#/groups/0",
+      "type": "container",
+      "label": "key_value_area",
+      "parent_ref": "#/body",
+      "child_refs": [
+        "#/texts/3"
+      ]
+    }
+  ],
+  "status": "ConversionStatus.SUCCESS",
+  "errors": [],
+  "runtime_warnings": [
+    "`force_full_page_ocr` is deprecated; set `mode=OcrMode.FULL_PAGE` instead.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.",
+    "'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used."
+  ],
+  "engine": "docling",
+  "page_number": 2,
+  "pdf": "sop_digital.pdf",
+  "pdf_sha256": "31a8b81356763a5569ad0ea6dfa7409e481af6e107d798b090080073d28af2ba",
+  "coordinate_system": "pdf_points_top_left_unrotated"
+}

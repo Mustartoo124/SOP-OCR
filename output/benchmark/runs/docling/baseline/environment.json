@@ -1,0 +1,28 @@
+{
+  "engine": "docling",
+  "device": "cpu",
+  "threads": 4,
+  "environment": {
+    "python": "3.11.7",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "cpu": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+    "logical_cpus": 22,
+    "ram_bytes": 33683177472,
+    "packages": {
+      "docling": "2.150.0",
+      "docling-core": "2.106.0",
+      "docling-ibm-models": "4.0.4",
+      "easyocr": "1.7.2",
+      "torch": "2.15.0",
+      "torchvision": "0.29.2",
+      "numpy": "2.4.6",
+      "transformers": "5.22.2",
+      "pymupdf": "2.1"
+    }
+  },
+  "scope": "independent baseline, no custom geometry refinement or native recovery fusion",
+  "renderer_dpi": 200,
+  "runner_sha256": "9c81cee68104d94721e071850be54ba3179242fc1f43d7d8b1b2c837d86750c1",
+  "adapter_sha256": "1b7bab6a7058412219019317985efc32be4a7b8b83b8a271a24f811a180ffb3a",
+  "common_sha256": "6df46c677b1941478cc50760ca80b34f26d93fbf9ab345cb368baf91bbd65f75"
+}

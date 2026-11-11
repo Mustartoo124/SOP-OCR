@@ -1,0 +1,24 @@
+[
+  {
+    "block_id": "geometry_table_0",
+    "file": "crop_008_table.png",
+    "bbox": [
+      62.0,
+      177.0,
+      557.0,
+      687.0
+    ],
+    "type": "table"
+  },
+  {
+    "block_id": "recovered_figure_0",
+    "file": "crop_009_figure.png",
+    "bbox": [
+      37.429661226099604,
+      26.635247121666577,
+      92.49445129911153,
+      68.38779666373851
+    ],
+    "type": "figure"
+  }
+]

@@ -1,0 +1,442 @@
+{
+  "tables": [
+    {
+      "rows": 5,
+      "cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            174.029,
+            217.92,
+            214.882
+          ],
+          "text": "Lwudo",
+          "id": "geometry_table_0_cell_0",
+          "token_ids": [
+            "token_6"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            174.029,
+            286.661,
+            214.882
+          ],
+          "text": "Trach nhiem",
+          "id": "geometry_table_0_cell_1",
+          "token_ids": [
+            "token_7"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            174.029,
+            464.632,
+            214.882
+          ],
+          "text": "Dien giai",
+          "id": "geometry_table_0_cell_2",
+          "token_ids": [
+            "token_8"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            174.029,
+            556.586,
+            214.882
+          ],
+          "text": "Biéu mau",
+          "id": "geometry_table_0_cell_3",
+          "token_ids": [
+            "token_9"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 4,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            214.882,
+            217.92,
+            674.88
+          ],
+          "text": "",
+          "id": "geometry_table_0_cell_4",
+          "token_ids": [],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            214.882,
+            286.661,
+            329.701
+          ],
+          "text": "Sän xuat",
+          "id": "geometry_table_0_cell_5",
+          "token_ids": [
+            "token_10"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            214.882,
+            464.632,
+            329.701
+          ],
+          "text": "Tiép nhan thiét bi.Kiem tra matem hieu\nchuanva tinh trang bén ngoai",
+          "id": "geometry_table_0_cell_6",
+          "token_ids": [
+            "token_11",
+            "token_13"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            214.882,
+            556.586,
+            329.701
+          ],
+          "text": "QP-74-02-F6",
+          "id": "geometry_table_0_cell_7",
+          "token_ids": [
+            "token_12"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            329.701,
+            286.661,
+            444.881
+          ],
+          "text": "Ky thuat",
+          "id": "geometry_table_0_cell_8",
+          "token_ids": [
+            "token_16"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            329.701,
+            464.632,
+            444.881
+          ],
+          "text": "Do thong so theo huöng dan.Ghi nhan\nnhietdo20-25°CvamaQC-017.",
+          "id": "geometry_table_0_cell_9",
+          "token_ids": [
+            "token_17",
+            "token_19"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            329.701,
+            556.586,
+            444.881
+          ],
+          "text": "HD-74-01",
+          "id": "geometry_table_0_cell_10",
+          "token_ids": [
+            "token_18"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            444.881,
+            286.661,
+            559.7
+          ],
+          "text": "QA",
+          "id": "geometry_table_0_cell_11",
+          "token_ids": [
+            "token_22"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            444.881,
+            464.632,
+            559.7
+          ],
+          "text": "Doi chieu tieu chi.Néu khong datcach ly\nva lap phiéu xu ly sai lech.",
+          "id": "geometry_table_0_cell_12",
+          "token_ids": [
+            "token_23",
+            "token_25"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            444.881,
+            556.586,
+            559.7
+          ],
+          "text": "NC-01",
+          "id": "geometry_table_0_cell_13",
+          "token_ids": [
+            "token_24"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.92,
+            559.7,
+            286.661,
+            674.88
+          ],
+          "text": "QA/Kho",
+          "id": "geometry_table_0_cell_14",
+          "token_ids": [
+            "token_28"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.661,
+            559.7,
+            464.632,
+            674.88
+          ],
+          "text": "Phe duyet thiét bi dat yéu cauCapnhat\ndanh muc va luu ho so.",
+          "id": "geometry_table_0_cell_15",
+          "token_ids": [
+            "token_29",
+            "token_31"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            559.7,
+            556.586,
+            674.88
+          ],
+          "text": "DM-THIETBI",
+          "id": "geometry_table_0_cell_16",
+          "token_ids": [
+            "token_30"
+          ],
+          "needs_review": false
+        }
+      ],
+      "xs": [
+        37.79,
+        217.92000000000002,
+        286.661,
+        464.63199999999995,
+        556.586
+      ],
+      "ys": [
+        174.029,
+        214.882,
+        329.701,
+        444.8809999999999,
+        559.6999999999999,
+        674.88
+      ],
+      "grid_valid": true,
+      "bbox": [
+        37.7895618148121,
+        174.0289457206188,
+        556.5862604438754,
+        674.8795723395248
+      ],
+      "method": "raster_line_intersections",
+      "needs_review": false,
+      "id": "geometry_table_0",
+      "parent_ref": null
+    }
+  ],
+  "figures": [
+    {
+      "bbox": [
+        44.38608241974947,
+        227.9582517443686,
+        206.8245285015729,
+        655.6840683055159
+      ],
+      "label": "diagram",
+      "method": "closed_shapes_with_connectors",
+      "table_id": "geometry_table_0",
+      "node_count": 5,
+      "needs_review": true,
+      "id": "recovered_figure_0",
+      "type": "figure",
+      "parent_ref": "geometry_table_0",
+      "child_refs": [],
+      "association": "table_region_crosses_row_bands",
+      "metadata_text": "Tiép nhan thiétbi\nKiem tra/Do\nKhong\nDat yeu cau?\nCo\nPhe duyet, luu h so\nKét thüc"
+    }
+  ],
+  "nodes": [
+    {
+      "bbox": [
+        77.01872598447419,
+        612.2507480264169,
+        192.90671554989797,
+        648.6042609897726
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        77.01872598447419,
+        521.1869977320703,
+        192.90671554989797,
+        561.859739958399
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        71.98011774249925,
+        401.68832145648514,
+        198.30522438058543,
+        463.2373384538498
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        77.01872598447419,
+        316.0236077408548,
+        192.90671554989797,
+        355.6165426514402
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        77.01872598447419,
+        235.03805906011183,
+        192.90671554989797,
+        271.751507795382
+      ],
+      "table_id": "geometry_table_0"
+    }
+  ],
+  "image_placements": [
+    {
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.0,
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "transform": [
+        595.2755737304688,
+        0.0,
+        -0.0,
+        841.8897705078125,
+        0.0,
+        0.0
+      ],
+      "width": 1323,
+      "height": 1871,
+      "colorspace": 3,
+      "cs-name": "DeviceRGB",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 1214598,
+      "digest": "b'~\\x12\\xb4Y#K\\xf06Y\\x87k\\xea\\x03\\x87\\n\\xc0'",
+      "has-mask": false,
+      "xref": 7
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "scope": "PDF file contents, not viewer-generated OCR",
+  "files": [
+    {
+      "file": "sop_scan_clean.pdf",
+      "sha256": "8949ba7d87671613df7e2cc072fad1026d66ca872da9c464e114b214501b839b",
+      "page_count": 4,
+      "encrypted": false,
+      "has_structure_tree": false,
+      "has_acroform": false,
+      "poppler": {
+        "content_characters": 0,
+        "page_separators": 4
+      },
+      "pages": [
+        {
+          "page_number": 1,
+          "pypdf_text_chars": 0,
+          "pymupdf_text_chars": 0,
+          "pdfplumber_character_count": 0,
+          "font_resource_count": 1,
+          "annotations": 0,
+          "full_page_single_image": true,
+          "page_image_coverage": 1.0,
+          "image_dimensions": [
+            {
+              "width": 1323,
+              "height": 1871,
+              "bbox": [
+                0.0,
+                0.0,
+                595.2755737304688,
+                841.8897705078125
+              ]
+            }
+          ],
+          "operators": {
+            "cm": 2,
+            "BT": 1,
+            "Tf": 1,
+            "TL": 1,
+            "ET": 1,
+            "q": 1,
+            "Do": 1,
+            "Q": 1
+          },
+          "text_show_operations": 0,
+          "vector_paint_operations": 0,
+          "image_draw_operations": 1,
+          "actual_text_marked_content": false,
+          "image_only": true
+        },
+        {
+          "page_number": 2,
+          "pypdf_text_chars": 0,
+          "pymupdf_text_chars": 0,
+          "pdfplumber_character_count": 0,
+          "font_resource_count": 1,
+          "annotations": 0,
+          "full_page_single_image": true,
+          "page_image_coverage": 1.0,
+          "image_dimensions": [
+            {
+              "width": 1323,
+              "height": 1871,
+              "bbox": [
+                0.0,
+                0.0,
+                595.2755737304688,
+                841.8897705078125
+              ]
+            }
+          ],
+          "operators": {
+            "cm": 2,
+            "BT": 1,
+            "Tf": 1,
+            "TL": 1,
+            "ET": 1,
+            "q": 1,
+            "Do": 1,
+            "Q": 1
+          },
+          "text_show_operations": 0,
+          "vector_paint_operations": 0,
+          "image_draw_operations": 1,
+          "actual_text_marked_content": false,
+          "image_only": true
+        },
+        {
+          "page_number": 3,
+          "pypdf_text_chars": 0,
+          "pymupdf_text_chars": 0,
+          "pdfplumber_character_count": 0,
+          "font_resource_count": 1,
+          "annotations": 0,
+          "full_page_single_image": true,
+          "page_image_coverage": 1.0,
+          "image_dimensions": [
+            {
+              "width": 1323,
+              "height": 1871,
+              "bbox": [
+                0.0,
+                0.0,
+                595.2755737304688,
+                841.8897705078125
+              ]
+            }
+          ],
+          "operators": {
+            "cm": 2,
+            "BT": 1,
+            "Tf": 1,
+            "TL": 1,
+            "ET": 1,
+            "q": 1,
+            "Do": 1,
+            "Q": 1
+          },
+          "text_show_operations": 0,
+          "vector_paint_operations": 0,
+          "image_draw_operations": 1,
+          "actual_text_marked_content": false,
+          "image_only": true
+        },
+        {
+          "page_number": 4,
+          "pypdf_text_chars": 0,
+          "pymupdf_text_chars": 0,
+          "pdfplumber_character_count": 0,
+          "font_resource_count": 1,
+          "annotations": 0,
+          "full_page_single_image": true,
+          "page_image_coverage": 1.0,
+          "image_dimensions": [
+            {
+              "width": 1323,
+              "height": 1871,
+              "bbox": [
+                0.0,
+                0.0,
+                595.2755737304688,
+                841.8897705078125
+              ]
+            }
+          ],
+          "operators": {
+            "cm": 2,
+            "BT": 1,
+            "Tf": 1,
+            "TL": 1,
+            "ET": 1,
+            "q": 1,
+            "Do": 1,
+            "Q": 1
+          },
+          "text_show_operations": 0,
+          "vector_paint_operations": 0,
+          "image_draw_operations": 1,
+          "actual_text_marked_content": false,
+          "image_only": true
+        }
+      ],
+      "image_only": true,
+      "font_note": "ReportLab adds an unused Helvetica resource and empty BT/Tf/TL/ET setup. These contain no text-show operations or character content.",
+      "matches_fixture_manifest": true,
+      "benchmark_source_hashes_match": true
+    },
+    {
+      "file": "sop_scan_degraded.pdf",
+      "sha256": "76f623b06e718646e61e9699fb74d9b661c3706e684ff6278f8e15f40eba03b2",
+      "page_count": 4,
+      "encrypted": false,
+      "has_structure_tree": false,
+      "has_acroform": false,
+      "poppler": {
+        "content_characters": 0,
+        "page_separators": 4
+      },
+      "pages": [
+        {
+          "page_number": 1,
+          "pypdf_text_chars": 0,
+          "pymupdf_text_chars": 0,
+          "pdfplumber_character_count": 0,
+          "font_resource_count": 1,
+          "annotations": 0,
+          "full_page_single_image": true,
+          "page_image_coverage": 1.0,
+          "image_dimensions": [
+            {
+              "width": 1323,
+              "height": 1871,
+              "bbox": [
+                0.0,
+                0.0,
+                595.2755737304688,
+                841.8897705078125
+              ]
+            }
+          ],
+          "operators": {
+            "cm": 2,
+            "BT": 1,
+            "Tf": 1,
+            "TL": 1,
+            "ET": 1,
+            "q": 1,
+            "Do": 1,
+            "Q": 1
+          },
+          "text_show_operations": 0,
+          "vector_paint_operations": 0,
+          "image_draw_operations": 1,
+          "actual_text_marked_content": false,
+          "image_only": true
+        },
+        {
+          "page_number": 2,
+          "pypdf_text_chars": 0,
+          "pymupdf_text_chars": 0,
+          "pdfplumber_character_count": 0,
+          "font_resource_count": 1,
+          "annotations": 0,
+          "full_page_single_image": true,
+          "page_image_coverage": 1.0,
+          "image_dimensions": [
+            {
+              "width": 1323,
+              "height": 1871,
+              "bbox": [
+                0.0,
+                0.0,
+                595.2755737304688,
+                841.8897705078125
+              ]
+            }
+          ],
+          "operators": {
+            "cm": 2,
+            "BT": 1,
+            "Tf": 1,
+            "TL": 1,
+            "ET": 1,
+            "q": 1,
+            "Do": 1,
+            "Q": 1
+          },
+          "text_show_operations": 0,
+          "vector_paint_operations": 0,
+          "image_draw_operations": 1,
+          "actual_text_marked_content": false,
+          "image_only": true
+        },
+        {
+          "page_number": 3,
+          "pypdf_text_chars": 0,
+          "pymupdf_text_chars": 0,
+          "pdfplumber_character_count": 0,
+          "font_resource_count": 1,
+          "annotations": 0,
+          "full_page_single_image": true,
+          "page_image_coverage": 1.0,
+          "image_dimensions": [
+            {
+              "width": 1323,
+              "height": 1871,
+              "bbox": [
+                0.0,
+                0.0,
+                595.2755737304688,
+                841.8897705078125
+              ]
+            }
+          ],
+          "operators": {
+            "cm": 2,
+            "BT": 1,
+            "Tf": 1,
+            "TL": 1,
+            "ET": 1,
+            "q": 1,
+            "Do": 1,
+            "Q": 1
+          },
+          "text_show_operations": 0,
+          "vector_paint_operations": 0,
+          "image_draw_operations": 1,
+          "actual_text_marked_content": false,
+          "image_only": true
+        },
+        {
+          "page_number": 4,
+          "pypdf_text_chars": 0,
+          "pymupdf_text_chars": 0,
+          "pdfplumber_character_count": 0,
+          "font_resource_count": 1,
+          "annotations": 0,
+          "full_page_single_image": true,
+          "page_image_coverage": 1.0,
+          "image_dimensions": [
+            {
+              "width": 1323,
+              "height": 1871,
+              "bbox": [
+                0.0,
+                0.0,
+                595.2755737304688,
+                841.8897705078125
+              ]
+            }
+          ],
+          "operators": {
+            "cm": 2,
+            "BT": 1,
+            "Tf": 1,
+            "TL": 1,
+            "ET": 1,
+            "q": 1,
+            "Do": 1,
+            "Q": 1
+          },
+          "text_show_operations": 0,
+          "vector_paint_operations": 0,
+          "image_draw_operations": 1,
+          "actual_text_marked_content": false,
+          "image_only": true
+        }
+      ],
+      "image_only": true,
+      "font_note": "ReportLab adds an unused Helvetica resource and empty BT/Tf/TL/ET setup. These contain no text-show operations or character content.",
+      "matches_fixture_manifest": true,
+      "benchmark_source_hashes_match": true
+    }
+  ],
+  "controls": {
+    "digital_detected_as_native": true,
+    "hybrid_image_only_pages": [
+      2
+    ]
+  },
+  "poppler_available": true,
+  "pdfs_modified": false,
+  "conclusion": "Both scan fixtures are image-only. Viewer OCR can make text selectable without adding native text to the source PDF."
+}

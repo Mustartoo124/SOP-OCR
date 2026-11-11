@@ -1,0 +1,802 @@
+[
+  {
+    "index": 0,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 43.0,
+      "r_y0": 54.689967152638246,
+      "r_x1": 80.5590826,
+      "r_y1": 54.689967152638246,
+      "r_x2": 80.5590826,
+      "r_y2": 42.69433609999999,
+      "r_x3": 43.0,
+      "r_y3": 42.69433609999999,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "NOVA",
+    "orig": "NOVA",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F2+0",
+    "font_name": "/AAAAAA+Arial-BoldMT"
+  },
+  {
+    "index": 1,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 105.0,
+      "r_y0": 40.672665777130874,
+      "r_x1": 264.8327619,
+      "r_y1": 40.672665777130874,
+      "r_x2": 264.8327619,
+      "r_y2": 30.983886849999976,
+      "r_x3": 105.0,
+      "r_y3": 30.983886849999976,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "CÔNG TY TNHH THIẾT BỊ NOVA",
+    "orig": "CÔNG TY TNHH THIẾT BỊ NOVA",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F2+0",
+    "font_name": "/AAAAAA+Arial-BoldMT"
+  },
+  {
+    "index": 2,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 105.0,
+      "r_y0": 55.13931829659998,
+      "r_x1": 326.2464727200001,
+      "r_y1": 55.13931829659998,
+      "r_x2": 326.2464727200001,
+      "r_y2": 47.383007760000055,
+      "r_x3": 105.0,
+      "r_y3": 47.383007760000055,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Hệ thống quản lý chất lượng / Quality Management System",
+    "orig": "Hệ thống quản lý chất lượng / Quality Management System",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 3,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 105.0,
+      "r_y0": 71.01861212640233,
+      "r_x1": 313.2740596600001,
+      "r_y1": 71.01861212640233,
+      "r_x2": 313.2740596600001,
+      "r_y2": 63.35463862000006,
+      "r_x3": 105.0,
+      "r_y3": 63.35463862000006,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "QP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+    "orig": "QP-74-02-F6 | Phiên bản 03 | Ngày hiệu lực: 15/10/2026",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 4,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 38.0,
+      "r_y0": 116.10380825304412,
+      "r_x1": 313.2368165,
+      "r_y1": 116.10380825304412,
+      "r_x2": 313.2368165,
+      "r_y2": 102.26269549999995,
+      "r_x3": 38.0,
+      "r_y3": 102.26269549999995,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+    "orig": "BIỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F2+0",
+    "font_name": "/AAAAAA+Arial-BoldMT"
+  },
+  {
+    "index": 5,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 38.0,
+      "r_y0": 803.6564936158095,
+      "r_x1": 211.4218672000001,
+      "r_y1": 803.6564936158095,
+      "r_x2": 211.4218672000001,
+      "r_y2": 796.2695312000001,
+      "r_x3": 38.0,
+      "r_y3": 796.2695312000001,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+    "orig": "TÀI LIỆU GIẢ LẬP - Chỉ dùng kiểm thử trích xuất",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 6,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 501.0,
+      "r_y0": 803.6564936158095,
+      "r_x1": 535.2421847999998,
+      "r_y1": 803.6564936158095,
+      "r_x2": 535.2421847999998,
+      "r_y2": 796.2695312000001,
+      "r_x3": 501.0,
+      "r_y3": 796.2695312000001,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Trang 4/4",
+    "orig": "Trang 4/4",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 7,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 38.0,
+      "r_y0": 147.86355531778554,
+      "r_x1": 380.46579950000006,
+      "r_y1": 147.86355531778554,
+      "r_x2": 380.46579950000006,
+      "r_y2": 139.55322260000003,
+      "r_x3": 38.0,
+      "r_y3": 139.55322260000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+    "orig": "Một ô chứa text, ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 8,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 44.0,
+      "r_y0": 191.258824676725,
+      "r_x1": 85.08886569999999,
+      "r_y1": 191.258824676725,
+      "r_x2": 85.08886569999999,
+      "r_y2": 183.41552745,
+      "r_x3": 44.0,
+      "r_y3": 183.41552745,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Hạng mục",
+    "orig": "Hạng mục",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F2+0",
+    "font_name": "/AAAAAA+Arial-BoldMT"
+  },
+  {
+    "index": 9,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 172.0,
+      "r_y0": 191.258824676725,
+      "r_x1": 255.09081415000006,
+      "r_y1": 191.258824676725,
+      "r_x2": 255.09081415000006,
+      "r_y2": 183.41552745,
+      "r_x3": 172.0,
+      "r_y3": 183.41552745,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Thông tin / Minh họa",
+    "orig": "Thông tin / Minh họa",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F2+0",
+    "font_name": "/AAAAAA+Arial-BoldMT"
+  },
+  {
+    "index": 10,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 44.0,
+      "r_y0": 231.86355531778554,
+      "r_x1": 120.04296380000002,
+      "r_y1": 231.86355531778554,
+      "r_x2": 120.04296380000002,
+      "r_y2": 223.55322260000003,
+      "r_x3": 44.0,
+      "r_y3": 223.55322260000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Thiết bị và thao tác",
+    "orig": "Thiết bị và thao tác",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 11,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 44.0,
+      "r_y0": 244.2835553177856,
+      "r_x1": 122.04687140000001,
+      "r_y1": 244.2835553177856,
+      "r_x2": 122.04687140000001,
+      "r_y2": 235.9732226000001,
+      "r_x3": 44.0,
+      "r_y3": 235.9732226000001,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Equipment & action",
+    "orig": "Equipment & action",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 12,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 177.0,
+      "r_y0": 236.86355531778554,
+      "r_x1": 368.53124010000016,
+      "r_y1": 236.86355531778554,
+      "r_x2": 368.53124010000016,
+      "r_y2": 228.55322260000003,
+      "r_x3": 177.0,
+      "r_y3": 228.55322260000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Đối chiếu nhãn QC-017 trước khi kết nối nguồn.",
+    "orig": "Đối chiếu nhãn QC-017 trước khi kết nối nguồn.",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 13,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 419.0,
+      "r_y0": 287.62214297739047,
+      "r_x1": 473.78515328000003,
+      "r_y1": 287.62214297739047,
+      "r_x2": 473.78515328000003,
+      "r_y2": 279.49648432000004,
+      "r_x3": 419.0,
+      "r_y3": 279.49648432000004,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Kiểm tra nhãn",
+    "orig": "Kiểm tra nhãn",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 14,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 419.0,
+      "r_y0": 373.62214297739035,
+      "r_x1": 473.31249648000005,
+      "r_y1": 373.62214297739035,
+      "r_x2": 473.31249648000005,
+      "r_y2": 365.49648432000004,
+      "r_x3": 419.0,
+      "r_y3": 365.49648432000004,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Kết nối nguồn",
+    "orig": "Kết nối nguồn",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 15,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 177.0,
+      "r_y0": 417.2600244667976,
+      "r_x1": 376.79979130000044,
+      "r_y1": 417.2600244667976,
+      "r_x2": 376.79979130000044,
+      "r_y2": 409.41137690000005,
+      "r_x3": 177.0,
+      "r_y3": 409.41137690000005,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+    "orig": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 16,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 44.0,
+      "r_y0": 451.86355531778565,
+      "r_x1": 75.0253886,
+      "r_y1": 451.86355531778565,
+      "r_x2": 75.0253886,
+      "r_y2": 443.5532226000001,
+      "r_x3": 44.0,
+      "r_y3": 443.5532226000001,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Kết quả",
+    "orig": "Kết quả",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 17,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 172.0,
+      "r_y0": 451.86355531778565,
+      "r_x1": 289.59764769999987,
+      "r_y1": 451.86355531778565,
+      "r_x2": 289.59764769999987,
+      "r_y2": 443.5532226000001,
+      "r_x3": 172.0,
+      "r_y3": 443.5532226000001,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Đạt / Không đạt: __________",
+    "orig": "Đạt / Không đạt: __________",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 18,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 172.0,
+      "r_y0": 464.2835553177856,
+      "r_x1": 297.4594681,
+      "r_y1": 464.2835553177856,
+      "r_x2": 297.4594681,
+      "r_y2": 455.97322260000004,
+      "r_x3": 172.0,
+      "r_y3": 455.97322260000004,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Người kiểm tra: Nguyễn Thị Mỹ",
+    "orig": "Người kiểm tra: Nguyễn Thị Mỹ",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 19,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 49.0,
+      "r_y0": 558.2761260522324,
+      "r_x1": 271.3686387999999,
+      "r_y1": 558.2761260522324,
+      "r_x2": 271.3686387999999,
+      "r_y2": 548.1259767000001,
+      "r_x3": 49.0,
+      "r_y3": 548.1259767000001,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "4. Hướng dẫn an toàn / Safety instructions",
+    "orig": "4. Hướng dẫn an toàn / Safety instructions",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F2+0",
+    "font_name": "/AAAAAA+Arial-BoldMT"
+  },
+  {
+    "index": 20,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 49.0,
+      "r_y0": 590.0706170197618,
+      "r_x1": 519.1513390000006,
+      "r_y1": 590.0706170197618,
+      "r_x2": 519.1513390000006,
+      "r_y2": 580.836914,
+      "r_x3": 49.0,
+      "r_y3": 580.836914,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Ngắt nguồn trước khi vệ sinh. Không sử dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ",
+    "orig": "Ngắt nguồn trước khi vệ sinh. Không sử dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 21,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 49.0,
+      "r_y0": 603.8706170197618,
+      "r_x1": 229.0536979999999,
+      "r_y1": 603.8706170197618,
+      "r_x2": 229.0536979999999,
+      "r_y2": 594.636914,
+      "r_x3": 49.0,
+      "r_y3": 594.636914,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "phận Kỹ thuật nếu phát hiện bất thường.",
+    "orig": "phận Kỹ thuật nếu phát hiện bất thường.",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 22,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 49.0,
+      "r_y0": 651.0706170197618,
+      "r_x1": 529.2587640000004,
+      "r_y1": 651.0706170197618,
+      "r_x2": 529.2587640000004,
+      "r_y2": 641.836914,
+      "r_x3": 49.0,
+      "r_y3": 641.836914,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has",
+    "orig": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 23,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 49.0,
+      "r_y0": 664.8706170197618,
+      "r_x1": 185.74315599999994,
+      "r_y1": 664.8706170197618,
+      "r_x2": 185.74315599999994,
+      "r_y2": 655.636914,
+      "r_x3": 49.0,
+      "r_y3": 655.636914,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "approved the corrective action.",
+    "orig": "approved the corrective action.",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 24,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 49.0,
+      "r_y0": 714.8635553177857,
+      "r_x1": 254.46629739999972,
+      "r_y1": 714.8635553177857,
+      "r_x2": 254.46629739999972,
+      "r_y2": 706.5532226,
+      "r_x3": 49.0,
+      "r_y3": 706.5532226,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Hotline nội bộ (giả lập): 028-0000-017 | Revision 03",
+    "orig": "Hotline nội bộ (giả lập): 028-0000-017 | Revision 03",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/F3+0",
+    "font_name": "/AAAAAA+ArialMT"
+  },
+  {
+    "index": 25,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 279.0,
+      "r_y0": 305.66666666666663,
+      "r_x1": 321.6666666666667,
+      "r_y1": 305.66666666666663,
+      "r_x2": 321.6666666666667,
+      "r_y2": 293.0,
+      "r_x3": 279.0,
+      "r_y3": 293.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "QC-017",
+    "orig": "QC-017",
+    "text_direction": "left_to_right",
+    "confidence": 0.9830962900820837,
+    "from_ocr": true
+  },
+  {
+    "index": 26,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 279.33333333333337,
+      "r_y0": 321.33333333333337,
+      "r_x1": 329.3333333333333,
+      "r_y1": 321.33333333333337,
+      "r_x2": 329.3333333333333,
+      "r_y2": 311.33333333333337,
+      "r_x3": 279.33333333333337,
+      "r_y3": 311.33333333333337,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "THIÉT BỊ MẴU",
+    "orig": "THIÉT BỊ MẴU",
+    "text_direction": "left_to_right",
+    "confidence": 0.678768768063937,
+    "from_ocr": true
+  },
+  {
+    "index": 27,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 279.33333333333337,
+      "r_y0": 338.0,
+      "r_x1": 296.0,
+      "r_y1": 338.0,
+      "r_x2": 296.0,
+      "r_y2": 328.66666666666663,
+      "r_x3": 279.33333333333337,
+      "r_y3": 328.66666666666663,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "0/0 -",
+    "orig": "0/0 -",
+    "text_direction": "left_to_right",
+    "confidence": 0.6642911446198033,
+    "from_ocr": true
+  }
+]

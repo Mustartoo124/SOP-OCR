@@ -1,0 +1,64 @@
+{
+  "engine": "docling",
+  "pdf": "sop_hybrid.pdf",
+  "page": 1,
+  "inference_fingerprint": "98a5e78d4cf2e331d3f47c6de9d84e666cf340f168e6abff73068571fb61501f",
+  "artifacts": [
+    {
+      "file": "status.json",
+      "bytes": 380,
+      "sha256": "e5b420b0cdf772d65b84529b330463e7ab9cbfea0b4380bb51c9f0a35eb94e52"
+    },
+    {
+      "file": "evidence.json",
+      "bytes": 14113,
+      "sha256": "784cb25a10fc2524dae59e93d9720f0f0abee663be88cd857a94727f3ad4d29d"
+    },
+    {
+      "file": "evaluation.json",
+      "bytes": 8047,
+      "sha256": "c2505402b30b20bd645fec0862c1dcb064c8824eacabf8952901f0f69baf5f4d"
+    },
+    {
+      "file": "overlay.png",
+      "bytes": 221928,
+      "sha256": "18eac1ac0f4b3ce5dae34c5dd84e4c1c75bb6f09c7903523c23caea149460b65"
+    },
+    {
+      "file": "cells_overlay.png",
+      "bytes": 222093,
+      "sha256": "011caa7073821ad43c6b275032456b2d7e4b413893be414468e97cc6a27b08bd"
+    },
+    {
+      "file": "parser.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "crops.json",
+      "bytes": 461,
+      "sha256": "706156ef696ca6554a893a616ca6f2aa3e43fbf47c09956c71b95b656f869a3d"
+    },
+    {
+      "file": "raw_document.json",
+      "bytes": 291703,
+      "sha256": "3ea2d401c3bb2d6028e6f23220af56a3a85a6aa5d2c0ff00b519368b79ed5f6c"
+    },
+    {
+      "file": "document.md",
+      "bytes": 979,
+      "sha256": "d083823ee7e647624bdfbc6752cd21f30b8073697608f37d344f1a654dfcf858"
+    },
+    {
+      "file": "crop_020_figure.png",
+      "bytes": 2803,
+      "sha256": "8a129065401f3e062f3929a0b97bf4af387a3a13b8d2e73698e597f91c1fb4ec"
+    },
+    {
+      "file": "crop_021_figure.png",
+      "bytes": 39587,
+      "sha256": "8e215f317262d865bdb8b70386e9d93e76317eab451d56012a963c9eb75fe2b3"
+    }
+  ],
+  "note": "Only listed artifacts belong to the current successful attempt; archived retries are not exported"
+}
