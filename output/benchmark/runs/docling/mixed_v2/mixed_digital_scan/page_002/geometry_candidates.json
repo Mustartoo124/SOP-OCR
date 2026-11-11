@@ -1,0 +1,228 @@
+{
+  "tables": [
+    {
+      "rows": 2,
+      "cols": 3,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            39.955,
+            349.903,
+            119.864,
+            379.782
+          ],
+          "text": "STT",
+          "id": "geometry_table_0_cell_0",
+          "token_ids": [
+            "token_10"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            119.864,
+            349.903,
+            359.592,
+            379.782
+          ],
+          "text": "Bước",
+          "id": "geometry_table_0_cell_1",
+          "token_ids": [
+            "token_11"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            359.592,
+            349.903,
+            554.685,
+            379.782
+          ],
+          "text": "Lưu đổ",
+          "id": "geometry_table_0_cell_2",
+          "token_ids": [
+            "token_12"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            39.955,
+            379.782,
+            119.864,
+            619.891
+          ],
+          "text": "",
+          "id": "geometry_table_0_cell_3",
+          "token_ids": [],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            119.864,
+            379.782,
+            359.592,
+            619.891
+          ],
+          "text": "Tiếp nhận dữ liệu đẩu vào từ các đơn vị, Iập kế hoạch\ncân đối và phê duyệt.",
+          "id": "geometry_table_0_cell_4",
+          "token_ids": [
+            "token_13",
+            "token_14",
+            "token_15",
+            "token_20"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            359.592,
+            379.782,
+            554.685,
+            619.891
+          ],
+          "text": "",
+          "id": "geometry_table_0_cell_5",
+          "token_ids": [],
+          "needs_review": false
+        }
+      ],
+      "xs": [
+        39.955,
+        119.864,
+        359.592,
+        554.685
+      ],
+      "ys": [
+        349.903,
+        379.782,
+        619.891
+      ],
+      "grid_valid": true,
+      "bbox": [
+        39.954627949183305,
+        349.9033775117572,
+        554.6854204476709,
+        619.8905515177427
+      ],
+      "method": "raster_line_intersections",
+      "needs_review": false,
+      "id": "geometry_table_0",
+      "parent_ref": null
+    }
+  ],
+  "figures": [
+    {
+      "bbox": [
+        378.4283121597096,
+        388.54125694741344,
+        536.5686630369026,
+        592.4121419410004
+      ],
+      "label": "diagram",
+      "method": "closed_shapes_with_connectors",
+      "table_id": "geometry_table_0",
+      "node_count": 4,
+      "needs_review": true,
+      "id": "recovered_figure_0",
+      "type": "figure",
+      "parent_ref": "geometry_table_0_cell_5",
+      "child_refs": [],
+      "association": "contained_in_geometric_cell",
+      "metadata_text": "Nhận dữ Ỉỉệu\nLập kế hoạch\nPhê duyệt\nPhát hành"
+    }
+  ],
+  "nodes": [
+    {
+      "bbox": [
+        385.14821536600124,
+        560.1333903377512,
+        529.848759830611,
+        585.6921761436512
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        385.14821536600124,
+        505.0560068405302,
+        529.848759830611,
+        530.9747755451048
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        385.14821536600124,
+        449.97862334330915,
+        529.848759830611,
+        475.8973920478837
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        385.14821536600124,
+        395.26122274476273,
+        529.848759830611,
+        420.8200085506627
+      ],
+      "table_id": "geometry_table_0"
+    }
+  ],
+  "image_placements": [
+    {
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.0404052734375,
+        594.9973754882812,
+        841.9634399414062
+      ],
+      "transform": [
+        594.9973754882812,
+        0.0,
+        -0.0,
+        841.9230346679688,
+        0.0,
+        0.0404052734375
+      ],
+      "width": 1653,
+      "height": 2339,
+      "colorspace": 3,
+      "cs-name": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 163732,
+      "digest": "b'O*\\xe4\\x86\\x87\\xf6\\xc0\\xbaM!\\r+\\x19\\x96\\x80\\x10'",
+      "has-mask": false,
+      "xref": 42
+    }
+  ]
+}

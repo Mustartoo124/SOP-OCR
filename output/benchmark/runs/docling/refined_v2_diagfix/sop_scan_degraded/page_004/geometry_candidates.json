@@ -1,0 +1,249 @@
+{
+  "tables": [
+    {
+      "rows": 3,
+      "cols": 2,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            173.849,
+            165.734,
+            213.622
+          ],
+          "text": "Hạng mục",
+          "id": "geometry_table_0_cell_0",
+          "token_ids": [
+            "token_8"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            165.734,
+            173.849,
+            556.586,
+            213.622
+          ],
+          "text": "Thông tin / Minh họa",
+          "id": "geometry_table_0_cell_1",
+          "token_ids": [
+            "token_9"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            213.622,
+            165.734,
+            433.723
+          ],
+          "text": "Thiết bị và thao tác\nEquipment & action",
+          "id": "geometry_table_0_cell_2",
+          "token_ids": [
+            "token_10",
+            "token_12"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            165.734,
+            213.622,
+            556.586,
+            433.723
+          ],
+          "text": "Đốỉ chiếu nhãn QC-017 trước khi kết nốỉ nguồn.\nẢnh và sơ đồ là hai thành phần độc Iập trong cùng ô",
+          "id": "geometry_table_0_cell_3",
+          "token_ids": [
+            "token_11",
+            "token_20",
+            "token_21",
+            "token_26"
+          ],
+          "needs_review": true
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            433.723,
+            165.734,
+            493.652
+          ],
+          "text": "Kết quả",
+          "id": "geometry_table_0_cell_4",
+          "token_ids": [
+            "token_22"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            165.734,
+            433.723,
+            556.586,
+            493.652
+          ],
+          "text": "Đạt / Không đạt:\nNgườỉ kiểm tra: Nguyễn Thị Mỹ",
+          "id": "geometry_table_0_cell_5",
+          "token_ids": [
+            "token_23",
+            "token_24"
+          ],
+          "needs_review": false
+        }
+      ],
+      "xs": [
+        37.79,
+        165.734,
+        556.586
+      ],
+      "ys": [
+        173.849,
+        213.622,
+        433.723,
+        493.652
+      ],
+      "grid_valid": true,
+      "bbox": [
+        37.7895618148121,
+        173.84897783466158,
+        556.5862604438754,
+        493.65191118061773
+      ],
+      "method": "raster_line_intersections",
+      "needs_review": false,
+      "id": "geometry_table_0",
+      "parent_ref": null
+    }
+  ],
+  "figures": [
+    {
+      "bbox": [
+        176.35128846912315,
+        265.63259967283693,
+        380.4149222691085,
+        370.7338450718456
+      ],
+      "label": "image",
+      "method": "interior_raster_tone_region",
+      "needs_review": true,
+      "id": "recovered_figure_0",
+      "type": "figure",
+      "parent_ref": "geometry_table_0_cell_3",
+      "child_refs": [],
+      "association": "contained_in_geometric_cell",
+      "metadata_text": "24.8 C QC-017\nTHIET BI MAU\n0iO - 1/l"
+    },
+    {
+      "bbox": [
+        35.99005887124962,
+        25.195504034008923,
+        93.21425247653653,
+        68.74773243565292
+      ],
+      "label": "image",
+      "method": "interior_raster_tone_region",
+      "needs_review": true,
+      "id": "recovered_figure_1",
+      "type": "figure",
+      "parent_ref": null,
+      "child_refs": [],
+      "metadata_text": "NOVA"
+    },
+    {
+      "bbox": [
+        402.1272675999707,
+        260.3524712166658,
+        546.5706842461693,
+        396.53031252713834
+      ],
+      "label": "diagram",
+      "method": "closed_shapes_with_connectors",
+      "table_id": "geometry_table_0",
+      "node_count": 2,
+      "needs_review": true,
+      "id": "recovered_figure_2",
+      "type": "figure",
+      "parent_ref": "geometry_table_0_cell_3",
+      "child_refs": [],
+      "association": "contained_in_geometric_cell",
+      "metadata_text": "Kiểm tra nhãn\nKết nối nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "bbox": [
+        409.20696936610824,
+        353.0969922480393,
+        538.7711813026068,
+        388.7306336675663
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        409.20696936610824,
+        267.0723427604946,
+        538.7711813026068,
+        302.7059841800215
+      ],
+      "table_id": "geometry_table_0"
+    }
+  ],
+  "image_placements": [
+    {
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.0,
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "transform": [
+        595.2755737304688,
+        0.0,
+        -0.0,
+        841.8897705078125,
+        0.0,
+        0.0
+      ],
+      "width": 1323,
+      "height": 1871,
+      "colorspace": 3,
+      "cs-name": "DeviceRGB",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 1315521,
+      "digest": "b'}\\x84b\\xfe\\xad\\xccbHw\\xa6\\xa3\\x1f\\x02ak|'",
+      "has-mask": false,
+      "xref": 9
+    }
+  ]
+}

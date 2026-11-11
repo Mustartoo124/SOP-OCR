@@ -1,0 +1,24 @@
+[
+  {
+    "block_id": "recovered_figure_0",
+    "file": "crop_016_figure.png",
+    "bbox": [
+      96.0,
+      461.0,
+      500.0,
+      663.0
+    ],
+    "type": "figure"
+  },
+  {
+    "block_id": "recovered_figure_1",
+    "file": "crop_017_figure.png",
+    "bbox": [
+      37.429661226099604,
+      26.635247121666577,
+      92.49445129911153,
+      68.38779666373851
+    ],
+    "type": "figure"
+  }
+]

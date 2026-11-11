@@ -1,0 +1,68 @@
+{
+  "tables": [],
+  "figures": [
+    {
+      "bbox": [
+        95.3736560088115,
+        459.2780449627912,
+        500.6217188990822,
+        664.8013707259212
+      ],
+      "label": "image",
+      "method": "interior_raster_tone_region",
+      "needs_review": true,
+      "id": "recovered_figure_0",
+      "type": "figure",
+      "parent_ref": null,
+      "child_refs": [],
+      "metadata_text": "24.8 C QC-017\nTHIÉT BỊ MẪU\n0/O 1/1"
+    },
+    {
+      "bbox": [
+        35.99005887124962,
+        25.195504034008923,
+        93.57415306524902,
+        68.74773243565292
+      ],
+      "label": "image",
+      "method": "interior_raster_tone_region",
+      "needs_review": true,
+      "id": "recovered_figure_1",
+      "type": "figure",
+      "parent_ref": null,
+      "child_refs": [],
+      "metadata_text": "NOVA"
+    }
+  ],
+  "nodes": [],
+  "image_placements": [
+    {
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.0,
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "transform": [
+        595.2755737304688,
+        0.0,
+        -0.0,
+        841.8897705078125,
+        0.0,
+        0.0
+      ],
+      "width": 1323,
+      "height": 1871,
+      "colorspace": 3,
+      "cs-name": "DeviceRGB",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 1272693,
+      "digest": "b'6a\\\\\\xe4\\xf30\\xb7\\xa1\\x06\\xf61\\x84\\x0f\\xcd\\nF'",
+      "has-mask": false,
+      "xref": 3
+    }
+  ]
+}

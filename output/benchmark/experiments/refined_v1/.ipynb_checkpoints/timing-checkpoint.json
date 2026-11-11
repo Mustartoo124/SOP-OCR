@@ -1,0 +1,97 @@
+{
+  "run_name": "refined_v1",
+  "sequential": true,
+  "offline": true,
+  "started_utc": "2026-11-11T08:13:16.931496+00:00",
+  "total_wall_seconds": 1022.5912572997622,
+  "engines": [
+    {
+      "engine": "docling",
+      "command": [
+        "D:\\github\\SOP-OCR\\.venv-docling\\Scripts\\python.exe",
+        "-X",
+        "utf8",
+        "D:\\github\\SOP-OCR\\playground\\run.py",
+        "--engine",
+        "docling",
+        "--profile",
+        "refined",
+        "--run-name",
+        "refined_v1",
+        "--offline",
+        "--threads",
+        "4"
+      ],
+      "started_utc": "2026-11-11T08:13:16.931496+00:00",
+      "process_wall_seconds": 343.9607112002559,
+      "returncode": 0,
+      "console_log": "experiments/refined_v1/docling.console.log",
+      "execution": {
+        "engine": "docling",
+        "profile": "refined",
+        "runner_elapsed_seconds": 341.26777409994975,
+        "processed_pages": 16,
+        "skipped_pages": 0,
+        "failed_pages": 0,
+        "page_seconds": 312.6747663030401,
+        "phase_seconds": {
+          "input_preparation": 0.47006230149418116,
+          "parser_and_raw_export": 288.33168580010533,
+          "refinement_and_debug_export": 17.447255700826645,
+          "evidence_and_crop_export": 6.126113799866289
+        },
+        "model_downloads_allowed": false
+      },
+      "initialization": {
+        "state": "success",
+        "seconds": 28.300875999964774,
+        "peak_rss_bytes": 1017036800,
+        "includes_downloads_if_missing": true
+      }
+    },
+    {
+      "engine": "paddle",
+      "command": [
+        "D:\\github\\SOP-OCR\\.venv-paddle\\Scripts\\python.exe",
+        "-X",
+        "utf8",
+        "D:\\github\\SOP-OCR\\playground\\run.py",
+        "--engine",
+        "paddle",
+        "--profile",
+        "refined",
+        "--run-name",
+        "refined_v1",
+        "--offline",
+        "--threads",
+        "4"
+      ],
+      "started_utc": "2026-11-11T08:19:00.891607+00:00",
+      "process_wall_seconds": 678.6251081996597,
+      "returncode": 0,
+      "console_log": "experiments/refined_v1/paddle.console.log",
+      "execution": {
+        "engine": "paddle",
+        "profile": "refined",
+        "runner_elapsed_seconds": 677.1014702999964,
+        "processed_pages": 16,
+        "skipped_pages": 0,
+        "failed_pages": 0,
+        "page_seconds": 661.7599016986787,
+        "phase_seconds": {
+          "input_preparation": 0.15876599960029125,
+          "parser_and_raw_export": 637.8462592009455,
+          "refinement_and_debug_export": 17.663880200125277,
+          "evidence_and_crop_export": 5.77116629993543
+        },
+        "model_downloads_allowed": false
+      },
+      "initialization": {
+        "state": "success",
+        "seconds": 15.088003600016236,
+        "peak_rss_bytes": 1378484224,
+        "includes_downloads_if_missing": true
+      }
+    }
+  ]
+}

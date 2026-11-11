@@ -1,0 +1,914 @@
+{
+  "width": 595.0,
+  "height": 842.0,
+  "blocks": [
+    {
+      "id": "block_0",
+      "type": "text",
+      "label": "header",
+      "bbox": [
+        38.15486993345432,
+        20.87900812312954,
+        161.6182698124622,
+        30.238563488670373
+      ],
+      "text": "Thü tuc mäu phuc vu kiém thü",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_1",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        47.8735632183908,
+        75.95639162035057,
+        143.6206896551724,
+        89.99572466866182
+      ],
+      "text": "1. MUC DICH:",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        46.43375680580762,
+        98.995297135528,
+        530.5686630369025,
+        122.75416844805473
+      ],
+      "text": "Thü tuc nay duoc xác lap nham quy dinh cäc nguyen tac, phuong pháp, trách nhiem va cäch thüc trién khai lap ké hoach, tién hanh sän xuät va cung úng hang hóa ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_3",
+      "type": "text",
+      "label": "paragraph_title",
+      "bbox": [
+        47.8735632183908,
+        196.91064557503205,
+        130.66243194192376,
+        210.230012825994
+      ],
+      "text": "2. PHAM VI:",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_4",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        46.43375680580762,
+        219.22958529286018,
+        542.4470659407139,
+        242.98845660538692
+      ],
+      "text": "Thü tuc áp dung trong pham vi toan Cng ty, cho viec lap ké hoach san xuát va cung úng tät cá các sán phäm. Khng bao göm gia cong cho döi tác.\n",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_5",
+      "type": "text",
+      "label": "figure_title",
+      "bbox": [
+        47.8735632183908,
+        317.5049166310389,
+        143.2607380520266,
+        331.1842667806755
+      ],
+      "text": "LICH SU TAI LIEU ",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_6",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        38.51482153660012,
+        347.74348011970926,
+        554.6854204476708,
+        551.133817870885
+      ],
+      "text": "<table><tbody><tr><td>Stt</td><td colspan=\"2\">NOI DUNG DE XUAT (6 göp 2 cδt)</td><td>NGAY HIEU LU'C</td></tr><tr><td rowspan=\"2\">1</td><td>QP-75-01-PL1</td><td>Diéu chinh thi gian QA chuän cua nh6m süa thanh trüng</td><td>05/04/2024</td></tr><tr><td>E--T0-S/-10</td><td>enx ues ueum ew nea nanq maimm na!a Kea emu oaau</td><td></td></tr><tr><td colspan=\"4\">6ueq oq ueon 6uebu dob leu buey :nap!yg</td></tr><tr><td colspan=\"4\"></td></tr></tbody></table>",
+      "parent_ref": null,
+      "child_refs": []
+    },
+    {
+      "id": "block_7",
+      "type": "text",
+      "label": "footer",
+      "bbox": [
+        39.5946763460375,
+        811.401453612655,
+        156.93889897156683,
+        820.7610089781958
+      ],
+      "text": "M barse- to-lsto:at!l!et r ",
+      "parent_ref": null,
+      "child_refs": []
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        40.67453115547489,
+        23.398888413852074,
+        162.33817301875376,
+        30.598546387345017
+      ],
+      "text": "Thü tuc mäu phuc vu kiém thü",
+      "source_ref": "ocr_0"
+    },
+    {
+      "bbox": [
+        51.47307924984876,
+        77.75630611372381,
+        142.9007864488808,
+        90.71569046601111
+      ],
+      "text": "1. MUC DICH:",
+      "source_ref": "ocr_1"
+    },
+    {
+      "bbox": [
+        50.03327283726557,
+        100.43522873022658,
+        530.5686630369025,
+        111.59469858914066
+      ],
+      "text": "Thü tuc nay duoc xác lap nham quy dinh cäc nguyen tac, phuong pháp, trách nhiem va",
+      "source_ref": "ocr_2"
+    },
+    {
+      "bbox": [
+        50.75317604355717,
+        112.6746472851646,
+        471.17664851784633,
+        123.83411714407866
+      ],
+      "text": "cäch thüc trién khai lap ké hoach, tién hanh sän xuät va cung úng hang hóa",
+      "source_ref": "ocr_3"
+    },
+    {
+      "bbox": [
+        51.47307924984876,
+        200.15049166310388,
+        129.94252873563218,
+        210.230012825994
+      ],
+      "text": "2. PHAM VI:",
+      "source_ref": "ocr_4"
+    },
+    {
+      "bbox": [
+        49.673321234119776,
+        219.9495510902095,
+        543.1669691470054,
+        232.90893544249678
+      ],
+      "text": "Thü tuc áp dung trong pham vi toan Cng ty, cho viec lap ké hoach san xuát va cung úng",
+      "source_ref": "ocr_5"
+    },
+    {
+      "bbox": [
+        50.393224440411366,
+        232.90893544249678,
+        372.90986085904416,
+        243.7084224027362
+      ],
+      "text": "tät cá các sán phäm. Khng bao göm gia cong cho döi tác.",
+      "source_ref": "ocr_6"
+    },
+    {
+      "bbox": [
+        50.75317604355717,
+        319.30483112441215,
+        142.18088324258923,
+        331.1842667806755
+      ],
+      "text": "LICH SU TAI LIEU",
+      "source_ref": "ocr_7"
+    },
+    {
+      "bbox": [
+        42.47428917120387,
+        353.14322359982896,
+        56.51240169388989,
+        362.5027789653698
+      ],
+      "text": "Stt",
+      "source_ref": "ocr_8"
+    },
+    {
+      "bbox": [
+        82.42891712038717,
+        352.06327490380505,
+        223.8898971566848,
+        362.14279606669515
+      ],
+      "text": "NOI DUNG DE XUAT (6 göp 2 cδt)",
+      "source_ref": "ocr_9"
+    },
+    {
+      "bbox": [
+        383.3484573502722,
+        353.14322359982896,
+        450.29945553539017,
+        361.78281316802054
+      ],
+      "text": "NGAY HIEU LU'C",
+      "source_ref": "ocr_10"
+    },
+    {
+      "bbox": [
+        42.114337568058076,
+        383.3817870884994,
+        47.8735632183908,
+        391.66139375801623
+      ],
+      "text": "1",
+      "source_ref": "ocr_11"
+    },
+    {
+      "bbox": [
+        83.14882032667876,
+        384.10175288584867,
+        140.02117362371445,
+        391.66139375801623
+      ],
+      "text": "QP-75-01-PL1",
+      "source_ref": "ocr_12"
+    },
+    {
+      "bbox": [
+        203.01270417422867,
+        383.741769987174,
+        349.8729582577132,
+        392.0213766566909
+      ],
+      "text": "Diéu chinh thi gian QA chuän cua",
+      "source_ref": "ocr_13"
+    },
+    {
+      "bbox": [
+        383.708408953418,
+        384.10175288584867,
+        431.5819721718088,
+        391.66139375801623
+      ],
+      "text": "05/04/2024",
+      "source_ref": "ocr_14"
+    },
+    {
+      "bbox": [
+        203.01270417422867,
+        393.1013253527148,
+        297.32002419842706,
+        401.3809320222317
+      ],
+      "text": "nh6m süa thanh trüng",
+      "source_ref": "ocr_15"
+    },
+    {
+      "bbox": [
+        448.1397459165154,
+        428.7396323215049,
+        471.8965517241379,
+        516.5754595981189
+      ],
+      "text": "DUYET",
+      "source_ref": "ocr_16"
+    },
+    {
+      "bbox": [
+        83.50877192982456,
+        434.49935870029924,
+        135.34180278281912,
+        441.6990166737922
+      ],
+      "text": "E--T0-S/-10",
+      "source_ref": "ocr_17"
+    },
+    {
+      "bbox": [
+        203.01270417422867,
+        433.41941000427533,
+        364.99092558983665,
+        442.05899957246686
+      ],
+      "text": "enx ues ueum ew nea nanq maimm na!a",
+      "source_ref": "ocr_18"
+    },
+    {
+      "bbox": [
+        202.29280096793707,
+        441.6990166737922,
+        261.3248638838475,
+        452.13852073535696
+      ],
+      "text": "Kea emu oaau",
+      "source_ref": "ocr_19"
+    },
+    {
+      "bbox": [
+        43.19419237749546,
+        483.81701581872596,
+        226.76950998185117,
+        493.1765711842668
+      ],
+      "text": "6ueq oq ueon 6uebu dob leu buey :nap!yg",
+      "source_ref": "ocr_20"
+    },
+    {
+      "bbox": [
+        447.7797943133696,
+        505.4159897392048,
+        471.5366001209921,
+        560.4933732364258
+      ],
+      "text": "DA ",
+      "source_ref": "ocr_21"
+    },
+    {
+      "bbox": [
+        40.31457955232909,
+        812.8413852073536,
+        156.93889897156683,
+        821.1209918768704
+      ],
+      "text": "M barse- to-lsto:at!l!et r",
+      "source_ref": "ocr_22"
+    }
+  ],
+  "tables": [
+    {
+      "id": "block_6",
+      "bbox": [
+        38.51482153660012,
+        347.74348011970926,
+        554.6854204476708,
+        551.133817870885
+      ],
+      "rows": 5,
+      "cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Stt",
+          "column_header": false,
+          "bbox": [
+            39.55815532030081,
+            349.23873692121504,
+            79.37048190302077,
+            379.309439350469
+          ]
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 2,
+          "text": "NOI DUNG DE XUAT (6 göp 2 cδt)",
+          "column_header": false,
+          "bbox": [
+            79.44493997046533,
+            349.234889485888,
+            379.4455836688974,
+            379.29300183789144
+          ]
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "NGAY HIEU LU'C",
+          "column_header": false,
+          "bbox": [
+            379.2113866419483,
+            349.2041182426267,
+            552.2495956097814,
+            379.26637499003186
+          ]
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 2,
+          "colspan": 1,
+          "text": "1",
+          "column_header": false,
+          "bbox": [
+            39.72763269364437,
+            379.3180165186862,
+            79.38061542822531,
+            479.4210564400101
+          ]
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QP-75-01-PL1",
+          "column_header": false,
+          "bbox": [
+            79.33098587063824,
+            379.25380722770024,
+            199.52147680560674,
+            429.4264704201557
+          ]
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Diéu chinh thi gian QA chuän cua nh6m süa thanh trüng",
+          "column_header": false,
+          "bbox": [
+            199.39682071452708,
+            379.26603717649016,
+            379.47106852361236,
+            429.41941753255344
+          ]
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "05/04/2024",
+          "column_header": false,
+          "bbox": [
+            379.32270712370735,
+            379.1995098803888,
+            552.4880986983892,
+            429.2699721174497
+          ]
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "E--T0-S/-10",
+          "column_header": false,
+          "bbox": [
+            79.31988842474354,
+            429.45168284546264,
+            199.5002430882947,
+            479.4883335173869
+          ]
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "enx ues ueum ew nea nanq maimm na!a Kea emu oaau",
+          "column_header": false,
+          "bbox": [
+            199.3799589679808,
+            429.4007361690526,
+            379.4670920074887,
+            479.36797302428755
+          ]
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "",
+          "column_header": false,
+          "bbox": [
+            379.32991318607503,
+            429.26769805555926,
+            552.0979607242277,
+            479.15273910855166
+          ]
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 4,
+          "text": "6ueq oq ueon 6uebu dob leu buey :nap!yg",
+          "column_header": false,
+          "bbox": [
+            38.972079096890475,
+            479.22803582447926,
+            552.4934593057603,
+            529.3308814718663
+          ]
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 4,
+          "text": "",
+          "column_header": false,
+          "bbox": [
+            38.53112305573673,
+            529.2934088868022,
+            553.8056217477456,
+            551.0811519157993
+          ]
+        }
+      ],
+      "cell_box_count": 12,
+      "cell_box_alignment": "ordered_1_to_1",
+      "raw_cell_boxes": [
+        [
+          39.55815532030081,
+          349.23873692121504,
+          79.37048190302077,
+          379.309439350469
+        ],
+        [
+          79.44493997046533,
+          349.234889485888,
+          379.4455836688974,
+          379.29300183789144
+        ],
+        [
+          379.2113866419483,
+          349.2041182426267,
+          552.2495956097814,
+          379.26637499003186
+        ],
+        [
+          39.72763269364437,
+          379.3180165186862,
+          79.38061542822531,
+          479.4210564400101
+        ],
+        [
+          79.33098587063824,
+          379.25380722770024,
+          199.52147680560674,
+          429.4264704201557
+        ],
+        [
+          199.39682071452708,
+          379.26603717649016,
+          379.47106852361236,
+          429.41941753255344
+        ],
+        [
+          379.32270712370735,
+          379.1995098803888,
+          552.4880986983892,
+          429.2699721174497
+        ],
+        [
+          79.31988842474354,
+          429.45168284546264,
+          199.5002430882947,
+          479.4883335173869
+        ],
+        [
+          199.3799589679808,
+          429.4007361690526,
+          379.4670920074887,
+          479.36797302428755
+        ],
+        [
+          379.32991318607503,
+          429.26769805555926,
+          552.0979607242277,
+          479.15273910855166
+        ],
+        [
+          38.972079096890475,
+          479.22803582447926,
+          552.4934593057603,
+          529.3308814718663
+        ],
+        [
+          38.53112305573673,
+          529.2934088868022,
+          553.8056217477456,
+          551.0811519157993
+        ]
+      ],
+      "parent_ref": null
+    }
+  ],
+  "containers": [],
+  "status": "success",
+  "errors": [],
+  "tokens": [
+    {
+      "bbox": [
+        40.67453115547489,
+        23.398888413852074,
+        162.33817301875376,
+        30.598546387345017
+      ],
+      "text": "Thü tuc mäu phuc vu kiém thü",
+      "source_ref": "ocr_0",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9358733296394348
+    },
+    {
+      "bbox": [
+        51.47307924984876,
+        77.75630611372381,
+        142.9007864488808,
+        90.71569046601111
+      ],
+      "text": "1. MUC DICH:",
+      "source_ref": "ocr_1",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9588785767555237
+    },
+    {
+      "bbox": [
+        50.03327283726557,
+        100.43522873022658,
+        530.5686630369025,
+        111.59469858914066
+      ],
+      "text": "Thü tuc nay duoc xác lap nham quy dinh cäc nguyen tac, phuong pháp, trách nhiem va",
+      "source_ref": "ocr_2",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9212143421173096
+    },
+    {
+      "bbox": [
+        50.75317604355717,
+        112.6746472851646,
+        471.17664851784633,
+        123.83411714407866
+      ],
+      "text": "cäch thüc trién khai lap ké hoach, tién hanh sän xuät va cung úng hang hóa",
+      "source_ref": "ocr_3",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9248209595680237
+    },
+    {
+      "bbox": [
+        51.47307924984876,
+        200.15049166310388,
+        129.94252873563218,
+        210.230012825994
+      ],
+      "text": "2. PHAM VI:",
+      "source_ref": "ocr_4",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9009276032447815
+    },
+    {
+      "bbox": [
+        49.673321234119776,
+        219.9495510902095,
+        543.1669691470054,
+        232.90893544249678
+      ],
+      "text": "Thü tuc áp dung trong pham vi toan Cng ty, cho viec lap ké hoach san xuát va cung úng",
+      "source_ref": "ocr_5",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9435814619064331
+    },
+    {
+      "bbox": [
+        50.393224440411366,
+        232.90893544249678,
+        372.90986085904416,
+        243.7084224027362
+      ],
+      "text": "tät cá các sán phäm. Khng bao göm gia cong cho döi tác.",
+      "source_ref": "ocr_6",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9087914824485779
+    },
+    {
+      "bbox": [
+        50.75317604355717,
+        319.30483112441215,
+        142.18088324258923,
+        331.1842667806755
+      ],
+      "text": "LICH SU TAI LIEU",
+      "source_ref": "ocr_7",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.924423336982727
+    },
+    {
+      "bbox": [
+        42.47428917120387,
+        353.14322359982896,
+        56.51240169388989,
+        362.5027789653698
+      ],
+      "text": "Stt",
+      "source_ref": "ocr_8",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9998431205749512
+    },
+    {
+      "bbox": [
+        82.42891712038717,
+        352.06327490380505,
+        223.8898971566848,
+        362.14279606669515
+      ],
+      "text": "NOI DUNG DE XUAT (6 göp 2 cδt)",
+      "source_ref": "ocr_9",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.8914783596992493
+    },
+    {
+      "bbox": [
+        383.3484573502722,
+        353.14322359982896,
+        450.29945553539017,
+        361.78281316802054
+      ],
+      "text": "NGAY HIEU LU'C",
+      "source_ref": "ocr_10",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.944572925567627
+    },
+    {
+      "bbox": [
+        42.114337568058076,
+        383.3817870884994,
+        47.8735632183908,
+        391.66139375801623
+      ],
+      "text": "1",
+      "source_ref": "ocr_11",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9994138479232788
+    },
+    {
+      "bbox": [
+        83.14882032667876,
+        384.10175288584867,
+        140.02117362371445,
+        391.66139375801623
+      ],
+      "text": "QP-75-01-PL1",
+      "source_ref": "ocr_12",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9973800778388977
+    },
+    {
+      "bbox": [
+        203.01270417422867,
+        383.741769987174,
+        349.8729582577132,
+        392.0213766566909
+      ],
+      "text": "Diéu chinh thi gian QA chuän cua",
+      "source_ref": "ocr_13",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9505560398101807
+    },
+    {
+      "bbox": [
+        383.708408953418,
+        384.10175288584867,
+        431.5819721718088,
+        391.66139375801623
+      ],
+      "text": "05/04/2024",
+      "source_ref": "ocr_14",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.999437153339386
+    },
+    {
+      "bbox": [
+        203.01270417422867,
+        393.1013253527148,
+        297.32002419842706,
+        401.3809320222317
+      ],
+      "text": "nh6m süa thanh trüng",
+      "source_ref": "ocr_15",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9707945585250854
+    },
+    {
+      "bbox": [
+        448.1397459165154,
+        428.7396323215049,
+        471.8965517241379,
+        516.5754595981189
+      ],
+      "text": "DUYET",
+      "source_ref": "ocr_16",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9987105131149292
+    },
+    {
+      "bbox": [
+        83.50877192982456,
+        434.49935870029924,
+        135.34180278281912,
+        441.6990166737922
+      ],
+      "text": "E--T0-S/-10",
+      "source_ref": "ocr_17",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.5153265595436096
+    },
+    {
+      "bbox": [
+        203.01270417422867,
+        433.41941000427533,
+        364.99092558983665,
+        442.05899957246686
+      ],
+      "text": "enx ues ueum ew nea nanq maimm na!a",
+      "source_ref": "ocr_18",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.5945250391960144
+    },
+    {
+      "bbox": [
+        202.29280096793707,
+        441.6990166737922,
+        261.3248638838475,
+        452.13852073535696
+      ],
+      "text": "Kea emu oaau",
+      "source_ref": "ocr_19",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.6253275275230408
+    },
+    {
+      "bbox": [
+        43.19419237749546,
+        483.81701581872596,
+        226.76950998185117,
+        493.1765711842668
+      ],
+      "text": "6ueq oq ueon 6uebu dob leu buey :nap!yg",
+      "source_ref": "ocr_20",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.5747488141059875
+    },
+    {
+      "bbox": [
+        447.7797943133696,
+        505.4159897392048,
+        471.5366001209921,
+        560.4933732364258
+      ],
+      "text": "DA ",
+      "source_ref": "ocr_21",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.9735307693481445
+    },
+    {
+      "bbox": [
+        40.31457955232909,
+        812.8413852073536,
+        156.93889897156683,
+        821.1209918768704
+      ],
+      "text": "M barse- to-lsto:at!l!et r",
+      "source_ref": "ocr_22",
+      "from_ocr": true,
+      "source": "paddle_overall_ocr",
+      "confidence": 0.3618738353252411
+    }
+  ]
+}

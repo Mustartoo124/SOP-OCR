@@ -1,0 +1,460 @@
+{
+  "tables": [
+    {
+      "rows": 5,
+      "cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            173.849,
+            217.74,
+            214.882
+          ],
+          "text": "Lưu đồ",
+          "id": "geometry_table_0_cell_0",
+          "token_ids": [
+            "token_10"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.74,
+            173.849,
+            286.841,
+            214.882
+          ],
+          "text": "Trách nhiệm",
+          "id": "geometry_table_0_cell_1",
+          "token_ids": [
+            "token_11"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.841,
+            173.849,
+            464.632,
+            214.882
+          ],
+          "text": "Diễn giải",
+          "id": "geometry_table_0_cell_2",
+          "token_ids": [
+            "token_12"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            173.849,
+            556.766,
+            214.882
+          ],
+          "text": "Biểu mẫu",
+          "id": "geometry_table_0_cell_3",
+          "token_ids": [
+            "token_13"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 4,
+          "colspan": 1,
+          "bbox": [
+            37.79,
+            214.882,
+            217.74,
+            674.88
+          ],
+          "text": "",
+          "id": "geometry_table_0_cell_4",
+          "token_ids": [],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.74,
+            214.882,
+            286.841,
+            329.701
+          ],
+          "text": "Sản xuất",
+          "id": "geometry_table_0_cell_5",
+          "token_ids": [
+            "token_14"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.841,
+            214.882,
+            464.632,
+            329.701
+          ],
+          "text": "Tiếp nhận thiết bị- Kiểm tra mã, tem hiệu\nchuẩn và tình trạng bên ngoài.",
+          "id": "geometry_table_0_cell_6",
+          "token_ids": [
+            "token_15",
+            "token_17"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            214.882,
+            556.766,
+            329.701
+          ],
+          "text": "QP-74-02-F6",
+          "id": "geometry_table_0_cell_7",
+          "token_ids": [
+            "token_16"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.74,
+            329.701,
+            286.841,
+            444.881
+          ],
+          "text": "Kỹ thuật",
+          "id": "geometry_table_0_cell_8",
+          "token_ids": [
+            "token_21"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.841,
+            329.701,
+            464.632,
+            444.881
+          ],
+          "text": "Đo thông số theo hướng dẫn. Ghi nhận\nnhiệt độ 20-25  C và mã QC-017 .",
+          "id": "geometry_table_0_cell_9",
+          "token_ids": [
+            "token_22",
+            "token_23",
+            "token_25",
+            "token_39"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            329.701,
+            556.766,
+            444.881
+          ],
+          "text": "HD-74-01",
+          "id": "geometry_table_0_cell_10",
+          "token_ids": [
+            "token_24"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.74,
+            444.881,
+            286.841,
+            559.7
+          ],
+          "text": "QA",
+          "id": "geometry_table_0_cell_11",
+          "token_ids": [
+            "token_28"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.841,
+            444.881,
+            464.632,
+            559.7
+          ],
+          "text": "Đối chiếu tiêu chí. Nếu không đạt: cách ly\nvà lập phiếu xử lý sai Iệch.",
+          "id": "geometry_table_0_cell_12",
+          "token_ids": [
+            "token_29",
+            "token_31"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            444.881,
+            556.766,
+            559.7
+          ],
+          "text": "NC-01",
+          "id": "geometry_table_0_cell_13",
+          "token_ids": [
+            "token_30"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            217.74,
+            559.7,
+            286.841,
+            674.88
+          ],
+          "text": "QA / Kho",
+          "id": "geometry_table_0_cell_14",
+          "token_ids": [
+            "token_34"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            286.841,
+            559.7,
+            464.632,
+            674.88
+          ],
+          "text": "Phê duyệt thiết bị đạt yêu cầu. Cập nhật\ndanh mục và lưu hồ sơ",
+          "id": "geometry_table_0_cell_15",
+          "token_ids": [
+            "token_35",
+            "token_37"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            464.632,
+            559.7,
+            556.766,
+            674.88
+          ],
+          "text": "DM-THIETBI",
+          "id": "geometry_table_0_cell_16",
+          "token_ids": [
+            "token_36"
+          ],
+          "needs_review": false
+        }
+      ],
+      "xs": [
+        37.79,
+        217.74,
+        286.841,
+        464.63199999999995,
+        556.766
+      ],
+      "ys": [
+        173.849,
+        214.882,
+        329.701,
+        444.8809999999999,
+        559.6999999999999,
+        674.88
+      ],
+      "grid_valid": true,
+      "bbox": [
+        37.7895618148121,
+        173.84897783466158,
+        556.7662107382316,
+        674.8795723395248
+      ],
+      "method": "raster_line_intersections",
+      "needs_review": false,
+      "id": "geometry_table_0",
+      "parent_ref": null
+    }
+  ],
+  "figures": [
+    {
+      "bbox": [
+        37.06976063738711,
+        26.275311349752165,
+        92.49445129911153,
+        68.74773243565292
+      ],
+      "label": "image",
+      "method": "interior_raster_tone_region",
+      "needs_review": true,
+      "id": "recovered_figure_0",
+      "type": "figure",
+      "parent_ref": null,
+      "child_refs": [],
+      "metadata_text": "NOVA"
+    },
+    {
+      "bbox": [
+        44.38608241974947,
+        228.318187516283,
+        206.8245285015729,
+        655.6840683055159
+      ],
+      "label": "diagram",
+      "method": "closed_shapes_with_connectors",
+      "table_id": "geometry_table_0",
+      "node_count": 5,
+      "needs_review": true,
+      "id": "recovered_figure_1",
+      "type": "figure",
+      "parent_ref": "geometry_table_0",
+      "child_refs": [],
+      "association": "table_region_crosses_row_bands",
+      "metadata_text": "Tiếp nhận thiết bị\nKiểm tra Đo\n[Không\nĐạt yêu cầu?\nCó\nPhê duyệt; Iưu hồ sơ\nKết thúc"
+    }
+  ],
+  "nodes": [
+    {
+      "bbox": [
+        77.01872598447419,
+        612.2507480264169,
+        192.90671554989797,
+        648.6042609897726
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        77.01872598447419,
+        521.1869977320703,
+        192.90671554989797,
+        561.859739958399
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        71.98011774249925,
+        401.68832145648514,
+        197.94532379187294,
+        463.2373384538498
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        77.01872598447419,
+        316.0236077408548,
+        192.90671554989797,
+        355.6165426514402
+      ],
+      "table_id": "geometry_table_0"
+    },
+    {
+      "bbox": [
+        77.01872598447419,
+        235.39799483202623,
+        192.90671554989797,
+        271.751507795382
+      ],
+      "table_id": "geometry_table_0"
+    }
+  ],
+  "image_placements": [
+    {
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.0,
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "transform": [
+        595.2755737304688,
+        0.0,
+        -0.0,
+        841.8897705078125,
+        0.0,
+        0.0
+      ],
+      "width": 1323,
+      "height": 1871,
+      "colorspace": 3,
+      "cs-name": "DeviceRGB",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 403383,
+      "digest": "b'f\\x83JTC\\x90=\\x9eS\\x9c\\x9e\\x90\\xe9\\xbe\\x0b\\x95'",
+      "has-mask": false,
+      "xref": 7
+    }
+  ]
+}

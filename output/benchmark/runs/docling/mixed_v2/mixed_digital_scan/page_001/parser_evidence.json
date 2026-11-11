@@ -1,0 +1,1012 @@
+{
+  "width": 595.0,
+  "height": 842.0,
+  "blocks": [
+    {
+      "id": "#/texts/0",
+      "type": "heading",
+      "label": "page_header",
+      "bbox": [
+        40.0,
+        22.576000000000022,
+        162.77599999999998,
+        31.879999999999995
+      ],
+      "text": "Thủ tục mẫu phục vụ kiểm thử",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/1",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        50.0,
+        77.00800000000004,
+        144.234,
+        93.28999999999996
+      ],
+      "text": "1. MỤC ĐÍCH:",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/2",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        50.0,
+        100.00242000000003,
+        531.8660000000003,
+        124.68104000000005
+      ],
+      "text": "Thủ tục này được xác lập nhằm quy định các nguyên tắc, phương pháp, trách nhiệm và cách thức triển khai lập kế hoạch, tiến hành sản xuất và cung ứng hàng hóa.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/3",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        50.0,
+        197.00800000000004,
+        131.214,
+        213.28999999999996
+      ],
+      "text": "2. PHẠM VI:",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/4",
+      "type": "text",
+      "label": "text",
+      "bbox": [
+        50.0,
+        220.00242000000003,
+        543.9440000000003,
+        244.68104000000005
+      ],
+      "text": "Thủ tục áp dụng trong phạm vi toàn Công ty, cho việc lập kế hoạch sản xuất và cung ứng tất cả các sản phẩm. Không bao gồm gia công cho đối tác.",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/5",
+      "type": "heading",
+      "label": "section_header",
+      "bbox": [
+        50.0,
+        319.79200000000003,
+        143.97299999999996,
+        332.585
+      ],
+      "text": "LỊCH SỬ TÀI LIỆU",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/texts/6",
+      "type": "text",
+      "label": "page_footer",
+      "bbox": [
+        40.0,
+        812.576,
+        158.46399999999997,
+        821.88
+      ],
+      "text": "Mã tài liệu: TEST-01 - Trang 1",
+      "parent_ref": "#/body",
+      "child_refs": []
+    },
+    {
+      "id": "#/tables/0",
+      "type": "table",
+      "label": "table",
+      "bbox": [
+        38.72651290893555,
+        348.6844482421875,
+        555.7058715820312,
+        559.3591918945312
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "texts": [
+    {
+      "bbox": [
+        40.0,
+        22.576000000000022,
+        162.77599999999998,
+        31.879999999999995
+      ],
+      "text": "Thủ tục mẫu phục vụ kiểm thử",
+      "source_ref": "#/texts/0"
+    },
+    {
+      "bbox": [
+        50.0,
+        77.00800000000004,
+        144.234,
+        93.28999999999996
+      ],
+      "text": "1. MỤC ĐÍCH:",
+      "source_ref": "#/texts/1"
+    },
+    {
+      "bbox": [
+        50.0,
+        100.00242000000003,
+        531.8660000000003,
+        124.68104000000005
+      ],
+      "text": "Thủ tục này được xác lập nhằm quy định các nguyên tắc, phương pháp, trách nhiệm và cách thức triển khai lập kế hoạch, tiến hành sản xuất và cung ứng hàng hóa.",
+      "source_ref": "#/texts/2"
+    },
+    {
+      "bbox": [
+        50.0,
+        197.00800000000004,
+        131.214,
+        213.28999999999996
+      ],
+      "text": "2. PHẠM VI:",
+      "source_ref": "#/texts/3"
+    },
+    {
+      "bbox": [
+        50.0,
+        220.00242000000003,
+        543.9440000000003,
+        244.68104000000005
+      ],
+      "text": "Thủ tục áp dụng trong phạm vi toàn Công ty, cho việc lập kế hoạch sản xuất và cung ứng tất cả các sản phẩm. Không bao gồm gia công cho đối tác.",
+      "source_ref": "#/texts/4"
+    },
+    {
+      "bbox": [
+        50.0,
+        319.79200000000003,
+        143.97299999999996,
+        332.585
+      ],
+      "text": "LỊCH SỬ TÀI LIỆU",
+      "source_ref": "#/texts/5"
+    },
+    {
+      "bbox": [
+        40.0,
+        812.576,
+        158.46399999999997,
+        821.88
+      ],
+      "text": "Mã tài liệu: TEST-01 - Trang 1",
+      "source_ref": "#/texts/6"
+    },
+    {
+      "bbox": [
+        43.0,
+        353.00190000000003,
+        55.053000000000004,
+        362.8874
+      ],
+      "text": "Stt",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        83.0,
+        353.00190000000003,
+        224.47400000000005,
+        362.8874
+      ],
+      "text": "NỘI DUNG ĐỀ XUẤT (ô gộp 2 cột)",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        383.0,
+        353.00190000000003,
+        450.7365000000001,
+        362.8874
+      ],
+      "text": "NGÀY HIỆU LỰC",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        43.0,
+        383.00190000000003,
+        48.406,
+        392.8874
+      ],
+      "text": "1",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        83.0,
+        383.00190000000003,
+        140.88500000000002,
+        392.8874
+      ],
+      "text": "QP-75-01-PL1",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        203.0,
+        383.00190000000003,
+        350.2199999999999,
+        402.07171
+      ],
+      "text": "Điều chỉnh thời gian QA chuẩn của nhóm sữa thanh trùng",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        383.0,
+        383.00190000000003,
+        431.96000000000004,
+        392.8874
+      ],
+      "text": "05/04/2024",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        83.0,
+        433.00190000000003,
+        135.91250000000002,
+        442.8874
+      ],
+      "text": "QP-75-01-F3",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        203.0,
+        433.00190000000003,
+        365.656,
+        452.07171
+      ],
+      "text": "Điều chỉnh biểu mẫu Ma trận sản xuất theo nhà máy",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        43.0,
+        483.00190000000003,
+        476.11,
+        560.0
+      ],
+      "text": "Ghi chú: hàng này gộp ngang toàn bộ bảng ĐÃ",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    },
+    {
+      "bbox": [
+        445.872,
+        426.6979999999999,
+        476.11,
+        513.8499999999999
+      ],
+      "text": "DUYỆT",
+      "source_ref": "#/tables/0",
+      "source": "table_cell"
+    }
+  ],
+  "tables": [
+    {
+      "id": "#/tables/0",
+      "bbox": [
+        38.72651290893555,
+        348.6844482421875,
+        555.7058715820312,
+        559.3591918945312
+      ],
+      "rows": 4,
+      "cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Stt",
+          "bbox": [
+            43.0,
+            353.00190000000003,
+            55.053000000000004,
+            362.8874
+          ],
+          "column_header": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 2,
+          "text": "NỘI DUNG ĐỀ XUẤT (ô gộp 2 cột)",
+          "bbox": [
+            83.0,
+            353.00190000000003,
+            224.47400000000005,
+            362.8874
+          ],
+          "column_header": false
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "NGÀY HIỆU LỰC",
+          "bbox": [
+            383.0,
+            353.00190000000003,
+            450.7365000000001,
+            362.8874
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "1",
+          "bbox": [
+            43.0,
+            383.00190000000003,
+            48.406,
+            392.8874
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QP-75-01-PL1",
+          "bbox": [
+            83.0,
+            383.00190000000003,
+            140.88500000000002,
+            392.8874
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Điều chỉnh thời gian QA chuẩn của nhóm sữa thanh trùng",
+          "bbox": [
+            203.0,
+            383.00190000000003,
+            350.2199999999999,
+            402.07171
+          ],
+          "column_header": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "05/04/2024",
+          "bbox": [
+            383.0,
+            383.00190000000003,
+            431.96000000000004,
+            392.8874
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "QP-75-01-F3",
+          "bbox": [
+            83.0,
+            433.00190000000003,
+            135.91250000000002,
+            442.8874
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "Điều chỉnh biểu mẫu Ma trận sản xuất theo nhà máy",
+          "bbox": [
+            203.0,
+            433.00190000000003,
+            365.656,
+            452.07171
+          ],
+          "column_header": false
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 4,
+          "text": "Ghi chú: hàng này gộp ngang toàn bộ bảng ĐÃ",
+          "bbox": [
+            43.0,
+            483.00190000000003,
+            476.11,
+            560.0
+          ],
+          "column_header": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "text": "DUYỆT",
+          "bbox": [
+            445.872,
+            426.6979999999999,
+            476.11,
+            513.8499999999999
+          ],
+          "column_header": false
+        }
+      ],
+      "parent_ref": "#/body"
+    }
+  ],
+  "containers": [],
+  "status": "ConversionStatus.SUCCESS",
+  "errors": [],
+  "tokens": [
+    {
+      "id": "pipeline_0",
+      "bbox": [
+        40.0,
+        22.576000000000022,
+        162.77599999999998,
+        31.879999999999995
+      ],
+      "text": "Thủ tục mẫu phục vụ kiểm thử",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 40.0,
+        "r_y0": 31.879999999999995,
+        "r_x1": 162.77599999999998,
+        "r_y1": 31.879999999999995,
+        "r_x2": 162.77599999999998,
+        "r_y2": 22.576000000000022,
+        "r_x3": 40.0,
+        "r_y3": 22.576000000000022,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_1",
+      "bbox": [
+        50.0,
+        77.00800000000004,
+        144.234,
+        93.28999999999996
+      ],
+      "text": "1. MỤC ĐÍCH:",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 50.0,
+        "r_y0": 93.28999999999996,
+        "r_x1": 144.234,
+        "r_y1": 93.28999999999996,
+        "r_x2": 144.234,
+        "r_y2": 77.00800000000004,
+        "r_x3": 50.0,
+        "r_y3": 77.00800000000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_2",
+      "bbox": [
+        50.0,
+        100.00242000000003,
+        531.8660000000003,
+        112.79542000000004
+      ],
+      "text": "Thủ tục này được xác lập nhằm quy định các nguyên tắc, phương pháp, trách nhiệm và",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 50.0,
+        "r_y0": 112.79542000000004,
+        "r_x1": 531.8660000000003,
+        "r_y1": 112.79542000000004,
+        "r_x2": 531.8660000000003,
+        "r_y2": 100.00242000000003,
+        "r_x3": 50.0,
+        "r_y3": 100.00242000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_3",
+      "bbox": [
+        50.0,
+        111.88804000000005,
+        473.1040000000005,
+        124.68104000000005
+      ],
+      "text": "cách thức triển khai lập kế hoạch, tiến hành sản xuất và cung ứng hàng hóa.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 50.0,
+        "r_y0": 124.68104000000005,
+        "r_x1": 473.1040000000005,
+        "r_y1": 124.68104000000005,
+        "r_x2": 473.1040000000005,
+        "r_y2": 111.88804000000005,
+        "r_x3": 50.0,
+        "r_y3": 111.88804000000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_4",
+      "bbox": [
+        50.0,
+        197.00800000000004,
+        131.214,
+        213.28999999999996
+      ],
+      "text": "2. PHẠM VI:",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 50.0,
+        "r_y0": 213.28999999999996,
+        "r_x1": 131.214,
+        "r_y1": 213.28999999999996,
+        "r_x2": 131.214,
+        "r_y2": 197.00800000000004,
+        "r_x3": 50.0,
+        "r_y3": 197.00800000000004,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_5",
+      "bbox": [
+        50.0,
+        220.00242000000003,
+        543.9440000000003,
+        232.79542000000004
+      ],
+      "text": "Thủ tục áp dụng trong phạm vi toàn Công ty, cho việc lập kế hoạch sản xuất và cung ứng",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 50.0,
+        "r_y0": 232.79542000000004,
+        "r_x1": 543.9440000000003,
+        "r_y1": 232.79542000000004,
+        "r_x2": 543.9440000000003,
+        "r_y2": 220.00242000000003,
+        "r_x3": 50.0,
+        "r_y3": 220.00242000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_6",
+      "bbox": [
+        50.0,
+        231.88804000000005,
+        373.21300000000014,
+        244.68104000000005
+      ],
+      "text": "tất cả các sản phẩm. Không bao gồm gia công cho đối tác.",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 50.0,
+        "r_y0": 244.68104000000005,
+        "r_x1": 373.21300000000014,
+        "r_y1": 244.68104000000005,
+        "r_x2": 373.21300000000014,
+        "r_y2": 231.88804000000005,
+        "r_x3": 50.0,
+        "r_y3": 231.88804000000005,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_7",
+      "bbox": [
+        40.0,
+        812.576,
+        158.46399999999997,
+        821.88
+      ],
+      "text": "Mã tài liệu: TEST-01 - Trang 1",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 40.0,
+        "r_y0": 821.88,
+        "r_x1": 158.46399999999997,
+        "r_y1": 821.88,
+        "r_x2": 158.46399999999997,
+        "r_y2": 812.576,
+        "r_x3": 40.0,
+        "r_y3": 812.576,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_8",
+      "bbox": [
+        50.0,
+        319.79200000000003,
+        143.97299999999996,
+        332.585
+      ],
+      "text": "LỊCH SỬ TÀI LIỆU",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 50.0,
+        "r_y0": 332.585,
+        "r_x1": 143.97299999999996,
+        "r_y1": 332.585,
+        "r_x2": 143.97299999999996,
+        "r_y2": 319.79200000000003,
+        "r_x3": 50.0,
+        "r_y3": 319.79200000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_9",
+      "bbox": [
+        43.0,
+        353.00190000000003,
+        55.053000000000004,
+        362.8874
+      ],
+      "text": "Stt",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 43.0,
+        "r_y0": 362.8874,
+        "r_x1": 55.053000000000004,
+        "r_y1": 362.8874,
+        "r_x2": 55.053000000000004,
+        "r_y2": 353.00190000000003,
+        "r_x3": 43.0,
+        "r_y3": 353.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_10",
+      "bbox": [
+        83.0,
+        353.00190000000003,
+        224.47400000000005,
+        362.8874
+      ],
+      "text": "NỘI DUNG ĐỀ XUẤT (ô gộp 2 cột)",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 83.0,
+        "r_y0": 362.8874,
+        "r_x1": 224.47400000000005,
+        "r_y1": 362.8874,
+        "r_x2": 224.47400000000005,
+        "r_y2": 353.00190000000003,
+        "r_x3": 83.0,
+        "r_y3": 353.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_11",
+      "bbox": [
+        383.0,
+        353.00190000000003,
+        450.7365000000001,
+        362.8874
+      ],
+      "text": "NGÀY HIỆU LỰC",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 383.0,
+        "r_y0": 362.8874,
+        "r_x1": 450.7365000000001,
+        "r_y1": 362.8874,
+        "r_x2": 450.7365000000001,
+        "r_y2": 353.00190000000003,
+        "r_x3": 383.0,
+        "r_y3": 353.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_12",
+      "bbox": [
+        43.0,
+        383.00190000000003,
+        48.406,
+        392.8874
+      ],
+      "text": "1",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 43.0,
+        "r_y0": 392.8874,
+        "r_x1": 48.406,
+        "r_y1": 392.8874,
+        "r_x2": 48.406,
+        "r_y2": 383.00190000000003,
+        "r_x3": 43.0,
+        "r_y3": 383.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_13",
+      "bbox": [
+        83.0,
+        383.00190000000003,
+        140.88500000000002,
+        392.8874
+      ],
+      "text": "QP-75-01-PL1",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 83.0,
+        "r_y0": 392.8874,
+        "r_x1": 140.88500000000002,
+        "r_y1": 392.8874,
+        "r_x2": 140.88500000000002,
+        "r_y2": 383.00190000000003,
+        "r_x3": 83.0,
+        "r_y3": 383.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_14",
+      "bbox": [
+        203.0,
+        383.00190000000003,
+        350.2199999999999,
+        392.8874
+      ],
+      "text": "Điều chỉnh thời gian QA chuẩn của",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 203.0,
+        "r_y0": 392.8874,
+        "r_x1": 350.2199999999999,
+        "r_y1": 392.8874,
+        "r_x2": 350.2199999999999,
+        "r_y2": 383.00190000000003,
+        "r_x3": 203.0,
+        "r_y3": 383.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_15",
+      "bbox": [
+        203.0,
+        392.18621,
+        297.97049999999996,
+        402.07171
+      ],
+      "text": "nhóm sữa thanh trùng",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 203.0,
+        "r_y0": 402.07171,
+        "r_x1": 297.97049999999996,
+        "r_y1": 402.07171,
+        "r_x2": 297.97049999999996,
+        "r_y2": 392.18621,
+        "r_x3": 203.0,
+        "r_y3": 392.18621,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_16",
+      "bbox": [
+        383.0,
+        383.00190000000003,
+        431.96000000000004,
+        392.8874
+      ],
+      "text": "05/04/2024",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 383.0,
+        "r_y0": 392.8874,
+        "r_x1": 431.96000000000004,
+        "r_y1": 392.8874,
+        "r_x2": 431.96000000000004,
+        "r_y2": 383.00190000000003,
+        "r_x3": 383.0,
+        "r_y3": 383.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_17",
+      "bbox": [
+        83.0,
+        433.00190000000003,
+        135.91250000000002,
+        442.8874
+      ],
+      "text": "QP-75-01-F3",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 83.0,
+        "r_y0": 442.8874,
+        "r_x1": 135.91250000000002,
+        "r_y1": 442.8874,
+        "r_x2": 135.91250000000002,
+        "r_y2": 433.00190000000003,
+        "r_x3": 83.0,
+        "r_y3": 433.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_18",
+      "bbox": [
+        203.0,
+        433.00190000000003,
+        365.656,
+        442.8874
+      ],
+      "text": "Điều chỉnh biểu mẫu Ma trận sản xuất",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 203.0,
+        "r_y0": 442.8874,
+        "r_x1": 365.656,
+        "r_y1": 442.8874,
+        "r_x2": 365.656,
+        "r_y2": 433.00190000000003,
+        "r_x3": 203.0,
+        "r_y3": 433.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_19",
+      "bbox": [
+        203.0,
+        442.18621,
+        261.99000000000007,
+        452.07171
+      ],
+      "text": "theo nhà máy",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 203.0,
+        "r_y0": 452.07171,
+        "r_x1": 261.99000000000007,
+        "r_y1": 452.07171,
+        "r_x2": 261.99000000000007,
+        "r_y2": 442.18621,
+        "r_x3": 203.0,
+        "r_y3": 442.18621,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_20",
+      "bbox": [
+        43.0,
+        483.00190000000003,
+        227.8750000000001,
+        492.8874
+      ],
+      "text": "Ghi chú: hàng này gộp ngang toàn bộ bảng",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 43.0,
+        "r_y0": 492.8874,
+        "r_x1": 227.8750000000001,
+        "r_y1": 492.8874,
+        "r_x2": 227.8750000000001,
+        "r_y2": 483.00190000000003,
+        "r_x3": 43.0,
+        "r_y3": 483.00190000000003,
+        "coord_origin": "TOPLEFT"
+      }
+    },
+    {
+      "id": "pipeline_21",
+      "bbox": [
+        445.872,
+        426.6979999999999,
+        476.11,
+        560.0
+      ],
+      "text": "ĐÃ DUYỆT",
+      "from_ocr": false,
+      "confidence": 1.0,
+      "source": "docling_parsed_page",
+      "quad": {
+        "r_x0": 476.11,
+        "r_y0": 560.0,
+        "r_x1": 476.11,
+        "r_y1": 426.6979999999999,
+        "r_x2": 445.872,
+        "r_y2": 426.6979999999999,
+        "r_x3": 445.872,
+        "r_y3": 560.0,
+        "coord_origin": "TOPLEFT"
+      }
+    }
+  ]
+}

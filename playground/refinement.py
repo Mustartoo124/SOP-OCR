@@ -159,7 +159,14 @@ def diagrams_in_tables(image,tables,images,width,height,binary,grid_mask):
         b=[x/sx,y/sy,(x+w)/sx,(y+h)/sy]
         if w/sx<28 or h/sy<14 or w/h<.4 or w/h>8:continue
         polygon=cv2.approxPolyDP(contour,.018*cv2.arcLength(contour,True),True)
-        if not (4<=len(polygon)<=8 and cv2.isContourConvex(polygon)):continue
+        if not (4<=len(polygon)<=8 and cv2.isContourConvex(polygon)):
+            # Glyph strokes touching a node border add thin spikes to the contour. Accept it when its convex hull is
+            # still a near-solid quadrilateral-like shape (solidity >= .95, <=8 hull vertices).
+            hull=cv2.convexHull(contour)
+            hull_area=cv2.contourArea(hull)
+            if hull_area<=0 or cv2.contourArea(contour)/hull_area<.95:continue
+            hull_polygon=cv2.approxPolyDP(hull,.018*cv2.arcLength(hull,True),True)
+            if not 4<=len(hull_polygon)<=8:continue
         if cv2.contourArea(contour)/(w*h)<.4:continue
         owners=[t for t in tables if inside(b,t["bbox"],1)]
         if not owners:continue

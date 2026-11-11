@@ -1,0 +1,271 @@
+{
+  "tables": [
+    {
+      "rows": 4,
+      "cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            40.0,
+            350.0,
+            80.0,
+            380.0
+          ],
+          "text": "Stt",
+          "id": "geometry_table_0_cell_0",
+          "token_ids": [
+            "token_90"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 2,
+          "bbox": [
+            80.0,
+            350.0,
+            380.0,
+            380.0
+          ],
+          "text": "NỘI DUNG ĐỀ XUẤT (ô gộp 2 cột)",
+          "id": "geometry_table_0_cell_1",
+          "token_ids": [
+            "token_91",
+            "token_92",
+            "token_93",
+            "token_94",
+            "token_95",
+            "token_96",
+            "token_97",
+            "token_98"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            380.0,
+            350.0,
+            555.0,
+            380.0
+          ],
+          "text": "NGÀY HIỆU LỰC",
+          "id": "geometry_table_0_cell_2",
+          "token_ids": [
+            "token_99",
+            "token_100",
+            "token_101"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rowspan": 2,
+          "colspan": 1,
+          "bbox": [
+            40.0,
+            380.0,
+            80.0,
+            480.0
+          ],
+          "text": "1",
+          "id": "geometry_table_0_cell_3",
+          "token_ids": [
+            "token_102"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            80.0,
+            380.0,
+            200.0,
+            430.0
+          ],
+          "text": "QP-75-01-PL1",
+          "id": "geometry_table_0_cell_4",
+          "token_ids": [
+            "token_103"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            200.0,
+            380.0,
+            380.0,
+            430.0
+          ],
+          "text": "Điều chỉnh thời gian QA chuẩn của\nnhóm sữa thanh trùng",
+          "id": "geometry_table_0_cell_5",
+          "token_ids": [
+            "token_104",
+            "token_105",
+            "token_106",
+            "token_107",
+            "token_108",
+            "token_109",
+            "token_110",
+            "token_111",
+            "token_112",
+            "token_113",
+            "token_114"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            380.0,
+            380.0,
+            555.0,
+            430.0
+          ],
+          "text": "05/04/2024",
+          "id": "geometry_table_0_cell_6",
+          "token_ids": [
+            "token_115"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            80.0,
+            430.0,
+            200.0,
+            480.0
+          ],
+          "text": "QP-75-01-F3",
+          "id": "geometry_table_0_cell_7",
+          "token_ids": [
+            "token_116"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            200.0,
+            430.0,
+            380.0,
+            480.0
+          ],
+          "text": "Điều chỉnh biểu mẫu Ma trận sản xuất\ntheo nhà máy",
+          "id": "geometry_table_0_cell_8",
+          "token_ids": [
+            "token_117",
+            "token_118",
+            "token_119",
+            "token_120",
+            "token_121",
+            "token_122",
+            "token_123",
+            "token_124",
+            "token_125",
+            "token_126",
+            "token_127"
+          ],
+          "needs_review": false
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rowspan": 1,
+          "colspan": 1,
+          "bbox": [
+            380.0,
+            430.0,
+            555.0,
+            480.0
+          ],
+          "text": "",
+          "id": "geometry_table_0_cell_9",
+          "token_ids": [],
+          "needs_review": false
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rowspan": 1,
+          "colspan": 4,
+          "bbox": [
+            40.0,
+            480.0,
+            555.0,
+            530.0
+          ],
+          "text": "Ghi chú: hàng này gộp ngang toàn bộ bảng",
+          "id": "geometry_table_0_cell_10",
+          "token_ids": [
+            "token_128",
+            "token_129",
+            "token_130",
+            "token_131",
+            "token_132",
+            "token_133",
+            "token_134",
+            "token_135",
+            "token_136"
+          ],
+          "needs_review": false
+        }
+      ],
+      "xs": [
+        40.0,
+        80.0,
+        200.0,
+        380.0,
+        555.0
+      ],
+      "ys": [
+        350.0,
+        380.0,
+        430.0,
+        480.0,
+        530.0
+      ],
+      "grid_valid": true,
+      "bbox": [
+        40.0,
+        350.0,
+        555.0,
+        530.0
+      ],
+      "method": "native_pdf_grid",
+      "needs_review": false,
+      "id": "geometry_table_0",
+      "parent_ref": null
+    }
+  ],
+  "figures": [],
+  "nodes": [],
+  "image_placements": []
+}

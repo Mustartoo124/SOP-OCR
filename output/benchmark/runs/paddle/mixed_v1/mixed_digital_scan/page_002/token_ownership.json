@@ -1,0 +1,342 @@
+[
+  {
+    "bbox": [
+      40.67453115547489,
+      23.398888413852074,
+      161.97822141560798,
+      30.598546387345017
+    ],
+    "text": "Thü tuc mau phuc vu kiém thu",
+    "source_ref": "ocr_0",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8916258811950684,
+    "id": "token_0",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      51.47307924984876,
+      77.75630611372381,
+      143.2607380520266,
+      91.07567336468576
+    ],
+    "text": "1. MUC DiCH:",
+    "source_ref": "ocr_1",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9418410658836365,
+    "id": "token_1",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      51.113127646702964,
+      101.51517742625053,
+      530.2087114337568,
+      111.234715690466
+    ],
+    "text": "Thü tuc nay duoc xäc lap nhäm quy dinh cäc nguyén täc, phuong phäp, träch nhiem va",
+    "source_ref": "ocr_2",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9208270907402039,
+    "id": "token_2",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      50.75317604355717,
+      113.03463018383924,
+      471.17664851784633,
+      123.47413424540402
+    ],
+    "text": "cäch thüc trién khai lap ké hoach, tién hanh sän xuät va cung üng hang hóa",
+    "source_ref": "ocr_3",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9163082242012024,
+    "id": "token_3",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      51.47307924984876,
+      200.15049166310388,
+      129.94252873563218,
+      210.230012825994
+    ],
+    "text": "2. PHAM VI:",
+    "source_ref": "ocr_4",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8720155954360962,
+    "id": "token_4",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      49.673321234119776,
+      219.9495510902095,
+      543.1669691470054,
+      232.90893544249678
+    ],
+    "text": "Thü tuc áp dung trong pham vi toan Cng ty, cho viec lap ké hoach san xuät va cung úng",
+    "source_ref": "ocr_5",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9356122016906738,
+    "id": "token_5",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      50.03327283726557,
+      232.54895254382214,
+      372.90986085904416,
+      243.7084224027362
+    ],
+    "text": "tát cá các sán phám. Khng bao göm gia cng cho döi tác.",
+    "source_ref": "ocr_6",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9270042777061462,
+    "id": "token_6",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      50.75317604355717,
+      320.02479692176144,
+      183.5753176043557,
+      332.26421547669946
+    ],
+    "text": "Bäng c6 so dó bén trong",
+    "source_ref": "ocr_7",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9256568551063538,
+    "id": "token_7",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  },
+  {
+    "bbox": [
+      41.75438596491228,
+      352.42325780247967,
+      59.75196612220205,
+      363.2227447627191
+    ],
+    "text": "STT",
+    "source_ref": "ocr_8",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9993035793304443,
+    "id": "token_8",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_0"
+  },
+  {
+    "bbox": [
+      122.38354506957047,
+      352.78324070115434,
+      144.340592861464,
+      362.14279606669515
+    ],
+    "text": "Bu6c",
+    "source_ref": "ocr_9",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8408096432685852,
+    "id": "token_9",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_1"
+  },
+  {
+    "bbox": [
+      362.47126436781605,
+      353.14322359982896,
+      391.9872958257713,
+      362.14279606669515
+    ],
+    "text": "Luu dó",
+    "source_ref": "ocr_10",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8493776321411133,
+    "id": "token_10",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_2"
+  },
+  {
+    "bbox": [
+      42.114337568058076,
+      383.3817870884994,
+      47.8735632183908,
+      391.66139375801623
+    ],
+    "text": "1",
+    "source_ref": "ocr_11",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9957540035247803,
+    "id": "token_11",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_3"
+  },
+  {
+    "bbox": [
+      124.18330308529944,
+      384.4617357845233,
+      349.51300665456745,
+      391.66139375801623
+    ],
+    "text": "Tiep nhän d lieu dau vao tü cäc don vi, lap ke hoach",
+    "source_ref": "ocr_12",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8717836737632751,
+    "id": "token_12",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_4"
+  },
+  {
+    "bbox": [
+      123.10344827586206,
+      392.3813595553655,
+      214.17120387174833,
+      401.74091492090633
+    ],
+    "text": "can döi va phe duyét.",
+    "source_ref": "ocr_13",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.872940719127655,
+    "id": "token_13",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_4"
+  },
+  {
+    "bbox": [
+      431.222020568663,
+      396.34117144078664,
+      483.41500302480335,
+      403.90081231295426
+    ],
+    "text": "Nhän düliéu",
+    "source_ref": "ocr_14",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8461771011352539,
+    "id": "token_14",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_5"
+  },
+  {
+    "bbox": [
+      453.53901996370234,
+      441.33903377511757,
+      459.6581972171808,
+      446.018811457888
+    ],
+    "text": "V",
+    "source_ref": "ocr_15",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.5824375748634338,
+    "id": "token_15",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_5"
+  },
+  {
+    "bbox": [
+      429.422262552934,
+      450.6985891406584,
+      485.57471264367814,
+      460.41812740487387
+    ],
+    "text": "Lap ké hoach",
+    "source_ref": "ocr_16",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.9635369777679443,
+    "id": "token_16",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_5"
+  },
+  {
+    "bbox": [
+      435.90139140955836,
+      506.1359555365541,
+      479.0955837870538,
+      515.1355280034203
+    ],
+    "text": "Phe duyét",
+    "source_ref": "ocr_17",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8785208463668823,
+    "id": "token_17",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_5"
+  },
+  {
+    "bbox": [
+      435.54143980641254,
+      559.7734074390765,
+      479.0955837870538,
+      569.1329628046174
+    ],
+    "text": "Phät hänh",
+    "source_ref": "ocr_18",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8748319149017334,
+    "id": "token_18",
+    "needs_review": false,
+    "owner_kind": "table_cell",
+    "owner_id": "geometry_table_0_cell_5"
+  },
+  {
+    "bbox": [
+      40.31457955232909,
+      812.8413852073536,
+      156.57894736842104,
+      821.8409576742197
+    ],
+    "text": "Mätai lieu:TEST-01-Trang 1",
+    "source_ref": "ocr_19",
+    "from_ocr": true,
+    "source": "pipeline_ocr",
+    "confidence": 0.8969907164573669,
+    "id": "token_19",
+    "needs_review": false,
+    "owner_kind": "body",
+    "owner_id": null
+  }
+]

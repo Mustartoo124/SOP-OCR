@@ -1,0 +1,1077 @@
+[
+  {
+    "index": 0,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 103.33333333333333,
+      "r_y0": 42.0,
+      "r_x1": 266.0,
+      "r_y1": 42.0,
+      "r_x2": 266.0,
+      "r_y2": 27.333333333333336,
+      "r_x3": 103.33333333333333,
+      "r_y3": 27.333333333333336,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "CÔNG TY TNHH THIÉT BỊ NOVA",
+    "orig": "CÔNG TY TNHH THIÉT BỊ NOVA",
+    "text_direction": "left_to_right",
+    "confidence": 0.9874866222259108,
+    "from_ocr": true
+  },
+  {
+    "index": 1,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 42.0,
+      "r_y0": 54.0,
+      "r_x1": 81.33333333333334,
+      "r_y1": 54.0,
+      "r_x2": 81.33333333333334,
+      "r_y2": 40.66666666666667,
+      "r_x3": 42.0,
+      "r_y3": 40.66666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "NOVA",
+    "orig": "NOVA",
+    "text_direction": "left_to_right",
+    "confidence": 0.9997958540916443,
+    "from_ocr": true
+  },
+  {
+    "index": 2,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 104.0,
+      "r_y0": 57.666666666666664,
+      "r_x1": 328.0,
+      "r_y1": 57.666666666666664,
+      "r_x2": 328.0,
+      "r_y2": 43.33333333333333,
+      "r_x3": 104.0,
+      "r_y3": 43.33333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Hệ thống quản lý chất Iượng / Quality Management System",
+    "orig": "Hệ thống quản lý chất Iượng / Quality Management System",
+    "text_direction": "left_to_right",
+    "confidence": 0.8245692466289066,
+    "from_ocr": true
+  },
+  {
+    "index": 3,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 103.66666666666667,
+      "r_y0": 71.0,
+      "r_x1": 154.33333333333331,
+      "r_y1": 71.0,
+      "r_x2": 154.33333333333331,
+      "r_y2": 61.666666666666664,
+      "r_x3": 103.66666666666667,
+      "r_y3": 61.666666666666664,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "QP-74-02-F6",
+    "orig": "QP-74-02-F6",
+    "text_direction": "left_to_right",
+    "confidence": 0.9689531879377202,
+    "from_ocr": true
+  },
+  {
+    "index": 4,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 159.66666666666666,
+      "r_y0": 71.66666666666666,
+      "r_x1": 211.0,
+      "r_y1": 71.66666666666666,
+      "r_x2": 211.0,
+      "r_y2": 61.666666666666664,
+      "r_x3": 159.66666666666666,
+      "r_y3": 61.666666666666664,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Phiên bản 03",
+    "orig": "Phiên bản 03",
+    "text_direction": "left_to_right",
+    "confidence": 0.7148314903838447,
+    "from_ocr": true
+  },
+  {
+    "index": 5,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 214.66666666666666,
+      "r_y0": 73.33333333333334,
+      "r_x1": 315.0,
+      "r_y1": 73.33333333333334,
+      "r_x2": 315.0,
+      "r_y2": 61.0,
+      "r_x3": 214.66666666666666,
+      "r_y3": 61.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Ngày hiệu lực: 15/10/2026",
+    "orig": "Ngày hiệu lực: 15/10/2026",
+    "text_direction": "left_to_right",
+    "confidence": 0.8590290168732518,
+    "from_ocr": true
+  },
+  {
+    "index": 6,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 37.0,
+      "r_y0": 115.66666666666667,
+      "r_x1": 314.6666666666667,
+      "r_y1": 115.66666666666667,
+      "r_x2": 314.6666666666667,
+      "r_y2": 97.66666666666667,
+      "r_x3": 37.0,
+      "r_y3": 97.66666666666667,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "BlỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+    "orig": "BlỂU MẪU KIỂM TRA VÀ HƯỚNG DẪN",
+    "text_direction": "left_to_right",
+    "confidence": 0.7458721849255578,
+    "from_ocr": true
+  },
+  {
+    "index": 7,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 37.333333333333336,
+      "r_y0": 150.0,
+      "r_x1": 380.0,
+      "r_y1": 150.0,
+      "r_x2": 380.0,
+      "r_y2": 136.0,
+      "r_x3": 37.333333333333336,
+      "r_y3": 136.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Một ô chứa text; ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+    "orig": "Một ô chứa text; ảnh raster và sơ đồ vector. Phần hướng dẫn phía dưới là vùng scan.",
+    "text_direction": "left_to_right",
+    "confidence": 0.8131286820781646,
+    "from_ocr": true
+  },
+  {
+    "index": 8,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 42.333333333333336,
+      "r_y0": 194.0,
+      "r_x1": 86.33333333333334,
+      "r_y1": 194.0,
+      "r_x2": 86.33333333333334,
+      "r_y2": 181.0,
+      "r_x3": 42.333333333333336,
+      "r_y3": 181.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Hạng mục",
+    "orig": "Hạng mục",
+    "text_direction": "left_to_right",
+    "confidence": 0.9915411195948765,
+    "from_ocr": true
+  },
+  {
+    "index": 9,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 170.33333333333334,
+      "r_y0": 193.33333333333334,
+      "r_x1": 212.33333333333334,
+      "r_y1": 193.33333333333334,
+      "r_x2": 212.33333333333334,
+      "r_y2": 179.66666666666666,
+      "r_x3": 170.33333333333334,
+      "r_y3": 179.66666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Thông tin",
+    "orig": "Thông tin",
+    "text_direction": "left_to_right",
+    "confidence": 0.9999557331272542,
+    "from_ocr": true
+  },
+  {
+    "index": 10,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 217.33333333333334,
+      "r_y0": 192.66666666666666,
+      "r_x1": 256.66666666666663,
+      "r_y1": 192.66666666666666,
+      "r_x2": 256.66666666666663,
+      "r_y2": 182.0,
+      "r_x3": 217.33333333333334,
+      "r_y3": 182.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Minh họa",
+    "orig": "Minh họa",
+    "text_direction": "left_to_right",
+    "confidence": 0.9640038586417103,
+    "from_ocr": true
+  },
+  {
+    "index": 11,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 43.0,
+      "r_y0": 233.0,
+      "r_x1": 122.33333333333333,
+      "r_y1": 233.0,
+      "r_x2": 122.33333333333333,
+      "r_y2": 220.33333333333334,
+      "r_x3": 43.0,
+      "r_y3": 220.33333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Thiết bị và thao tác",
+    "orig": "Thiết bị và thao tác",
+    "text_direction": "left_to_right",
+    "confidence": 0.9815087342755578,
+    "from_ocr": true
+  },
+  {
+    "index": 12,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 175.66666666666666,
+      "r_y0": 237.66666666666669,
+      "r_x1": 340.3333333333333,
+      "r_y1": 237.66666666666669,
+      "r_x2": 340.3333333333333,
+      "r_y2": 225.66666666666666,
+      "r_x3": 175.66666666666666,
+      "r_y3": 225.66666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Đối chiếu nhãn QC-017 trước khi kết nối",
+    "orig": "Đối chiếu nhãn QC-017 trước khi kết nối",
+    "text_direction": "left_to_right",
+    "confidence": 0.8443857699218353,
+    "from_ocr": true
+  },
+  {
+    "index": 13,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 43.0,
+      "r_y0": 246.33333333333331,
+      "r_x1": 123.0,
+      "r_y1": 246.33333333333331,
+      "r_x2": 123.0,
+      "r_y2": 234.33333333333331,
+      "r_x3": 43.0,
+      "r_y3": 234.33333333333331,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Equipment & action",
+    "orig": "Equipment & action",
+    "text_direction": "left_to_right",
+    "confidence": 0.9503370203571545,
+    "from_ocr": true
+  },
+  {
+    "index": 14,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 417.6666666666667,
+      "r_y0": 288.3333333333333,
+      "r_x1": 475.6666666666667,
+      "r_y1": 288.3333333333333,
+      "r_x2": 475.6666666666667,
+      "r_y2": 276.3333333333333,
+      "r_x3": 417.6666666666667,
+      "r_y3": 276.3333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Kiểm tra nhãn",
+    "orig": "Kiểm tra nhãn",
+    "text_direction": "left_to_right",
+    "confidence": 0.9970151828817326,
+    "from_ocr": true
+  },
+  {
+    "index": 15,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 203.66666666666666,
+      "r_y0": 307.66666666666663,
+      "r_x1": 237.0,
+      "r_y1": 307.66666666666663,
+      "r_x2": 237.0,
+      "r_y2": 295.66666666666663,
+      "r_x3": 203.66666666666666,
+      "r_y3": 295.66666666666663,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "24.8 C",
+    "orig": "24.8 C",
+    "text_direction": "left_to_right",
+    "confidence": 0.5380008717495635,
+    "from_ocr": true
+  },
+  {
+    "index": 16,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 278.66666666666663,
+      "r_y0": 305.66666666666663,
+      "r_x1": 321.3333333333333,
+      "r_y1": 305.66666666666663,
+      "r_x2": 321.3333333333333,
+      "r_y2": 293.0,
+      "r_x3": 278.66666666666663,
+      "r_y3": 293.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "QC-017",
+    "orig": "QC-017",
+    "text_direction": "left_to_right",
+    "confidence": 0.9924035406124848,
+    "from_ocr": true
+  },
+  {
+    "index": 17,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 279.33333333333337,
+      "r_y0": 321.33333333333337,
+      "r_x1": 329.3333333333333,
+      "r_y1": 321.33333333333337,
+      "r_x2": 329.3333333333333,
+      "r_y2": 311.33333333333337,
+      "r_x3": 279.33333333333337,
+      "r_y3": 311.33333333333337,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "THIET BỊ MAU",
+    "orig": "THIET BỊ MAU",
+    "text_direction": "left_to_right",
+    "confidence": 0.6615362925177636,
+    "from_ocr": true
+  },
+  {
+    "index": 18,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 279.33333333333337,
+      "r_y0": 338.0,
+      "r_x1": 295.3333333333333,
+      "r_y1": 338.0,
+      "r_x2": 295.3333333333333,
+      "r_y2": 328.66666666666663,
+      "r_x3": 279.33333333333337,
+      "r_y3": 328.66666666666663,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "0/0",
+    "orig": "0/0",
+    "text_direction": "left_to_right",
+    "confidence": 0.571503228130423,
+    "from_ocr": true
+  },
+  {
+    "index": 19,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 299.3333333333333,
+      "r_y0": 337.33333333333337,
+      "r_x1": 310.6666666666667,
+      "r_y1": 337.33333333333337,
+      "r_x2": 310.6666666666667,
+      "r_y2": 328.66666666666663,
+      "r_x3": 299.3333333333333,
+      "r_y3": 328.66666666666663,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "1//",
+    "orig": "1//",
+    "text_direction": "left_to_right",
+    "confidence": 0.24727432433714086,
+    "from_ocr": true
+  },
+  {
+    "index": 20,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 417.6666666666667,
+      "r_y0": 376.33333333333337,
+      "r_x1": 475.6666666666667,
+      "r_y1": 376.33333333333337,
+      "r_x2": 475.6666666666667,
+      "r_y2": 361.33333333333337,
+      "r_x3": 417.6666666666667,
+      "r_y3": 361.33333333333337,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Kết nối nguồn",
+    "orig": "Kết nối nguồn",
+    "text_direction": "left_to_right",
+    "confidence": 0.9843954043327828,
+    "from_ocr": true
+  },
+  {
+    "index": 21,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 175.66666666666666,
+      "r_y0": 419.33333333333337,
+      "r_x1": 376.3333333333333,
+      "r_y1": 419.33333333333337,
+      "r_x2": 376.3333333333333,
+      "r_y2": 405.33333333333337,
+      "r_x3": 175.66666666666666,
+      "r_y3": 405.33333333333337,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+    "orig": "Ảnh và sơ đồ là hai thành phần độc lập trong cùng ô.",
+    "text_direction": "left_to_right",
+    "confidence": 0.704841845247848,
+    "from_ocr": true
+  },
+  {
+    "index": 22,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 43.0,
+      "r_y0": 453.0,
+      "r_x1": 76.33333333333334,
+      "r_y1": 453.0,
+      "r_x2": 76.33333333333334,
+      "r_y2": 440.3333333333333,
+      "r_x3": 43.0,
+      "r_y3": 440.3333333333333,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Kết quả",
+    "orig": "Kết quả",
+    "text_direction": "left_to_right",
+    "confidence": 0.9996581227034537,
+    "from_ocr": true
+  },
+  {
+    "index": 23,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 170.33333333333334,
+      "r_y0": 454.6666666666667,
+      "r_x1": 239.0,
+      "r_y1": 454.6666666666667,
+      "r_x2": 239.0,
+      "r_y2": 440.0,
+      "r_x3": 170.33333333333334,
+      "r_y3": 440.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Đạt / Không đạt:",
+    "orig": "Đạt / Không đạt:",
+    "text_direction": "left_to_right",
+    "confidence": 0.9249207241780049,
+    "from_ocr": true
+  },
+  {
+    "index": 24,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 170.66666666666666,
+      "r_y0": 468.0,
+      "r_x1": 300.0,
+      "r_y1": 468.0,
+      "r_x2": 300.0,
+      "r_y2": 452.0,
+      "r_x3": 170.66666666666666,
+      "r_y3": 452.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Người kiểm tra: Nguyễn Thị Mỹ",
+    "orig": "Người kiểm tra: Nguyễn Thị Mỹ",
+    "text_direction": "left_to_right",
+    "confidence": 0.8955393577728155,
+    "from_ocr": true
+  },
+  {
+    "index": 25,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 339.0934218928102,
+      "r_y0": 236.87048069176524,
+      "r_x1": 368.57324477385646,
+      "r_y1": 236.87048069176524,
+      "r_x2": 368.57324477385646,
+      "r_y2": 227.4628526415681,
+      "r_x3": 339.0934218928102,
+      "r_y3": 227.4628526415681,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "nguồn.",
+    "orig": "nguồn.",
+    "text_direction": "left_to_right",
+    "confidence": 0.8957813490609249,
+    "from_ocr": true
+  },
+  {
+    "index": 26,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 48.33333333333333,
+      "r_y0": 557.3333333333334,
+      "r_x1": 57.66666666666667,
+      "r_y1": 557.3333333333334,
+      "r_x2": 57.66666666666667,
+      "r_y2": 547.3333333333334,
+      "r_x3": 48.33333333333333,
+      "r_y3": 547.3333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "4.",
+    "orig": "4.",
+    "text_direction": "left_to_right",
+    "confidence": 0.8278293333265048,
+    "from_ocr": true
+  },
+  {
+    "index": 27,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 59.0,
+      "r_y0": 561.0,
+      "r_x1": 273.0,
+      "r_y1": 561.0,
+      "r_x2": 273.0,
+      "r_y2": 544.0,
+      "r_x3": 59.0,
+      "r_y3": 544.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Hướng dẫn an toàn / Safety instructions",
+    "orig": "Hướng dẫn an toàn / Safety instructions",
+    "text_direction": "left_to_right",
+    "confidence": 0.8571286648107086,
+    "from_ocr": true
+  },
+  {
+    "index": 28,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 47.66666666666667,
+      "r_y0": 592.6666666666666,
+      "r_x1": 73.0,
+      "r_y1": 592.6666666666666,
+      "r_x2": 73.0,
+      "r_y2": 576.6666666666666,
+      "r_x3": 47.66666666666667,
+      "r_y3": 576.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Ngắt",
+    "orig": "Ngắt",
+    "text_direction": "left_to_right",
+    "confidence": 0.9996583461761475,
+    "from_ocr": true
+  },
+  {
+    "index": 29,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 101.0,
+      "r_y0": 593.0,
+      "r_x1": 215.0,
+      "r_y1": 593.0,
+      "r_x2": 215.0,
+      "r_y2": 577.0,
+      "r_x3": 101.0,
+      "r_y3": 577.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "trước khi vệ sinh. Không",
+    "orig": "trước khi vệ sinh. Không",
+    "text_direction": "left_to_right",
+    "confidence": 0.8855335028407232,
+    "from_ocr": true
+  },
+  {
+    "index": 30,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 227.0,
+      "r_y0": 593.0,
+      "r_x1": 521.0,
+      "r_y1": 593.0,
+      "r_x2": 521.0,
+      "r_y2": 577.0,
+      "r_x3": 227.0,
+      "r_y3": 577.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ",
+    "orig": "dụng khi dây dẫn bị hở hoặc vỏ máy nứt. Thông báo ngay cho bộ",
+    "text_direction": "left_to_right",
+    "confidence": 0.8154252967846203,
+    "from_ocr": true
+  },
+  {
+    "index": 31,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 48.0,
+      "r_y0": 606.0,
+      "r_x1": 231.0,
+      "r_y1": 606.0,
+      "r_x2": 231.0,
+      "r_y2": 591.0,
+      "r_x3": 48.0,
+      "r_y3": 591.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "phận Kỹ thuật nếu phát hiện bất thường.",
+    "orig": "phận Kỹ thuật nếu phát hiện bất thường.",
+    "text_direction": "left_to_right",
+    "confidence": 0.8989542324024234,
+    "from_ocr": true
+  },
+  {
+    "index": 32,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 48.0,
+      "r_y0": 653.0,
+      "r_x1": 531.3333333333333,
+      "r_y1": 653.0,
+      "r_x2": 531.3333333333333,
+      "r_y2": 639.0,
+      "r_x3": 48.0,
+      "r_y3": 639.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has",
+    "orig": "Disconnect power before cleaning. Record the issue in QP-74-02-F6. Do not release equipment until QA has",
+    "text_direction": "left_to_right",
+    "confidence": 0.7002901119422752,
+    "from_ocr": true
+  },
+  {
+    "index": 33,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 47.66666666666667,
+      "r_y0": 667.3333333333334,
+      "r_x1": 186.0,
+      "r_y1": 667.3333333333334,
+      "r_x2": 186.0,
+      "r_y2": 653.6666666666666,
+      "r_x3": 47.66666666666667,
+      "r_y3": 653.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "approved the corrective action:.",
+    "orig": "approved the corrective action:.",
+    "text_direction": "left_to_right",
+    "confidence": 0.7035013403934547,
+    "from_ocr": true
+  },
+  {
+    "index": 34,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 47.66666666666667,
+      "r_y0": 717.0,
+      "r_x1": 201.33333333333334,
+      "r_y1": 717.0,
+      "r_x2": 201.33333333333334,
+      "r_y2": 703.6666666666666,
+      "r_x3": 47.66666666666667,
+      "r_y3": 703.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Hotline nội bộ (giả lập): 028-0000-017",
+    "orig": "Hotline nội bộ (giả lập): 028-0000-017",
+    "text_direction": "left_to_right",
+    "confidence": 0.8361931084223623,
+    "from_ocr": true
+  },
+  {
+    "index": 35,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 206.33333333333334,
+      "r_y0": 715.3333333333334,
+      "r_x1": 255.66666666666666,
+      "r_y1": 715.3333333333334,
+      "r_x2": 255.66666666666666,
+      "r_y2": 704.6666666666666,
+      "r_x3": 206.33333333333334,
+      "r_y3": 704.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Revision 03",
+    "orig": "Revision 03",
+    "text_direction": "left_to_right",
+    "confidence": 0.9978100057341274,
+    "from_ocr": true
+  },
+  {
+    "index": 36,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 70.71434887274316,
+      "r_y0": 590.5474611514754,
+      "r_x1": 102.95231779392351,
+      "r_y1": 590.5474611514754,
+      "r_x2": 102.95231779392351,
+      "r_y2": 579.1192055151912,
+      "r_x3": 70.71434887274316,
+      "r_y3": 579.1192055151912,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "nguồn",
+    "orig": "nguồn",
+    "text_direction": "left_to_right",
+    "confidence": 0.9953965346151996,
+    "from_ocr": true
+  },
+  {
+    "index": 37,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 212.80169851811408,
+      "r_y0": 589.889426741671,
+      "r_x1": 229.53163481521926,
+      "r_y1": 589.889426741671,
+      "r_x2": 229.53163481521926,
+      "r_y2": 579.7772399249957,
+      "r_x3": 212.80169851811408,
+      "r_y3": 579.7772399249957,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "sử",
+    "orig": "sử",
+    "text_direction": "left_to_right",
+    "confidence": 0.7901794399593987,
+    "from_ocr": true
+  },
+  {
+    "index": 38,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 37.0,
+      "r_y0": 805.3333333333334,
+      "r_x1": 106.33333333333333,
+      "r_y1": 805.3333333333334,
+      "r_x2": 106.33333333333333,
+      "r_y2": 793.3333333333334,
+      "r_x3": 37.0,
+      "r_y3": 793.3333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "TÀl LIẸU GIẢ LẶP",
+    "orig": "TÀl LIẸU GIẢ LẶP",
+    "text_direction": "left_to_right",
+    "confidence": 0.5928307670377185,
+    "from_ocr": true
+  },
+  {
+    "index": 39,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 110.0,
+      "r_y0": 804.3333333333334,
+      "r_x1": 125.33333333333333,
+      "r_y1": 804.3333333333334,
+      "r_x2": 125.33333333333333,
+      "r_y2": 794.3333333333334,
+      "r_x3": 110.0,
+      "r_y3": 794.3333333333334,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Chỉ",
+    "orig": "Chỉ",
+    "text_direction": "left_to_right",
+    "confidence": 0.9958220858158962,
+    "from_ocr": true
+  },
+  {
+    "index": 40,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 144.0,
+      "r_y0": 804.3333333333334,
+      "r_x1": 213.33333333333334,
+      "r_y1": 804.3333333333334,
+      "r_x2": 213.33333333333334,
+      "r_y2": 793.6666666666666,
+      "r_x3": 144.0,
+      "r_y3": 793.6666666666666,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "kiểm thử trích xuất",
+    "orig": "kiểm thử trích xuất",
+    "text_direction": "left_to_right",
+    "confidence": 0.983526295499697,
+    "from_ocr": true
+  },
+  {
+    "index": 41,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 124.2904449013446,
+      "r_y0": 806.6124873354283,
+      "r_x1": 144.04288843198873,
+      "r_y1": 806.6124873354283,
+      "r_x2": 144.04288843198873,
+      "r_y2": 792.7208459979049,
+      "r_x3": 124.2904449013446,
+      "r_y3": 792.7208459979049,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "dùng",
+    "orig": "dùng",
+    "text_direction": "left_to_right",
+    "confidence": 0.9987392425537109,
+    "from_ocr": true
+  },
+  {
+    "index": 42,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 499.3333333333333,
+      "r_y0": 805.0,
+      "r_x1": 536.0,
+      "r_y1": 805.0,
+      "r_x2": 536.0,
+      "r_y2": 794.0,
+      "r_x3": 499.3333333333333,
+      "r_y3": 794.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Trang 4/4",
+    "orig": "Trang 4/4",
+    "text_direction": "left_to_right",
+    "confidence": 0.9999767540534436,
+    "from_ocr": true
+  }
+]

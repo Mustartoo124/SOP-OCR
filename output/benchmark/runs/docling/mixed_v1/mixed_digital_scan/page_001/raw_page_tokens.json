@@ -1,0 +1,640 @@
+[
+  {
+    "index": 0,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 40.0,
+      "r_y0": 31.879999999999995,
+      "r_x1": 162.77599999999998,
+      "r_y1": 31.879999999999995,
+      "r_x2": 162.77599999999998,
+      "r_y2": 22.576000000000022,
+      "r_x3": 40.0,
+      "r_y3": 22.576000000000022,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Thủ tục mẫu phục vụ kiểm thử",
+    "orig": "Thủ tục mẫu phục vụ kiểm thử",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 1,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 50.0,
+      "r_y0": 93.28999999999996,
+      "r_x1": 144.234,
+      "r_y1": 93.28999999999996,
+      "r_x2": 144.234,
+      "r_y2": 77.00800000000004,
+      "r_x3": 50.0,
+      "r_y3": 77.00800000000004,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "1. MỤC ĐÍCH:",
+    "orig": "1. MỤC ĐÍCH:",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 2,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 50.0,
+      "r_y0": 112.79542000000004,
+      "r_x1": 531.8660000000003,
+      "r_y1": 112.79542000000004,
+      "r_x2": 531.8660000000003,
+      "r_y2": 100.00242000000003,
+      "r_x3": 50.0,
+      "r_y3": 100.00242000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Thủ tục này được xác lập nhằm quy định các nguyên tắc, phương pháp, trách nhiệm và",
+    "orig": "Thủ tục này được xác lập nhằm quy định các nguyên tắc, phương pháp, trách nhiệm và",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 3,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 50.0,
+      "r_y0": 124.68104000000005,
+      "r_x1": 473.1040000000005,
+      "r_y1": 124.68104000000005,
+      "r_x2": 473.1040000000005,
+      "r_y2": 111.88804000000005,
+      "r_x3": 50.0,
+      "r_y3": 111.88804000000005,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "cách thức triển khai lập kế hoạch, tiến hành sản xuất và cung ứng hàng hóa.",
+    "orig": "cách thức triển khai lập kế hoạch, tiến hành sản xuất và cung ứng hàng hóa.",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 4,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 50.0,
+      "r_y0": 213.28999999999996,
+      "r_x1": 131.214,
+      "r_y1": 213.28999999999996,
+      "r_x2": 131.214,
+      "r_y2": 197.00800000000004,
+      "r_x3": 50.0,
+      "r_y3": 197.00800000000004,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "2. PHẠM VI:",
+    "orig": "2. PHẠM VI:",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 5,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 50.0,
+      "r_y0": 232.79542000000004,
+      "r_x1": 543.9440000000003,
+      "r_y1": 232.79542000000004,
+      "r_x2": 543.9440000000003,
+      "r_y2": 220.00242000000003,
+      "r_x3": 50.0,
+      "r_y3": 220.00242000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Thủ tục áp dụng trong phạm vi toàn Công ty, cho việc lập kế hoạch sản xuất và cung ứng",
+    "orig": "Thủ tục áp dụng trong phạm vi toàn Công ty, cho việc lập kế hoạch sản xuất và cung ứng",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 6,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 50.0,
+      "r_y0": 244.68104000000005,
+      "r_x1": 373.21300000000014,
+      "r_y1": 244.68104000000005,
+      "r_x2": 373.21300000000014,
+      "r_y2": 231.88804000000005,
+      "r_x3": 50.0,
+      "r_y3": 231.88804000000005,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "tất cả các sản phẩm. Không bao gồm gia công cho đối tác.",
+    "orig": "tất cả các sản phẩm. Không bao gồm gia công cho đối tác.",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 7,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 40.0,
+      "r_y0": 821.88,
+      "r_x1": 158.46399999999997,
+      "r_y1": 821.88,
+      "r_x2": 158.46399999999997,
+      "r_y2": 812.576,
+      "r_x3": 40.0,
+      "r_y3": 812.576,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Mã tài liệu: TEST-01 - Trang 1",
+    "orig": "Mã tài liệu: TEST-01 - Trang 1",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 8,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 50.0,
+      "r_y0": 332.585,
+      "r_x1": 143.97299999999996,
+      "r_y1": 332.585,
+      "r_x2": 143.97299999999996,
+      "r_y2": 319.79200000000003,
+      "r_x3": 50.0,
+      "r_y3": 319.79200000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "LỊCH SỬ TÀI LIỆU",
+    "orig": "LỊCH SỬ TÀI LIỆU",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 9,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 43.0,
+      "r_y0": 362.8874,
+      "r_x1": 55.053000000000004,
+      "r_y1": 362.8874,
+      "r_x2": 55.053000000000004,
+      "r_y2": 353.00190000000003,
+      "r_x3": 43.0,
+      "r_y3": 353.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Stt",
+    "orig": "Stt",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 10,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 83.0,
+      "r_y0": 362.8874,
+      "r_x1": 224.47400000000005,
+      "r_y1": 362.8874,
+      "r_x2": 224.47400000000005,
+      "r_y2": 353.00190000000003,
+      "r_x3": 83.0,
+      "r_y3": 353.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "NỘI DUNG ĐỀ XUẤT (ô gộp 2 cột)",
+    "orig": "NỘI DUNG ĐỀ XUẤT (ô gộp 2 cột)",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 11,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 383.0,
+      "r_y0": 362.8874,
+      "r_x1": 450.7365000000001,
+      "r_y1": 362.8874,
+      "r_x2": 450.7365000000001,
+      "r_y2": 353.00190000000003,
+      "r_x3": 383.0,
+      "r_y3": 353.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "NGÀY HIỆU LỰC",
+    "orig": "NGÀY HIỆU LỰC",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 12,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 43.0,
+      "r_y0": 392.8874,
+      "r_x1": 48.406,
+      "r_y1": 392.8874,
+      "r_x2": 48.406,
+      "r_y2": 383.00190000000003,
+      "r_x3": 43.0,
+      "r_y3": 383.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "1",
+    "orig": "1",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 13,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 83.0,
+      "r_y0": 392.8874,
+      "r_x1": 140.88500000000002,
+      "r_y1": 392.8874,
+      "r_x2": 140.88500000000002,
+      "r_y2": 383.00190000000003,
+      "r_x3": 83.0,
+      "r_y3": 383.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "QP-75-01-PL1",
+    "orig": "QP-75-01-PL1",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 14,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 203.0,
+      "r_y0": 392.8874,
+      "r_x1": 350.2199999999999,
+      "r_y1": 392.8874,
+      "r_x2": 350.2199999999999,
+      "r_y2": 383.00190000000003,
+      "r_x3": 203.0,
+      "r_y3": 383.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Điều chỉnh thời gian QA chuẩn của",
+    "orig": "Điều chỉnh thời gian QA chuẩn của",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 15,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 203.0,
+      "r_y0": 402.07171,
+      "r_x1": 297.97049999999996,
+      "r_y1": 402.07171,
+      "r_x2": 297.97049999999996,
+      "r_y2": 392.18621,
+      "r_x3": 203.0,
+      "r_y3": 392.18621,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "nhóm sữa thanh trùng",
+    "orig": "nhóm sữa thanh trùng",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 16,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 383.0,
+      "r_y0": 392.8874,
+      "r_x1": 431.96000000000004,
+      "r_y1": 392.8874,
+      "r_x2": 431.96000000000004,
+      "r_y2": 383.00190000000003,
+      "r_x3": 383.0,
+      "r_y3": 383.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "05/04/2024",
+    "orig": "05/04/2024",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 17,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 83.0,
+      "r_y0": 442.8874,
+      "r_x1": 135.91250000000002,
+      "r_y1": 442.8874,
+      "r_x2": 135.91250000000002,
+      "r_y2": 433.00190000000003,
+      "r_x3": 83.0,
+      "r_y3": 433.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "QP-75-01-F3",
+    "orig": "QP-75-01-F3",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 18,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 203.0,
+      "r_y0": 442.8874,
+      "r_x1": 365.656,
+      "r_y1": 442.8874,
+      "r_x2": 365.656,
+      "r_y2": 433.00190000000003,
+      "r_x3": 203.0,
+      "r_y3": 433.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Điều chỉnh biểu mẫu Ma trận sản xuất",
+    "orig": "Điều chỉnh biểu mẫu Ma trận sản xuất",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 19,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 203.0,
+      "r_y0": 452.07171,
+      "r_x1": 261.99000000000007,
+      "r_y1": 452.07171,
+      "r_x2": 261.99000000000007,
+      "r_y2": 442.18621,
+      "r_x3": 203.0,
+      "r_y3": 442.18621,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "theo nhà máy",
+    "orig": "theo nhà máy",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 20,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 43.0,
+      "r_y0": 492.8874,
+      "r_x1": 227.8750000000001,
+      "r_y1": 492.8874,
+      "r_x2": 227.8750000000001,
+      "r_y2": 483.00190000000003,
+      "r_x3": 43.0,
+      "r_y3": 483.00190000000003,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "Ghi chú: hàng này gộp ngang toàn bộ bảng",
+    "orig": "Ghi chú: hàng này gộp ngang toàn bộ bảng",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  },
+  {
+    "index": 21,
+    "rgba": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "rect": {
+      "r_x0": 476.11,
+      "r_y0": 560.0,
+      "r_x1": 476.11,
+      "r_y1": 426.6979999999999,
+      "r_x2": 445.872,
+      "r_y2": 426.6979999999999,
+      "r_x3": 445.872,
+      "r_y3": 560.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "text": "ĐÃ DUYỆT",
+    "orig": "ĐÃ DUYỆT",
+    "text_direction": "left_to_right",
+    "confidence": 1.0,
+    "from_ocr": false,
+    "rendering_mode": -1,
+    "widget": false,
+    "font_key": "/vi",
+    "font_name": "/DejaVu Sans Book"
+  }
+]
