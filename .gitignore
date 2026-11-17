@@ -3,4 +3,6 @@
 .cache/
 __pycache__/
 tmp/
+.env
+sop_demo/runs/
 
